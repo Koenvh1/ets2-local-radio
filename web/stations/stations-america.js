@@ -110,7 +110,7 @@ var stations = {/*
         {
             name: "KIX 95.3",
             logo: "stations/images-america/aberdeen/KIX 95.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kxxkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxxkfmaac-ibc4"
         },
         {
             name: "Mixx 96.1",
@@ -160,7 +160,7 @@ var stations = {/*
         {
             name: "104.7 KDUX",
             logo: "stations/images-america/aberdeen/104.7 KDUX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kduxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kduxfmaac-ibc4"
         },/*
         {
             name: "Y107.3",
@@ -643,12 +643,12 @@ var stations = {/*
         {
             name: "KISS 97.3",
             logo: "stations/images-america/albuquerque/KISS 97.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kkssfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kkssfmaac-ibc3"
         },
         {
             name: "Radio Lobo 97.7",
             logo: "stations/images-america/albuquerque/Radio Lobo 97.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-klvofmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-klvofmaac-ibc3"
         },
         {
             name: "98.1 The Bull",
@@ -658,7 +658,7 @@ var stations = {/*
         {
             name: "BIG 98.5",
             logo: "stations/images-america/albuquerque/BIG 98.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kabgfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kabgfmaac-ibc3"
         },
         {
             name: "Magic 99.5",
@@ -939,12 +939,12 @@ var stations = {/*
         {
             name: "97.5 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "97.9 KGNC",
             logo: "stations/images-america/amarillo/97.9 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncfmaac-ibc4"
         },
         {
             name: "98.7 The Bomb",
@@ -959,7 +959,7 @@ var stations = {/*
         {
             name: "100.9 The Eagle",
             logo: "stations/images-america/amarillo/100.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kxglfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxglfmaac-ibc4"
         },
         {
             name: "101.9 The Bull",
@@ -974,7 +974,7 @@ var stations = {/*
         {
             name: "Panhandle Sports Star 102.9",
             logo: "stations/images-america/amarillo/Panhandle Sports Star 102.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kvwefmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kvwefmaac-ibc4"
         },
         {
             name: "La Poderosa 104.3",
@@ -1004,7 +1004,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "KPAN 860",
@@ -1218,7 +1218,7 @@ var stations = {/*
         {
             name: "1080 KRLD",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "1310 The Ticket",
@@ -1367,7 +1367,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "AM 590 ESPN",
@@ -1479,7 +1479,7 @@ var stations = {/*
         {
             name: "Mix 94.7",
             logo: "stations/images-america/austin/Mix 94.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kamxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kamxfmaac-imc"
         },
         {
             name: "La Raza 95.1",
@@ -1489,17 +1489,17 @@ var stations = {/*
         {
             name: "Majic 95.5",
             logo: "stations/images-america/austin/Majic 95.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kkmjfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkmjfmaac-imc"
         },
         {
             name: "95.5 KKMJ-HD2",
             logo: "stations/images-america/austin/Talk 1370.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kjceamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kjceamaac-imc"
         },
         {
             name: "95.9 Texas Country",
             logo: "stations/images-america/austin/95.9 Texas Country.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kkmjhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkmjhd3aac-imc"
         },
         {
             name: "96.3 Jack FM",
@@ -1684,7 +1684,7 @@ var stations = {/*
         {
             name: "Talk 1370",
             logo: "stations/images-america/austin/Talk 1370.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kjceamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kjceamaac-imc"
         },
         {
             name: "1490 KJFK",
@@ -1765,7 +1765,7 @@ var stations = {/*
         {
             name: "Hits 93.1",
             logo: "stations/images-america/bakersfield/Hits 93.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kkxxfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kkxxfmaac-ibc3"
         },
         {
             name: "El Gallito 93.7",
@@ -1775,17 +1775,17 @@ var stations = {/*
         {
             name: "Hot 94.1",
             logo: "stations/images-america/bakersfield/Hot 94.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kisvfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kisvfmaac-ibc3"
         },
         {
             name: "Live 95.3",
             logo: "stations/images-america/bakersfield/Live 95.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kllyfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kllyfmaac-ibc4"
         },
         {
             name: "KERN Radio 96.1",
             logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kernamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kernamaac-ibc3"
         },
         {
             name: "96.5 Ritmo",
@@ -1800,7 +1800,7 @@ var stations = {/*
         {
             name: "96.9 La Caliente",
             logo: "stations/images-america/bakersfield/96.9 La Caliente.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kebtfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kebtfmaac-ibc3"
         },
         {
             name: "The Bull 97.3",
@@ -1810,7 +1810,7 @@ var stations = {/*
         {
             name: "KNZR 97.7",
             logo: "stations/images-america/bakersfield/KNZR.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-knzrfmaac-ibc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-knzrfmaac-ibc"
         },
         {
             name: "Rewind 98.1",
@@ -1825,17 +1825,17 @@ var stations = {/*
         {
             name: "Groove 99.3",
             logo: "stations/images-america/bakersfield/Groove 99.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkbbfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkbbfmaac-ibc4"
         },
         {
             name: "ESPN Bakersfield 101.1",
             logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kgeoamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kgeoamaac-ibc3"
         },
         {
             name: "101.5 BIG FM",
             logo: "stations/images-america/bakersfield/101.5 BIG FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kgfmfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kgfmfmaac-ibc3"
         },
         {
             name: "Radio Lobo 102.9",
@@ -1910,17 +1910,17 @@ var stations = {/*
         {
             name: "KERN Radio 1180",
             logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//agmedia28-kernamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//agmedia28-kernamaac-ibc3"
         },
         {
             name: "ESPN Bakersfield 1230",
             logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//agmedia28-kgeoamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//agmedia28-kgeoamaac-ibc3"
         },
         {
             name: "1270 KVMI",
             logo: "stations/images-america/fresno/My 97.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2"
         },
         {
             name: "1410 KERI",
@@ -1930,7 +1930,7 @@ var stations = {/*
         {
             name: "KNZR 1560",
             logo: "stations/images-america/bakersfield/KNZR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-knzrfmaac-ibc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-knzrfmaac-ibc"
         },
     ],
     "barstow": [
@@ -2039,7 +2039,7 @@ var stations = {/*
         {
             name: "93.5 The Hawk",
             logo: "stations/images-america/columbus/93.5 The Hawk.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
         },
         {
             name: "94 ROCK",
@@ -2049,7 +2049,7 @@ var stations = {/*
         {
             name: "KZ 100",
             logo: "stations/images-america/columbus/KZ 100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
         },
         {
             name: "KBRX 102.9",
@@ -2079,7 +2079,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "AM 590 ESPN",
@@ -2136,7 +2136,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "KVSH 940",
@@ -2188,7 +2188,7 @@ var stations = {/*
         {
             name: "92.9 KISM",
             logo: "stations/images-america/bellingham/92.9 KISM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
         },
         {
             name: "KZAX 94.9",
@@ -2213,7 +2213,7 @@ var stations = {/*
         {
             name: "KAFE 104.1",
             logo: "stations/images-america/bellingham/KAFE 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
             name: "PRAISE 106.5",
@@ -2233,12 +2233,12 @@ var stations = {/*
         {
             name: "790 KGMI",
             logo: "stations/images-america/bellingham/790 KGMI.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
         },
         {
             name: "1170 KPUG",
             logo: "stations/images-america/bellingham/1170 KPUG.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpugamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kpugamaac-ibc1"
         },
         {
             name: "KRPI 1550",
@@ -2546,7 +2546,7 @@ var stations = {/*
         {
             name: "95.5 KAAN",
             logo: "stations/images-america/maryville/95.5 KAAN.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
         },
         {
             name: "IPR News 97.9",
@@ -2561,7 +2561,7 @@ var stations = {/*
         {
             name: "Classic Rock 100.1",
             logo: "stations/images-america/bethany/Classic Rock 100.1.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kkwkfmaac-ibc4"
         },
         {
             name: "Z101.7",
@@ -2571,7 +2571,7 @@ var stations = {/*
         {
             name: "Sports Radio 103.7",
             logo: "stations/images-america/bethany/Sports Radio 870.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
             name: "Life 107.1",
@@ -2601,7 +2601,7 @@ var stations = {/*
         {
             name: "Sports Radio 870",
             logo: "stations/images-america/bethany/Sports Radio 870.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
             name: "1040 WHO",
@@ -3323,7 +3323,7 @@ var stations = {/*
         {
             name: "BIG 81",
             logo: "stations/images-america/c2c/rapid_city_sd/BIG 81.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
         },
     ],
     "brownwood": [
@@ -3452,7 +3452,7 @@ var stations = {/*
         {
             name: "106.5 Jack FM",
             logo: "stations/images-america/tyler/106.5 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kooifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kooifmaac-ibc4"
         },
     ],
     "burlington": [
@@ -3727,7 +3727,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "NewsTalk 940",
@@ -3899,7 +3899,7 @@ var stations = {/*
         {
             name: "AM 800 KREI",
             logo: "stations/images-america/cape_girardeau/AM 800 KREI.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kreiamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kreiamaac-ibc2"
         },
         {
             name: "KWOC 930",
@@ -3924,7 +3924,7 @@ var stations = {/*
         {
             name: "1120 KMOX",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
         },
         {
             name: "1150 WGGH",
@@ -4389,7 +4389,7 @@ var stations = {/*
         {
             name: "KKLS 920",
             logo: "stations/images-america/c2c/rapid_city_sd/Cowboy 104.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
         },
         {
             name: "KNEB 960",
@@ -4528,7 +4528,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "NewsTalk 940",
@@ -4575,7 +4575,7 @@ var stations = {/*
         {
             name: "The Fan 610",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "680 KFEQ",
@@ -4875,7 +4875,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "790 KFYO",
@@ -5505,7 +5505,7 @@ var stations = {/*
         {
             name: "Glory 97.3",
             logo: "stations/images-america/columbia_jcmo/Glory 97.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-ktcmfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-ktcmfmaac-ibc2"
         },
         {
             name: "Power 97.7",
@@ -5555,7 +5555,7 @@ var stations = {/*
         {
             name: "104.7 KRES",
             logo: "stations/images-america/kirksville/104.7 KRES.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
         },
         {
             name: "105.1 KTGR",
@@ -5617,7 +5617,7 @@ var stations = {/*
         {
             name: "93.5 The Hawk",
             logo: "stations/images-america/columbus/93.5 The Hawk.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
         },
         {
             name: "94 ROCK",
@@ -5632,7 +5632,7 @@ var stations = {/*
         {
             name: "KX 96.9",
             logo: "stations/images-america/lincoln/KX 96.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
         },
         {
             name: "Froggy 98",
@@ -5647,12 +5647,12 @@ var stations = {/*
         {
             name: "KZ 100",
             logo: "stations/images-america/columbus/KZ 100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
         },
         {
             name: "KLIR 101",
             logo: "stations/images-america/columbus/KLIR 101.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-klirfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klirfmaac-ibc2"
         },
         {
             name: "106 KIX",
@@ -6030,12 +6030,12 @@ var stations = {/*
         {
             name: "Norteño 104.1",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "550 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "680 KKYX",
@@ -6331,12 +6331,12 @@ var stations = {/*
         {
             name: "98.7 The Spot",
             logo: "stations/images-america/dallas_fort_worth/98.7 The Spot.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kspffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kspffmaac-imc"
         },
         {
             name: "98.7 KSPF-HD2",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-krldamaac-imc"
         },
         {
             name: "Zona MX 99.1",
@@ -6356,17 +6356,17 @@ var stations = {/*
         {
             name: "100.3 Jack FM",
             logo: "stations/images-america/dallas_fort_worth/100.3 Jack FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kjkkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kjkkfmaac-imc"
         },
         {
             name: "100.3 KJKK-HD2",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "The Bet 100.3-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "The Word 100.7",
@@ -6411,12 +6411,12 @@ var stations = {/*
         {
             name: "ALT 103.7",
             logo: "stations/images-america/dallas_fort_worth/ALT 103.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kvilfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kvilfmaac-imc"
         },
         {
             name: "Channel Q 103.7-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "K104",
@@ -6431,17 +6431,17 @@ var stations = {/*
         {
             name: "105.3 The Fan",
             logo: "stations/images-america/dallas_fort_worth/105.3 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldfmaac-imc"
         },
         {
             name: "105.3 KRLD-HD2",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-krldamaac-imc"
         },
         {
             name: "Infinity Sports Network 105.3-HD3",
             logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
         },
         {
             name: "Smooth R&B 105.7",
@@ -6476,12 +6476,12 @@ var stations = {/*
         {
             name: "La Grande 107.5",
             logo: "stations/images-america/dallas_fort_worth/La Grande 107.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmvkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmvkfmaac-imc"
         },
         {
             name: "Fierro 107.5-HD2",
             logo: "stations/images-america/dallas_fort_worth/Fierro 107.5-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmvkhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmvkhd2aac-imc"
         },
         {
             name: "Latino Mix 107.9",
@@ -6561,7 +6561,7 @@ var stations = {/*
         {
             name: "1080 KRLD",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "Radio Azad 1110",
@@ -6650,7 +6650,7 @@ var stations = {/*
         {
             name: "560 KBLU",
             logo: "stations/images-america/yuma/560 KBLU.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
         },*/
         {
             name: "ESPN 620",
@@ -7165,12 +7165,12 @@ var stations = {/*
         {
             name: "99.5 The Mountain",
             logo: "stations/images-america/denver/99.5 The Mountain.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kqmtfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kqmtfmaac-imc"
         },
         {
             name: "99.5 KQMT-HD2",
             logo: "stations/images-america/denver/Comedy 103.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kqmthd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kqmthd2aac-imc"
         },
         {
             name: "Mix 100",
@@ -7210,7 +7210,7 @@ var stations = {/*
         {
             name: "Front Range Country 103.1",
             logo: "stations/images-america/denver/Front Range Country 103.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kqkshd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kqkshd2aac-imc"
         },
         {
             name: "103.5 The Fox",
@@ -7245,12 +7245,12 @@ var stations = {/*
         {
             name: "Alice 105.9",
             logo: "stations/images-america/denver/Alice 105.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kalcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kalcfmaac-imc"
         },
         {
             name: "Channel Q 105.9-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "106.7 The Bull",
@@ -7265,12 +7265,12 @@ var stations = {/*
         {
             name: "KS 107.5",
             logo: "stations/images-america/denver/KS 107.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kqksfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kqksfmaac-imc"
         },
         {
             name: "107.5 KQKS-HD2",
             logo: "stations/images-america/denver/Front Range Country 103.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kqkshd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kqkshd2aac-imc"
         },
         {
             name: "107.9 KBPI",
@@ -7345,7 +7345,7 @@ var stations = {/*
         {
             name: "The Bet 1430",
             logo: "stations/images-america/denver/The Bet 1430.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "ESPN Denver 1600",
@@ -7362,7 +7362,7 @@ var stations = {/*
         {
             name: "KDKD 95.3",
             logo: "stations/images-america/deepwater/KDKD 95.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/radford-kdkdfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kdkdfmaac-ibc1"
         },
         {
             name: "K-LOVE 96.1",
@@ -7387,7 +7387,7 @@ var stations = {/*
         {
             name: "104.9 The Bizz",
             logo: "stations/images-america/deepwater/104.9 The Bizz.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/radford-kxeafmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kxeafmaac-ibc1"
         },
         {
             name: "KIX 105.7",
@@ -7402,7 +7402,7 @@ var stations = {/*
         {
             name: "The Fan 610",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "810 WHB",
@@ -7417,7 +7417,7 @@ var stations = {/*
         {
             name: "TALK 980",
             logo: "stations/images-america/kansas_city/TALK 980.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
         },
     ],
     "de_queen": [
@@ -7486,17 +7486,17 @@ var stations = {/*
         {
             name: "93.3 KIOA",
             logo: "stations/images-america/des_moines/93.3 KIOA.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioafmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kioafmaac-ibc1"
         },
         {
             name: "93.3 KIOA-HD2",
             logo: "stations/images-america/des_moines/Hits 99.9.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
         },
         {
             name: "93.7 The Outlaw",
             logo: "stations/images-america/des_moines/93.7 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
         },
         {
             name: "94.1 K231DI",
@@ -7561,7 +7561,7 @@ var stations = {/*
         {
             name: "HITS 99.9",
             logo: "stations/images-america/des_moines/Hits 99.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kioahd2aac-ibc1"
         },
         {
             name: "100.3 The Bus",
@@ -7591,27 +7591,27 @@ var stations = {/*
         {
             name: "Star 102.5",
             logo: "stations/images-america/des_moines/Star 102.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kstzfmaac-ibc1"
         },
         {
             name: "102.5 KSTZ-HD2",
             logo: "stations/images-america/des_moines/93.7 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kstzhd2aac-ibc1"
         },
         {
             name: "LAZER 103.3",
             logo: "stations/images-america/des_moines/Lazer 103.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kazrfmaac-ibc1"
         },
         {
             name: "104.1 EZ FM",
             logo: "stations/images-america/des_moines/104.1 EZ FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
         },
         {
             name: "Pure Oldies 104.5",
             logo: "stations/images-america/des_moines/Pure Oldies 104.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kazrhd2aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kazrhd2aac-ibc1"
         },
         {
             name: "NOW 105.1",
@@ -7661,7 +7661,7 @@ var stations = {/*
         {
             name: "540 KWMT",
             logo: "stations/images-america/fort_dodge/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
         },
         {
             name: "IPR News 640",
@@ -7671,7 +7671,7 @@ var stations = {/*
         {
             name: "Hope 940",
             logo: "stations/images-america/des_moines/Hope 940.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpszamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kpszamaac-ibc1"
         },
         {
             name: "1040 WHO",
@@ -8036,7 +8036,7 @@ var stations = {/*
         {
             name: "Katy Country 93.1",
             logo: "stations/images-america/durant/Katy Country 93.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kmktfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kmktfmaac-ibc4"
         },
         {
             name: "KSEO 94.1",
@@ -8066,7 +8066,7 @@ var stations = {/*
         {
             name: "Mad Rock 102.5",
             logo: "stations/images-america/durant/Mad Rock 102.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kmadfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kmadfmaac-ibc4"
         },
         {
             name: "VCY America 103.3",
@@ -8121,7 +8121,7 @@ var stations = {/*
         {
             name: "1080 KRLD",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "1310 The Ticket",
@@ -8322,7 +8322,7 @@ var stations = {/*
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-kflgfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-kflgfmaac-ibc3"
         },
         {
             name: "CSN Radio 97.7",
@@ -8337,7 +8337,7 @@ var stations = {/*
         {
             name: "560 KBLU",
             logo: "stations/images-america/yuma/560 KBLU.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
         },*/
         {
             name: "ESPN 620",
@@ -8862,7 +8862,7 @@ var stations = {/*
         {
             name: "The Fan 610",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "KGGF 690",
@@ -8882,12 +8882,12 @@ var stations = {/*
         {
             name: "KFH Radio 1240",
             logo: "stations/images-america/wichita/KFH.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
         },
         {
             name: "KNSS 1330",
             logo: "stations/images-america/wichita/KNSS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-knssamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-knssamaac-imc"
         },
         {
             name: "KMAN 1350",
@@ -9372,7 +9372,7 @@ var stations = {/*
         {
             name: "La Gran D 102.3",
             logo: "stations/images-america/salt_lake/La Gran D 102.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdutfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdutfmaac-ibc4"
         },
         {
             name: "103.1 The Wave",
@@ -9387,7 +9387,7 @@ var stations = {/*
         {
             name: "Latino 106.3",
             logo: "stations/images-america/salt_lake/Latino 106.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbmgfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbmgfmaac-ibc4"
         },
         {
             name: "La Ley 107.1",
@@ -10037,12 +10037,12 @@ var stations = {/*
         {
             name: "92 ROCK",
             logo: "stations/images-america/fort_dodge/92 ROCK.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kzlbfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kzlbfmaac-ibc2"
         },
         {
             name: "Mix 94.5",
             logo: "stations/images-america/fort_dodge/Mix 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kkezfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kkezfmaac-ibc2"
         },
         {
             name: "KQWC 95.7",
@@ -10052,7 +10052,7 @@ var stations = {/*
         {
             name: "K97",
             logo: "stations/images-america/fort_dodge/K97.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kiaqfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kiaqfmaac-ibc2"
         },
         {
             name: "97.7 The Bolt",
@@ -10062,7 +10062,7 @@ var stations = {/*
         {
             name: "Sunny 99.7",
             logo: "stations/images-america/fort_dodge/Sunny 99.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2"
         },
         {
             name: "Kinship Christian Radio 100.7",
@@ -10072,12 +10072,12 @@ var stations = {/*
         {
             name: "105.9 The Beach",
             logo: "stations/images-america/fort_dodge/105.9 The Beach.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
         },
         {
             name: "540 KWMT",
             logo: "stations/images-america/fort_dodge/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
         },
         {
             name: "IPR News 640",
@@ -10335,12 +10335,12 @@ var stations = {/*
         {
             name: "Norteño 104.1",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "550 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "680 KKYX",
@@ -10350,7 +10350,7 @@ var stations = {/*
         {
             name: "Norteño 720",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "Ticket 760",
@@ -10572,7 +10572,7 @@ var stations = {/*
         {
             name: "KVMI 1270",
             logo: "stations/images-america/fresno/My 97.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2"
         },
         {
             name: "FOX Sports 1340",
@@ -11098,7 +11098,7 @@ var stations = {/*
         {
             name: "KZ 100",
             logo: "stations/images-america/columbus/KZ 100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
         },
         {
             name: "Classic Rock 101.5",
@@ -11605,7 +11605,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "790 KFYO",
@@ -12302,17 +12302,17 @@ var stations = {/*
         {
             name: "95.7 The Spot",
             logo: "stations/images-america/houston/95.7 The Spot.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kkhhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkhhfmaac-imc"
         },
         {
             name: "Channel Q 95.7-HD2",
             logo: "stations/images-america/houston/Channel Q 95.7-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "95.7 KKHH-HD3",
             logo: "stations/images-america/houston/The Bet 650.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kikkamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kikkamaac-imc"
         },
         {
             name: "KTRU 96.1",
@@ -12322,7 +12322,7 @@ var stations = {/*
         {
             name: "MIX 96.5",
             logo: "stations/images-america/houston/MIX 96.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-khmxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-khmxfmaac-imc"
         },
         {
             name: "K-LOVE 97.1",
@@ -12362,17 +12362,17 @@ var stations = {/*
         {
             name: "100.3 The Bull",
             logo: "stations/images-america/houston/100.3 The Bull.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kiltfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltfmaac-imc"
         },
         {
             name: "100.3 KILT-HD2",
             logo: "stations/images-america/houston/Sports Radio 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kiltamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kiltamaac-imc"
         },
         {
             name: "KIKK 100.3-HD3",
             logo: "stations/images-america/houston/KIKK 100.3-HD3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kilthd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kilthd3aac-imc"
         },
         {
             name: "100.7 The Word",
@@ -12382,7 +12382,7 @@ var stations = {/*
         {
             name: "Mega 101",
             logo: "stations/images-america/houston/Mega 101.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-klolfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-klolfmaac-imc"
         },
         {
             name: "Radio Amistad 101.5",
@@ -12482,12 +12482,12 @@ var stations = {/*
         {
             name: "Sports Radio 610",
             logo: "stations/images-america/houston/Sports Radio 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
             name: "The Bet 650",
             logo: "stations/images-america/houston/The Bet 650.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kikkamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kikkamaac-imc"
         },
         {
             name: "KSEV 700",
@@ -12959,27 +12959,27 @@ var stations = {/*
         {
             name: "U-92.7",
             logo: "stations/images-america/indio/U-92.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkuufmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkuufmaac-imc4"
         },
         {
             name: "92.7 KKUU-HD2",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "92.7 KKUU-HD3",
             logo: "stations/images-america/indio/ESPN 103.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
         },
         {
             name: "93.7 KCLB",
             logo: "stations/images-america/indio/93.7 KCLB.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kclbfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kclbfmaac-imc4"
         },
         {
             name: "K-NEWS 94.3",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "La Suavecita 94.7",
@@ -13004,7 +13004,7 @@ var stations = {/*
         {
             name: "98.5 The Bull",
             logo: "stations/images-america/indio/98.5 The Bull.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdesfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdesfmaac-ibc4"
         },
         {
             name: "Jammin' 99.5",
@@ -13014,7 +13014,7 @@ var stations = {/*
         {
             name: "MIX 100.5",
             logo: "stations/images-america/indio/MIX 100.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kpsifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kpsifmaac-ibc4"
         },
         {
             name: "La Grande 100.9",
@@ -13059,7 +13059,7 @@ var stations = {/*
         {
             name: "ESPN 103.9",
             logo: "stations/images-america/indio/ESPN 103.9.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kkuuhd2aac-imc4"
         },
         {
             name: "K-LOVE 105.1",
@@ -13089,12 +13089,12 @@ var stations = {/*
         {
             name: "106.9 The Eagle",
             logo: "stations/images-america/indio/106.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdglfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdglfmaac-imc4"
         },
         {
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
         },
         {
             name: "NOAA Weather Radio Coachella",
@@ -13104,12 +13104,12 @@ var stations = {/*
         {
             name: "970 KNWZ",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "1140 KNWQ",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-knwzamaac-imc4"
         },
         {
             name: "FOX Sports 1270",
@@ -13280,7 +13280,7 @@ var stations = {/*
         {
             name: "EZ 92.7",
             logo: "stations/images-america/jonesboro/EZ 92.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
         },
         {
             name: "93 KZLE",
@@ -13325,7 +13325,7 @@ var stations = {/*
         {
             name: "98.5 The Outlaw",
             logo: "stations/images-america/jonesboro/98.5 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
         },
         {
             name: "Jill @ 99.3",
@@ -13335,7 +13335,7 @@ var stations = {/*
         {
             name: "100.5 The Eagle",
             logo: "stations/images-america/jonesboro/100.5 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kegifmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kegifmaac-ibc2"
         },
         {
             name: "101.7 KISS FM",
@@ -13365,27 +13365,27 @@ var stations = {/*
         {
             name: "104.9 The Fox",
             logo: "stations/images-america/jonesboro/104.9 The Fox.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kdxyfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kdxyfmaac-ibc2"
         },
         {
             name: "104.9 KDXY-HD2",
             logo: "stations/images-america/jonesboro/HOT 107.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
         },
         {
             name: "104.9 KDXY-HD3",
             logo: "stations/images-america/jonesboro/EZ 92.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/saga-kdxyhd3aac-imc"
         },
         {
             name: "Mix 106.3",
             logo: "stations/images-america/jonesboro/Mix 106.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kjbxfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kjbxfmaac-ibc2"
         },
         {
             name: "106.3 KJBX-HD2",
             logo: "stations/images-america/jonesboro/98.5 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/saga-kjbxhd2aac-imc"
         },
         {
             name: "107.1 Jack FM",
@@ -13395,7 +13395,7 @@ var stations = {/*
         {
             name: "HOT 107.5",
             logo: "stations/images-america/jonesboro/HOT 107.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kdxyhd2aac-ibc2"
         },
         {
             name: "107.9 KFIN",
@@ -13654,7 +13654,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "KSAL 1150",
@@ -13850,12 +13850,12 @@ var stations = {/*
         {
             name: "96.5 The Fan",
             logo: "stations/images-america/kansas_city/96.5 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-kfnzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-kfnzfmaac-imc"
         },
         {
             name: "96.5 KFNZ-HD2",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-kfnzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-kfnzamaac-imc"
         },
         {
             name: "K-LOVE 97.3",
@@ -13865,27 +13865,27 @@ var stations = {/*
         {
             name: "98.1 KMBZ",
             logo: "stations/images-america/kansas_city/98.1 KMBZ.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmbzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmbzfmaac-imc"
         },
         {
             name: "98.1 KMBZ-HD2",
             logo: "stations/images-america/kansas_city/TALK 980.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kmbzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kmbzamaac-imc"
         },
         {
             name: "98.9 The Rock",
             logo: "stations/images-america/kansas_city/98.9 The Rock.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kqrcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kqrcfmaac-imc"
         },
         {
             name: "99.7 The Point",
             logo: "stations/images-america/kansas_city/99.7 The Point.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kzptfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kzptfmaac-imc"
         },
         {
             name: "Channel Q 99.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "KONN 100.1",
@@ -13965,7 +13965,7 @@ var stations = {/*
         {
             name: "106.5 The Wolf",
             logo: "stations/images-america/kansas_city/106.5 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wdaffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdaffmaac-imc"
         },
         {
             name: "RNB 106.9",
@@ -13980,7 +13980,7 @@ var stations = {/*
         {
             name: "The Fan 610",
             logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
         },
         {
             name: "680 KFEQ",
@@ -14000,7 +14000,7 @@ var stations = {/*
         {
             name: "TALK 980",
             logo: "stations/images-america/kansas_city/TALK 980.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
         },
         {
             name: "KCXL 1140",
@@ -14035,7 +14035,7 @@ var stations = {/*
         {
             name: "The Bet 1660",
             logo: "stations/images-america/kansas_city/The Bet 1660.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kwodamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kwodamaac-imc"
         },
     ],
     "kayenta": [
@@ -14276,7 +14276,7 @@ var stations = {/*
         {
             name: "550 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "AM 630 The Word",
@@ -14291,7 +14291,7 @@ var stations = {/*
         {
             name: "Norteño 720",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "KNAF 910",
@@ -14370,7 +14370,7 @@ var stations = {/*
         {
             name: "KFLG 94.7",
             logo: "stations/images-america/kingman/KFLG 94.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-kflgfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-kflgfmaac-ibc3"
         },
         {
             name: "KZKE 95.1",
@@ -14385,12 +14385,12 @@ var stations = {/*
         {
             name: "KAAA 97.5",
             logo: "stations/images-america/kingman/KAAA 97.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-kaaaamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-kaaaamaac-ibc3"
         },
         {
             name: "Lucky 98 FM",
             logo: "stations/images-america/kingman/Lucky 98 FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-klukfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-klukfmaac-ibc3"
         },
         {
             name: "KGPS 98.7",
@@ -14400,7 +14400,7 @@ var stations = {/*
         {
             name: "K-STAR 99.3",
             logo: "stations/images-america/kingman/K-STAR 99.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-kflgamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-kflgamaac-ibc3"
         },
         {
             name: "Super Country 100.1",
@@ -14435,7 +14435,7 @@ var stations = {/*
         {
             name: "The Knack 107.1",
             logo: "stations/images-america/kingman/The Knack 107.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/cameron-knkkfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/cameron-knkkfmaac-ibc3"
         },
         {
             name: "980 KNTR",
@@ -14487,7 +14487,7 @@ var stations = {/*
         {
             name: "104.7 KRES",
             logo: "stations/images-america/kirksville/104.7 KRES.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2"
         },
         {
             name: "Bott Radio 107.9",
@@ -14497,7 +14497,7 @@ var stations = {/*
         {
             name: "KWIX 1230",
             logo: "stations/images-america/kirksville/KWIX 1230.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kwixamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kwixamaac-ibc2"
         },
     ],
     "klamath_f": [
@@ -14574,7 +14574,7 @@ var stations = {/*
         {
             name: "KCFJ 570",
             logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
         {
             name: "The Game 580",
@@ -14636,7 +14636,7 @@ var stations = {/*
         {
             name: "KCFJ 570",
             logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "lamar": [
@@ -15093,17 +15093,17 @@ var stations = {/*
         {
             name: "Mix 94.1",
             logo: "stations/images-america/las_vegas/Mix 94.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmxbfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmxbfmaac-imc"
         },
         {
             name: "Channel Q 94.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "94.1 KMXB-HD3",
             logo: "stations/images-america/las_vegas/101.5 K-DAWN.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/audacy-kmxbhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/audacy-kmxbhd3aac-imc"
         },
         {
             name: "Amor 94.5",
@@ -15163,12 +15163,12 @@ var stations = {/*
         {
             name: "98.5 KLUC",
             logo: "stations/images-america/las_vegas/98.5 KLUC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-klucfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-klucfmaac-imc"
         },
         {
             name: "The Bet 98.5-HD2",
             logo: "stations/images-america/las_vegas/The Bet 98.5-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kluchd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kluchd2aac-imc"
         },
         {
             name: "98.5 KLUC-HD3",
@@ -15203,12 +15203,12 @@ var stations = {/*
         {
             name: "Q100.5",
             logo: "stations/images-america/las_vegas/Q100.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kxqqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kxqqfmaac-imc"
         },
         {
             name: "100.5 KXQQ-HD2",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kxntamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kxntamaac-imc"
         },
         {
             name: "100.5 KXQQ-HD3",
@@ -15223,7 +15223,7 @@ var stations = {/*
         {
             name: "101.5 K-DAWN",
             logo: "stations/images-america/las_vegas/101.5 K-DAWN.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-kmxbhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-kmxbhd3aac-imc"
         },
         {
             name: "La Buena 101.9",
@@ -15318,7 +15318,7 @@ var stations = {/*
         {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
         },
         {
             name: "TUDN Radio 870",
@@ -15688,12 +15688,12 @@ var stations = {/*
         {
             name: "92.9 The Eagle",
             logo: "stations/images-america/lincoln/92.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktglfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktglfmaac-ibc4"
         },
         {
             name: "93.5 The Hawk",
             logo: "stations/images-america/lincoln/93.5 The Hawk.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kkotfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kkotfmaac-ibc2"
         },
         {
             name: "The Ticket 93.7",
@@ -15718,7 +15718,7 @@ var stations = {/*
         {
             name: "KX 96.9",
             logo: "stations/images-america/lincoln/KX 96.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
         },
         {
             name: "Froggy 98",
@@ -15743,17 +15743,17 @@ var stations = {/*
         {
             name: "KFOR 101.5",
             logo: "stations/images-america/lincoln/KFOR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kforamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kforamaac-ibc4"
         },
         {
             name: "Mix 103.3",
             logo: "stations/images-america/lincoln/Mix 103.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
         },
         {
             name: "104.1 The Blaze",
             logo: "stations/images-america/lincoln/104.1 The Blaze.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kibzfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kibzfmaac-ibc4"
         },
         {
             name: "104.9 Max Country",
@@ -15773,7 +15773,7 @@ var stations = {/*
         {
             name: "106.3 KFRX",
             logo: "stations/images-america/lincoln/106.3 KFRX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kfrxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kfrxfmaac-ibc4"
         },
         {
             name: "106.7 K294DJ",
@@ -15808,7 +15808,7 @@ var stations = {/*
         {
             name: "KFOR 1240",
             logo: "stations/images-america/lincoln/KFOR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kforamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kforamaac-ibc4"
         },
         {
             name: "1400 KLIN",
@@ -15818,7 +15818,7 @@ var stations = {/*
         {
             name: "KLMS 1480",
             logo: "stations/images-america/lincoln/Mix 103.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-klmsamaac-ibc4"
         },
     ],
     "little_rock": [
@@ -16226,17 +16226,17 @@ var stations = {/*
         {
             name: "93.1 Jack FM",
             logo: "stations/images-america/los_angeles/93.1 Jack FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsfmaac-imc"
         },
         {
             name: "K-FROG 93.1-HD2",
             logo: "stations/images-america/los_angeles/K-FROG.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfrgfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfrgfmaac-imc"
         },
         {
             name: "The Bet 93.1-HD3",
             logo: "stations/images-america/los_angeles/The Bet 93.1-HD3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbshd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbshd3aac-imc"
         },
         {
             name: "93.5 KDAY",
@@ -16256,7 +16256,7 @@ var stations = {/*
         {
             name: "94.7 The Wave",
             logo: "stations/images-america/los_angeles/94.7 The Wave.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
         },
         {
             name: "NOR Radio 94.7-HD2",
@@ -16291,17 +16291,17 @@ var stations = {/*
         {
             name: "KNX News 97.1",
             logo: "stations/images-america/los_angeles/KNX News 97.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxamaac-imc"
         },
         {
             name: "Channel Q 97.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Fire Lane 97.1-HD3",
             logo: "stations/images-america/los_angeles/Fire Lane 97.1-HD3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd3aac-imc"
         },
         {
             name: "97.9 La Raza",
@@ -16356,12 +16356,12 @@ var stations = {/*
         {
             name: "K-EARTH 101",
             logo: "stations/images-america/los_angeles/K-EARTH 101.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krthfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krthfmaac-imc"
         },
         {
             name: "Channel Q 101.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "101.5 KQBH",
@@ -16446,12 +16446,12 @@ var stations = {/*
         {
             name: "106.7 KROQ",
             logo: "stations/images-america/los_angeles/106.7 KROQ.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kroqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kroqfmaac-imc"
         },
         {
             name: "Roq of the 80s 106.7-HD2",
             logo: "stations/images-america/los_angeles/Roq of the 80s 106.7-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kroqhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kroqhd2aac-imc"
         },
         {
             name: "K-LOVE 107.5",
@@ -16665,7 +16665,7 @@ var stations = {/*
         {
             name: "96.3 KLLL",
             logo: "stations/images-america/lubbock/96.3 KLLL.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klllfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klllfmaac-ibc4"
         },
         {
             name: "96.9 The Bull",
@@ -16705,7 +16705,7 @@ var stations = {/*
         {
             name: "Mix 100.3",
             logo: "stations/images-america/lubbock/Mix 100.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kmmxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kmmxfmaac-ibc4"
         },
         {
             name: "100.7 The Score",
@@ -16715,7 +16715,7 @@ var stations = {/*
         {
             name: "Rock 101",
             logo: "stations/images-america/lubbock/Rock 101.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-konefmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-konefmaac-ibc4"
         },
         {
             name: "102.5 KISS FM",
@@ -16740,7 +16740,7 @@ var stations = {/*
         {
             name: "104.9 The Beat",
             logo: "stations/images-america/lubbock/104.9 The Beat.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbtefmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbtefmaac-ibc4"
         },
         {
             name: "Magic 106.5",
@@ -16822,7 +16822,7 @@ var stations = {/*
         {
             name: "106.9 The Eagle",
             logo: "stations/images-america/indio/106.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdglfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdglfmaac-imc4"
         },
         {
             name: "Z107.7",
@@ -17056,7 +17056,7 @@ var stations = {/*
         {
             name: "95.5 KAAN",
             logo: "stations/images-america/maryville/95.5 KAAN.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kaanfmaac-ibc4"
         },
         {
             name: "95.9 KNI'M Country",
@@ -17101,7 +17101,7 @@ var stations = {/*
         {
             name: "Sports Radio 870",
             logo: "stations/images-america/bethany/Sports Radio 870.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kaanamaac-ibc4"
         },
         {
             name: "Family Radio 920",
@@ -17153,7 +17153,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "680 KFEQ",
@@ -17195,7 +17195,7 @@ var stations = {/*
         {
             name: "93.9 The Country Moose",
             logo: "stations/images-america/mason_city/93.9 The Country Moose.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kiaifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kiaifmaac-ibc4"
         },
         {
             name: "VCY America 94.7",
@@ -17210,7 +17210,7 @@ var stations = {/*
         {
             name: "96.7 KRIB",
             logo: "stations/images-america/mason_city/KRIB.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kribamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kribamaac-ibc4"
         },
         {
             name: "KCMR 97.9",
@@ -17225,7 +17225,7 @@ var stations = {/*
         {
             name: "Super Hits 102.7",
             logo: "stations/images-america/mason_city/Super Hits 102.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kytcfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kytcfmaac-ibc4"
         },
         {
             name: "B103.1",
@@ -17245,7 +17245,7 @@ var stations = {/*
         {
             name: "Star 106.1",
             logo: "stations/images-america/mason_city/Star 106.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klssfmaac-ibc4"
         },
         {
             name: "Mix 107.3",
@@ -17270,12 +17270,12 @@ var stations = {/*
         {
             name: "AM 1300 KGLO",
             logo: "stations/images-america/mason_city/AM 1300 KGLO.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgloamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgloamaac-ibc4"
         },
         {
             name: "1490 KRIB",
             logo: "stations/images-america/mason_city/KRIB.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kribamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kribamaac-ibc4"
         },
     ],
     "mcalester": [
@@ -17387,7 +17387,7 @@ var stations = {/*
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
         },
         {
             name: "KVLF 1240",
@@ -18511,7 +18511,7 @@ var stations = {/*
         {
             name: "KCBS 740",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
             name: "770 KCBC",
@@ -18940,7 +18940,7 @@ var stations = {/*
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
     ],
     "newport": [
@@ -19069,7 +19069,7 @@ var stations = {/*
         {
             name: "93.5 The Hawk",
             logo: "stations/images-america/columbus/93.5 The Hawk.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kkotfmaac-ibc2"
         },
         {
             name: "94 ROCK",
@@ -19094,7 +19094,7 @@ var stations = {/*
         {
             name: "KZ 100",
             logo: "stations/images-america/columbus/KZ 100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kzenfmaac-ibc2"
         },
         {
             name: "WJAG 105.9",
@@ -19119,7 +19119,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "WJAG 780",
@@ -19747,7 +19747,7 @@ var stations = {/*
         {
             name: "KX 96.9",
             logo: "stations/images-america/lincoln/KX 96.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kzkxfmaac-ibc4"
         },
         {
             name: "Lobo 97.7",
@@ -19991,7 +19991,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "MyBridge Español 750",
@@ -20058,7 +20058,7 @@ var stations = {/*
         {
             name: "KFBD 97.9",
             logo: "stations/images-america/osage_beach/KFBD 97.9.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kfbdfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kfbdfmaac-ibc2"
         },
         {
             name: "98.7 The Cove",
@@ -20088,7 +20088,7 @@ var stations = {/*
         {
             name: "KJEL 103.7",
             logo: "stations/images-america/springfield_mo/KJEL 103.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
         },
         {
             name: "Classic Country 104.9",
@@ -20145,7 +20145,7 @@ var stations = {/*
         {
             name: "Classic 96",
             logo: "stations/images-america/c2c/ottumwa_ia/Classic 96.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kkfdfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kkfdfmaac-ibc2"
         },
         {
             name: "96.7 KIIC",
@@ -20458,7 +20458,7 @@ var stations = {/*
         {
             name: "Sports Radio 610",
             logo: "stations/images-america/houston/Sports Radio 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
             name: "740 KTRH",
@@ -20595,7 +20595,7 @@ var stations = {/*
         {
             name: "1080 KRLD",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "KSST 1230",
@@ -20771,7 +20771,7 @@ var stations = {/*
         {
             name: "BIG 94.5",
             logo: "stations/images-america/phoenix/BIG 94.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-koolfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-koolfmaac-imc"
         },
         {
             name: "95.5 The Mountain",
@@ -20861,12 +20861,12 @@ var stations = {/*
         {
             name: "LIVE 101.5",
             logo: "stations/images-america/phoenix/LIVE 101.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kalvfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kalvfmaac-imc"
         },
         {
             name: "Channel Q 101.5-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "101.5 KALV-HD3",
@@ -20941,12 +20941,12 @@ var stations = {/*
         {
             name: "KMLE 107.9",
             logo: "stations/images-america/phoenix/KMLE 107.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmlefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmlefmaac-imc"
         },
         {
             name: "The Bet 107.9-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "NOAA Weather Radio Phoenix",
@@ -21142,7 +21142,7 @@ var stations = {/*
         {
             name: "92.9 KISM",
             logo: "stations/images-america/bellingham/92.9 KISM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
         },
         {
             name: "KONP 101.7",
@@ -21157,7 +21157,7 @@ var stations = {/*
         {
             name: "KAFE 104.1",
             logo: "stations/images-america/bellingham/KAFE 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
             name: "Z104.9",
@@ -21197,7 +21197,7 @@ var stations = {/*
         {
             name: "790 KGMI",
             logo: "stations/images-america/bellingham/790 KGMI.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
         },
         {
             name: "820 AM The Word",
@@ -21217,7 +21217,7 @@ var stations = {/*
         {
             name: "1170 KPUG",
             logo: "stations/images-america/bellingham/1170 KPUG.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kpugamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kpugamaac-ibc1"
         },
         {
             name: "AM 1300 The Answer",
@@ -21294,7 +21294,7 @@ var stations = {/*
         {
             name: "92.3 KGON",
             logo: "stations/images-america/portland/92.3 KGON.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kgonfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kgonfmaac-imc"
         },
         {
             name: "93.1 El Rey",
@@ -21309,12 +21309,12 @@ var stations = {/*
         {
             name: "94.7 FM",
             logo: "stations/images-america/portland/94.7 FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knrkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knrkfmaac-imc"
         },
         {
             name: "KNRK 2 94.7-HD2",
             logo: "stations/images-america/portland/KNRK 2 94.7-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knrkhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knrkhd2aac-imc"
         },
         {
             name: "KISN 95.1",
@@ -21324,7 +21324,7 @@ var stations = {/*
         {
             name: "Live 95.5",
             logo: "stations/images-america/portland/Live 95.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbfffmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbfffmaac-ibc4"
         },
         {
             name: "Worship 24-7 96.3",
@@ -21334,7 +21334,7 @@ var stations = {/*
         {
             name: "97.1 Charlie",
             logo: "stations/images-america/portland/97.1 Charlie.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
         },
         {
             name: "K-LOVE 97.9",
@@ -21344,7 +21344,7 @@ var stations = {/*
         {
             name: "98.7 The Bull",
             logo: "stations/images-america/portland/98.7 The Bull.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kuplfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kuplfmaac-ibc4"
         },
         {
             name: "PRP 99.1",
@@ -21354,17 +21354,17 @@ var stations = {/*
         {
             name: "99.5 The Wolf",
             logo: "stations/images-america/portland/99.5 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kwjjfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kwjjfmaac-imc"
         },
         {
             name: "99.5 KWJJ-HD2",
             logo: "stations/images-america/portland/105.1 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-krskfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-krskfmaac-imc"
         },
         {
             name: "99.5 KWJJ-HD3",
             logo: "stations/images-america/portland/910 ESPN Portland.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kmttamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kmttamaac-imc"
         },
         {
             name: "Z100",
@@ -21374,12 +21374,12 @@ var stations = {/*
         {
             name: "FM News 101 KXL",
             logo: "stations/images-america/portland/FM News 101 KXL.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kxlfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxlfmaac-ibc4"
         },
         {
             name: "101.9 KINK",
             logo: "stations/images-america/portland/101.9 KINK.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kinkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kinkfmaac-ibc4"
         },
         {
             name: "ALT 102.3",
@@ -21389,7 +21389,7 @@ var stations = {/*
         {
             name: "WE 102.9",
             logo: "stations/images-america/portland/WE 102.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kinkhd2aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kinkhd2aac-ibc4"
         },
         {
             name: "K103",
@@ -21414,12 +21414,12 @@ var stations = {/*
         {
             name: "105.1 The Fan",
             logo: "stations/images-america/portland/105.1 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krskfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krskfmaac-imc"
         },
         {
             name: "Channel Q 105.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "105.9 The Brew",
@@ -21459,7 +21459,7 @@ var stations = {/*
         {
             name: "750 The Game",
             logo: "stations/images-america/portland/750 The Game.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kxtgamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxtgamaac-ibc4"
         },
         {
             name: "True Talk 800",
@@ -21474,7 +21474,7 @@ var stations = {/*
         {
             name: "910 ESPN Portland",
             logo: "stations/images-america/portland/910 ESPN Portland.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmttamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmttamaac-imc"
         },
         {
             name: "La Pantera 940",
@@ -21484,7 +21484,7 @@ var stations = {/*
         {
             name: "Freedom 970",
             logo: "stations/images-america/portland/Freedom 970.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kufoamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kufoamaac-ibc4"
         },
         {
             name: "Slavic Family Radio 1040",
@@ -21494,7 +21494,7 @@ var stations = {/*
         {
             name: "1080 KFXX",
             logo: "stations/images-america/portland/105.1 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfxxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfxxamaac-imc"
         },
         {
             name: "1190 KEX",
@@ -21875,7 +21875,7 @@ var stations = {/*
         {
             name: "840 KXNT",
             logo: "stations/images-america/las_vegas/840 KXNT.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-kxntamaac-imc"
         },
     ],
 	"rangely": [
@@ -22439,7 +22439,7 @@ var stations = {/*
         {
             name: "96.7 K244AM",
             logo: "stations/images-america/los_angeles/94.7 The Wave.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-ktwvfmaac-imc"
         },
         {
             name: "98.9 K255BZ",
@@ -22506,7 +22506,7 @@ var stations = {/*
         {
             name: "95.1 K-FROG",
             logo: "stations/images-america/riverside/95.1 K-FROG.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfrgfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfrgfmaac-imc"
         },
         {
             name: "96.7 KCAL",
@@ -22963,7 +22963,7 @@ var stations = {/*
         {
             name: "105.9 The Beach",
             logo: "stations/images-america/fort_dodge/105.9 The Beach.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-ktlbfmaac-ibc2"
         },
         {
             name: "KICK 106.7",
@@ -22973,7 +22973,7 @@ var stations = {/*
         {
             name: "540 KWMT",
             logo: "stations/images-america/fort_dodge/540 KWMT.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
         },
         {
             name: "IPR News 640",
@@ -23070,12 +23070,12 @@ var stations = {/*
         {
             name: "ALT 94.7",
             logo: "stations/images-america/sacramento/ALT 94.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kkdofmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkdofmaac-imc"
         },
         {
             name: "Channel Q 94.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "MIX 96",
@@ -23095,7 +23095,7 @@ var stations = {/*
         {
             name: "96.9 The Eagle",
             logo: "stations/images-america/sacramento/96.9 The Eagle.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-ksegfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-ksegfmaac-imc"
         },
         {
             name: "97.5 KDEE",
@@ -23115,12 +23115,12 @@ var stations = {/*
         {
             name: "98 Rock",
             logo: "stations/images-america/sacramento/98 Rock.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krxqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krxqfmaac-imc"
         },
         {
             name: "98.5 KRXQ-HD2",
             logo: "stations/images-america/sacramento/ESPN 1320.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kifmamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kifmamaac-imc"
         },
         {
             name: "Air1 98.9",
@@ -23150,7 +23150,7 @@ var stations = {/*
         {
             name: "102.5 KSFM",
             logo: "stations/images-america/sacramento/102.5 KSFM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-ksfmfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-ksfmfmaac-imc"
         },
         {
             name: "Radio Lazer 103.3",
@@ -23205,7 +23205,7 @@ var stations = {/*
         {
             name: "106.5 The End",
             logo: "stations/images-america/sacramento/106.5 The End.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kudlfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kudlfmaac-imc"
         },
         {
             name: "107.1 The Bull",
@@ -23250,7 +23250,7 @@ var stations = {/*
         {
             name: "ESPN 1320",
             logo: "stations/images-america/sacramento/ESPN 1320.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kifmamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kifmamaac-imc"
         },
         {
             name: "AM 1380 The Answer",
@@ -23625,7 +23625,7 @@ var stations = {/*
         {
             name: "KCBS 740",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
             name: "810 KSFO",
@@ -23839,7 +23839,7 @@ var stations = {/*
         {
             name: "La Gran D 102.3",
             logo: "stations/images-america/salt_lake/La Gran D 102.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdutfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdutfmaac-ibc4"
         },
         {
             name: "KSL NewsRadio 102.7",
@@ -23904,7 +23904,7 @@ var stations = {/*
         {
             name: "Latino 106.3",
             logo: "stations/images-america/salt_lake/Latino 106.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbmgfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbmgfmaac-ibc4"
         },
         {
             name: "Rock 106.7",
@@ -23969,7 +23969,7 @@ var stations = {/*
         {
             name: "Juan 1600",
             logo: "stations/images-america/salt_lake/Juan 1600.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktubamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktubamaac-ibc4"
         },
         {
             name: "K-UTE Radio 1620",
@@ -24173,12 +24173,12 @@ var stations = {/*
         {
             name: "94.1 San Antonio's Sports Star",
             logo: "stations/images-america/san_antonio/94.1 San Antonios Sports Star.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktfmfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktfmfmaac-ibc4"
         },
         {
             name: "WE 94.5",
             logo: "stations/images-america/san_antonio/WE 94.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktfmhd2aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktfmhd2aac-ibc4"
         },
         {
             name: "Amor 95.1",
@@ -24188,7 +24188,7 @@ var stations = {/*
         {
             name: "Tejano 95.7",
             logo: "stations/images-america/san_antonio/Tejano 95.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kleyfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kleyfmaac-ibc4"
         },
         {
             name: "Mix 96.1",
@@ -24253,7 +24253,7 @@ var stations = {/*
         {
             name: "San Antonio's 102.7",
             logo: "stations/images-america/san_antonio/San Antonio's 102.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kjxkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kjxkfmaac-ibc4"
         },
         {
             name: "Air1 103.7",
@@ -24263,7 +24263,7 @@ var stations = {/*
         {
             name: "Norteño 104.1",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "104.5 Latino Hits",
@@ -24298,7 +24298,7 @@ var stations = {/*
         {
             name: "107.1 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "Vibe 107.5",
@@ -24313,7 +24313,7 @@ var stations = {/*
         {
             name: "550 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "AM 630 The Word",
@@ -24328,7 +24328,7 @@ var stations = {/*
         {
             name: "Norteño 720",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "Ticket 760",
@@ -24368,7 +24368,7 @@ var stations = {/*
         {
             name: "ESPN 1250",
             logo: "stations/images-america/san_antonio/ESPN 1250.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kzdcamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kzdcamaac-ibc4"
         },
         {
             name: "Tejano 1350",
@@ -24477,12 +24477,12 @@ var stations = {/*
         {
             name: "The Krush 92.5",
             logo: "stations/images-america/santa_maria/The Krush 92.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kkalfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kkalfmaac-ibc3"
         },
         {
             name: "93.3 KZOZ",
             logo: "stations/images-america/santa_maria/93.3 KZOZ.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kzozfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kzozfmaac-ibc3"
         },
         {
             name: "Radio Lazer 94.1",
@@ -24492,7 +24492,7 @@ var stations = {/*
         {
             name: "95.7 The Beat",
             logo: "stations/images-america/santa_maria/95.7 The Beat.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kpatfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kpatfmaac-ibc3"
         },
         {
             name: "K-LOVE 96.1",
@@ -24507,7 +24507,7 @@ var stations = {/*
         {
             name: "98.1 KJUG",
             logo: "stations/images-america/santa_maria/98.1 KJUG.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kkjgfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kkjgfmaac-ibc3"
         },
         {
             name: "Old School 99.1",
@@ -24517,12 +24517,12 @@ var stations = {/*
         {
             name: "99.5 KSMA",
             logo: "stations/images-america/santa_maria/1240 KSMA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//agmedia28-ksmaamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//agmedia28-ksmaamaac-ibc3"
         },
         {
             name: "100.3 La Ley",
             logo: "stations/images-america/santa_maria/100.3 La Ley.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-krqkfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-krqkfmaac-ibc3"
         },
         {
             name: "Eclectic24 101.3",
@@ -24532,7 +24532,7 @@ var stations = {/*
         {
             name: "Sunny Country 102.5",
             logo: "stations/images-america/santa_maria/Sunny Country 102.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-ksnifmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-ksnifmaac-ibc3"
         },
         {
             name: "KRUZ 103.3",
@@ -24547,12 +24547,12 @@ var stations = {/*
         {
             name: "Pirate Radio 104.1",
             logo: "stations/images-america/santa_maria/Pirate Radio 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kboxfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kboxfmaac-ibc3"
         },
         {
             name: "Coast 104.5",
             logo: "stations/images-america/santa_maria/Coast 104.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-ksttfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-ksttfmaac-ibc3"
         },
         {
             name: "KRAZy Country 105.9",
@@ -24572,7 +24572,7 @@ var stations = {/*
         {
             name: "920 KVEC",
             logo: "stations/images-america/santa_maria/920 KVEC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-kvecamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kvecamaac-ibc3"
         },/*
         {
             name: "FOX Sports 990",
@@ -24582,7 +24582,7 @@ var stations = {/*
         {
             name: "1240 KSMA",
             logo: "stations/images-america/santa_maria/1240 KSMA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-ksmaamaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-ksmaamaac-ibc3"
         },
         {
             name: "1410 KTNK",
@@ -24624,7 +24624,7 @@ var stations = {/*
         {
             name: "Froggy 92.9",
             logo: "stations/images-america/santa_rosa_ca/Froggy 92.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/sonoma-kfgyfmaac-ibc3?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/sonoma-kfgyfmaac-ibc3?source=v7player"
         },
         {
             name: "Jazzy 93.7",
@@ -24644,7 +24644,7 @@ var stations = {/*
         {
             name: "97.7 The River",
             logo: "stations/images-america/santa_rosa_ca/97.7 The River.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/sonoma-kvrvfmaac-ibc3?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/sonoma-kvrvfmaac-ibc3?source=v7player"
         },
         {
             name: "Exitos 98.7",
@@ -24674,7 +24674,7 @@ var stations = {/*
         {
             name: "HOT 101.7",
             logo: "stations/images-america/santa_rosa_ca/HOT 101.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/sonoma-khthfmaac-ibc3?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/sonoma-khthfmaac-ibc3?source=v7player"
         },
         {
             name: "102.7 The Wolf",
@@ -24719,7 +24719,7 @@ var stations = {/*
         {
             name: "KCBS 740",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
             name: "810 KSFO",
@@ -24878,7 +24878,7 @@ var stations = {/*
         {
             name: "ALT 94.9",
             logo: "stations/images-america/san_diego/ALT 94.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kbztfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kbztfmaac-imc"
         },
         {
             name: "La Lupe 95.3",
@@ -24898,27 +24898,27 @@ var stations = {/*
         {
             name: "KyXy 96.5",
             logo: "stations/images-america/san_diego/KyXy 96.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kyxyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kyxyfmaac-imc"
         },
         {
             name: "97.3 The Fan",
             logo: "stations/images-america/san_diego/97.3 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kwfnfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kwfnfmaac-imc"
         },
         {
             name: "The Bet 97.3-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kwfnhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kwfnhd3aac-imc"
         },
         {
             name: "Sunny 98.1",
             logo: "stations/images-america/san_diego/Sunny 98.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kxsnfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kxsnfmaac-imc"
         },
         {
             name: "Channel Q 98.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "PartyMix 98.9",
@@ -24978,7 +24978,7 @@ var stations = {/*
         {
             name: "103.7 KSON",
             logo: "stations/images-america/san_diego/103.7 KSON.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-ksonfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-ksonfmaac-imc"
         },
         {
             name: "104.5 Radio Latina",
@@ -25192,7 +25192,7 @@ var stations = {/*
         {
             name: "Bay Country 92.1",
             logo: "stations/images-america/san_francisco/Bay Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbayfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbayfmaac-ibc4"
         },
         {
             name: "Bolly 92.3",
@@ -25222,7 +25222,7 @@ var stations = {/*
         {
             name: "Bay Country 94.5",
             logo: "stations/images-america/san_francisco/Bay Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kbayfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kbayfmaac-ibc4"
         },
         {
             name: "WiLD 94.9",
@@ -25232,7 +25232,7 @@ var stations = {/*
         {
             name: "95.7 The Game",
             logo: "stations/images-america/san_francisco/95.7 The Game.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kgmzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kgmzfmaac-imc"
         },
         {
             name: "96.5 KOIT",
@@ -25247,12 +25247,12 @@ var stations = {/*
         {
             name: "Alice 97.3",
             logo: "stations/images-america/san_francisco/Alice 97.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kllcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kllcfmaac-imc"
         },
         {
             name: "Channel Q 97.3-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "98.1 The Breeze",
@@ -25312,7 +25312,7 @@ var stations = {/*
         {
             name: "102 JAMS",
             logo: "stations/images-america/san_francisco/102 JAMS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krbqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krbqfmaac-imc"
         },
         {
             name: "KXSF 102.5",
@@ -25357,7 +25357,7 @@ var stations = {/*
         {
             name: "Live 105",
             logo: "stations/images-america/san_francisco/Live 105.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kitsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kitsfmaac-imc"
         },
         {
             name: "Latino Mix 105.7",
@@ -25377,12 +25377,12 @@ var stations = {/*
         {
             name: "Mix 106.5",
             logo: "stations/images-america/san_francisco/Mix 106.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kezrfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kezrfmaac-ibc4"
         },
         {
             name: "KCBS 106.9",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
             name: "K-LOVE 107.3",
@@ -25521,7 +25521,7 @@ var stations = {/*
         {
             name: "550 KTSA",
             logo: "stations/images-america/san_antonio/107.1 KTSA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktsaamaac-ibc4"
         },
         {
             name: "KLBJ 590",
@@ -25531,7 +25531,7 @@ var stations = {/*
         {
             name: "Sports Radio 610",
             logo: "stations/images-america/houston/Sports Radio 610.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
             name: "AM 630 The Word",
@@ -25551,7 +25551,7 @@ var stations = {/*
         {
             name: "Norteño 720",
             logo: "stations/images-america/san_antonio/Norteño 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksahfmaac-ibc4"
         },
         {
             name: "740 KTRH",
@@ -25720,7 +25720,7 @@ var stations = {/*
         {
             name: "Emma 94.1",
             logo: "stations/images-america/seattle/Emma 94.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kswdfmaac-imc"
         },
         {
             name: "KUOW 94.9",
@@ -25810,7 +25810,7 @@ var stations = {/*
         {
             name: "99.9 KISW",
             logo: "stations/images-america/seattle/99.9 KISW.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kiswfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiswfmaac-imc"
         },
         {
             name: "Sacred Heart Radio 100.3",
@@ -25820,7 +25820,7 @@ var stations = {/*
         {
             name: "100.7 The Wolf",
             logo: "stations/images-america/seattle/100.7 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kkwffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkwffmaac-imc"
         },
         {
             name: "Space 101.1",
@@ -25850,12 +25850,12 @@ var stations = {/*
         {
             name: "Channel Q 103.3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "HOT 103.7",
             logo: "stations/images-america/seattle/Hot 103.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-khtpfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-khtpfmaac-imc"
         },
         {
             name: "K-LOVE 104.5",
@@ -25915,12 +25915,12 @@ var stations = {/*
         {
             name: "107.7 The End",
             logo: "stations/images-america/seattle/107.7 The End.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knddfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knddfmaac-imc"
         },
         {
             name: "Channel Q 107.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "570 KVI",
@@ -26181,7 +26181,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "FOX Sports 620",
@@ -26223,7 +26223,7 @@ var stations = {/*
         {
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kgncamaac-ibc4"
         },
         {
             name: "NewsTalk 940",
@@ -26548,7 +26548,7 @@ var stations = {/*
         {
             name: "Classic Rock 99.5",
             logo: "stations/images-america/sioux_city/Classic Rock 99.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/powell-kkmafmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/powell-kkmafmaac-ibc2"
         },
         {
             name: "K-LOVE 100.1",
@@ -26558,12 +26558,12 @@ var stations = {/*
         {
             name: "Y101.3",
             logo: "stations/images-america/sioux_city/Y101.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/powell-kkyyfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/powell-kkyyfmaac-ibc2"
         },
         {
             name: "Q102",
             logo: "stations/images-america/sioux_city/Q102.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/powell-kqnufmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/powell-kqnufmaac-ibc2"
         },
         {
             name: "Bott Radio 103.3",
@@ -26573,12 +26573,12 @@ var stations = {/*
         {
             name: "104.1 The Wolf",
             logo: "stations/images-america/sioux_city/104.1 The Wolf.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxfmaac-ibc1"
         },
         {
             name: "KSUX 105.7",
             logo: "stations/images-america/sioux_city/KSUX 105.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/powell-ksuxfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/powell-ksuxfmaac-ibc2"
         },
         {
             name: "107.1 KISS FM",
@@ -26593,7 +26593,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "ESPN 590",
@@ -26623,7 +26623,7 @@ var stations = {/*
         {
             name: "KLEM 1410",
             logo: "stations/images-america/sioux_city/KLEM 1410.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/powell-klemamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/powell-klemamaac-ibc2"
         },
         {
             name: "La Preciosa 1470",
@@ -26645,7 +26645,7 @@ var stations = {/*
         {
             name: "Radio Lobo 97.7",
             logo: "stations/images-america/albuquerque/Radio Lobo 97.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/agmedia28-klvofmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-klvofmaac-ibc3"
         },
         {
             name: "Relevant Radio 99.9",
@@ -26804,7 +26804,7 @@ var stations = {/*
         {
             name: "more 104.9",
             logo: "stations/images-america/spencer/more 104.9.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-kmrrfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-kmrrfmaac-ibc1"
         },
         {
             name: "104.9 KMRR-HD2",
@@ -26819,7 +26819,7 @@ var stations = {/*
         {
             name: "Big Country 107.7",
             logo: "stations/images-america/spencer/Big Country 107.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-kicdfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/saga-kicdfmaac-ibc1"
         },
         {
             name: "KILR 1070",
@@ -27143,7 +27143,7 @@ var stations = {/*
         {
             name: "KJEL 103.7",
             logo: "stations/images-america/springfield_mo/KJEL 103.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kjelfmaac-ibc2"
         },
         {
             name: "104.1 KSGF",
@@ -27947,7 +27947,7 @@ var stations = {/*
         {
             name: "96.3 R&B",
             logo: "stations/images-america/st_louis/96.3 R&B.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wfunfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfunfmaac-imc"
         },
         {
             name: "96.3 WFUN-HD2",
@@ -27962,27 +27962,27 @@ var stations = {/*
         {
             name: "97.1 Talk",
             logo: "stations/images-america/st_louis/97.1 Talk.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kftkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kftkfmaac-imc"
         },
         {
             name: "Infinity Sports Network 97.1-HD2",
             logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
         },
         {
             name: "Y98",
             logo: "stations/images-america/st_louis/Y98.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kykyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kykyfmaac-imc"
         },
         {
             name: "The Bet 98.1-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "98.7 K254CR",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kmoxamaac-imc"
         },
         {
             name: "99.1 JOY FM",
@@ -28032,17 +28032,17 @@ var stations = {/*
         {
             name: "102.5 KEZK",
             logo: "stations/images-america/st_louis/102.5 KEZK.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kezkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kezkfmaac-imc"
         },
         {
             name: "102.5 KEZK-HD2",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net//direct/audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net//direct/audacy-kmoxamaac-imc"
         },
         {
             name: "Channel Q 102.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "KXOK 102.9",
@@ -28062,7 +28062,7 @@ var stations = {/*
         {
             name: "104.1 KMOX",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmoxamaac-imc"
         },
         {
             name: "104.1 K283CI",
@@ -28167,7 +28167,7 @@ var stations = {/*
         {
             name: "1120 KMOX",
             logo: "stations/images-america/st_louis/KMOX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
         },
         {
             name: "Relevant Radio 1260",
@@ -28187,7 +28187,7 @@ var stations = {/*
         {
             name: "AM 1400 KJFF",
             logo: "stations/images-america/st_louis/AM 1400 KJFF.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphamidwest-kjffamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kjffamaac-ibc2"
         },
         {
             name: "Covenant Network 1460",
@@ -28415,7 +28415,7 @@ var stations = {/*
         {
             name: "98 Rocks",
             logo: "stations/images-america/texarkana/98 Rocks.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
         },
         {
             name: "Real Country 98.7",
@@ -28587,7 +28587,7 @@ var stations = {/*
         {
             name: "750 The Game",
             logo: "stations/images-america/portland/750 The Game.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kxtgamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxtgamaac-ibc4"
         },
         {
             name: "AM 860 The Answer",
@@ -28770,7 +28770,7 @@ var stations = {/*
         {
             name: "98.5 Jack FM",
             logo: "stations/images-america/topeka/98.5 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ksajfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksajfmaac-ibc4"
         },
         {
             name: "99.3 The Eagle",
@@ -28790,7 +28790,7 @@ var stations = {/*
         {
             name: "WIBW 104.9",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "NOAA Weather Radio Topeka",
@@ -28812,7 +28812,7 @@ var stations = {/*
         {
             name: "94.5 Country",
             logo: "stations/images-america/topeka/94.5 Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
         },
         {
             name: "V100",
@@ -28822,7 +28822,7 @@ var stations = {/*
         {
             name: "Country 106.9",
             logo: "stations/images-america/topeka/Country 106.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
         },
         {
             name: "Majic 107.7",
@@ -28832,7 +28832,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
         },
         {
             name: "1440 KMAJ",
@@ -29239,7 +29239,7 @@ var stations = {/*
         {
             name: "92.9 The River",
             logo: "stations/images-america/tulsa/92.9 The River.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kbezfmaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kbezfmaac-imc2"
         },
         {
             name: "93.5 The Patriot",
@@ -29299,7 +29299,7 @@ var stations = {/*
         {
             name: "The Bull 98.5",
             logo: "stations/images-america/tulsa/The Bull 98.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kvoofmaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kvoofmaac-imc2"
         },
         {
             name: "Heart and Soul 99.1",
@@ -29309,7 +29309,7 @@ var stations = {/*
         {
             name: "Big Country 99.5",
             logo: "stations/images-america/tulsa/Big Country 99.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kxblfmaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kxblfmaac-imc2"
         },
         {
             name: "99.9 K260CR",
@@ -29399,12 +29399,12 @@ var stations = {/*
         {
             name: "106.9 KHITS",
             logo: "stations/images-america/tulsa/106.9 KHITS.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-khttfmaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-khttfmaac-imc2"
         },
         {
             name: "106.9 KHTT-HD2",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "KOSU 107.5",
@@ -29449,7 +29449,7 @@ var stations = {/*
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "KRXO 1270",
@@ -29733,7 +29733,7 @@ var stations = {/*
         {
             name: "La Invasora 96.7",
             logo: "stations/images-america/tyler/La Invasora 96.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-koyefmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-koyefmaac-ibc4"
         },
         {
             name: "KTBB 97.5",
@@ -29783,7 +29783,7 @@ var stations = {/*
         {
             name: "104.1 The Ranch",
             logo: "stations/images-america/tyler/104.1 The Ranch.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkusfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkusfmaac-ibc4"
         },
         {
             name: "104.7 K284CT",
@@ -29798,12 +29798,12 @@ var stations = {/*
         {
             name: "KYKX 105.7",
             logo: "stations/images-america/tyler/KYKX 105.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kykxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kykxfmaac-ibc4"
         },
         {
             name: "106.5 Jack FM",
             logo: "stations/images-america/tyler/106.5 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kooifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kooifmaac-ibc4"
         },
         {
             name: "107.3 KISS FM",
@@ -29828,7 +29828,7 @@ var stations = {/*
         {
             name: "1080 KRLD",
             logo: "stations/images-america/dallas_fort_worth/1080 KRLD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-krldamaac-imc"
         },
         {
             name: "Talk Radio 1190",
@@ -29895,7 +29895,7 @@ var stations = {/*
         {
             name: "KCBS 740",
             logo: "stations/images-america/san_francisco/KCBS 106.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kcbsamaac-imc"
         },
         {
             name: "810 KSFO",
@@ -30202,7 +30202,7 @@ var stations = {/*
         {
             name: "HD 96.3",
             logo: "stations/images-america/victorville/HD 96.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
         },*/
         {
             name: "ViBE 98.1",
@@ -30543,7 +30543,7 @@ var stations = {/*
         {
             name: "94.3 Jack FM",
             logo: "stations/images-america/wenatchee/94.3 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkrvhd3aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkrvhd3aac-ibc4"
         },
         {
             name: "Z-Country 94.7",
@@ -30568,7 +30568,7 @@ var stations = {/*
         {
             name: "100.5 KWIQ",
             logo: "stations/images-america/wenatchee/100.5 KWIQ.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kwiqfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kwiqfmaac-ibc4"
         },
         {
             name: "NWPB Jazz 101.1",
@@ -30583,7 +30583,7 @@ var stations = {/*
         {
             name: "La Nueva 103.3",
             logo: "stations/images-america/wenatchee/La Nueva 103.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kwlnfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kwlnfmaac-ibc4"
         },
         {
             name: "KW3 103.9",
@@ -30593,7 +30593,7 @@ var stations = {/*
         {
             name: "Country 104.7",
             logo: "stations/images-america/wenatchee/Country 104.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kkrvfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkrvfmaac-ibc4"
         },
         {
             name: "KORE-LP 105.9",
@@ -30739,7 +30739,7 @@ var stations = {/*
         {
             name: "Power 93.5",
             logo: "stations/images-america/wichita/Power 93.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kdgsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kdgsfmaac-imc"
         },
         {
             name: "KGSO 93.9",
@@ -30769,7 +30769,7 @@ var stations = {/*
         {
             name: "97.5 KFH",
             logo: "stations/images-america/wichita/KFH.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfhfmaac-imc"
         },
         {
             name: "B98",
@@ -30779,17 +30779,17 @@ var stations = {/*
         {
             name: "98.7 KNSS",
             logo: "stations/images-america/wichita/KNSS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knssamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knssamaac-imc"
         },
         {
             name: "98.7 KNSS-HD2",
             logo: "stations/images-america/wichita/KFH.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kfhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kfhfmaac-imc"
         },
         {
             name: "The Bet 98.7-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "K-LOVE 99.1",
@@ -30839,7 +30839,7 @@ var stations = {/*
         {
             name: "103.7 KEYN",
             logo: "stations/images-america/wichita/103.7 KEYN.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-keynfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-keynfmaac-imc"
         },
         {
             name: "Classic Rock 104.5",
@@ -30849,7 +30849,7 @@ var stations = {/*
         {
             name: "105.3 The Buzz",
             logo: "stations/images-america/wichita/105.3 The Buzz.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kfbzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfbzfmaac-imc"
         },
         {
             name: "Radio Lobo 106.5",
@@ -30884,12 +30884,12 @@ var stations = {/*
         {
             name: "1240 KFH",
             logo: "stations/images-america/wichita/KFH.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-kfhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kfhfmaac-imc"
         },
         {
             name: "1330 KNSS",
             logo: "stations/images-america/wichita/KNSS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-knssamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-knssamaac-imc"
         },
         {
             name: "KGSO 1410",
@@ -31398,7 +31398,7 @@ var stations = {/*
         {
             name: "560 KBLU",
             logo: "stations/images-america/yuma/560 KBLU.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
         },*/
     ],
     "zapata": [
@@ -34982,12 +34982,12 @@ var stations = {/*
         {
             name: "HOT 93.7",
             logo: "stations/images-america/c2c/hartford_ct/HOT 93.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wzmxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wzmxfmaac-imc"
         },
         {
             name: "Channel Q 93.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Faith Radio 94.1",
@@ -35012,12 +35012,12 @@ var stations = {/*
         {
             name: "96.5 TIC",
             logo: "stations/images-america/c2c/hartford_ct/96.5 TIC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
         },
         {
             name: "96.5 WTIC-HD2",
             logo: "stations/images-america/c2c/hartford_ct/1080 WTIC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-wticamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-wticamaac-imc"
         },
         {
             name: "The Power 97.5",
@@ -35047,7 +35047,7 @@ var stations = {/*
         {
             name: "Lite 100.5",
             logo: "stations/images-america/c2c/hartford_ct/Lite 100.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrchfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrchfmaac-imc"
         },
         {
             name: "100.9 WPOP",
@@ -35112,7 +35112,7 @@ var stations = {/*
         {
             name: "1080 WTIC",
             logo: "stations/images-america/c2c/hartford_ct/1080 WTIC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wticamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wticamaac-imc"
         },
         {
             name: "Faith Radio 1360",
@@ -35500,7 +35500,7 @@ var stations = {/*
         {
             name: "Wind FM 92.5",
             logo: "stations/images-america/c2c/gainesville_fl/Wind FM 92.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wyndfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wyndfmaac-ibc1"
         },
         {
             name: "Q92.9",
@@ -35510,7 +35510,7 @@ var stations = {/*
         {
             name: "93.7 K-Country",
             logo: "stations/images-america/c2c/gainesville_fl/93.7 K-Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wogkfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wogkfmaac-ibc1"
         },
         {
             name: "R&B 94.1",
@@ -35535,7 +35535,7 @@ var stations = {/*
         {
             name: "97.3 The Sky",
             logo: "stations/images-america/c2c/gainesville_fl/97.3 The Sky.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wskyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wskyfmaac-imc"
         },
         {
             name: "ESPN 98.1",
@@ -35545,7 +35545,7 @@ var stations = {/*
         {
             name: "98.5 KTK",
             logo: "stations/images-america/c2c/gainesville_fl/98.5 KTK.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wktkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wktkfmaac-imc"
         },
         {
             name: "98.9 JAMZ",
@@ -36208,17 +36208,17 @@ var stations = {/*
         {
             name: "Power 96",
             logo: "stations/images-america/c2c/miami_fl/Power 96.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wpowfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wpowfmaac-imc"
         },
         {
             name: "96.5 WPOW-HD2",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-wqamamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-wqamamaac-imc"
         },
         {
             name: "Channel Q 96.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "HITS 97.3",
@@ -36253,17 +36253,17 @@ var stations = {/*
         {
             name: "KISS Country 99.9",
             logo: "stations/images-america/c2c/miami_fl/KISS Country 99.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkisfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkisfmaac-imc"
         },
         {
             name: "99.9 WKIS-HD2",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct//audacy-wqamamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//audacy-wqamamaac-imc"
         },
         {
             name: "99.9 WKIS-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "Israeli Radio 99.9-HD4",
@@ -36278,12 +36278,12 @@ var stations = {/*
         {
             name: "101.5 Lite FM",
             logo: "stations/images-america/c2c/miami_fl/101.5 Lite FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlyffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlyffmaac-imc"
         },
         {
             name: "102.7 The Beach",
             logo: "stations/images-america/c2c/miami_fl/102.7 The Beach.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmxjfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmxjfmaac-imc"
         },
         {
             name: "Roadblock Radio 102.7-HD3",
@@ -36313,12 +36313,12 @@ var stations = {/*
         {
             name: "104.3 WQAM",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wqamamaac-imc"
         },
         {
             name: "104.3 WQAM-HD2",
             logo: "stations/images-america/c2c/miami_fl/Radio Libre 790.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-waxyamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-waxyamaac-imc"
         },
         {
             name: "104.3 WQAM-HD3",
@@ -36403,7 +36403,7 @@ var stations = {/*
         {
             name: "560 WQAM",
             logo: "stations/images-america/c2c/miami_fl/104.3 WQAM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wqamamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wqamamaac-imc"
         },
         {
             name: "610 WIOD",
@@ -36423,7 +36423,7 @@ var stations = {/*
         {
             name: "Radio Libre 790",
             logo: "stations/images-america/c2c/miami_fl/Radio Libre 790.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-waxyamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-waxyamaac-imc"
         },
         {
             name: "BIN 880",
@@ -37004,12 +37004,12 @@ var stations = {/*
         {
             name: "102 Jamz",
             logo: "stations/images-america/c2c/orlando_fl/102 Jamz.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjhmfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjhmfmaac-imc"
         },
         {
             name: "The Bet 101.9-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "Kaliente 103.1",
@@ -37044,12 +37044,12 @@ var stations = {/*
         {
             name: "Mix 105.1",
             logo: "stations/images-america/c2c/orlando_fl/Mix 105.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-womxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-womxfmaac-imc"
         },
         {
             name: "Channel Q 105.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Suave 105.5",
@@ -37059,12 +37059,12 @@ var stations = {/*
         {
             name: "105.9 SUNNY FM",
             logo: "stations/images-america/c2c/orlando_fl/105.9 SUNNY FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-woclfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-woclfmaac-imc"
         },
         {
             name: "Infinity Sports Network 105.9-HD2",
             logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
         },
         {
             name: "GPraise 106.3",
@@ -37841,12 +37841,12 @@ var stations = {/*
         {
             name: "92.9 The Game",
             logo: "stations/images-america/c2c/atlanta_ga/92.9 The Game.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wzgcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wzgcfmaac-imc"
         },
         {
             name: "The Bet 92.9-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "The Bear 92.5",
@@ -37876,12 +37876,12 @@ var stations = {/*
         {
             name: "Star 94",
             logo: "stations/images-america/c2c/atlanta_ga/Star 94.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wstrfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wstrfmaac-imc"
         },
         {
             name: "Channel Q 94.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Streetz 94.5",
@@ -37986,17 +37986,17 @@ var stations = {/*
         {
             name: "V-103",
             logo: "stations/images-america/c2c/atlanta_ga/V-103.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wveefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wveefmaac-imc"
         },
         {
             name: "103.3 WVEE-HD2",
             logo: "stations/images-america/c2c/atlanta_ga/V-103 International 103.3-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wveehd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wveehd2aac-imc"
         },
         {
             name: "103.3 WVEE-HD3",
             logo: "stations/images-america/c2c/atlanta_ga/1380 WAOK.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-waokamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-waokamaac-imc"
         },
         {
             name: "KISS 104.1",
@@ -38091,7 +38091,7 @@ var stations = {/*
         {
             name: "1380 WAOK",
             logo: "stations/images-america/c2c/atlanta_ga/1380 WAOK.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-waokamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-waokamaac-imc"
         },
         {
             name: "Freedom 1690",
@@ -39282,7 +39282,7 @@ var stations = {/*
         {
             name: "Rewind 92.5",
             logo: "stations/images-america/c2c/champaign_il/Rewind 92.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wreefmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wreefmaac-ibc1"
         },
         {
             name: "ESPN 93.5",
@@ -39297,12 +39297,12 @@ var stations = {/*
         {
             name: "Mix 94.5",
             logo: "stations/images-america/c2c/champaign_il/Mix 94.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wlrwfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlrwfmaac-ibc1"
         },
         {
             name: "eXtra 96.9",
             logo: "stations/images-america/c2c/champaign_il/eXtra 96.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wixyhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd2aac-imc"
         },
         {
             name: "WHMS 97.5",
@@ -39312,17 +39312,17 @@ var stations = {/*
         {
             name: "WYXY Classic 99.1",
             logo: "stations/images-america/c2c/champaign_il/WYXY Classic 99.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wyxyfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wyxyfmaac-ibc1"
         },
         {
             name: "EZ 99.7",
             logo: "stations/images-america/c2c/champaign_il/EZ 99.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wixyhd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd3aac-imc"
         },
         {
             name: "WIXY 100.3",
             logo: "stations/images-america/c2c/champaign_il/WIXY 100.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wixyfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyfmaac-ibc1"
         },
         {
             name: "101.1 W266AF",
@@ -39367,7 +39367,7 @@ var stations = {/*
         {
             name: "670 The Score",
             logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "WGN Radio 720",
@@ -39449,7 +39449,7 @@ var stations = {/*
         {
             name: "93XRT",
             logo: "stations/images-america/c2c/chicago_il/93XRT.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wxrtfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxrtfmaac-imc"
         },
         {
             name: "93.9 LITE FM",
@@ -39479,12 +39479,12 @@ var stations = {/*
         {
             name: "B96",
             logo: "stations/images-america/c2c/chicago_il/B96.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbbmfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmfmaac-imc"
         },
         {
             name: "Channel Q 96.3-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "97.1 The Drive",
@@ -39504,7 +39504,7 @@ var stations = {/*
         {
             name: "US 99",
             logo: "stations/images-america/c2c/chicago_il/US 99.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
         },
         {
             name: "Throwback 100.3",
@@ -39554,12 +39554,12 @@ var stations = {/*
         {
             name: "104.3 JAMS",
             logo: "stations/images-america/c2c/chicago_il/104.3 JAMS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbmxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbmxfmaac-imc"
         },
         {
             name: "104.3 WBMX-HD2",
             logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "Qué Buena 105.1",
@@ -39579,12 +39579,12 @@ var stations = {/*
         {
             name: "WBBM 105.9",
             logo: "stations/images-america/c2c/chicago_il/WBBM 105.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbbmamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmamaac-imc"
         },
         {
             name: "The Bet 105.9-HD2",
             logo: "stations/images-america/c2c/chicago_il/The Bet 105.9-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wcfshd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcfshd2aac-imc"
         },
         {
             name: "106.3 WSRB",
@@ -39614,7 +39614,7 @@ var stations = {/*
         {
             name: "670 The Score",
             logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "WGN Radio 720",
@@ -39962,7 +39962,7 @@ var stations = {/*
         {
             name: "107.3 WSJY",
             logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
             name: "Sportsfan Radio 1330",
@@ -40004,12 +40004,12 @@ var stations = {/*
         {
             name: "Rewind 93.5",
             logo: "stations/images-america/c2c/springfield_il/Rewind 93.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wdbrhd4aac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrhd4aac-ibc1"
         },
         {
             name: "WTAX 93.9",
             logo: "stations/images-america/c2c/springfield_il/WTAX 93.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
         },
         {
             name: "96.7 BOB FM",
@@ -40034,12 +40034,12 @@ var stations = {/*
         {
             name: "100.5 WYMG",
             logo: "stations/images-america/c2c/springfield_il/100.5 WYMG.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wymgfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wymgfmaac-ibc1"
         },
         {
             name: "101.9 The Wolf",
             logo: "stations/images-america/c2c/springfield_il/101.9 The Wolf.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wlfzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlfzfmaac-ibc1"
         },
         {
             name: "102.5 W273DR",
@@ -40049,7 +40049,7 @@ var stations = {/*
         {
             name: "WDBR 103.7",
             logo: "stations/images-america/c2c/springfield_il/WDBR 103.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wdbrfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrfmaac-ibc1"
         },
         {
             name: "104.5 WFMB",
@@ -41236,7 +41236,7 @@ var stations = {/*
         {
             name: "B96.5",
             logo: "stations/images-america/c2c/louisville_ky/B96.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wgzbfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wgzbfmaac-ibc2"
         },
         {
             name: "WXOX 97.1",
@@ -41256,7 +41256,7 @@ var stations = {/*
         {
             name: "99.7 DJX",
             logo: "stations/images-america/c2c/louisville_ky/99.7 DJX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wdjxfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wdjxfmaac-ibc2"
         },
         {
             name: "WAKY 100.1",
@@ -41281,7 +41281,7 @@ var stations = {/*
         {
             name: "Magic 101.3",
             logo: "stations/images-america/c2c/louisville_ky/Magic 101.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wmjmfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wmjmfmaac-ibc2"
         },
         {
             name: "Poder 101.9",
@@ -41291,7 +41291,7 @@ var stations = {/*
         {
             name: "102.3 The Rose",
             logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wxmafmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wxmafmaac-ibc2"
         },
         {
             name: "Q103.1",
@@ -41311,7 +41311,7 @@ var stations = {/*
         {
             name: "ALT 105.1",
             logo: "stations/images-america/c2c/louisville_ky/ALT 105.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wghlfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wghlfmaac-ibc2"
         },
         {
             name: "105.9 Way FM",
@@ -42022,7 +42022,7 @@ var stations = {/*
         {
             name: "The Bet 92.9",
             logo: "stations/images-america/c2c/new_orleans_la/The Bet 92.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwwlamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwwlamaac-imc"
         },
         {
             name: "Q93",
@@ -42042,7 +42042,7 @@ var stations = {/*
         {
             name: "Bayou 95.7",
             logo: "stations/images-america/c2c/new_orleans_la/Bayou 95.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkbufmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkbufmaac-imc"
         },
         {
             name: "Throwback 96.3",
@@ -42052,12 +42052,12 @@ var stations = {/*
         {
             name: "B97",
             logo: "stations/images-america/c2c/new_orleans_la/B97.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wezbfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wezbfmaac-imc"
         },
         {
             name: "Channel Q 97.1-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "La Calle 97.9",
@@ -42097,7 +42097,7 @@ var stations = {/*
         {
             name: "Magic 101.9",
             logo: "stations/images-america/c2c/new_orleans_la/Magic 101.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlmgfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlmgfmaac-imc"
         },
         {
             name: "102.3 WHIV",
@@ -42127,12 +42127,12 @@ var stations = {/*
         {
             name: "WWL 105.3",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwlamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwlamaac-imc"
         },
         {
             name: "WWL 105.3-HD2",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwlhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwlhd2aac-imc"
         },
         {
             name: "Tropical 105.7",
@@ -42157,7 +42157,7 @@ var stations = {/*
         {
             name: "WWL 870",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
         },
         {
             name: "WGSO 990",
@@ -42224,7 +42224,7 @@ var stations = {/*
         {
             name: "KOKA 93.3",
             logo: "stations/images-america/c2c/shreveport_la/KOKA 93.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kokaamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kokaamaac-ibc4"
         },
         {
             name: "Kiss Country 93.7",
@@ -42249,7 +42249,7 @@ var stations = {/*
         {
             name: "The River 95.7",
             logo: "stations/images-america/c2c/shreveport_la/The River 95.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-klklfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klklfmaac-ibc4"
         },
         {
             name: "96.5 KVKI",
@@ -42274,7 +42274,7 @@ var stations = {/*
         {
             name: "98 Rocks",
             logo: "stations/images-america/texarkana/98 Rocks.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
         },
         {
             name: "Highway 98.9",
@@ -42304,7 +42304,7 @@ var stations = {/*
         {
             name: "102.1 KDKS",
             logo: "stations/images-america/c2c/shreveport_la/102.1 KDKS.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
         },
         {
             name: "Magic 102.9",
@@ -42314,7 +42314,7 @@ var stations = {/*
         {
             name: "103.7 Tha Beat",
             logo: "stations/images-america/c2c/shreveport_la/103.7 Tha Beat.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbttfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbttfmaac-ibc4"
         },
         {
             name: "KBEF 104.5",
@@ -42448,7 +42448,7 @@ var stations = {/*
         {
             name: "KISS FM 94.5",
             logo: "stations/images-america/c2c/bangor_me/KISS FM 94.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/blueberry-wksqfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/blueberry-wksqfmaac-ibc1"
         },
         {
             name: "I-95",
@@ -42463,7 +42463,7 @@ var stations = {/*
         {
             name: "The Bear 97.1",
             logo: "stations/images-america/c2c/bangor_me/The Bear 97.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/blueberry-wbfbfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/blueberry-wbfbfmaac-ibc1"
         },
         {
             name: "WJCX 99.5",
@@ -42498,12 +42498,12 @@ var stations = {/*
         {
             name: "BIG 104 FM",
             logo: "stations/images-america/c2c/bangor_me/BIG 104 FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/blueberry-wabkfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/blueberry-wabkfmaac-ibc1"
         },
         {
             name: "WTOS 105.3",
             logo: "stations/images-america/c2c/bangor_me/WTOS 105.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/blueberry-wtosfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/blueberry-wtosfmaac-ibc1"
         },
         {
             name: "Q106.5",
@@ -42602,7 +42602,7 @@ var stations = {/*
         {
             name: "Coast 93.1",
             logo: "stations/images-america/c2c/portland_me/Coast 93.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wmgxfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wmgxfmaac-ibc1"
         },
         {
             name: "Air1 93.9",
@@ -42622,7 +42622,7 @@ var stations = {/*
         {
             name: "WPEI 95.9",
             logo: "stations/images-america/c2c/portland_me/WPEI 95.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-weeifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-weeifmaac-imc"
         },
         {
             name: "96.3 The Big JAB",
@@ -42637,12 +42637,12 @@ var stations = {/*
         {
             name: "WGAN 98.5",
             logo: "stations/images-america/c2c/portland_me/WGAN 98.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wganamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wganamaac-ibc1"
         },
         {
             name: "98.9 WCLZ",
             logo: "stations/images-america/c2c/portland_me/98.9 WCLZ.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wclzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wclzfmaac-ibc1"
         },
         {
             name: "99.9 The Wolf",
@@ -42657,12 +42657,12 @@ var stations = {/*
         {
             name: "Whoopie 100.9",
             logo: "stations/images-america/c2c/portland_me/Whoopie 100.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wynzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wynzfmaac-ibc1"
         },
         {
             name: "101.9 POR",
             logo: "stations/images-america/c2c/portland_me/101.9 POR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wporfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wporfmaac-ibc1"
         },
         {
             name: "102.9 WBLM",
@@ -42687,7 +42687,7 @@ var stations = {/*
         {
             name: "107.1 The Bay",
             logo: "stations/images-america/c2c/portland_me/107.1 The Bay.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wbaeamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wbaeamaac-ibc1"
         },
         {
             name: "107.5 Frank",
@@ -42799,7 +42799,7 @@ var stations = {/*
         {
             name: "Today's 101.9",
             logo: "stations/images-america/c2c/baltimore_md/Today's 101.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wliffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wliffmaac-imc"
         },
         {
             name: "102.7 Jack FM",
@@ -42819,17 +42819,17 @@ var stations = {/*
         {
             name: "104.9 W285EJ",
             logo: "stations/images-america/c2c/baltimore_md/The Bet 1300.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
         },
         {
             name: "105.7 The Fan",
             logo: "stations/images-america/c2c/baltimore_md/105.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjzfmaac-imc"
         },
         {
             name: "Mix 106.5",
             logo: "stations/images-america/c2c/baltimore_md/Mix 106.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwmxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwmxfmaac-imc"
         },
         {
             name: "Audacy All New 106.5-HD2",
@@ -42839,7 +42839,7 @@ var stations = {/*
         {
             name: "Channel Q 106.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "106.9 WCTR",
@@ -42859,7 +42859,7 @@ var stations = {/*
         {
             name: "The Bet 1300",
             logo: "stations/images-america/c2c/baltimore_md/The Bet 1300.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
         },
         {
             name: "Spirit 1400",
@@ -42921,22 +42921,22 @@ var stations = {/*
         {
             name: "94.7 The Drive",
             logo: "stations/images-america/c2c/washington_dc/94.7 The Drive.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wiadfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wiadfmaac-imc"
         },
         {
             name: "Channel Q 94.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "WPGC 95.5",
             logo: "stations/images-america/c2c/washington_dc/WPGC 95.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wpgcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wpgcfmaac-imc"
         },
         {
             name: "WPGC 95.5-HD2",
             logo: "stations/images-america/c2c/washington_dc/106.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
         },
         {
             name: "WHUR 96.3",
@@ -43066,12 +43066,12 @@ var stations = {/*
         {
             name: "106.7 The Fan",
             logo: "stations/images-america/c2c/washington_dc/106.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjfkfmaac-imc"
         },
         {
             name: "El Zol 107.9",
             logo: "stations/images-america/c2c/washington_dc/El Zol 107.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlzlfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlzlfmaac-imc"
         },
         {
             name: "ESPN 630",
@@ -43081,7 +43081,7 @@ var stations = {/*
         {
             name: "The Team 980",
             logo: "stations/images-america/c2c/washington_dc/The Team 980.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wtemamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wtemamaac-imc"
         },
         {
             name: "1050 WBQH",
@@ -43111,7 +43111,7 @@ var stations = {/*
         {
             name: "The Bet 1580",
             logo: "stations/images-america/c2c/washington_dc/The Bet 1580.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjfkamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjfkamaac-imc"
         },
     ],
     "boston": [
@@ -43178,7 +43178,7 @@ var stations = {/*
         {
             name: "WEEI 93.7",
             logo: "stations/images-america/c2c/boston_ma/WEEI 93.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-weeifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-weeifmaac-imc"
         },
         {
             name: "JAM'N 94.5",
@@ -43253,7 +43253,7 @@ var stations = {/*
         {
             name: "101.1 WBMS",
             logo: "stations/images-america/c2c/boston_ma/101.1 WBMS.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/marshfield-wbmsamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/marshfield-wbmsamaac-ibc1"
         },
         {
             name: "101.7 The Bull",
@@ -43278,12 +43278,12 @@ var stations = {/*
         {
             name: "BIG 103",
             logo: "stations/images-america/c2c/boston_ma/BIG 103.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbgbfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbgbfmaac-imc"
         },
         {
             name: "Channel Q 103.3-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "LatinX 103.7",
@@ -43293,12 +43293,12 @@ var stations = {/*
         {
             name: "Mix 104.1",
             logo: "stations/images-america/c2c/boston_ma/Mix 104.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwbxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwbxfmaac-imc"
         },
         {
             name: "WAAF 104.1-HD2",
             logo: "stations/images-america/c2c/boston_ma/WAAF.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-wwbxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-wwbxhd2aac-imc"
         },
         {
             name: "104.5 XLO",
@@ -43323,7 +43323,7 @@ var stations = {/*
         {
             name: "Magic 106.7",
             logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
         },
         {
             name: "K-LOVE 107.3",
@@ -43363,7 +43363,7 @@ var stations = {/*
         {
             name: "850 WEEI",
             logo: "stations/images-america/c2c/boston_ma/850 WEEI.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-weeiamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-weeiamaac-imc"
         },
         {
             name: "WBZ NewsRadio 1030",
@@ -43420,12 +43420,12 @@ var stations = {/*
         {
             name: "94.7 WMAS",
             logo: "stations/images-america/c2c/springfield_ma/94.7 WMAS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmasfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmasfmaac-imc"
         },
         {
             name: "96.5 TIC",
             logo: "stations/images-america/c2c/springfield_ma/96.5 TIC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wticfmaac-imc"
         },
         {
             name: "97.3 The Beat",
@@ -43440,7 +43440,7 @@ var stations = {/*
         {
             name: "Nueva 98.1",
             logo: "stations/images-america/c2c/springfield_ma/Nueva 98.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-whllamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-whllamaac-imc"
         },
         {
             name: "KOOL Radio 100.1",
@@ -43455,7 +43455,7 @@ var stations = {/*
         {
             name: "WEEI 105.5",
             logo: "stations/images-america/c2c/springfield_ma/WEEI 105.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wweifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wweifmaac-imc"
         },
         {
             name: "560 WHYN",
@@ -43557,12 +43557,12 @@ var stations = {/*
         {
             name: "97.1 The Ticket",
             logo: "stations/images-america/c2c/detroit_mi/97.1 The Ticket.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wxytfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxytfmaac-imc"
         },
         {
             name: "The Bet 97.1-HD3",
             logo: "stations/images-america/c2c/detroit_mi/The Bet 97.1-HD3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-wxythd3aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-wxythd3aac-imc"
         },
         {
             name: "CBC Radio One 97.5",
@@ -43582,7 +43582,7 @@ var stations = {/*
         {
             name: "ALT 98.7",
             logo: "stations/images-america/c2c/detroit_mi/ALT 98.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wdzhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdzhfmaac-imc"
         },
         {
             name: "CJAM 99.1",
@@ -43592,7 +43592,7 @@ var stations = {/*
         {
             name: "99.5 WYCD",
             logo: "stations/images-america/c2c/detroit_mi/99.5 WYCD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wycdfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wycdfmaac-imc"
         },
         {
             name: "100.3 WNIC",
@@ -43637,7 +43637,7 @@ var stations = {/*
         {
             name: "104.3 WOMC",
             logo: "stations/images-america/c2c/detroit_mi/104.3 WOMC.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-womcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-womcfmaac-imc"
         },
         {
             name: "105.1 The Bounce",
@@ -43692,7 +43692,7 @@ var stations = {/*
         {
             name: "WWJ 950",
             logo: "stations/images-america/c2c/detroit_mi/WWJ 950.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwjamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwjamaac-imc"
         },
         {
             name: "BIN 1130",
@@ -44124,7 +44124,7 @@ var stations = {/*
         {
             name: "US Country 99.9",
             logo: "stations/images-america/c2c/albert_lea_mn/US Country 99.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphamidwest-kausfmaac-ibc2"
         },
     ],
     "bemidji": [
@@ -44500,12 +44500,12 @@ var stations = {/*
         {
             name: "102.9 The Wolf",
             logo: "stations/images-america/c2c/minneapolis_mn/102.9 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kmnbfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmnbfmaac-imc"
         },
         {
             name: "104.1 Jack FM",
             logo: "stations/images-america/c2c/minneapolis_mn/104.1 Jack FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kzjkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kzjkfmaac-imc"
         },
         {
             name: "Radio K 104.5",
@@ -44545,7 +44545,7 @@ var stations = {/*
         {
             name: "830 WCCO",
             logo: "stations/images-america/c2c/minneapolis_mn/830 WCCO.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wccoamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wccoamaac-imc"
         },
         {
             name: "AM 950",
@@ -44810,7 +44810,7 @@ var stations = {/*
         {
             name: "K101",
             logo: "stations/images-america/c2c/worthington_mn/K101.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
         },
         {
             name: "Q102",
@@ -44835,7 +44835,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "KXRB 1140",
@@ -45074,7 +45074,7 @@ var stations = {/*
         {
             name: "WWL 870",
             logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
         },
         {
             name: "1130 WQFX",
@@ -45526,7 +45526,7 @@ var stations = {/*
         {
             name: "93.5 The Legend",
             logo: "stations/images-america/c2c/jackson_ms/93.5 The Legend.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/newsouth-whjtfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-whjtfmaac-ibc4"
         },
         {
             name: "93.5 WHJT-HD2",
@@ -45541,12 +45541,12 @@ var stations = {/*
         {
             name: "US 96",
             logo: "stations/images-america/c2c/jackson_ms/US 96.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/newsouth-wusjfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wusjfmaac-ibc3"
         },
         {
             name: "WJNT 96.9",
             logo: "stations/images-america/c2c/jackson_ms/WJNT 96.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wjntamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wjntamaac-ibc4"
         },
         {
             name: "SuperTalk Jackson 97.3",
@@ -45566,12 +45566,12 @@ var stations = {/*
         {
             name: "Mix 98.7",
             logo: "stations/images-america/c2c/jackson_ms/Mix 98.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/newsouth-wjkkfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wjkkfmaac-ibc3"
         },
         {
             name: "99 Jams",
             logo: "stations/images-america/c2c/jackson_ms/99 Jams.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wjmifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wjmifmaac-ibc4"
         },
         {
             name: "Smooth Soul 100.5",
@@ -45586,7 +45586,7 @@ var stations = {/*
         {
             name: "Y101",
             logo: "stations/images-america/c2c/jackson_ms/Y101.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/newsouth-wyoyfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wyoyfmaac-ibc3"
         },
         {
             name: "River 101.3",
@@ -45611,7 +45611,7 @@ var stations = {/*
         {
             name: "Gospel 103.5",
             logo: "stations/images-america/c2c/jackson_ms/Gospel 103.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-woadamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-woadamaac-ibc4"
         },
         {
             name: "WYAB 103.9",
@@ -45636,12 +45636,12 @@ var stations = {/*
         {
             name: "The Zone 105.9",
             logo: "stations/images-america/c2c/jackson_ms/The Zone 105.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wrksfmaac-ibc3"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wrksfmaac-ibc3"
         },
         {
             name: "106.3 The Fan",
             logo: "stations/images-america/c2c/jackson_ms/106.3 The Fan.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wjqsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wjqsamaac-ibc4"
         },
         {
             name: "Z106.7",
@@ -45651,7 +45651,7 @@ var stations = {/*
         {
             name: "Kixie 107",
             logo: "stations/images-america/c2c/jackson_ms/Kixie 107.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wkxifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wkxifmaac-ibc4"
         },
         {
             name: "620 WJDX",
@@ -46206,7 +46206,7 @@ var stations = {/*
         {
             name: "Kiss 98.5",
             logo: "stations/images-america/c2c/buffalo_ny/Kiss 98.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wksefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wksefmaac-imc"
         },
         {
             name: "HOT 98.9",
@@ -46241,7 +46241,7 @@ var stations = {/*
         {
             name: "104.7 The Wolf",
             logo: "stations/images-america/c2c/buffalo_ny/107.7 & 104.7 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
         },
         {
             name: "106.5 WYRK",
@@ -46251,12 +46251,12 @@ var stations = {/*
         {
             name: "Classic R&B 107.3",
             logo: "stations/images-america/c2c/buffalo_ny/Classic R&B 107.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwwsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwwsamaac-imc"
         },
         {
             name: "107.7 The Wolf",
             logo: "stations/images-america/c2c/buffalo_ny/107.7 & 104.7 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
         },
         {
             name: "NOAA Weather Radio Buffalo",
@@ -46266,12 +46266,12 @@ var stations = {/*
         {
             name: "WGR 550",
             logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
         },
         {
             name: "WBEN 930",
             logo: "stations/images-america/c2c/buffalo_ny/WBEN 930.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
         },
         {
             name: "WBBF 1120",
@@ -46291,7 +46291,7 @@ var stations = {/*
         {
             name: "The Bet 1520",
             logo: "stations/images-america/c2c/buffalo_ny/The Bet 1520.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwkbamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwkbamaac-imc"
         },
     ],
     "elmira": [
@@ -46420,7 +46420,7 @@ var stations = {/*
         {
             name: "Z95.5",
             logo: "stations/images-america/c2c/ithaca_ny/Z95.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wfizfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wfizfmaac-ibc2"
         },
         {
             name: "95.5 WFIZ-HD2",
@@ -46430,17 +46430,17 @@ var stations = {/*
         {
             name: "96.7 The Vine",
             logo: "stations/images-america/c2c/ithaca_ny/96.7 The Vine.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
         },
         {
             name: "Lite Rock 97.3",
             logo: "stations/images-america/c2c/ithaca_ny/Lite Rock 97.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wyxlfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wyxlfmaac-ibc2"
         },
         {
             name: "97.3 WYXL-HD2",
             logo: "stations/images-america/c2c/ithaca_ny/96.7 The Vine.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/saga-wyxlhd2aac-ibc2"
         },
         {
             name: "97.7 WHCU",
@@ -46450,7 +46450,7 @@ var stations = {/*
         {
             name: "I-100",
             logo: "stations/images-america/c2c/syracuse_ny/I-100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
         },
         {
             name: "Family Life 101.1",
@@ -46470,7 +46470,7 @@ var stations = {/*
         {
             name: "Q Country 103.7",
             logo: "stations/images-america/c2c/ithaca_ny/Q Country 103.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wqnyfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wqnyfmaac-ibc2"
         },
         {
             name: "ESPN 107.1",
@@ -46572,12 +46572,12 @@ var stations = {/*
         {
             name: "WINS 92.3",
             logo: "stations/images-america/c2c/nyc/1010 WINS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-winsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-winsamaac-imc"
         },
         {
             name: "ALT 92.3-HD2",
             logo: "stations/images-america/c2c/nyc/ALT 92.3-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-winshd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-winshd2aac-imc"
         },
         {
             name: "True Oldies Channel 92.3-HD3",
@@ -46627,12 +46627,12 @@ var stations = {/*
         {
             name: "94.7 The Block",
             logo: "stations/images-america/c2c/nyc/94.7 The Block.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wxbkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxbkfmaac-imc"
         },
         {
             name: "New York's Country 94.7-HD2",
             logo: "stations/images-america/c2c/nyc/New York's Country 94.7-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wxbkhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxbkhd2aac-imc"
         },
         {
             name: "Radio Korea NYC 94.7-HD3",
@@ -46742,12 +46742,12 @@ var stations = {/*
         {
             name: "WCBS FM 101.1",
             logo: "stations/images-america/c2c/nyc/WCBS FM 101.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wcbsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcbsfmaac-imc"
         },
         {
             name: "WCBS 101.1-HD2",
             logo: "stations/images-america/c2c/nyc/WCBS 880.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-wcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-wcbsamaac-imc"
         },
         {
             name: "Roadblock Radio 101.1-HD3",
@@ -46757,27 +46757,27 @@ var stations = {/*
         {
             name: "WFAN 101.9",
             logo: "stations/images-america/c2c/nyc/WFAN 101.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wfanamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfanamaac-imc"
         },
         {
             name: "Infinity Sports Network 101.9-HD2",
             logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
         },
         {
             name: "The Bet 101.9-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "NEW 102.7",
             logo: "stations/images-america/c2c/nyc/New 102.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wnewfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wnewfmaac-imc"
         },
         {
             name: "Channel Q 102.7-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "Talkline Network 102.7-HD3",
@@ -46867,7 +46867,7 @@ var stations = {/*
         {
             name: "WFAN 660",
             logo: "stations/images-america/c2c/nyc/WFAN 101.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-wfanamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-wfanamaac-imc"
         },
         {
             name: "710 WOR",
@@ -46887,12 +46887,12 @@ var stations = {/*
         {
             name: "WCBS 880",
             logo: "stations/images-america/c2c/nyc/WCBS 880.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wcbsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcbsamaac-imc"
         },
         {
             name: "1010 WINS",
             logo: "stations/images-america/c2c/nyc/1010 WINS.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-winsamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-winsamaac-imc"
         },
         {
             name: "Qué Buena 1280",
@@ -47145,12 +47145,12 @@ var stations = {/*
         {
             name: "92.5 WBEE",
             logo: "stations/images-america/c2c/rochester_ny/92.5 WBEE.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbeefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbeefmaac-imc"
         },
         {
             name: "92.5 WBEE-HD2",
             logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wrocamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wrocamaac-imc"
         },
         {
             name: "92.9 W225AR",
@@ -47185,7 +47185,7 @@ var stations = {/*
         {
             name: "95.7 The Fan",
             logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrocamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrocamaac-imc"
         },
         {
             name: "96.1 W241DG",
@@ -47195,7 +47195,7 @@ var stations = {/*
         {
             name: "96.5 WCMF",
             logo: "stations/images-america/c2c/rochester_ny/96.5 WCMF.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wcmffmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcmffmaac-imc"
         },
         {
             name: "Poder 97.1",
@@ -47210,17 +47210,17 @@ var stations = {/*
         {
             name: "98 PXY",
             logo: "stations/images-america/c2c/rochester_ny/98 PXY.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wpxyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wpxyfmaac-imc"
         },
         {
             name: "Channel Q 97.9-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "98.9 The Buzz",
             logo: "stations/images-america/c2c/rochester_ny/98.9 The Buzz.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbzafmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbzafmaac-imc"
         },
         {
             name: "99.3 W257ER",
@@ -47305,7 +47305,7 @@ var stations = {/*
         {
             name: "WGR 550",
             logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
         },
         {
             name: "Zoomer Radio 740",
@@ -47320,7 +47320,7 @@ var stations = {/*
         {
             name: "WROC 950",
             logo: "stations/images-america/c2c/rochester_ny/95.7 The Fan.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net//direct/audacy-wrocamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net//direct/audacy-wrocamaac-imc"
         },
         {
             name: "WDCX 990",
@@ -47462,12 +47462,12 @@ var stations = {/*
         {
             name: "I-100",
             logo: "stations/images-america/c2c/syracuse_ny/I-100.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wiiifmaac-imc"
         },
         {
             name: "100.9 KROCK",
             logo: "stations/images-america/c2c/utica_ny/94.9 KROCK.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/galaxy-wkllfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/galaxy-wkllfmaac-ibc1"
         },
         {
             name: "101.3 W267AL",
@@ -47786,12 +47786,12 @@ var stations = {/*
         {
             name: "Mix 96.5",
             logo: "stations/images-america/c2c/asheville_nc/Mix 96.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-woxlfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-woxlfmaac-ibc2"
         },
         {
             name: "La Pantera 97.3",
             logo: "stations/images-america/c2c/asheville_nc/La Pantera 97.3.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-woxlhd3aac-ibc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-woxlhd3aac-ibc"
         },
         {
             name: "97.7 The Brew",
@@ -47801,7 +47801,7 @@ var stations = {/*
         {
             name: "98.1 The River",
             logo: "stations/images-america/c2c/asheville_nc/98.1 The River.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-woxlhd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-woxlhd2aac-ibc2"
         },
         {
             name: "99.9 Kiss Country",
@@ -47811,7 +47811,7 @@ var stations = {/*
         {
             name: "Rewind 100.3",
             logo: "stations/images-america/c2c/asheville_nc/Rewind 100.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wtmthd2aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wtmthd2aac-ibc2"
         },
         {
             name: "Throwbacks 101.1",
@@ -47826,7 +47826,7 @@ var stations = {/*
         {
             name: "WISE 102.9",
             logo: "stations/images-america/c2c/asheville_nc/WISE 102.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wiseamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wiseamaac-ibc2"
         },
         {
             name: "103.3 Asheville FM",
@@ -47851,12 +47851,12 @@ var stations = {/*
         {
             name: "105.5 The Outlaw",
             logo: "stations/images-america/c2c/asheville_nc/105.5 The Outlaw.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wtmthd3aac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wtmthd3aac-ibc2"
         },
         {
             name: "105.9 The Mountain",
             logo: "stations/images-america/c2c/asheville_nc/105.9 The Mountain.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wtmtfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wtmtfmaac-ibc2"
         },
         {
             name: "570 WWNC",
@@ -48147,7 +48147,7 @@ var stations = {/*
         {
             name: "93.1 The Wolf",
             logo: "stations/images-america/c2c/greensboro_nc/93.1 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wpawfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wpawfmaac-imc"
         },
         {
             name: "WSJS Sports 93.7",
@@ -48162,17 +48162,17 @@ var stations = {/*
         {
             name: "97.1 QMG",
             logo: "stations/images-america/c2c/greensboro_nc/97.1 QMG.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wqmgfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wqmgfmaac-imc"
         },
         {
             name: "98.7 Simon",
             logo: "stations/images-america/c2c/greensboro_nc/98.7 Simon.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wsmwfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wsmwfmaac-imc"
         },
         {
             name: "The Bet 98.7-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "Mix 99.5",
@@ -48192,7 +48192,7 @@ var stations = {/*
         {
             name: "102 Jamz",
             logo: "stations/images-america/c2c/greensboro_nc/102 Jamz.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wjmhfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjmhfmaac-imc"
         },
         {
             name: "WUAG 103.1",
@@ -49317,7 +49317,7 @@ var stations = {/*
         {
             name: "Mix 94.1",
             logo: "stations/images-america/c2c/canton_oh/Mix 94.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-whbcfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-whbcfmaac-ibc4"
         },
         {
             name: "94.9 WQMX",
@@ -49402,7 +49402,7 @@ var stations = {/*
         {
             name: "1480 WHBC",
             logo: "stations/images-america/c2c/canton_oh/1480 WHBC.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-whbcamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-whbcamaac-ibc4"
         },
         {
             name: "1590 WAKR",
@@ -49596,12 +49596,12 @@ var stations = {/*
         {
             name: "92.3 The Fan",
             logo: "stations/images-america/c2c/cleveland_oh/92.3 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkrkfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkrkfmaac-imc"
         },
         {
             name: "Infinity Sports Network 92.3-HD2",
             logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
         },
         {
             name: "93.1 WZAK",
@@ -49641,7 +49641,7 @@ var stations = {/*
         {
             name: "98.5 WNCX",
             logo: "stations/images-america/c2c/cleveland_oh/98.5 WNCX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wncxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wncxfmaac-imc"
         },
         {
             name: "Sports Radio 99.1",
@@ -49671,7 +49671,7 @@ var stations = {/*
         {
             name: "Star 102",
             logo: "stations/images-america/c2c/cleveland_oh/Star 102.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wdokfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdokfmaac-imc"
         },
         {
             name: "102.5 The Answer",
@@ -49681,7 +49681,7 @@ var stations = {/*
         {
             name: "Q104",
             logo: "stations/images-america/c2c/cleveland_oh/Q104.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wqalfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wqalfmaac-imc"
         },
         {
             name: "WCLV 104.9",
@@ -49813,7 +49813,7 @@ var stations = {/*
         {
             name: "Sunny 95",
             logo: "stations/images-america/c2c/columbus_oh/Sunny 95.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wsnyfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wsnyfmaac-ibc2"
         },
         {
             name: "Star 95.1",
@@ -49828,7 +49828,7 @@ var stations = {/*
         {
             name: "Qfm 96",
             logo: "stations/images-america/c2c/columbus_oh/Qfm 96.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wlvqfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlvqfmaac-ibc2"
         },
         {
             name: "97.1 The Fan",
@@ -49893,12 +49893,12 @@ var stations = {/*
         {
             name: "Rewind 103.5",
             logo: "stations/images-america/c2c/columbus_oh/Rewind 103.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnndfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnndfmaac-ibc2"
         },
         {
             name: "Country 103.9",
             logo: "stations/images-america/c2c/columbus_oh/Country 103.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/nabco-wjkrfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/nabco-wjkrfmaac-ibc4"
         },
         {
             name: "The Word 104.5",
@@ -49948,7 +49948,7 @@ var stations = {/*
         {
             name: "Mix 107.9",
             logo: "stations/images-america/c2c/columbus_oh/Mix 107.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wvmxfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wvmxfmaac-ibc2"
         },
         {
             name: "NOAA Weather Radio Columbus",
@@ -50035,12 +50035,12 @@ var stations = {/*
         {
             name: "92.1 WROU",
             logo: "stations/images-america/c2c/dayton_oh/92.1 WROU.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wroufmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wroufmaac-ibc4"
         },
         {
             name: "92.9 Jack FM",
             logo: "stations/images-america/c2c/dayton_oh/92.9 Jack FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wgtzfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wgtzfmaac-ibc4"
         },
         {
             name: "93.7 The Light",
@@ -50125,7 +50125,7 @@ var stations = {/*
         {
             name: "101.5 HANK FM",
             logo: "stations/images-america/c2c/dayton_oh/101.5 HANK FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wclifmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wclifmaac-ibc4"
         },
         {
             name: "WDAO 102.3",
@@ -50140,7 +50140,7 @@ var stations = {/*
         {
             name: "HOT 102.9",
             logo: "stations/images-america/c2c/dayton_oh/HOT 102.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wdhtfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wdhtfmaac-ibc4"
         },
         {
             name: "New Country 103.9",
@@ -50200,7 +50200,7 @@ var stations = {/*
         {
             name: "ESPN 1410",
             logo: "stations/images-america/c2c/dayton_oh/ESPN 1410.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wingamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wingamaac-ibc4"
         },
         {
             name: "Real Roots Radio 1500",
@@ -50588,7 +50588,7 @@ var stations = {/*
         {
             name: "107.9 KRF",
             logo: "stations/images-america/c2c/scranton_pa/98.5 KRZ.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkrzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkrzfmaac-imc"
         },
         {
             name: "790 WAEB",
@@ -50857,7 +50857,7 @@ var stations = {/*
         {
             name: "WGR 550",
             logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wgramaac-imc"
         },
         {
             name: "570 WKBN",
@@ -50887,7 +50887,7 @@ var stations = {/*
         {
             name: "WBEN 930",
             logo: "stations/images-america/c2c/buffalo_ny/WBEN 930.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
         },
         {
             name: "NewsTalk 1010",
@@ -51410,7 +51410,7 @@ var stations = {/*
         {
             name: "94WIP",
             logo: "stations/images-america/c2c/philadelphia_pa/94WIP.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wipfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wipfmaac-imc"
         },
         {
             name: "94.5 PST",
@@ -51445,12 +51445,12 @@ var stations = {/*
         {
             name: "The New 96.5",
             logo: "stations/images-america/c2c/philadelphia_pa/The New 96.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wtdyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wtdyfmaac-imc"
         },
         {
             name: "Channel Q 96.5-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "96.9 W245AG",
@@ -51470,12 +51470,12 @@ var stations = {/*
         {
             name: "BIG 98.1",
             logo: "stations/images-america/c2c/philadelphia_pa/BIG 98.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-woglfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-woglfmaac-imc"
         },
         {
             name: "Dance Party Radio 98.1-HD2",
             logo: "stations/images-america/c2c/philadelphia_pa/Dance Party Radio 98.1-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-woglhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-woglhd2aac-imc"
         },
         {
             name: "Uptown Radio 98.5",
@@ -51520,7 +51520,7 @@ var stations = {/*
         {
             name: "B101.1",
             logo: "stations/images-america/c2c/philadelphia_pa/B101.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbebfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbebfmaac-imc"
         },
         {
             name: "New Jersey 101.5",
@@ -51565,7 +51565,7 @@ var stations = {/*
         {
             name: "KYW Newsradio 103.9",
             logo: "stations/images-america/c2c/philadelphia_pa/KYW Newsradio 103.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kywamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kywamaac-imc"
         },
         {
             name: "ALT 104.5",
@@ -51645,12 +51645,12 @@ var stations = {/*
         {
             name: "KYW Newsradio 1060",
             logo: "stations/images-america/c2c/philadelphia_pa/KYW Newsradio 103.9.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kywamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kywamaac-imc"
         },
         {
             name: "1210 WPHT",
             logo: "stations/images-america/c2c/philadelphia_pa/1210 WPHT.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wphtamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wphtamaac-imc"
         },
         {
             name: "Súper 1360",
@@ -51809,7 +51809,7 @@ var stations = {/*
         {
             name: "93.7 The Fan",
             logo: "stations/images-america/c2c/pittsburgh_pa/93.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kdkafmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kdkafmaac-imc"
         },
         {
             name: "94.5 3WS",
@@ -51869,12 +51869,12 @@ var stations = {/*
         {
             name: "100.1 KDKA",
             logo: "stations/images-america/c2c/pittsburgh_pa/100.1 KDKA.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-kdkaamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kdkaamaac-imc"
         },
         {
             name: "100.7 Star",
             logo: "stations/images-america/c2c/pittsburgh_pa/100.7 Star.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbzzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbzzfmaac-imc"
         },
         {
             name: "101.1 WZUM",
@@ -51924,22 +51924,22 @@ var stations = {/*
         {
             name: "WAMO 107.3",
             logo: "stations/images-america/c2c/pittsburgh_pa/WAMO 107.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wdsyhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdsyhd2aac-imc"
         },
         {
             name: "Y108",
             logo: "stations/images-america/c2c/pittsburgh_pa/Y108.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wdsyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdsyfmaac-imc"
         },
         {
             name: "Channel Q 107.9-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "The Bet 107.9-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "FOX Sports 970",
@@ -51949,7 +51949,7 @@ var stations = {/*
         {
             name: "1020 KDKA",
             logo: "stations/images-america/c2c/pittsburgh_pa/100.1 KDKA.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-kdkaamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kdkaamaac-imc"
         },
         {
             name: "1320 WJAS",
@@ -52026,7 +52026,7 @@ var stations = {/*
         {
             name: "98.5 KRZ",
             logo: "stations/images-america/c2c/scranton_pa/98.5 KRZ.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkrzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkrzfmaac-imc"
         },
         {
             name: "99.5 WUSR",
@@ -52046,27 +52046,27 @@ var stations = {/*
         {
             name: "Froggy 101",
             logo: "stations/images-america/c2c/scranton_pa/Froggy 101.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wggyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wggyfmaac-imc"
         },
         {
             name: "La Mega 102.3",
             logo: "stations/images-america/c2c/scranton_pa/La Mega 102.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmqxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmqxfmaac-imc"
         },
         {
             name: "Channel Q 102.3-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "WILK 103.1",
             logo: "stations/images-america/c2c/scranton_pa/WILK 103.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wilkamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wilkamaac-imc"
         },
         {
             name: "The Bet 103.1-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "Loud 103.7",
@@ -52243,7 +52243,7 @@ var stations = {/*
         {
             name: "WEEI 103.7",
             logo: "stations/images-america/c2c/providence_ri/WEEI 103.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wveifmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wveifmaac-imc"
         },
         {
             name: "The Juice 103.7-HD2",
@@ -52340,7 +52340,7 @@ var stations = {/*
         {
             name: "92.5 Kickin' Country",
             logo: "stations/images-america/c2c/charleston_sc/92.5 Kickin' Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wcknfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wcknfmaac-ibc1"
         },
         {
             name: "Z93 Jamz",
@@ -52375,7 +52375,7 @@ var stations = {/*
         {
             name: "Mix 95.9",
             logo: "stations/images-america/c2c/charleston_sc/Mix 95.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wmxzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wmxzfmaac-ibc1"
         },
         {
             name: "Ohm Radio 96.3",
@@ -52405,7 +52405,7 @@ var stations = {/*
         {
             name: "Star 99.7",
             logo: "stations/images-america/c2c/charleston_sc/Star 99.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wxstfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wxstfmaac-ibc1"
         },
         {
             name: "101.3 Way FM",
@@ -52415,7 +52415,7 @@ var stations = {/*
         {
             name: "101.7 Chuck FM",
             logo: "stations/images-america/c2c/charleston_sc/101.7 Chuck FM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wavffmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wavffmaac-ibc1"
         },
         {
             name: "102.1 The City",
@@ -52472,12 +52472,12 @@ var stations = {/*
         {
             name: "Live 93.5",
             logo: "stations/images-america/c2c/columbia_sc/Live 93.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqfmaac-ibc4"
         },
         {
             name: "94.9 The Palm",
             logo: "stations/images-america/c2c/columbia_sc/94.9 The Palm.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqhd4aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqhd4aac-ibc4"
         },
         {
             name: "96.7 Steve-FM",
@@ -52502,7 +52502,7 @@ var stations = {/*
         {
             name: "ALT 99.7",
             logo: "stations/images-america/c2c/columbia_sc/ALT 99.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-warqhd2aac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqhd2aac-ibc4"
         },
         {
             name: "100.1 The Beat",
@@ -52517,12 +52517,12 @@ var stations = {/*
         {
             name: "The Big DM 101",
             logo: "stations/images-america/c2c/columbia_sc/The Big DM 101.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wwdmfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wwdmfmaac-ibc4"
         },
         {
             name: "Fox 102.3",
             logo: "stations/images-america/c2c/columbia_sc/Fox 102.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-wmfxfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wmfxfmaac-ibc4"
         },
         {
             name: "Kiss 103.1",
@@ -52532,7 +52532,7 @@ var stations = {/*
         {
             name: "HOT 103.9",
             logo: "stations/images-america/c2c/columbia_sc/HOT 103.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-whxtfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-whxtfmaac-ibc4"
         },
         {
             name: "104.7 WNOK",
@@ -52661,7 +52661,7 @@ var stations = {/*
         {
             name: "93.3 The Planet",
             logo: "stations/images-america/c2c/greenville_sc/93.3 The Planet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wtptfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wtptfmaac-imc"
         },
         {
             name: "93.3 WTPT-HD2",
@@ -52671,12 +52671,12 @@ var stations = {/*
         {
             name: "The Bet 93.3-HD3",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "B93.7",
             logo: "stations/images-america/c2c/greenville_sc/B93.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wfbcfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfbcfmaac-imc"
         },
         {
             name: "94.5 The Answer",
@@ -52696,12 +52696,12 @@ var stations = {/*
         {
             name: "96.3 The Block",
             logo: "stations/images-america/c2c/greenville_sc/96.3 The Block.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wfbchd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfbchd2aac-imc"
         },
         {
             name: "The Fan Upstate 97.7",
             logo: "stations/images-america/c2c/greenville_sc/The Fan Upstate 97.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wyrdamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wyrdamaac-imc"
         },
         {
             name: "HOT 98.1",
@@ -52716,7 +52716,7 @@ var stations = {/*
         {
             name: "98.9 WORD",
             logo: "stations/images-america/c2c/greenville_sc/98.9 WORD.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wyrdfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wyrdfmaac-imc"
         },
         {
             name: "Star 99.5",
@@ -52736,7 +52736,7 @@ var stations = {/*
         {
             name: "Classic Rock 101.1",
             logo: "stations/images-america/c2c/greenville_sc/Classic Rock 101.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wroqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wroqfmaac-imc"
         },
         {
             name: "WNCW 101.3",
@@ -52920,7 +52920,7 @@ var stations = {/*
         {
             name: "Kool 98.3",
             logo: "stations/images-america/c2c/mitchell_sd/Kool 98.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kuqlfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kuqlfmaac-ibc1"
         },
         {
             name: "Kickin' Country 100.5",
@@ -52935,7 +52935,7 @@ var stations = {/*
         {
             name: "KMIT 105.9",
             logo: "stations/images-america/c2c/mitchell_sd/KMIT 105.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kmitfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kmitfmaac-ibc1"
         },
         {
             name: "Q107.3",
@@ -52945,7 +52945,7 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "1000 KSOO",
@@ -53014,12 +53014,12 @@ var stations = {/*
         {
             name: "HOT 93.1",
             logo: "stations/images-america/c2c/rapid_city_sd/HOT 93.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-krcsfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-krcsfmaac-ibc4"
         },
         {
             name: "93.9 The Mix",
             logo: "stations/images-america/c2c/rapid_city_sd/93.9 The Mix.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kkmkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kkmkfmaac-ibc4"
         },
         {
             name: "95.1 KSKY",
@@ -53034,7 +53034,7 @@ var stations = {/*
         {
             name: "KAT 98.7",
             logo: "stations/images-america/c2c/rapid_city_sd/KAT 98.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-koutfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-koutfmaac-ibc4"
         },
         {
             name: "True Country 99.5",
@@ -53044,7 +53044,7 @@ var stations = {/*
         {
             name: "100.3 The Fox",
             logo: "stations/images-america/c2c/rapid_city_sd/100.3 The Fox.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kfxsfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kfxsfmaac-ibc4"
         },
         {
             name: "KOTA 100.7",
@@ -53074,7 +53074,7 @@ var stations = {/*
         {
             name: "Cowboy 104.7",
             logo: "stations/images-america/c2c/rapid_city_sd/Cowboy 104.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
         },
         {
             name: "105.7 ESPN",
@@ -53099,7 +53099,7 @@ var stations = {/*
         {
             name: "BIG 81",
             logo: "stations/images-america/c2c/rapid_city_sd/BIG 81.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
         },
         {
             name: "KOTA 1300",
@@ -53196,7 +53196,7 @@ var stations = {/*
         {
             name: "K101",
             logo: "stations/images-america/c2c/worthington_mn/K101.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
         },
         {
             name: "Sioux Ritmo 101.5",
@@ -53261,12 +53261,12 @@ var stations = {/*
         {
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
             name: "AM 800 KQAD",
             logo: "stations/images-america/c2c/sioux_falls_sd/AM 800 KQAD.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/alphamidwest-kqadamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kqadamaac-ibc2"
         },
         {
             name: "1000 KSOO",
@@ -53338,12 +53338,12 @@ var stations = {/*
         {
             name: "G93",
             logo: "stations/images-america/c2c/chattanooga_tn/G93.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/brewerchattanooga-wmpzfmaac-ibc4"
         },
         {
             name: "Power 94",
             logo: "stations/images-america/c2c/chattanooga_tn/Power 94.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/brewerchattanooga-wjttfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/brewerchattanooga-wjttfmaac-ibc4"
         },
         {
             name: "The JOY FM 95.3",
@@ -53383,12 +53383,12 @@ var stations = {/*
         {
             name: "Real 97.7",
             logo: "stations/images-america/c2c/chattanooga_tn/Real 97.7.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wusyhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wusyhd2aac-imc"
         },
         {
             name: "98.1 The Lake",
             logo: "stations/images-america/c2c/chattanooga_tn/98.1 The Lake.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlndfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlndfmaac-imc"
         },
         {
             name: "ALT 98.7",
@@ -53398,7 +53398,7 @@ var stations = {/*
         {
             name: "US 101",
             logo: "stations/images-america/c2c/chattanooga_tn/US 101.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wusyfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wusyfmaac-imc"
         },
         {
             name: "Talk Radio 102.3",
@@ -53413,12 +53413,12 @@ var stations = {/*
         {
             name: "103.7 KISS FM",
             logo: "stations/images-america/c2c/chattanooga_tn/103.7 KISS FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wkxjfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkxjfmaac-imc"
         },
         {
             name: "ROCK 105",
             logo: "stations/images-america/c2c/chattanooga_tn/ROCK 105.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrxrfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrxrfmaac-imc"
         },
         {
             name: "106.1 The Eagle",
@@ -53617,7 +53617,7 @@ var stations = {/*
         {
             name: "99.7 The Wolf",
             logo: "stations/images-america/c2c/memphis_tn/99.7 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlfpfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlfpfmaac-imc"
         },
         {
             name: "100 Jack FM",
@@ -53672,7 +53672,7 @@ var stations = {/*
         {
             name: "680 ESPN",
             logo: "stations/images-america/c2c/memphis_tn/92.9 ESPN.png",
-            url: "http://84.32.44.251/audacy/index.php?q=http://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
         },
         {
             name: "1310 Talk-N West TN Sports",
@@ -53938,7 +53938,7 @@ var stations = {/*
         {
             name: "92.9 ESPN",
             logo: "stations/images-america/c2c/memphis_tn/92.9 ESPN.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmfsfmaac-imc"
         },
         {
             name: "95.7 Hallelujah FM",
@@ -54003,7 +54003,7 @@ var stations = {/*
         {
             name: "99.7 The Wolf",
             logo: "stations/images-america/c2c/memphis_tn/99.7 The Wolf.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wlfpfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlfpfmaac-imc"
         },
         {
             name: "100.3 WVZM",
@@ -54043,7 +54043,7 @@ var stations = {/*
         {
             name: "104.5 The River",
             logo: "stations/images-america/c2c/memphis_tn/104.5 The River.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrvrfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrvrfmaac-imc"
         },
         {
             name: "KIX 106",
@@ -54078,7 +54078,7 @@ var stations = {/*
         {
             name: "The Bet 790",
             logo: "stations/images-america/c2c/memphis_tn/The Bet 790.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "1070 WDIA",
@@ -54594,12 +54594,12 @@ var stations = {/*
         {
             name: "94.3 WQCM",
             logo: "stations/images-america/c2c/hagerstown_md/94.3 WQCM.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wqcmfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wqcmfmaac-ibc4"
         },
         {
             name: "MIX 95.1",
             logo: "stations/images-america/c2c/hagerstown_md/MIX 95.1.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wikzfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wikzfmaac-ibc4"
         },
         {
             name: "95.9 The Big Dawg",
@@ -54609,7 +54609,7 @@ var stations = {/*
         {
             name: "Live 96.7",
             logo: "stations/images-america/c2c/hagerstown_md/Live 96.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-wdldfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wdldfmaac-ibc4"
         },
         {
             name: "Today's 97.5",
@@ -54659,7 +54659,7 @@ var stations = {/*
         {
             name: "106.9 The Eagle",
             logo: "stations/images-america/c2c/hagerstown_md/106.9 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/manningbroadcasting-wwegfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/manningbroadcasting-wwegfmaac-ibc2"
         },
         {
             name: "106.9 WWEG-HD2",
@@ -54783,7 +54783,7 @@ var stations = {/*
         {
             name: "C-Ville Country 92.7",
             logo: "stations/images-america/c2c/charlottesville_va/C-Ville Country 92.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wcvlfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wcvlfmaac-ibc1"
         },
         {
             name: "94.1 The Oasis",
@@ -54793,7 +54793,7 @@ var stations = {/*
         {
             name: "Z95.1",
             logo: "stations/images-america/c2c/charlottesville_va/Z95.1.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wqmzfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wqmzfmaac-ibc1"
         },
         {
             name: "BBN 95.9",
@@ -54808,7 +54808,7 @@ var stations = {/*
         {
             name: "97.5 3WV",
             logo: "stations/images-america/c2c/charlottesville_va/97.5 3WV.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/saga-wwwvfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wwwvfmaac-ibc1"
         },
         {
             name: "97.9 The WREN",
@@ -54932,7 +54932,7 @@ var stations = {/*
         {
             name: "WSVA 92.1",
             logo: "stations/images-america/c2c/harrisonburg_va/WSVA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wsvaamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wsvaamaac-ibc2"
         },
         {
             name: "Mix 93.1",
@@ -54952,12 +54952,12 @@ var stations = {/*
         {
             name: "more 96.1",
             logo: "stations/images-america/c2c/harrisonburg_va/more 96.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wmqrfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wmqrfmaac-ibc2"
         },
         {
             name: "96.9 WSIG",
             logo: "stations/images-america/c2c/harrisonburg_va/96.9 WSIG.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wsigfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wsigfmaac-ibc2"
         },
         {
             name: "98 Rock",
@@ -54972,7 +54972,7 @@ var stations = {/*
         {
             name: "Q101",
             logo: "stations/images-america/c2c/harrisonburg_va/Q101.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wqpofmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wqpofmaac-ibc2"
         },
         {
             name: "WBTX 102.1",
@@ -55002,7 +55002,7 @@ var stations = {/*
         {
             name: "Rewind 105.1",
             logo: "stations/images-america/c2c/harrisonburg_va/Rewind 105.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wwrefmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wwrefmaac-ibc2"
         },
         {
             name: "107.9 WKCY",
@@ -55012,7 +55012,7 @@ var stations = {/*
         {
             name: "WSVA 550",
             logo: "stations/images-america/c2c/harrisonburg_va/WSVA.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//saga-wsvaamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//saga-wsvaamaac-ibc2"
         },
         {
             name: "1300 WKCY",
@@ -55094,17 +55094,17 @@ var stations = {/*
         {
             name: "94.9 The Point",
             logo: "stations/images-america/c2c/norfolk_va/94.9 The Point.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wptefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wptefmaac-imc"
         },
         {
             name: "95.7 R&B",
             logo: "stations/images-america/c2c/norfolk_va/95.7 R&B.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wvklfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wvklfmaac-imc"
         },
         {
             name: "The Bet 95.7-HD2",
             logo: "stations/images-america/0_general_logos/The Bet.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "96X",
@@ -55144,7 +55144,7 @@ var stations = {/*
         {
             name: "2WD 101.3",
             logo: "stations/images-america/c2c/norfolk_va/2WD 101.3.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wwdefmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwdefmaac-imc"
         },
         {
             name: "103 JAMZ",
@@ -55159,12 +55159,12 @@ var stations = {/*
         {
             name: "Z104",
             logo: "stations/images-america/c2c/norfolk_va/Z104.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wnvzfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wnvzfmaac-imc"
         },
         {
             name: "Channel Q 104.5-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "105.3 The Breeze",
@@ -55256,7 +55256,7 @@ var stations = {/*
         {
             name: "Q94",
             logo: "stations/images-america/c2c/richmond_va/Q94.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrvqfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrvqfmaac-imc"
         },
         {
             name: "K95",
@@ -55266,7 +55266,7 @@ var stations = {/*
         {
             name: "96.1 WRVA",
             logo: "stations/images-america/c2c/richmond_va/96.1 WRVA.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrvaamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrvaamaac-imc"
         },
         {
             name: "Classic Rock 96.5",
@@ -55281,12 +55281,12 @@ var stations = {/*
         {
             name: "Mix 98.1",
             logo: "stations/images-america/c2c/richmond_va/Mix 98.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wtvrfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wtvrfmaac-imc"
         },
         {
             name: "BIG 98.5",
             logo: "stations/images-america/c2c/richmond_va/BIG 98.5.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrxlhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrxlhd2aac-imc"
         },
         {
             name: "99.5 The Box",
@@ -55306,7 +55306,7 @@ var stations = {/*
         {
             name: "ALT 102.1",
             logo: "stations/images-america/c2c/richmond_va/ALT 102.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrxlfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrxlfmaac-imc"
         },
         {
             name: "103.7 Your Variety",
@@ -55326,7 +55326,7 @@ var stations = {/*
         {
             name: "105.1 The Fan",
             logo: "stations/images-america/c2c/richmond_va/105.1 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wrnlamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrnlamaac-imc"
         },
         {
             name: "105.7 KISS FM",
@@ -55341,7 +55341,7 @@ var stations = {/*
         {
             name: "106.5 The Beat",
             logo: "stations/images-america/c2c/richmond_va/106.5 The Beat.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wbtjfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbtjfmaac-imc"
         },
         {
             name: "VPM Music 107.3",
@@ -55351,7 +55351,7 @@ var stations = {/*
         {
             name: "1140 WRVA",
             logo: "stations/images-america/c2c/richmond_va/96.1 WRVA.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct//audacy-wrvaamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-wrvaamaac-imc"
         },
         {
             name: "1480 The Line",
@@ -55378,7 +55378,7 @@ var stations = {/*
         {
             name: "K92",
             logo: "stations/images-america/c2c/roanoke_va/K92.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-k92aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-k92aac-imc1"
         },
         {
             name: "JJS 93.5",
@@ -55393,12 +55393,12 @@ var stations = {/*
         {
             name: "WFIR 94.5",
             logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-wfiramaac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-wfiramaac-imc1"
         },
         {
             name: "94.9 Star Country",
             logo: "stations/images-america/c2c/roanoke_va/94.9 Star Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-star94aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-star94aac-imc1"
         },
         {
             name: "96.3 ROV",
@@ -55413,12 +55413,12 @@ var stations = {/*
         {
             name: "The Rock Channel 97.3",
             logo: "stations/images-america/c2c/roanoke_va/The Rock Channel 97.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-wxlkhd2aac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-wxlkhd2aac-imc4"
         },
         {
             name: "The Vibe 97.7",
             logo: "stations/images-america/c2c/roanoke_va/The Vibe 97.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-wvbefmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-wvbefmaac-imc4"
         },
         {
             name: "Classic Country 98.1",
@@ -55428,7 +55428,7 @@ var stations = {/*
         {
             name: "Q99",
             logo: "stations/images-america/c2c/roanoke_va/Q99.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
         },
         {
             name: "WGMN 99.5",
@@ -55448,7 +55448,7 @@ var stations = {/*
         {
             name: "WPLY Sports Radio 101.1",
             logo: "stations/images-america/c2c/roanoke_va/WPLY Sports Radio.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-wplyamaac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-wplyamaac-imc1"
         },
         {
             name: "103.3 WAKG",
@@ -55478,7 +55478,7 @@ var stations = {/*
         {
             name: "WFIR 107.3",
             logo: "stations/images-america/c2c/roanoke_va/WFIR.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//wheelerbroadcasting-wfiramaac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//wheelerbroadcasting-wfiramaac-imc1"
         },
         {
             name: "New Country 107.9",
@@ -55488,7 +55488,7 @@ var stations = {/*
         {
             name: "WPLY Sports Radio 610",
             logo: "stations/images-america/c2c/roanoke_va/WPLY Sports Radio.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//wheelerbroadcasting-wplyamaac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//wheelerbroadcasting-wplyamaac-imc1"
         },
         {
             name: "FOX Radio 910",
@@ -55622,7 +55622,7 @@ var stations = {/*
         {
             name: "K92",
             logo: "stations/images-america/c2c/roanoke_va/K92.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-k92aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-k92aac-imc1"
         },
         {
             name: "WLOY 93.3",
@@ -55637,7 +55637,7 @@ var stations = {/*
         {
             name: "94.9 Star Country",
             logo: "stations/images-america/c2c/roanoke_va/94.9 Star Country.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-star94aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-star94aac-imc1"
         },
         {
             name: "KOOL 95.3",
@@ -55652,7 +55652,7 @@ var stations = {/*
         {
             name: "Q99",
             logo: "stations/images-america/c2c/roanoke_va/Q99.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/wheelerbroadcasting-q99aac-imc1"
         },
         {
             name: "99.5 WJLS",
@@ -55662,7 +55662,7 @@ var stations = {/*
         {
             name: "J104",
             logo: "stations/images-america/c2c/wytheville_va/J104.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/firstmediaservices-whajfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/firstmediaservices-whajfmaac-ibc1"
         },
         {
             name: "107.1 WPSK",
@@ -56356,7 +56356,7 @@ var stations = {/*
         {
             name: "94.5 WTMB",
             logo: "stations/images-america/c2c/la_crosse_wi/94.5 WTMB.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wtmbfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/magnumbroadcasting-wtmbfmaac-ibc1"
         },
         {
             name: "95.7 The Rock",
@@ -56366,7 +56366,7 @@ var stations = {/*
         {
             name: "Mix 96.1",
             logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
         }, 
         {
             name: "WKTY 96.7",
@@ -56381,7 +56381,7 @@ var stations = {/*
         {
             name: "Mix 97.9",
             logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
         }, 
         {
             name: "100.5 The Hawk",
@@ -56396,7 +56396,7 @@ var stations = {/*
         {
             name: "102.7 WKBH",
             logo: "stations/images-america/c2c/la_crosse_wi/102.7 WKBH.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wkbhfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/magnumbroadcasting-wkbhfmaac-ibc1"
         },
         {
             name: "KNEI 103.5",
@@ -56406,7 +56406,7 @@ var stations = {/*
         {
             name: "1460 WBOG",
             logo: "stations/images-america/c2c/la_crosse_wi/1460 WBOG.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wbogamaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/magnumbroadcasting-wbogamaac-ibc1"
         },
     ],
     "madison_wi": [
@@ -56453,12 +56453,12 @@ var stations = {/*
         {
             name: "94.9 WOLX",
             logo: "stations/images-america/c2c/madison_wi/94.9 WOLX.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wolxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wolxfmaac-imc"
         },
         {
             name: "Channel Q 94.9-HD2",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "WWMV-LP 95.5",
@@ -56498,7 +56498,7 @@ var stations = {/*
         {
             name: "Bucky Country 99.5",
             logo: "stations/images-america/c2c/madison_wi/Bucky Country 99.5.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/manifest/magnumbroadcasting-wbkyfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/magnumbroadcasting-wbkyfmaac-ibc1"
         },
         {
             name: "100.5 ESPN",
@@ -56533,12 +56533,12 @@ var stations = {/*
         {
             name: "Mix 105.1",
             logo: "stations/images-america/c2c/madison_wi/Mix 105.1.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmhxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmhxfmaac-imc"
         },
         {
             name: "105.5 Triple M",
             logo: "stations/images-america/c2c/madison_wi/105.5 Triple M.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmmmfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmmmfmaac-imc"
         },
         {
             name: "Q106",
@@ -56548,7 +56548,7 @@ var stations = {/*
         {
             name: "107.3 WSJY",
             logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
             name: "The Ideas Network 107.9",
@@ -56640,12 +56640,12 @@ var stations = {/*
         {
             name: "99.1 The Mix",
             logo: "stations/images-america/c2c/milwaukee_wi/99.1 The Mix.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmyxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmyxfmaac-imc"
         },
         {
             name: "MeTV 99.1-HD2",
             logo: "stations/images-america/c2c/milwaukee_wi/MeTV 99.1-HD2.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
         },
         {
             name: "Froggy 100.3",
@@ -56680,17 +56680,17 @@ var stations = {/*
         {
             name: "103.7 KISS FM",
             logo: "stations/images-america/c2c/milwaukee_wi/103.7 KISS FM.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wxssfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxssfmaac-imc"
         },
         {
             name: "103.7 WXSS-HD2",
             logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-wsspamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wsspamaac-imc"
         },
         {
             name: "Channel Q 103.7-HD3",
             logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
             name: "104.1 fm Milwaukee",
@@ -56705,7 +56705,7 @@ var stations = {/*
         {
             name: "105.7 The Fan",
             logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
-            url: "http://84.32.44.251/audacy/index.php?q=https://live.amperwave.net/manifest/audacy-wsspamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-wsspamaac-imc"
         },
         {
             name: "FM106.1",
@@ -56730,7 +56730,7 @@ var stations = {/*
         {
             name: "Pure Oldies 106.9",
             logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-wrxsfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wrxsfmaac-ibc2"
         },
         {
             name: "Froggy 107.3",
@@ -56755,7 +56755,7 @@ var stations = {/*
         {
             name: "WSSP 1250",
             logo: "stations/images-america/c2c/milwaukee_wi/105.7 The Fan.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/manifest/audacy-wsspamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/audacy-wsspamaac-imc"
         },
         {
             name: "1290 FONZ",
@@ -60723,7 +60723,7 @@ var stations = {/*
         {
             name: "92.9 KISM",
             logo: "stations/images-america/bellingham/92.9 KISM.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
         },
         {
             name: "Red FM 93.1",
@@ -60798,7 +60798,7 @@ var stations = {/*
         {
             name: "KAFE 104.1",
             logo: "stations/images-america/bellingham/KAFE 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kafefmaac-ibc1"
         },
         {
             name: "104.3 The Breeze",
@@ -62095,7 +62095,7 @@ var stations = {/*
         {
             name: "WUKQ 98.7",
             logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//univision-wkaqfmaac-imc1"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//univision-wkaqfmaac-imc1"
         },
         {
             name: "Salsoul 99.1",
@@ -62475,12 +62475,12 @@ var stations = {/*
         {
             name: "Gold Rush Radio 96.7",
             logo: "stations/images-america/alaska/anchorage/Gold Rush Radio 96.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
         },
         {
             name: "KOOL 97.3",
             logo: "stations/images-america/alaska/anchorage/KOOL 97.3.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-keagfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-keagfmaac-imc4"
         },
         {
             name: "MAGIC 98.9",
@@ -62510,17 +62510,17 @@ var stations = {/*
         {
             name: "MIX 103.1",
             logo: "stations/images-america/alaska/anchorage/MIX 103.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kmxsfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kmxsfmaac-imc4"
         },
         {
             name: "KFQD 103.7",
             logo: "stations/images-america/alaska/anchorage/KFQD 103.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kfqdamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kfqdamaac-ibc4"
         },
         {
             name: "KBEAR 104.1",
             logo: "stations/images-america/alaska/anchorage/KBEAR 104.1.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kbrjfmaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbrjfmaac-imc4"
         },
         {
             name: "Air1 104.9",
@@ -62540,7 +62540,7 @@ var stations = {/*
         {
             name: "KWHL 106.5",
             logo: "stations/images-america/alaska/anchorage/KWHL 106.5.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct/alphacorporate-kwhlfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kwhlfmaac-ibc4"
         },
         {
             name: "KASH Country 107.5",
@@ -62555,7 +62555,7 @@ var stations = {/*
         {
             name: "Gold Rush Radio 590",
             logo: "stations/images-america/alaska/anchorage/Gold Rush Radio 96.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
         },
         {
             name: "650 KENI",
@@ -62624,7 +62624,7 @@ var stations = {/*
         {
             name: "Gold Rush Radio 590",
             logo: "stations/images-america/alaska/anchorage/Gold Rush Radio 96.7.png",
-            url: "http://84.32.44.251/index.php?u=https://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kharamaac-imc4"
         },
         {
             name: "650 KENI",
@@ -62634,7 +62634,7 @@ var stations = {/*
         {
             name: "KFQD 750",
             logo: "stations/images-america/alaska/anchorage/KFQD 103.7.png",
-            url: "http://84.32.44.251/index.php?u=http://live.amperwave.net/direct//alphacorporate-kfqdamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kfqdamaac-ibc4"
         },
         {
             name: "KSRM 920",
