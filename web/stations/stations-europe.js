@@ -1187,17 +1187,17 @@ var stations = {/*
         {
             name: "中国之声",
             logo: "stations/images-europe/china/中国之声.png",
-            url: "http://89.168.75.18/redir_cnr.php?id=1&format=m3u8"
+            url: "http://89.168.75.18/redir/cn/639.m3u8"
         },
         {
             name: "经济之声",
             logo: "stations/images-europe/china/经济之声.png",
-            url: "http://89.168.75.18/redir_cnr.php?id=2&format=m3u8"
+            url: "http://89.168.75.18/redir/cn/640.m3u8"
         },
         {
             name: "音乐之声",
             logo: "stations/images-europe/china/音乐之声.png",
-            url: "http://89.168.75.18/redir_cnr.php?id=4&format=m3u8"
+            url: "http://89.168.75.18/redir/cn/641.m3u8"
         },
     ],
     "china_hlj": [
@@ -1295,12 +1295,12 @@ var stations = {/*
         {
             name: "قازاقشا راديو",
             logo: "stations/images-europe/china/xj/قازاقشا راديو.png",
-            url: "http://89.168.75.18/redir_cnr.php?id=24&format=m3u8"
+            url: "http://89.168.75.18/redir/cn/655.m3u8"
         },
         {
             name: "ئۇيغۇرچە رادىيو",
             logo: "stations/images-europe/china/xj/ئۇيغۇرچە رادىيو.png",
-            url: "http://89.168.75.18/redir_cnr.php?id=13&format=m3u8"
+            url: "http://89.168.75.18/redir/cn/651.m3u8"
         },
         {
             name: "新疆交通广播",
@@ -5353,27 +5353,27 @@ var stations = {/*
         {
             name: "KBS 1Radio",
             logo: "stations/images-europe/korearok/KBS 1Radio.png",
-            url: "http://89.168.75.18/redir_kbs.php?id=21&format=m3u8"
+            url: "http://89.168.75.18/redir/kbs/21.m3u8"
         },
         {
             name: "KBS Happy FM",
             logo: "stations/images-europe/korearok/KBS Happy FM.png",
-            url: "http://89.168.75.18/redir_kbs.php?id=22&format=m3u8"
+            url: "http://89.168.75.18/redir/kbs/22.m3u8"
         },
         {
             name: "KBS 3Radio",
             logo: "stations/images-europe/korearok/KBS 3Radio.png",
-            url: "http://89.168.75.18/redir_kbs.php?id=23&format=m3u8"
+            url: "http://89.168.75.18/redir/kbs/23.m3u8"
         },
         {
             name: "KBS Classic FM",
             logo: "stations/images-europe/korearok/KBS Classic FM.png",
-            url: "http://89.168.75.18/redir_kbs.php?id=24&format=m3u8"
+            url: "http://89.168.75.18/redir/kbs/24.m3u8"
         },
         {
             name: "KBS Cool FM",
             logo: "stations/images-europe/korearok/KBS Cool FM.png",
-            url: "http://89.168.75.18/redir_kbs.php?id=25&format=m3u8"
+            url: "http://89.168.75.18/redir/kbs/25.m3u8"
         },
         {
             name: "AFN Humphreys",
@@ -5418,12 +5418,12 @@ var stations = {/*
         {
             name: "MBC Radio",
             logo: "stations/images-europe/korearok/MBC Radio.png",
-            url: "http://89.168.75.18/redir_mbc.php?id=sfm&format=m3u8"
+            url: "http://89.168.75.18/redir/mbc/sfm.m3u8"
         },
         {
             name: "MBC FM4U",
             logo: "stations/images-europe/korearok/MBC FM4U.png",
-            url: "http://89.168.75.18/redir_mbc.php?id=mfm&format=m3u8"
+            url: "http://89.168.75.18/redir/mbc/mfm.m3u8"
         },
         {
             name: "tbn Traffic Broadcasting",
@@ -8359,7 +8359,7 @@ var stations = {/*
         {
             name: "Radio Thailand",
             logo: "stations/images-europe/thailand/Radio Thailand.png",
-            url: "http://89.168.75.18/redir_prd.php?id=63bbee5c46bad50012b8603b&format=m3u8"
+            url: "http://89.168.75.18/redir/prd/63bbee5c46bad50012b8603b.m3u8"
         },
         {
             name: "BIG FM",
