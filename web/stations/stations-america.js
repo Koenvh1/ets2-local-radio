@@ -14658,7 +14658,7 @@ var stations = {/*
         {
             name: "KOOL 93.5",
             logo: "stations/images-america/lamar/KOOL 93.5.png",
-            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a58850"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a58850"
         },
         {
             name: "KVAY 105.7",
@@ -16316,7 +16316,7 @@ var stations = {/*
         {
             name: "98.3 K252FO",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http://84.32.44.251/index.php?u=http://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://streaming.live365.com/a28050"
         },
         {
             name: "ALT 98.7",
@@ -16411,17 +16411,17 @@ var stations = {/*
         {
             name: "Go Country 105",
             logo: "stations/images-america/los_angeles/Go Country 105.png",
-            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a10969"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a10969"
         },
         {
             name: "105.1 KKGO-HD2",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a28050"
         },
         {
             name: "105.1-HD4 The Surf",
             logo: "stations/images-america/los_angeles/105.1-HD4 The Surf.png",
-            url: "http://84.32.44.251/index.php?u=https://streaming.live365.com/a72131"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a72131"
         },
         {
             name: "Power 106",
@@ -16546,7 +16546,7 @@ var stations = {/*
         {
             name: "K-Mozart AM 1260",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http:///84.32.44.251/index.php?u=https://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a28050"
         },
         {
             name: "Tu Liga Radio 1330",
