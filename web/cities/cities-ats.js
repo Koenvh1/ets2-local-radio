@@ -12747,7 +12747,7 @@ var country_properties_canada = {
         name: "Campbell River",
         name_english: "Campbell River",
         code: "ca-bc",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "caraquet": {
         name: "Caraquet",
@@ -13000,6 +13000,12 @@ var country_properties_canada = {
         name_english: "Nakina",
         code: "ca-on",
         relative_radius: 1.2
+    },
+    "nanaimo": {
+        name: "Nanaimo",
+        name_english: "Nanaimo",
+        code: "ca-bc",
+        relative_radius: 0.6
     },
     "new_liskeard": {
         name: "New Liskeard",
@@ -13269,7 +13275,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "campbell_river": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.8
     },
     "caraquet": {
         relative_whitenoise: 0.95
@@ -13398,6 +13404,10 @@ var city_properties_canada = {
     },
     "nakina": {
         relative_whitenoise: 0.95
+    },
+    "nanaimo": {
+		relative_radius: 0.6,
+        relative_whitenoise: 0.8
     },
     "new_liskeard": {
         relative_whitenoise: 0.95
@@ -13921,6 +13931,14 @@ var cities_canada = [
         "x": "34124.8",
         "y": "104.055",
         "z": "-66400.7"
+    },
+    {
+        "gameName": "nanaimo",
+        "realName": "Nanaimo",
+        "country": "vancouver_bc",
+        "x": "-106219",
+        "y": "21.0945",
+        "z": "-76782.2"
     },
     {
         "gameName": "new_liskeard",
