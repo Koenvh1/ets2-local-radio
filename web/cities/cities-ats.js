@@ -12743,6 +12743,12 @@ var country_properties_canada = {
         code: "ca-ab",
         relative_radius: 1.4
     },
+    "campbell_river": {
+        name: "Campbell River",
+        name_english: "Campbell River",
+        code: "ca-bc",
+        relative_radius: 0.7
+    },
     "caraquet": {
         name: "Caraquet",
         name_english: "Caraquet",
@@ -13049,6 +13055,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 0.5
     },
+    "port_hardy": {
+        name: "Port Hardy",
+        name_english: "Port Hardy",
+        code: "ca-bc",
+        relative_radius: 0.8
+    },
     "princegeorge": {
         name: "Prince George",
         name_english: "Prince George",
@@ -13175,6 +13187,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 0.6
     },
+    "vancouver_west_bc": {
+        name: "Vancouver",
+        name_english: "Vancouver",
+        code: "ca-bc",
+        relative_radius: 0.6
+    },
 	"victoria_bc": {
         name: "Victoria",
         name_english: "Victoria",
@@ -13250,6 +13268,9 @@ var city_properties_canada = {
     "calgary": {
         relative_whitenoise: 0.95
     },
+    "campbell_river": {
+        relative_whitenoise: 0.95
+    },
     "caraquet": {
         relative_whitenoise: 0.95
     },
@@ -13310,10 +13331,6 @@ var city_properties_canada = {
     },
     "hope": {
         relative_whitenoise: 0.80
-    },
-    "horseshoe_bay": {
-        relative_radius: 0.4,
-        relative_whitenoise: 0.75
     },
     "houstoncan": {
         relative_whitenoise: 0.95
@@ -13409,6 +13426,9 @@ var city_properties_canada = {
     "pembroke": {
         relative_whitenoise: 0.85
     },
+    "port_hardy": {
+        relative_whitenoise: 0.95
+    },
     "princegeorge": {
         relative_whitenoise: 0.95
     },
@@ -13471,6 +13491,10 @@ var city_properties_canada = {
     },
     "vancouver_bc": {
         relative_whitenoise: 0.70
+    },
+    "vancouver_west_bc": {
+        relative_radius: 1.1,
+        relative_whitenoise: 0.75
     },
     "victoria_bc": {
         relative_whitenoise: 0.95
@@ -13537,6 +13561,14 @@ var cities_canada = [
         "x": "-64088.6",
         "y": "225.559",
         "z": "-74325.2"
+    },
+    {
+        "gameName": "campbell_river",
+        "realName": "Campbell River",
+        "country": "campbell_river",
+        "x": "-108283",
+        "y": "71.3086",
+        "z": "-79492.4"
     },
     {
         "gameName": "caraquet",
@@ -13697,14 +13729,6 @@ var cities_canada = [
         "x": "-94110.7",
         "y": "56.58",
         "z": "-71841.2"
-    },
-    {
-        "gameName": "horseshoe_bay",
-        "realName": "Horseshoe Bay",
-        "country": "vancouver_bc",
-        "x": "-103698",
-        "y": "3.82032",
-        "z": "-75997.2"
     },
     {
         "gameName": "houstoncan",
@@ -13963,6 +13987,14 @@ var cities_canada = [
         "z": "-46389.3"
     },
     {
+        "gameName": "port_hardy",
+        "realName": "Port Hardy",
+        "country": "port_hardy",
+        "x": "-112615",
+        "y": "39.0367",
+        "z": "-85382.9"
+    },
+    {
         "gameName": "princegeorge",
         "realName": "Prince George",
         "country": "princegeorge",
@@ -14129,6 +14161,14 @@ var cities_canada = [
         "x": "-100466.8",
         "y": "75.6241",
         "z": "-72646.3"
+    },
+    {
+        "gameName": "vancouver_west_bc",
+        "realName": "Vancouver",
+        "country": "vancouver_bc",
+        "x": "-103466.8",
+        "y": "75.6241",
+        "z": "-73246.3"
     },
     {
         "gameName": "victoria_bc",
