@@ -34325,11 +34325,6 @@ var stations = {/*
             url: "http://streaming.live365.com/a04338"
         },
         {
-            name: "Beautiful 1320",
-            logo: "stations/images-america/c2c/birmingham_al/Beautiful 1320_christmas.png",
-            url: "https://crystalout.surfernetwork.com:8001/WENN-AM_MP3"
-        },
-        {
             name: "1320 WENN",
             logo: "stations/images-america/c2c/birmingham_al/Star 92.png",
             url: "http://stream.surfernetwork.com/qd622vepg7dtv"
