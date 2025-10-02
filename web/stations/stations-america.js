@@ -34095,14 +34095,24 @@ var stations = {/*
             url: "https://audio.wbhm.org/live.mp3"
         },
         {
+            name: "Classical 24 90.3-HD2",
+            logo: "stations/images-america/0_general_logos/Classical 24.png",
+            url: "https://audio.wbhm.org/CWeb.m4a"
+        },
+        {
+            name: "Beautiful 90.3-HD3",
+            logo: "stations/images-america/c2c/birmingham_al/Beautiful 90.3-HD3.png",
+            url: "https://stream.surfernetwork.com/ehlanxba9fstv"
+        },
+        {
             name: "91.1 Jazz Hall",
             logo: "stations/images-america/c2c/birmingham_al/91.1 JazzHall.png",
             url: "https://ice7.securenetsystems.net/WVSU"
         },
         {
-            name: "92.3 W222BK",
-            logo: "stations/images-america/c2c/birmingham_al/Beautiful 1320_christmas.png",
-            url: "http://crystalout.surfernetwork.com:8001/WENN-AM_MP3"
+            name: "Star 92",
+            logo: "stations/images-america/c2c/birmingham_al/Star 92.png",
+            url: "https://stream.surfernetwork.com/qd622vepg7dtv"
         },
         {
             name: "BIN 92.7",
@@ -34318,6 +34328,11 @@ var stations = {/*
             name: "Beautiful 1320",
             logo: "stations/images-america/c2c/birmingham_al/Beautiful 1320_christmas.png",
             url: "https://crystalout.surfernetwork.com:8001/WENN-AM_MP3"
+        },
+        {
+            name: "1320 WENN",
+            logo: "stations/images-america/c2c/birmingham_al/Star 92.png",
+            url: "http://stream.surfernetwork.com/qd622vepg7dtv"
         },
         {
             name: "WJLD 1400",
