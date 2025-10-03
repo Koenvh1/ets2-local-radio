@@ -1323,6 +1323,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC_SC"
         },*/
         {
+            name: "KSWB 840",
+            logo: "stations/images-america/astoria/KSWB.png",
+            url: "https://us9.maindigitalstream.com/ssl/KSWB"
+        },
+        {
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
@@ -50048,8 +50053,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wroufmaac-ibc4"
         },
         {
-            name: "92.9 Jack FM",
-            logo: "stations/images-america/c2c/dayton_oh/92.9 Jack FM.png",
+            name: "Z93",
+            logo: "stations/images-america/c2c/dayton_oh/Z93.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wgtzfmaac-ibc4"
         },
         {
@@ -50133,8 +50138,8 @@ var stations = {/*
             url: "https://ice23.securenetsystems.net/WEECHD4"
         },
         {
-            name: "101.5 HANK FM",
-            logo: "stations/images-america/c2c/dayton_oh/101.5 HANK FM.png",
+            name: "101.5 The Fridge",
+            logo: "stations/images-america/c2c/dayton_oh/101.5 The Fridge.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wclifmaac-ibc4"
         },
         {
