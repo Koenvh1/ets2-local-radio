@@ -167,6 +167,12 @@ var country_properties = {
         code: "de",
         relative_radius: 1,
     },
+    "germany-berlin": {
+        name: "Deutschland [Berlin]",
+        name_english: "Germany [Berlin]",
+        code: "de",
+        relative_radius: 0.65,
+    },
     "germany-br": {
         name: "Deutschland [BR]",
         name_english: "Germany [BR]",
@@ -740,11 +746,17 @@ var city_properties = {
     "arad": {
         relative_radius: 0.5,
     },
+    "ardahan": {
+        relative_radius: 0.9,
+    },
     "are": {
         relative_radius: 0.6,
     },
     "argostoli": {
         relative_radius: 0.6,
+    },
+    "artvin": {
+        relative_radius: 0.7,
     },
     "artyk": {
         relative_radius: 1.7,
@@ -961,11 +973,14 @@ var city_properties = {
     "foix": {
         relative_radius: 0.8,
     },
+    "folkestone": {
+        relative_radius: 0.4,
+    },
     "formachevo": {
         relative_radius: 0.7,
     },
-    "folkestone": {
-        relative_radius: 0.4,
+    "forst": {
+        relative_radius: 0.6,
     },
     "gay": {
         relative_radius: 0.6,
@@ -1030,6 +1045,9 @@ var city_properties = {
     "haql": {
         relative_radius: 0.5,
     },
+    "huelva": {
+        relative_radius: 0.55,
+    },
     "ioannina": {
         relative_radius: 0.8,
         relative_whitenoise: 0.85,
@@ -1049,6 +1067,9 @@ var city_properties = {
     "holyhead": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85,
+    },
+    "hopa": {
+        relative_radius: 0.7,
     },
     "inderborsky": {
         relative_radius: 1.5,
@@ -1484,7 +1505,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "ronne": {
-        relative_radius: 0.3,
+        relative_radius: 0.4,
     },
     "rostock": {
         relative_radius: 0.7,
@@ -1581,7 +1602,7 @@ var city_properties = {
         relative_whitenoise: 0.85,
     },
     "sthelier": {
-        relative_radius: 0.2,
+        relative_radius: 0.3,
     },
     "stockerau": {
         relative_radius: 0.7,
@@ -1590,7 +1611,7 @@ var city_properties = {
         relative_radius: 0.7,
     },
     "stpeterport": {
-        relative_radius: 0.2,
+        relative_radius: 0.3,
     },
     "strasbourg": {
         relative_radius: 0.65,
@@ -1652,7 +1673,7 @@ var city_properties = {
         relative_radius: 0.5,
     },
     "trinity": {
-        relative_radius: 0.2,
+        relative_radius: 0.3,
     },
     "troitsk": {
         relative_radius: 0.5,
@@ -1801,8 +1822,8 @@ var city_properties = {
     "winklern": {
         relative_radius: 0.6,
     },
-    "zagreb": {
-        relative_whitenoise: 1.05,
+    "zadar": {
+        relative_radius: 1.15,
     },
     "zelenogradsk": {
         relative_radius: 0.37,
@@ -2179,6 +2200,14 @@ var cities = [
         "gameName": "berlin",
         "realName": "Berlin",
         "country": "germany",
+        "x": "10343",
+        "y": "79.8828",
+        "z": "-9903.56"
+    },
+    {
+        "gameName": "berlin",
+        "realName": "Berlin",
+        "country": "germany-berlin",
         "x": "10343",
         "y": "79.8828",
         "z": "-9903.56"
@@ -2960,6 +2989,22 @@ var cities = [
         "z": "-6947.11"
     },
     {
+        "gameName": "forst",
+        "realName": "Forst (Lausitz)",
+        "country": "germany",
+        "x": "13869.16",
+        "y": "80.83203",
+        "z": "-5789.273"
+    },
+    {
+        "gameName": "forst",
+        "realName": "Forst (Lausitz)",
+        "country": "germany-rbb",
+        "x": "13869.16",
+        "y": "80.83203",
+        "z": "-5789.273"
+    },
+    {
         "gameName": "frankfurt",
         "realName": "Frankfurt am Main",
         "country": "germany-hr",
@@ -3424,6 +3469,14 @@ var cities = [
         "z": "-30171"
     },
     {
+        "gameName": "huelva",
+        "realName": "Huelva",
+        "country": "spain",
+        "x": "-84687.45",
+        "y": "99.92578",
+        "z": "62584.29"
+    },
+    {
         "gameName": "huesca",
         "realName": "Huesca",
         "country": "spain",
@@ -3822,6 +3875,14 @@ var cities = [
         "x": "-13150.8",
         "y": "97.9297",
         "z": "-2732.75"
+    },
+    {
+        "gameName": "koper",
+        "realName": "Koper",
+        "country": "slovenia",
+        "x": "11233.91",
+        "y": "65",
+        "z": "29456.66"
     },
     {
         "gameName": "kosice",
@@ -4683,9 +4744,9 @@ var cities = [
         "gameName": "pila",
         "realName": "Piła",
         "country": "poland",
-        "x": "21276.1",
-        "y": "86.2734",
-        "z": "-14380.2"
+        "x": "23749.3",
+        "y": "96.71484",
+        "z": "-13123.9"
     },
     {
         "gameName": "plock",
@@ -4960,6 +5021,14 @@ var cities = [
         "z": "5134.43"
     },
     {
+        "gameName": "santander",
+        "realName": "Santander",
+        "country": "spain",
+        "x": "-61881.09",
+        "y": "82.99219",
+        "z": "31926.81"
+    },
+    {
         "gameName": "selfoss",
         "realName": "Selfoss",
         "country": "iceland",
@@ -5030,6 +5099,14 @@ var cities = [
         "x": "-46338.7",
         "y": "111.398",
         "z": "-7523.25"
+    },
+    {
+        "gameName": "stargard",
+        "realName": "Stargard",
+        "country": "poland",
+        "x": "17693.37",
+        "y": "100.2266",
+        "z": "-14559.1"
     },
     {
         "gameName": "stavanger",
@@ -5267,9 +5344,9 @@ var cities = [
         "gameName": "trieste",
         "realName": "Trieste",
         "country": "italy",
-        "x": "10213.52",
-        "y": "-6.56",
-        "z": "29184.84"
+        "x": "10593.79",
+        "y": "104.5703",
+        "z": "27566.76"
     },
     {
         "gameName": "trikala",
@@ -5550,6 +5627,14 @@ var cities = [
         "x": "11001.2",
         "y": "12.4494",
         "z": "25584"
+    },
+    {
+        "gameName": "walcz",
+        "realName": "Wałcz",
+        "country": "poland",
+        "x": "21139.41",
+        "y": "90",
+        "z": "-14321.42"
     },
     {
         "gameName": "warszawa",
@@ -9356,14 +9441,6 @@ var cities_pm270 = [
         "z": "52990.2"
     },
     {
-        "gameName": "koper",
-        "realName": "Koper",
-        "country": "slovenia",
-        "x": "10733.7813",
-        "y": "52",
-        "z": "28959.6328"
-    },
-    {
         "gameName": "ljubljana",
         "realName": "Ljubljana",
         "country": "slovenia",
@@ -12514,6 +12591,14 @@ var cities_roextended_turkey = [
         "z": "59261.1"
     },
     {
+        "gameName": "agri",
+        "realName": "Ağrı",
+        "country": "turkey",
+        "x": "137610.7",
+        "y": "137",
+        "z": "38808.63"
+    },
+    {
         "gameName": "aksaray",
         "realName": "Aksaray",
         "country": "turkey",
@@ -12744,6 +12829,14 @@ var cities_roextended_turkey = [
         "x": "133569.5",
         "y": "134",
         "z": "37943.59"
+    },
+    {
+        "gameName": "igdir",
+        "realName": "Iğdır",
+        "country": "turkey",
+        "x": "141115.7",
+        "y": "120",
+        "z": "36948.11"
     },
     {
         "gameName": "isparta",
