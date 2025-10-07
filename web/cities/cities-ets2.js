@@ -1295,6 +1295,9 @@ var city_properties = {
     "marseille": {
         relative_radius: 1.2,
     },
+    "martuk": {
+        relative_radius: 0.6,
+    },
     "melitopol": {
         relative_radius: 0.9,
         relative_whitenoise: 0.85,
@@ -10607,57 +10610,57 @@ var cities_kz = [
         "gameName": "akshat",
         "realName": "Akshat",
         "country": "kazakhstan",
-        "x": "151376",
-        "y": "112.047",
-        "z": "-35563.1"
+        "x": "151064.2",
+        "y": "110",
+        "z": "-35393.54"
     },
     {
         "gameName": "aktau",
         "realName": "Aktau",
         "country": "kazakhstan",
-        "x": "158780",
-        "y": "37.4453",
-        "z": "3869.45"
+        "x": "159261.6",
+        "y": "46.09766",
+        "z": "3776.773"
     },
     {
         "gameName": "aktobe",
         "realName": "Aktobe",
         "country": "kazakhstan",
-        "x": "161421",
-        "y": "248.941",
-        "z": "-39913.4"
+        "x": "161421.5",
+        "y": "228.5352",
+        "z": "-39913.42"
     },
     {
         "gameName": "alga",
         "realName": "Alga",
         "country": "kazakhstan",
-        "x": "163712",
-        "y": "262.781",
+        "x": "163711.8",
+        "y": "262.7813",
         "z": "-36974.4"
     },
     {
         "gameName": "atyrau",
         "realName": "Atyrau",
         "country": "kazakhstan",
-        "x": "153800",
-        "y": "40.3789",
-        "z": "-15218.2"
+        "x": "153502.8",
+        "y": "40.37891",
+        "z": "-15039.41"
     },
     {
         "gameName": "beyneu",
         "realName": "Beyneu",
         "country": "kazakhstan",
-        "x": "170217",
-        "y": "68.3281",
-        "z": "-12475.6"
-    },  
+        "x": "170943.3",
+        "y": "73.40234",
+        "z": "-13109.84"
+    },
     {
         "gameName": "dossor",
         "realName": "Dossor",
         "country": "kazakhstan",
-        "x": "156829",
-        "y": "29.8164",
-        "z": "-19091.2"
+        "x": "156829.4",
+        "y": "23.5",
+        "z": "-19091.21"
     },
     {
         "gameName": "ershov",
@@ -10671,9 +10674,9 @@ var cities_kz = [
         "gameName": "inderborsky",
         "realName": "Inderborsky",
         "country": "kazakhstan",
-        "x": "149218",
-        "y": "76.1953",
-        "z": "-22762.6"
+        "x": "149218.2",
+        "y": "76.19531",
+        "z": "-22762.56"
     },
     {
         "gameName": "jasliq",
@@ -10688,7 +10691,7 @@ var cities_kz = [
         "realName": "Kandyagash",
         "country": "kazakhstan",
         "x": "165576",
-        "y": "253.492",
+        "y": "253.4922",
         "z": "-35791"
     },
     {
@@ -10716,36 +10719,52 @@ var cities_kz = [
         "z": "-11426.43"
     },
     {
+        "gameName": "kendirli",
+        "realName": "Kendirli",
+        "country": "kazakhstan",
+        "x": "169046.1",
+        "y": "75.52734",
+        "z": "5884.102"
+    },
+    {
         "gameName": "khromtau",
         "realName": "Khromtau",
         "country": "kazakhstan",
-        "x": "166273.6",
-        "y": "280.6992",
-        "z": "-43336.59"
+        "x": "166482.4",
+        "y": "348.2695",
+        "z": "-43515.1"
     },
     {
         "gameName": "kobda",
         "realName": "Kobda",
         "country": "kazakhstan",
-        "x": "156778",
-        "y": "153.613",
-        "z": "-36726.9"
-    },  
+        "x": "156979.5",
+        "y": "154.8008",
+        "z": "-36793.27"
+    },
     {
-      "gameName": "kostanay",
-      "realName": "Kostanay",
-      "country": "kazakhstan",
-      "x": "169870.9",
-      "y": "154.668",
-      "z": "-67177.3"
+        "gameName": "kostanay",
+        "realName": "Kostanay",
+        "country": "kazakhstan",
+        "x": "169870.9",
+        "y": "154.668",
+        "z": "-67177.3"
     },
     {
         "gameName": "kulsari",
         "realName": "Kulsari",
         "country": "kazakhstan",
-        "x": "161371",
-        "y": "30.582",
-        "z": "-17504"
+        "x": "160960.9",
+        "y": "30.58203",
+        "z": "-17118.05"
+    },
+    {
+        "gameName": "kuryk",
+        "realName": "Kuryk",
+        "country": "kazakhstan",
+        "x": "163371.2",
+        "y": "41.00391",
+        "z": "4981.621"
     },
     {
         "gameName": "kyrkkyz",
@@ -10767,25 +10786,33 @@ var cities_kz = [
         "gameName": "makat",
         "realName": "Makat",
         "country": "kazakhstan",
-        "x": "158166",
-        "y": "33.2227",
-        "z": "-20956.9"
+        "x": "159177.3",
+        "y": "23.68359",
+        "z": "-23250.29"
     },
     {
         "gameName": "mangystau",
         "realName": "Mangystau",
         "country": "kazakhstan",
-        "x": "160285",
-        "y": "49.9023",
-        "z": "2760.92"
+        "x": "161613",
+        "y": "46.09766",
+        "z": "2643.324"
+    },
+    {
+        "gameName": "martuk",
+        "realName": "Martuk",
+        "country": "kazakhstan",
+        "x": "158454.5",
+        "y": "227.0781",
+        "z": "-41929.16"
     },
     {
         "gameName": "mukur",
         "realName": "Mukur",
         "country": "kazakhstan",
-        "x": "160737",
-        "y": "65.3516",
-        "z": "-25654.2"
+        "x": "160736.7",
+        "y": "65.35156",
+        "z": "-25654.23"
     },
     {
         "gameName": "rudnyy",
@@ -10799,49 +10826,41 @@ var cities_kz = [
         "gameName": "saiotes",
         "realName": "Saiotes",
         "country": "kazakhstan",
-        "x": "167960",
-        "y": "146.648",
-        "z": "-5790.99"
+        "x": "168005.3",
+        "y": "146.2852",
+        "z": "-5756.422"
     },
     {
         "gameName": "shetpe",
         "realName": "Shetpe",
         "country": "kazakhstan",
-        "x": "162942",
-        "y": "108.52",
+        "x": "162941.6",
+        "y": "108.5195",
         "z": "-410.543"
     },
     {
         "gameName": "shubarkuduk",
         "realName": "Shubarkuduk",
         "country": "kazakhstan",
-        "x": "162721",
-        "y": "213.93",
-        "z": "-32494.6"
+        "x": "162721.4",
+        "y": "213.9297",
+        "z": "-32494.64"
     },
     {
         "gameName": "temir",
         "realName": "Temir",
         "country": "kazakhstan",
-        "x": "165124",
+        "x": "165123.6",
         "y": "208.918",
-        "z": "-33359.1"
+        "z": "-33359.09"
     },
     {
-        "gameName": "temir_zhurg",
+        "gameName": "temirbek",
         "realName": "Temirbek Zhurgenov",
         "country": "kazakhstan",
         "x": "171861.7",
         "y": "210.25",
         "z": "-47571.91"
-    },
-    {
-        "gameName": "tobil",
-        "realName": "Tobil",
-        "country": "kazakhstan",
-        "x": "171611.4",
-        "y": "149.3164",
-        "z": "-68402.68"
     },
     {
         "gameName": "tobol",
@@ -10863,25 +10882,33 @@ var cities_kz = [
         "gameName": "uralsk",
         "realName": "Uralsk",
         "country": "kazakhstan",
-        "x": "141443",
-        "y": "63.8086",
-        "z": "-32630.8"
+        "x": "140101.5",
+        "y": "66.97266",
+        "z": "-34312.2"
+    },
+    {
+        "gameName": "zatobolsk",
+        "realName": "Tobil",
+        "country": "kazakhstan",
+        "x": "171611.4",
+        "y": "149.3164",
+        "z": "-68402.68"
     },
     {
         "gameName": "zhanaozen",
         "realName": "Zhanaozen",
         "country": "kazakhstan",
-        "x": "168257",
-        "y": "120.82",
-        "z": "1050.29"
+        "x": "169197.1",
+        "y": "120.8203",
+        "z": "333.4336"
     },
     {
         "gameName": "zhympity",
         "realName": "Zhympity",
         "country": "kazakhstan",
-        "x": "147695",
-        "y": "58.8516",
-        "z": "-31491.7"
+        "x": "146828",
+        "y": "59.07031",
+        "z": "-31815.45"
     }
 ];
 
