@@ -7290,6 +7290,12 @@ var country_properties_mexico = {
         code: "mx-chh",
         relative_radius: 0.6
     },
+    "ameca": {
+        name: "Ameca",
+        name_english: "Ameca",
+        code: "mx-jls",
+        relative_radius: 0.6
+    },
     "arivechi": {
         name: "Arivechi",
         name_english: "Arivechi",
@@ -7462,7 +7468,7 @@ var country_properties_mexico = {
         name: "Cuencamé",
         name_english: "Cuencamé",
         code: "mx-dur",
-        relative_radius: 0.6
+        relative_radius: 0.2
     },
     "culiacan": {
         name: "Culiacán",
@@ -7500,6 +7506,12 @@ var country_properties_mexico = {
         code: "mx-dur",
         relative_radius: 0.6
     },
+    "encar": {
+        name: "Encarnación de Díaz",
+        name_english: "Encarnación de Díaz",
+        code: "mx-jls",
+        relative_radius: 0.6
+    },
     "ensenada": {
         name: "Ensenada",
         name_english: "Ensenada",
@@ -7535,6 +7547,12 @@ var country_properties_mexico = {
         name_english: "Guachochi",
         code: "mx-chh",
         relative_radius: 0.6
+    },
+    "guadalajara": {
+        name: "Guadalajara",
+        name_english: "Guadalajara",
+        code: "mx-jls",
+        relative_radius: 0.8
     },
     "guamuchil": {
         name: "Guamúchil",
@@ -7594,6 +7612,12 @@ var country_properties_mexico = {
         name: "Illescas",
         name_english: "Illescas",
         code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "ixtlan_rio": {
+        name: "Ixtlán del Río",
+        name_english: "Ixtlán del Río",
+        code: "mx-nay",
         relative_radius: 0.6
     },
     "jalpa": {
@@ -7672,7 +7696,7 @@ var country_properties_mexico = {
         name: "Mapimí",
         name_english: "Mapimí",
         code: "mx-dur",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "matehuala": {
         name: "Matehuala",
@@ -7691,6 +7715,12 @@ var country_properties_mexico = {
         name_english: "Mexicali",
         code: "mx-bcn",
         relative_radius: 0.5
+    },
+    "mezquital": {
+        name: "Mezquital",
+        name_english: "Mezquital",
+        code: "mx-dur",
+        relative_radius: 0.4
     },
     "moctezuma": {
         name: "Moctezuma",
@@ -7746,6 +7776,12 @@ var country_properties_mexico = {
         code: "mx-chh",
         relative_radius: 0.6
     },
+    "parras": {
+        name: "Parras",
+        name_english: "Parras",
+        code: "mx-coa",
+        relative_radius: 0.6
+    },
     "pinos": {
         name: "Pinos",
         name_english: "Pinos",
@@ -7776,6 +7812,12 @@ var country_properties_mexico = {
         code: "mx-bcs",
         relative_radius: 0.8
     },
+    "ramosar": {
+        name: "Ramos Arizpe",
+        name_english: "Ramos Arizpe",
+        code: "mx-coa",
+        relative_radius: 0.6
+    },
     "rcatorce": {
         name: "Real de Catorce",
         name_english: "Real de Catorce",
@@ -7792,6 +7834,12 @@ var country_properties_mexico = {
         name: "Río Verde",
         name_english: "Río Verde",
         code: "mx-slp",
+        relative_radius: 0.6
+    },
+    "saltillo": {
+        name: "Saltillo",
+        name_english: "Saltillo",
+        code: "mx-coa",
         relative_radius: 0.6
     },
     "sanblas": {
@@ -7896,6 +7944,12 @@ var country_properties_mexico = {
         code: "mx-zac",
         relative_radius: 0.6
     },
+    "torreon": {
+        name: "Torreón",
+        name_english: "Torreón",
+        code: "mx-coa",
+        relative_radius: 0.6
+    },
     "urique": {
         name: "Urique",
         name_english: "Urique",
@@ -7972,13 +8026,13 @@ var city_properties_mexico = {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
+    "ameca": {
+        relative_whitenoise: 0.95
+    },
     "arivechi": {
         relative_whitenoise: 0.85
     },
     "ascension": {
-        relative_whitenoise: 0.85
-    },
-    "bahia_tortu": {
         relative_whitenoise: 0.85
     },
     "basas": {
@@ -8069,7 +8123,7 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "cuencame": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "culiacan": {
         relative_whitenoise: 0.85
@@ -8090,6 +8144,10 @@ var city_properties_mexico = {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
+    "encar": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.95
+    },
     "ensenada": {
         relative_whitenoise: 0.85
     },
@@ -8098,7 +8156,8 @@ var city_properties_mexico = {
         relative_whitenoise: 0.85
     },
     "gomez_p": {
-        relative_whitenoise: 0.85
+        relative_radius: 0.4,
+        relative_whitenoise: 0.95
     },
     "gpeical": {
         relative_whitenoise: 0.85
@@ -8109,6 +8168,9 @@ var city_properties_mexico = {
     },
     "guachoch": {
         relative_whitenoise: 0.85
+    },
+    "guadalajara": {
+        relative_whitenoise: 0.95
     },
     "guamuchil": {
 		relative_radius: 0.5,
@@ -8143,6 +8205,10 @@ var city_properties_mexico = {
     "illescas": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.85
+    },
+    "ixtlan_rio": {
+		relative_radius: 0.8,
+        relative_whitenoise: 0.95
     },
     "jalpa": {
         relative_whitenoise: 0.85
@@ -8199,6 +8265,9 @@ var city_properties_mexico = {
     "mexicali": {
         relative_whitenoise: 0.85
     },
+    "mezquital": {
+        relative_whitenoise: 0.95
+    },
     "moctezuma": {
         relative_whitenoise: 0.85
     },
@@ -8229,6 +8298,9 @@ var city_properties_mexico = {
     "parral": {
         relative_whitenoise: 0.85
     },
+    "parras": {
+        relative_whitenoise: 0.95
+    },
     "pinos": {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
@@ -8247,6 +8319,10 @@ var city_properties_mexico = {
     "punta_prie": {
         relative_whitenoise: 0.85
     },
+    "ramosar": {
+        relative_radius: 1.0,
+        relative_whitenoise: 0.95
+    },
     "rcatorce": {
         relative_whitenoise: 0.85
     },
@@ -8255,6 +8331,9 @@ var city_properties_mexico = {
     },
     "rioverde": {
         relative_whitenoise: 0.85
+    },
+    "saltillo": {
+        relative_whitenoise: 0.95
     },
     "sanblas": {
         relative_whitenoise: 0.85
@@ -8312,6 +8391,10 @@ var city_properties_mexico = {
     },
     "tlalte": {
         relative_whitenoise: 0.85
+    },
+    "torreon": {
+        relative_radius: 0.9,
+        relative_whitenoise: 0.95
     },
     "urique": {
         relative_whitenoise: 0.85
@@ -8383,6 +8466,14 @@ var cities_mexico = [
       "x": "-48410.2",
       "y": "100.762",
       "z": "50661.1"
+    },
+    {
+      "gameName": "ameca",
+      "realName": "Ameca",
+      "country": "ameca",
+      "x": "-45870.8",
+      "y": "130",
+      "z": "105172"
     },
     {
       "gameName": "arivechi",
@@ -8628,9 +8719,9 @@ var cities_mexico = [
       "gameName": "cuencame",
       "realName": "Cuencamé",
       "country": "cuencame",
-      "x": "-40048.1",
+      "x": "-39048.1",
       "y": "53.3906",
-      "z": "79864.4"
+      "z": "79064.4"
     },
     {
       "gameName": "culiacan",
@@ -8681,6 +8772,14 @@ var cities_mexico = [
       "z": "84737.7"
     },
     {
+      "gameName": "encar",
+      "realName": "Encarnación de Díaz",
+      "country": "aguasca",
+      "x": "-32417.2",
+      "y": "130.059",
+      "z": "100102"
+    },
+    {
         "gameName": "ensenada",
         "realName": "Ensenada",
         "country": "ensenada",
@@ -8707,7 +8806,7 @@ var cities_mexico = [
     {
       "gameName": "gomez_p",
       "realName": "Gómez Palacio",
-      "country": "gomez_p",
+      "country": "torreon",
       "x": "-38817.5",
       "y": "82.9336",
       "z": "75478.9"
@@ -8735,6 +8834,14 @@ var cities_mexico = [
       "x": "-57713.7",
       "y": "381.328",
       "z": "66510.7"
+    },
+    {
+      "gameName": "guadalajara",
+      "realName": "Guadalajara",
+      "country": "guadalajara",
+      "x": "-41375.5",
+      "y": "208.662",
+      "z": "104074"
     },
     {
       "gameName": "guamuchil",
@@ -8823,6 +8930,14 @@ var cities_mexico = [
       "x": "-31647.1",
       "y": "146.738",
       "z": "89753"
+    },
+    {
+      "gameName": "ixtlan_rio",
+      "realName": "Ixtlán del Río",
+      "country": "tepic",
+      "x": "-44137",
+      "y": "159.965",
+      "z": "99933.2"
     },
     {
       "gameName": "jalpa",
@@ -8940,9 +9055,9 @@ var cities_mexico = [
       "gameName": "mapimi",
       "realName": "Mapimí",
       "country": "mapimi",
-      "x": "-40751.6",
+      "x": "-41951.6",
       "y": "70",
-      "z": "73471.1"
+      "z": "73071.1"
     },
     {
       "gameName": "matehuala",
@@ -8967,6 +9082,14 @@ var cities_mexico = [
       "x": "-92383.1",
       "y": "50.1211",
       "z": "28113.3"
+    },
+    {
+      "gameName": "mezquital",
+      "realName": "Mezquital",
+      "country": "mezquital",
+      "x": "-43981.6",
+      "y": "-29.2656",
+      "z": "87915"
     },
     {
       "gameName": "moctezuma",
@@ -9049,6 +9172,14 @@ var cities_mexico = [
       "z": "66558.9"
     },
     {
+      "gameName": "parras",
+      "realName": "Parras",
+      "country": "parras",
+      "x": "-31525.8",
+      "y": "50",
+      "z": "78100.5"
+    },
+    {
       "gameName": "pinos",
       "realName": "Pinos",
       "country": "sanluisp",
@@ -9089,6 +9220,14 @@ var cities_mexico = [
       "z": "48742"
     },
     {
+      "gameName": "ramosar",
+      "realName": "Ramos Arizpe",
+      "country": "saltillo",
+      "x": "-26670.7",
+      "y": "56.8164",
+      "z": "74430"
+    },
+    {
       "gameName": "rcatorce",
       "realName": "Real de Catorce",
       "country": "rcatorce",
@@ -9111,6 +9250,14 @@ var cities_mexico = [
       "x": "-21672.4",
       "y": "94.5195",
       "z": "98529.3"
+    },
+    {
+      "gameName": "saltillo",
+      "realName": "Saltillo",
+      "country": "saltillo",
+      "x": "-26367.2",
+      "y": "30",
+      "z": "77681.2"
     },
     {
       "gameName": "sanblas",
@@ -9263,6 +9410,14 @@ var cities_mexico = [
       "x": "-39775.4",
       "y": "84.0586",
       "z": "97674.3"
+    },
+    {
+      "gameName": "torreon",
+      "realName": "Torreón",
+      "country": "torreon",
+      "x": "-36404.1",
+      "y": "41.9922",
+      "z": "75795.1"
     },
     {
       "gameName": "urique",

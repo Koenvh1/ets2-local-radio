@@ -14842,7 +14842,7 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/KRRGHD3"
         },
         {
-            name: "Los 40 99.3",
+            name: "LOS40 99.3",
             logo: "stations/images-america/laredo/Los 40 99.3.png",
             url: "https://stream.zeno.fm/kgglitcnn2stv"
         },
@@ -17497,7 +17497,7 @@ var stations = {/*
             url: "https://ais-sa15.cdnstream1.com/5059_64.aac"
         },
         {
-            name: "Los 40 97.7",
+            name: "LOS40 97.7",
             logo: "stations/images-america/mcallen_brownsville/Los 40 97.7.png",
             url: "http://radio.alphamx.net:8104/stream"
         },
@@ -17542,7 +17542,7 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/rcomm-xhrrfmaac-imc4?source=v7player"
         },
         {
-            name: "Los 40 102.9",
+            name: "LOS40 102.9",
             logo: "stations/images-america/mcallen_brownsville/Los 40 102.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
         },
@@ -27905,7 +27905,7 @@ var stations = {/*
             url: "https://ice24.securenetsystems.net/MYMIX943"
         },
         {
-            name: "Los 40 92.9",
+            name: "LOS40 92.9",
             logo: "stations/images-america/st_louis/Los 40 92.9.png",
             url: "https://s3.free-shoutcast.com/stream/18016"
         },
@@ -31361,7 +31361,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCFM_SC"
         },
         {
-            name: "Los 40 90.7",
+            name: "LOS40 90.7",
             logo: "stations/images-america/0_general_logos/Los 40.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
         },
@@ -31487,7 +31487,7 @@ var stations = {/*
             url: "https://streamingcwsradio30.com/8148/stream"
         },
         {
-            name: "Los 40 95.7",
+            name: "LOS40 95.7",
             logo: "stations/images-america/mexico/aguasca/Los 40 95.7.png",
             url: "https://cast.zuperdns.net/8030/stream"
         },
@@ -31589,7 +31589,7 @@ var stations = {/*
             url: "https://cast.zuperdns.net/8004/stream"
         },
         {
-            name: "Los 40 99.9",
+            name: "LOS40 99.9",
             logo: "stations/images-america/mexico/agua_prieta/Los 40 99.9.png",
             url: "https://live.zuperdns.net/9990/stream"
         },
@@ -31597,6 +31597,18 @@ var stations = {/*
             name: "Radio Sonora 101.3",
             logo: "stations/images-america/mexico/0_general_logos/Radio Sonora.png",
             url: "https://s2.mexside.net/9150/stream"
+        },
+    ],
+    "ameca": [
+        {
+            name: "La Líder 99.1",
+            logo: "stations/images-america/mexico/ameca/La Líder 99.1.png",
+            url: "https://sp3.servidorrprivado.com:10865/sid=1"
+        },
+        {
+            name: "Radio UdeG Ameca 105.5",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Universidad de Guadalajara.png",
+            url: "https://stream.zeno.fm/cu717gz92hhvv"
         },
     ],
     "arivechi": [
@@ -32044,29 +32056,9 @@ var stations = {/*
     ],
     "cuencame": [
         {
-            name: "Adictivo 90.3",
-            logo: "stations/images-america/mexico/gomez_p/Adictivo 90.3.png",
-            url: "https://stream.zeno.fm/xhqbe725dkhvv"
-        },
-        {
-            name: "Kiuu 91.1",
-            logo: "stations/images-america/mexico/gomez_p/Kiuu 91.1.png",
-            url: "http://streamingcwsradio30.com/8232/stream"
-        },
-        {
-            name: "hits 93.1",
-            logo: "stations/images-america/mexico/gomez_p/hits 93.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFMAAC_SC"
-        },	
-        {
-            name: "Radio Recuerdo 93.9",
-            logo: "stations/images-america/mexico/gomez_p/Radio Recuerdo 93.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFM_SC"
-        },
-        {
-            name: "Imagen Saltillo 94.7",
-            logo: "stations/images-america/mexico/cuencame/Imagen Saltillo 94.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC_SC"
+            name: "No stations in Cuencamé",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
         },
     ],
     "culiacan": [
@@ -32091,7 +32083,7 @@ var stations = {/*
             url: "http://stream.zeno.fm/0a9m8eb29nhvv"
         },
         {
-            name: "Los 40 92.9",
+            name: "LOS40 92.9",
             logo: "stations/images-america/mexico/culiacan/Los 40 92.9.png",
             url: "http://stream.zeno.fm/20mdtf6hfphvv"
         },
@@ -32183,7 +32175,7 @@ var stations = {/*
             url: "http://usa1.fastcast4u.com:2626/;"
         },
         {
-            name: "Los 40 100.5",
+            name: "LOS40 100.5",
             logo: "stations/images-america/mexico/delicias/Los 40 100.5.png",
             url: "http://sigmaradio.stream:9004/stream"
         },
@@ -32265,7 +32257,7 @@ var stations = {/*
             url: "https://stream.zeno.fm/jtq2slixhhmvv"
         },
         {
-            name: "Los 40 97.7",
+            name: "LOS40 97.7",
             logo: "stations/images-america/mexico/ebano/Los 40 97.7.png",
             url: "https://stream.zeno.fm/10qjwgihzqavv"
         },
@@ -32366,7 +32358,7 @@ var stations = {/*
             url: "http://148.231.3.56/mxl"
         },	
         {
-            name: "Los 40 96.9",
+            name: "LOS40 96.9",
             logo: "stations/images-america/mexico/ensenada/Los 40 96.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ENSENADA_SC"
         },	
@@ -32438,113 +32430,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMA_SC"
         },
     ],
-    "gomez_p": [
-        {
-            name: "Lobos FM 88.7",
-            logo: "stations/images-america/mexico/gomez_p/Lobos FM 88.7.png",
-            url: "http://streamingcwsradio10.com:9302/stream"
-        },
-        {
-            name: "Radio Universidad 89.5",
-            logo: "stations/images-america/mexico/gomez_p/Radio Universidad 89.5.png",
-            url: "http://192.187.112.50:8224/;"
-        },
-        {
-            name: "Adictivo 90.3",
-            logo: "stations/images-america/mexico/gomez_p/Adictivo 90.3.png",
-            url: "https://stream.zeno.fm/xhqbe725dkhvv"
-        },
-        {
-            name: "Kiuu 91.1",
-            logo: "stations/images-america/mexico/gomez_p/Kiuu 91.1.png",
-            url: "http://streamingcwsradio30.com/8232/stream"
-        },
-        {
-            name: "La Caliente 92.3",
-            logo: "stations/images-america/mexico/gomez_p/La Caliente 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTRRFMAAC_SC"
-        },	
-        {
-            name: "hits 93.1",
-            logo: "stations/images-america/mexico/gomez_p/hits 93.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFMAAC_SC"
-        },	
-        {
-            name: "Radio Recuerdo 93.9",
-            logo: "stations/images-america/mexico/gomez_p/Radio Recuerdo 93.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEBPFM_SC"
-        },
-        {
-            name: "La Voz 94.7",
-            logo: "stations/images-america/mexico/gomez_p/La Voz 94.7.png",
-            url: "https://stream.zeno.fm/3mlkhk5d7h0uv"
-        },
-        {
-            name: "exa 95.5",
-            logo: "stations/images-america/mexico/gomez_p/exa 95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC_SC"
-        },
-        {
-            name: "Radio Torréon 96.3",
-            logo: "stations/images-america/mexico/gomez_p/Radio Torréon 96.3.png",
-            url: "https://s42.myradiostream.com/34112/;"
-        },
-        {
-            name: "La Mejor 97.1",
-            logo: "stations/images-america/mexico/gomez_p/La Mejor 97.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPEAAC_SC"
-        },
-        {
-            name: "Coahuila Hoy 97.5",
-            logo: "stations/images-america/mexico/gomez_p/Coahuila Hoy 97.5.png",
-            url: "https://s01.digitalserver.org:7022/live.mp3"
-        },
-        {
-            name: "El Viejón 99.5",
-            logo: "stations/images-america/mexico/gomez_p/El Viejón 99.5.png",
-            url: "https://stream.zeno.fm/lhvgzgkoofstv"
-        },	
-        {
-            name: "Imagen Laguna 100.3",
-            logo: "stations/images-america/mexico/gomez_p/Imagen Laguna 100.3.png",
-            url: "http://radio.wnsol.com:8068/stream.mp3"
-        },
-        {
-            name: "WOW 101.1",
-            logo: "stations/images-america/mexico/gomez_p/Wow 101.1.png",
-            url: "https://stream.zeno.fm/allh8ihxbcntv"
-        },
-        {
-            name: "Radio Millennium 101.9",
-            logo: "stations/images-america/mexico/gomez_p/Radio Millennium 101.9.png",
-            url: "https://stream5.mexiserver.com:1149/stream"
-        },
-        {
-            name: "FMTÚ 102.7",
-            logo: "stations/images-america/mexico/gomez_p/FMTÚ 102.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCAFM_SC"
-        },
-        {
-            name: "Región 103.5",
-            logo: "stations/images-america/mexico/gomez_p/Región 103.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLZAAC_SC"
-        },
-        {
-            name: "Heraldo 104.3",
-            logo: "stations/images-america/mexico/gomez_p/Heraldo 104.3.png",
-            url: "https://stream.radiojar.com/qdgxacanva0uv"
-        },	
-        {
-            name: "Radio Fórmula 105.9",
-            logo: "stations/images-america/mexico/gomez_p/Radio Fórmula 105.9.png",
-            url: "https://stream.radiojar.com/bfews6ef3p8uv"
-        },
-        {
-            name: "Pasión 106.7",
-            logo: "stations/images-america/mexico/gomez_p/Pasión 106.7.png",
-            url: "http://stream.zeno.fm/w2j6dhtr3jmvv"
-        },
-    ],
     "gpeical": [
         {
             name: "No stations in Guadalupe y Calvo",
@@ -32557,6 +32442,258 @@ var stations = {/*
             name: "La Patrona 91.1",
             logo: "stations/images-america/mexico/0_general_logos/La Patrona.png",
             url: "https://streamingcwsradio30.com:7067/stream"
+        },
+    ],
+    "guadalajara": [
+        {
+            name: "88.7 @FM",
+            logo: "stations/images-america/mexico/guadalajara/88.7 @FM.png",
+            url: "https://stream.zeno.fm/k1m1n1g9d78uv"
+        },
+        {
+            name: "La Bestia Grupera 89.1",
+            logo: "stations/images-america/mexico/guadalajara/La Bestia Grupera 89.1.png",
+            url: "https://sg.centrocibernetico.com/audiorama-xhgda"
+        },
+        {
+            name: "Radio Fórmula Jalisco 89.5",
+            logo: "stations/images-america/mexico/guadalajara/Radio Fórmula Jalisco 89.5.png",
+            url: "https://stream.radiojar.com/w993u854xp8uv"
+        },
+        {
+            name: "Magia Digital 89.9",
+            logo: "stations/images-america/mexico/guadalajara/Magia Digital 89.9.png",
+            url: "https://stream.zeno.fm/zrwy79s91rhvv"
+        },
+        {
+            name: "Match 90.3",
+            logo: "stations/images-america/mexico/guadalajara/Match 90.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC_SC"
+        },
+        {
+            name: "Señal 90",
+            logo: "stations/images-america/mexico/guadalajara/Señal 90.png",
+            url: "https://s2.yesstreaming.net:17042/stream"
+        },
+        {
+            name: "Zona Tres 91.5",
+            logo: "stations/images-america/mexico/guadalajara/Zona Tres 91.5.png",
+            url: "https://strcdn.klm99.com/8116/stream"
+        },
+        {
+            name: "Rock & Soul 91.9",
+            logo: "stations/images-america/mexico/guadalajara/Rock & Soul 91.9.png",
+            url: "https://stream.zeno.fm/1ktdukt91rhvv"
+        },
+        {
+            name: "Fiesta Mexicana 92.3",
+            logo: "stations/images-america/mexico/guadalajara/Fiesta Mexicana 92.3.png",
+            url: "https://strcdn.klm99.com:8130/stream/1/"
+        },
+        {
+            name: "Radio Mujer 92.7",
+            logo: "stations/images-america/mexico/guadalajara/Radio Mujer 92.7.png",
+            url: "https://strcdn.klm99.com/8118/stream"
+        },
+        {
+            name: "Amor 93.1",
+            logo: "stations/images-america/mexico/guadalajara/Amor 93.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPIFMAAC_SC"
+        },
+        {
+            name: "Imagen Radio 93.9",
+            logo: "stations/images-america/mexico/guadalajara/Imagen Radio 93.9.png",
+            url: "https://rigdl2.alphamx.net/;stream.mp3"
+        },
+        {
+            name: "KY 94.7",
+            logo: "stations/images-america/mexico/guadalajara/KY 94.7.png",
+            url: "https://sg.centrocibernetico.com/audiorama-xhdk"
+        },
+        {
+            name: "La Mejor 95.5",
+            logo: "stations/images-america/mexico/guadalajara/La Mejor 95.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHROAAC_SC"
+        },
+        {
+            name: "Vox 95.9",
+            logo: "stations/images-america/mexico/guadalajara/Vox 95.9.png",
+            url: "https://streaming.servicioswebmx.com/8272/stream"
+        },
+        {
+            name: "Jalisco Radio 96.3",
+            logo: "stations/images-america/mexico/guadalajara/Jalisco Radio 96.3.png",
+            url: "https://sp2.servidorrprivado.com/8136/stream"
+        },
+        {
+            name: "La Ke Buena 97.1",
+            logo: "stations/images-america/mexico/guadalajara/La Ke Buena 97.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_GDLAAC_SC"
+        },
+        {
+            name: "Fórmula Melódica 97.9",
+            logo: "stations/images-america/mexico/guadalajara/Fórmula Melódica 97.9.png",
+            url: "https://s2.yesstreaming.net:9085/stream"
+        },
+        {
+            name: "globo 98.7",
+            logo: "stations/images-america/mexico/guadalajara/globo 98.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFMAAC_SC"
+        },
+        {
+            name: "Romance 99.5",
+            logo: "stations/images-america/mexico/guadalajara/Romance 99.5.png",
+            url: "https://stream.zeno.fm/3avzkdt91rhvv"
+        },
+        {
+            name: "La Lupe 99.9",
+            logo: "stations/images-america/mexico/guadalajara/La Lupe 99.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHKB_FMAAC_SC"
+        },
+        {
+            name: "Heraldo Radio 100.3",
+            logo: "stations/images-america/mexico/guadalajara/Heraldo Radio 100.3.png",
+            url: "https://stream.radiojar.com/2at2c3ububkvv"
+        },
+        {
+            name: "exa 101.1",
+            logo: "stations/images-america/mexico/guadalajara/exa 101.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC_SC"
+        },
+        {
+            name: "W Radio 101.5",
+            logo: "stations/images-america/mexico/0_general_logos/W Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC_SC"
+        },
+        {
+            name: "La Buena Onda 101.9",
+            logo: "stations/images-america/mexico/guadalajara/La Buena Onda 101.9.png",
+            url: "https://s2.yesstreaming.net:9094/stream"
+        },
+        {
+            name: "LOS40 102.7",
+            logo: "stations/images-america/mexico/guadalajara/LOS40 102.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC_SC"
+        },
+        {
+            name: "La Tapatía 103.5",
+            logo: "stations/images-america/mexico/guadalajara/La Tapatía 103.5.png",
+            url: "https://stream.zeno.fm/urxmpmn1qa0uv"
+        },
+        {
+            name: "Radio UdeG 104.3",
+            logo: "stations/images-america/mexico/0_general_logos/Radio Universidad de Guadalajara.png",
+            url: "https://stream.zeno.fm/6mm85mmh6ehvv"
+        },
+        {
+            name: "Milenio Bella Musica 105.1",
+            logo: "stations/images-america/mexico/guadalajara/Milenio Bella Musica 105.1.png",
+            url: "https://strcdn.klm99.com/8120/stream"
+        },
+        {
+            name: "Éxtasis Digital 105.9",
+            logo: "stations/images-america/mexico/guadalajara/Éxtasis Digital 105.9.png",
+            url: "https://stream.zeno.fm/ct70b7m1qa0uv"
+        },
+        {
+            name: "Máxima 106.7",
+            logo: "stations/images-america/mexico/guadalajara/Máxima 106.7.png",
+            url: "https://stream.zeno.fm/ppckgqm1qa0uv"
+        },
+        {
+            name: "Retro 107.5",
+            logo: "stations/images-america/mexico/guadalajara/Retro 107.5.png",
+            url: "https://cdn1.onstream.audio/proxy/xhvoz/stream"
+        },
+        {
+            name: "Radio Cañón 580",
+            logo: "stations/images-america/mexico/guadalajara/Radio Cañón 580.png",
+            url: "https://streaming.servicioswebmx.com/8266/stream"
+        },
+        {
+            name: "Jalisco Radio 630",
+            logo: "stations/images-america/mexico/guadalajara/Jalisco Radio 630.png",
+            url: "https://sp2.servidorrprivado.com/8354/stream"
+        },
+        {
+            name: "700 XEDKR",
+            logo: "stations/images-america/mexico/mexico_city/La Octava.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XEDKR_AMAAC_SC"
+        },
+        {
+            name: "Radio Gallito 760",
+            logo: "stations/images-america/mexico/guadalajara/Radio Gallito 760.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDLAAC_SC"
+        },
+        {
+            name: "Radio Fórmula Jalisco 790",
+            logo: "stations/images-america/mexico/guadalajara/Radio Fórmula Jalisco 790.png",
+            url: "https://stream.radiojar.com/8a7k0514xp8uv"
+        },
+        {
+            name: "Radio Cañón 820",
+            logo: "stations/images-america/mexico/guadalajara/Radio Cañón 820.png",
+            url: "http://streamingcwsradio30.com/8294/;"
+        },
+        {
+            name: "Radio María 920",
+            logo: "stations/images-america/mexico/0_general_logos/Radio María México.png",
+            url: "https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream"
+        },
+        {
+            name: "XEHK 960",
+            logo: "stations/images-america/mexico/guadalajara/XEHK 960.png",
+            url: "https://stream.zeno.fm/ca92txm2mg8uv"
+        },
+        {
+            name: "Radio Cañón 1010",
+            logo: "stations/images-america/mexico/guadalajara/Radio Cañón 1010.png",
+            url: "https://streamingcwsradio30.com/8294/;"
+        },
+        {
+            name: "ESNE Radio 1040",
+            logo: "stations/images-america/mexico/guadalajara/ESNE Radio 1040.png",
+            url: "https://secure1.reliastream.com/esne-radio-guadalajara/;"
+        },
+        {
+            name: "Radio Metrópoli 1150",
+            logo: "stations/images-america/mexico/guadalajara/Radio Metrópoli 1150.png",
+            url: "https://s2.yesstreaming.net:9088/stream"
+        },
+        {
+            name: "Radio Fórmula Jalisco 1230",
+            logo: "stations/images-america/mexico/guadalajara/Radio Fórmula Jalisco 1230.png",
+            url: "https://stream.radiojar.com/n12qp914xp8uv"
+        },
+        {
+            name: "DK 1250",
+            logo: "stations/images-america/mexico/guadalajara/DK 1250.png",
+            url: "https://sp2.servidorrprivado.com:10947/;"
+        },
+        {
+            name: "Radio Vital 1310",
+            logo: "stations/images-america/mexico/guadalajara/Radio Vital 1310.png",
+            url: "https://s2.yesstreaming.net:9097/stream"
+        },
+        {
+            name: "Frecuencia Deportiva 1340",
+            logo: "stations/images-america/mexico/guadalajara/Frecuencia Deportiva 1340.png",
+            url: "https://stream.zeno.fm/r1540b8e408uv"
+        },
+        {
+            name: "Apostolicus 1370",
+            logo: "stations/images-america/mexico/guadalajara/Apostolicus 1370.png",
+            url: "https://stream.zeno.fm/w033e67vurhvv"
+        },
+        {
+            name: "Rock and Pop 1470",
+            logo: "stations/images-america/mexico/guadalajara/Rock and Pop 1470.png",
+            url: "https://stream.zeno.fm/6pnyuabfgg8uv"
+        },
+        {
+            name: "Miled 1510",
+            logo: "stations/images-america/mexico/guadalajara/Miled 1510.png",
+            url: "https://miledgdl-cybertec.radioca.st/;"
         },
     ],
     "guanacevi": [
@@ -32930,7 +33067,7 @@ var stations = {/*
             url: "http://167.114.116.223:1044/stream.mp3"
         },
         {
-            name: "Los 40 94.1",
+            name: "LOS40 94.1",
             logo: "stations/images-america/mexico/los_mochis/Los 40 94.1.png",
             url: "https://stream.zeno.fm/3z6w5h8hfphvv"
         },
@@ -33120,7 +33257,7 @@ var stations = {/*
             url: "http://s1.audiorama.mx:6590/stream"
         },
         {
-            name: "Los 40 90.7",
+            name: "LOS40 90.7",
             logo: "stations/images-america/mexico/mexicali/Los 40 90.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC_SC"
         },
@@ -33290,7 +33427,7 @@ var stations = {/*
             url: "https://playradio.mx/proxy/wvallarta?mp=/stream"
         },
         {
-            name: "Los 40 91.1",
+            name: "LOS40 91.1",
             logo: "stations/images-america/mexico/nvo_vallarta/Los 40 91.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VALLARTAAAC_SC"
         },
@@ -33414,6 +33551,23 @@ var stations = {/*
             url: "https://radiofamilia1.radioca.st/stream"
         },
     ],
+    "parras": [
+        {
+            name: "Región 88.3",
+            logo: "stations/images-america/mexico/parras/Región 88.3.png",
+            url: "https://streamingcwsradio30.com/8078/stream"
+        },
+        {
+            name: "La Explosiva 89.9",
+            logo: "stations/images-america/mexico/parras/La Explosiva 89.9.png",
+            url: "https://stream.zeno.fm/josbdcdmjuluv"
+        },
+        {
+            name: "Coahuila Radio 103.5",
+            logo: "stations/images-america/mexico/0_general_logos/Coahuila Radio.png",
+            url: "https://cryt-stream.mx:8443/cryt-xhsoc"
+        },
+    ],
     "puerto_pena": [
         {
             name: "Súper 93.5",
@@ -33477,6 +33631,98 @@ var stations = {/*
             name: "La M Mexicana 94.5",
             logo: "stations/images-america/mexico/rioverde/La M Mexicana 94.5.png",
             url: "https://ais-sa2.cdnstream1.com/2561_64.aac"
+        },
+    ],
+    "saltillo":[
+        {
+            name: "Coahuila Radio 89.7",
+            logo: "stations/images-america/mexico/0_general_logos/Coahuila Radio.png",
+            url: "https://cryt-stream.mx:8443/cryt-xhsoc"
+        },
+        {
+            name: "Región 91.3",
+            logo: "stations/images-america/mexico/saltillo/Région 91.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEIMAAC_SC"
+        },
+        {
+            name: "ADN Radio 92.1",
+            logo: "stations/images-america/mexico/saltillo/ADN Radio 92.1.png",
+            url: "https://streamingcwsradio30.com/8322/stream"
+        },
+        {
+            name: "Stereo Saltillo 93.5",
+            logo: "stations/images-america/mexico/saltillo/Stereo Saltillo 93.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHQCFMAAC_SC"
+        },
+        {
+            name: "Imagen Saltillo 94.7",
+            logo: "stations/images-america/mexico/saltillo/Imagen Saltillo 94.7.png",
+            url: "https://radiotam.ciomex.cloud/;stream.mp3"
+        },
+        {
+            name: "Radio Concierto 97.7",
+            logo: "stations/images-america/mexico/saltillo/Radio Concierto 97.7.png",
+            url: "https://5c001c2729b09.streamlock.net:4443/live/_definst_/Radioconcierto.stream/playlist.m3u8"
+        },
+        {
+            name: "Somos FM 99.3",
+            logo: "stations/images-america/mexico/saltillo/Somos FM 99.3.png",
+            url: "https://radio.rcg.com.mx/8006/stream"
+        },
+        {
+            name: "Radio Tecnológico de Saltillo 100.1",
+            logo: "stations/images-america/mexico/saltillo/Radio Tecnológico de Saltillo 100.1.png",
+            url: "http://104.238.144.165:8022/;"
+        },
+        {
+            name: "La Reina 100.9",
+            logo: "stations/images-america/mexico/saltillo/La Reina 100.9.png",
+            url: "https://sp.dattavolt.com:7074/stream/;"
+        },
+        {
+            name: "Coahuila Hoy Radio 102.5",
+            logo: "stations/images-america/mexico/saltillo/Coahuila Hoy Radio 102.5.png",
+            url: "https://cast1.asurahosting.com/proxy/coahuilapiedras/stream"
+        },
+        {
+            name: "SJ 103.3",
+            logo: "stations/images-america/mexico/saltillo/SJ 103.3.png",
+            url: "https://radio.rcg.com.mx/8004/stream"
+        },
+        {
+            name: "Radio Universidad Saltillo 104.1",
+            logo: "stations/images-america/mexico/saltillo/Radio Universidad Saltillo 104.1.png",
+            url: "https://192.187.112.50:8212/;"
+        },
+        {
+            name: "La Lupe 105.7",
+            logo: "stations/images-america/mexico/saltillo/La Lupe 105.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDEFMAAC_SC"
+        },
+        {
+            name: "digital 106.5",
+            logo: "stations/images-america/mexico/saltillo/digital 106.5.png",
+            url: "https://radio.rcg.com.mx/8002/stream"
+        },
+        {
+            name: "Viva Saltillo 610",
+            logo: "stations/images-america/mexico/saltillo/Viva Saltillo 610.png",
+            url: "https://cast1.my-control-panel.com/proxy/vivasaltillo/stream"
+        },
+        {
+            name: "720 XEDE",
+            logo: "stations/images-america/mexico/saltillo/La Lupe 105.7.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/XHDEFMAAC_SC"
+        },
+        {
+            name: "930 XESAME",
+            logo: "stations/images-america/mexico/saltillo/SJ 103.3.png",
+            url: "http://radio.rcg.com.mx/8004/stream"
+        },
+        {
+            name: "Radio Universidad Agraria 1220",
+            logo: "stations/images-america/mexico/saltillo/Radio Universidad Agraria 1220.png",
+            url: "https://s2.voscast.com:7417/stream"
         },
     ],
     "sanblas":[
@@ -33588,7 +33834,7 @@ var stations = {/*
             url: "http://hd.digitalradio.mx:5910/stream"
         },
         {
-            name: "Los 40 103.9",
+            name: "LOS40 103.9",
             logo: "stations/images-america/mexico/sanluisp/Los 40 103.9.png",
             url: "http://hd.digitalradio.mx:5914/stream"
         },
@@ -33784,7 +34030,7 @@ var stations = {/*
             url: "https://stream.zeno.fm/tgan2u6qsfhvv"
         },
         {
-            name: "Los 40 104.9",
+            name: "LOS40 104.9",
             logo: "stations/images-america/mexico/tepic/Los 40 104.9.png",
             url: "https://icecasthd.net/proxy/grk/xherk"
         },
@@ -33792,6 +34038,138 @@ var stations = {/*
             name: "La Caliente 105.7",
             logo: "stations/images-america/mexico/tepic/La Caliente 105.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLRSFMAAC_SC"
+        },
+    ],
+    "torreon":[
+        {
+            name: "Lobos FM 88.7",
+            logo: "stations/images-america/mexico/torreon/Lobos FM 88.7.png",
+            url: "http://streamingcwsradio10.com:9302/;"
+        },
+        {
+            name: "KISS 89.1",
+            logo: "stations/images-america/mexico/torreon/KISS 89.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEBTAAC_SC"
+        },
+        {
+            name: "Radio Universidad 89.5",
+            logo: "stations/images-america/mexico/torreon/Radio Universidad 89.5.png",
+            url: "https://stream11.mexiserver.com:9003/;?_=1#.mp3"
+        },
+        {
+            name: "Adictivo Radio 90.3",
+            logo: "stations/images-america/mexico/torreon/Adictivo Radio 90.3.png",
+            url: "https://stream.zeno.fm/xhqbe725dkhvv"
+        },
+        {
+            name: "globo 91.1",
+            logo: "stations/images-america/mexico/torreon/globo 91.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTCAAC_SC"
+        },
+        {
+            name: "La Santa 91.9",
+            logo: "stations/images-america/mexico/torreon/La Santa 91.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCAWAAC_SC"
+        },
+        {
+            name: "La Caliente 92.3",
+            logo: "stations/images-america/mexico/torreon/La Caliente 92.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTRRFMAAC_SC"
+        },
+        {
+            name: "hits 93.1",
+            logo: "stations/images-america/mexico/torreon/hits 93.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTOFMAAC_SC"
+        },
+        {
+            name: "Telediario Radio 93.9",
+            logo: "stations/images-america/mexico/torreon/Telediario Radio 93.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHWNFMAAC_SC"
+        },
+        {
+            name: "La Voz 94.7",
+            logo: "stations/images-america/mexico/torreon/La Voz 94.7.png",
+            url: "https://stream.zeno.fm/3mlkhk5d7h0uv"
+        },
+        {
+            name: "exa 95.5",
+            logo: "stations/images-america/mexico/torreon/exa 95.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC_SC"
+        },
+        {
+            name: "Radio Torréon 96.3",
+            logo: "stations/images-america/mexico/torreon/Radio Torréon 96.3.png",
+            url: "https://s42.myradiostream.com/34112/;"
+        },
+        {
+            name: "La Mejor 97.1",
+            logo: "stations/images-america/mexico/torreon/La Mejor 97.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPEAAC_SC"
+        },
+        {
+            name: "Coahuila Hoy 97.5",
+            logo: "stations/images-america/mexico/torreon/Coahuila Hoy 97.5.png",
+            url: "https://cast1.my-control-panel.com/proxy/coahuilahoy/stream"
+        },
+        {
+            name: "Frecuencia UAL 98.7",
+            logo: "stations/images-america/mexico/torreon/Frecuencia UAL 98.7.png",
+            url: "https://shaincast.caster.fm:24123/listen.mp3?authne7f627bba8e2a43af39055dc3bd749f1"
+        },
+        {
+            name: "La Perla 99.1",
+            logo: "stations/images-america/mexico/torreon/La Perla 99.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCASAAC_SC"
+        },
+        {
+            name: "La Lupe 99.9",
+            logo: "stations/images-america/mexico/torreon/La Lupe 99.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHETORFM_SC"
+        },
+        {
+            name: "Imagen Laguna 100.3",
+            logo: "stations/images-america/mexico/torreon/Imagen Laguna 100.3.png",
+            url: "http://radio.wnsol.com:8068/stream.mp3"
+        },
+        {
+            name: "WOW 101.1",
+            logo: "stations/images-america/mexico/torreon/Wow 101.1.png",
+            url: "https://stream.zeno.fm/allh8ihxbcntv"
+        },
+        {
+            name: "FMTÚ 102.7",
+            logo: "stations/images-america/mexico/torreon/FMTÚ 102.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCAFMAAC_SC"
+        },
+        {
+            name: "Región 103.5",
+            logo: "stations/images-america/mexico/torreon/Región 103.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHLZAAC_SC"
+        },
+        {
+            name: "Heraldo Radio 104.3",
+            logo: "stations/images-america/mexico/torreon/Heraldo Radio 104.3.png",
+            url: "https://stream.radiojar.com/d3s793ybubkvv"
+        },	
+        {
+            name: "Altavoz Radio 104.7",
+            logo: "stations/images-america/mexico/torreon/Altavoz Radio 104.7.png",
+            url: "https://s2.mexside.net/8160/stream"
+        },	
+        {
+            name: "Capullo 105.1",
+            logo: "stations/images-america/mexico/torreon/Capullo 105.1.png",
+            url: "https://stream.zeno.fm/3qv5hnktu4rvv"
+        },	
+        {
+            name: "Radio Fórmula 105.9",
+            logo: "stations/images-america/mexico/torreon/Radio Fórmula 105.9.png",
+            url: "https://stream.radiojar.com/bfews6ef3p8uv"
+        },
+        {
+            name: "Pasión 106.7",
+            logo: "stations/images-america/mexico/torreon/Pasión 106.7.png",
+            url: "http://stream.zeno.fm/w2j6dhtr3jmvv"
         },
     ],
     "tlalte":[
