@@ -6872,8 +6872,8 @@ var stations = {/*
             url: "https://khcb.streamguys1.com/live-128k-mp3"
         },	
         {
-            name: "FM Globo 99.7",
-            logo: "stations/images-america/del_rio/FM Globo 99.7.png",
+            name: "globo 99.7",
+            logo: "stations/images-america/del_rio/globo 99.7.png",
             url: "https://radio.rcg.com.mx:7007/;"
         },	
         {
@@ -24931,8 +24931,8 @@ var stations = {/*
             url: "https://cast6.asurahosting.com/proxy/luisf/adictivafmtijuana"
         },
         {
-            name: "FM Globo 99.3",
-            logo: "stations/images-america/san_diego/FM Globo 99.3.png",
+            name: "globo 99.3",
+            logo: "stations/images-america/san_diego/globo 99.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHOCL_SC"
         },
         {
@@ -31442,7 +31442,7 @@ var stations = {/*
         {
             name: "La Kañona 94.3",
             logo: "stations/images-america/mexico/acaponeta/La Kañona 94.3.png",
-            url: "https://nazca.globalhost1.com/8004/;"
+            url: "https://radios.blumhost.es/8120/;"
         },
         {
             name: "La Patrona 98.1",
@@ -31529,7 +31529,7 @@ var stations = {/*
         {
             name: "Estéreo Mendel 103.7",
             logo: "stations/images-america/mexico/aguasca/Estéreo Mendel 103.7.png",
-            url: "http://tunein.gvstream.net:8034/;"
+            url: "https://radioweb.stream/ags.ags/xhmr.aac/icecast.audio"
         },
         {
             name: "Amor es 104.5",
@@ -31634,9 +31634,9 @@ var stations = {/*
     ],
     "basas": [
         {
-            name: "La Patrona 89.9",
-            logo: "stations/images-america/mexico/0_general_logos/La Patrona.png",
-            url: "https://streamingcwsradio30.com:7065/stream"
+            name: "No stations in Basaseachi",
+            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
+            url: ""
         },
     ],
     "batopil": [
@@ -31690,12 +31690,12 @@ var stations = {/*
             name: "89.1 Radiante FM",
             logo: "stations/images-america/mexico/cabo_sanluc/89.1 Radiante FM.png",
             url: "https://streamingcwsradio30.com:7036/stream"
-        },
+        },/*
         {
             name: "KVOZ 93.1",
             logo: "stations/images-america/mexico/cabo_sanluc/KVOZ 93.1.png",
             url: "http://www.kvoz.com:8080/kvoz"
-        },
+        },*/
         {
             name: "Cabo Mil 96.3",
             logo: "stations/images-america/mexico/cabo_sanluc/Cabo Mil 96.3.png",
@@ -31712,12 +31712,12 @@ var stations = {/*
             name: "89.1 Radiante FM",
             logo: "stations/images-america/mexico/cabo_sanluc/89.1 Radiante FM.png",
             url: "https://streamingcwsradio30.com:7036/stream"
-        },
+        },/*
         {
             name: "KVOZ 93.1",
             logo: "stations/images-america/mexico/cabo_sanluc/KVOZ 93.1.png",
             url: "http://www.kvoz.com:8080/kvoz"
-        },
+        },*/
         {
             name: "Cabo Mil 96.3",
             logo: "stations/images-america/mexico/cabo_sanluc/Cabo Mil 96.3.png",
@@ -31748,7 +31748,7 @@ var stations = {/*
         {
             name: "Super FM 102.9",
             logo: "stations/images-america/mexico/camargo/Super FM 102.9.png",
-            url: "http://streamingcwsradio20.com:9870/stream/1/"
+            url: "https://streamingcwsradio30.com/8206/stream"
         },
     ],
     "cananea": [
@@ -31770,7 +31770,7 @@ var stations = {/*
         {
             name: "La Poderosa 104.7",
             logo: "stations/images-america/mexico/cananea/La Poderosa 104.7.png",
-            url: "https://stream.zeno.fm/1ncw9st3ekhvv"
+            url: "https://stream.freepi.io/8400/live"
         },
         {
             name: "ORO Radio 107.3",
@@ -31804,7 +31804,7 @@ var stations = {/*
         {
             name: "La Poderosa 104.7",
             logo: "stations/images-america/mexico/cananea/La Poderosa 104.7.png",
-            url: "https://stream.zeno.fm/1ncw9st3ekhvv"
+            url: "https://stream.freepi.io/8400/live"
         },
         {
             name: "ORO Radio 107.3",
@@ -31817,12 +31817,12 @@ var stations = {/*
             name: "La Ranchera de Cuauhtémoc 89.7",
             logo: "stations/images-america/mexico/cd_cuauh/La Ranchera de Cuauhtémoc 89.7.png",
             url: "https://stream.zeno.fm/u1q3a220974tv"
-        },
+        },/*
         {
             name: "XHEPL 91.3",
             logo: "stations/images-america/mexico/cd_cuauh/XHEPL 91.3.png",
             url: "https://listen.mixlr.com/a6f43531ed20e6277991ad295f53a474"
-        },
+        },*/
         {
             name: "Amor 92.9",
             logo: "stations/images-america/mexico/cd_cuauh/Amor 92.9.png",
@@ -31876,14 +31876,9 @@ var stations = {/*
             url: "https://stream.zeno.fm/uj7j4z1dpcltv"
         },
         {
-            name: "Studio 96.9",
-            logo: "stations/images-america/mexico/cd_obregon/Studio 96.9.png",
-            url: "https://stream.freepi.io/8410/live"
-        },
-        {
             name: "Máxima 97.7",
             logo: "stations/images-america/mexico/cd_obregon/Máxima 97.7.png",
-            url: "https://tuasesorweb.com:2000/stream/MaximaObregon/stream"
+            url: "http://www.tuasesorweb.com:8020/;"
         },	
         {
             name: "La Zeta 98.5",
@@ -31903,7 +31898,7 @@ var stations = {/*
         {
             name: "Oreja 102.5",
             logo: "stations/images-america/mexico/cd_obregon/Oreja 102.5.png",
-            url: "https://stream.zeno.fm/wbg3mey3ekhvv"
+            url: "https://stream.zeno.fm/3agiabarewutv"
         },
         {
             name: "La Mejor 103.3",
@@ -31913,7 +31908,7 @@ var stations = {/*
         {
             name: "104.9 @FM",
             logo: "stations/images-america/mexico/cd_obregon/104.9 @FM.png",
-            url: "https://freepi.host:9063/stream"
+            url: "https://stream.zeno.fm/6g9vm2ezbfhvv"
         },
         {
             name: "La Uni-K 105.7",
@@ -32095,7 +32090,7 @@ var stations = {/*
         {
             name: "Radio Sinaloa 94.5",
             logo: "stations/images-america/mexico/culiacan/Radio Sinaloa 94.5.png",
-            url: "http://192.99.16.17:8170/stream"
+            url: "https://stream20.usastreams.com/8156/stream"
         },
         {
             name: "95.3 @FM",
@@ -32105,7 +32100,7 @@ var stations = {/*
         {
             name: "Radio UAS 96.1",
             logo: "stations/images-america/mexico/culiacan/Radio UAS 96.1.png",
-            url: "https://stream5.mexiserver.com:1123/stream"
+            url: "https://stream9.mexiserver.com/8410/stream"
         },
         {
             name: "Vibra 96.9",
@@ -32130,7 +32125,7 @@ var stations = {/*
         {
             name: "exa 101.7",
             logo: "stations/images-america/mexico/culiacan/exa 101.7.png",
-            url: "https://sp3.servidorrprivado.com:10940/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC_SC"
         },
         {
             name: "Maxiradio 103.3",
@@ -32157,17 +32152,17 @@ var stations = {/*
         {
             name: "Flamingo 93.7",
             logo: "stations/images-america/mexico/delicias/Flamingo 93.7.png",
-            url: "https://streamingcwsradio30.com:7097/stream"
+            url: "https://streamingcwsradio30.com/8192/;"
         },
         {
             name: "Fiesta Mexicana 94.5",
             logo: "stations/images-america/mexico/delicias/Fiesta Mexicana 94.5.png",
-            url: "http://radio.promosat.com:8122/stream"
+            url: "https://strcdn.klm99.com/8132/stream/1/"
         },	
         {
             name: "La Ke Buena 95.3",
             logo: "stations/images-america/mexico/delicias/La Ke Buena 95.3.png",
-            url: "http://sigmaradio.stream:9002/stream"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC_SC"
         },
         {
             name: "La Lupe 98.9",
@@ -32177,17 +32172,12 @@ var stations = {/*
         {
             name: "LOS40 100.5",
             logo: "stations/images-america/mexico/delicias/Los 40 100.5.png",
-            url: "http://sigmaradio.stream:9004/stream"
+            url: "https://ssl.sigmaradio.stream:9004/stream"
         },
         {
             name: "Romántica 102.1",
             logo: "stations/images-america/mexico/delicias/Romántica 102.1.png",
-            url: "http://sigmaradio.stream:9000/stream"
-        },
-        {
-            name: "Super FM 102.9",
-            logo: "stations/images-america/mexico/camargo/Super FM 102.9.png",
-            url: "http://streamingcwsradio20.com:9870/stream/1/"
+            url: "https://ssl.sigmaradio.stream:9000/stream"
         },
     ],
     "ebano": [
@@ -32224,7 +32214,7 @@ var stations = {/*
         {
             name: "Heraldo 92.5",
             logo: "stations/images-america/mexico/ebano/Heraldo 92.5.png",
-            url: "https://radio.grupoas.stream:5509/stream"
+            url: "https://stream.radiojar.com/g33sp4yqd6quv"
         },
         {
             name: "93.5 @FM",
@@ -32392,7 +32382,7 @@ var stations = {/*
         {
             name: "Romántica 90.3",
             logo: "stations/images-america/mexico/fresnillo/Romántica 90.3.png",
-            url: "https://ice42.securenetsystems.net/XHQS"
+            url: "https://s2.mexside.net/8102/stream/1/"
         },
         {
             name: "Radio Cañón 94.3",
@@ -32717,7 +32707,7 @@ var stations = {/*
         {
             name: "La Mera Jefa 93.7",
             logo: "stations/images-america/mexico/guasave/La Mera Jefa 93.7.png",
-            url: "https://sp2.servidorrprivado.com:10960//stream"
+            url: "https://a6.asurahosting.com:7990/radio.mp3"
         },
         {
             name: "exa 98.1",
@@ -32727,12 +32717,12 @@ var stations = {/*
         {
             name: "La JL 99.3",
             logo: "stations/images-america/mexico/guasave/La JL 99.3.png",
-            url: "http://grupochavezradio.ddns.net:8001/jl"
+            url: "https://streaming.shoutcast.com/la-jl"
         },
         {
             name: "La GS 104.3",
             logo: "stations/images-america/mexico/guasave/La GS 104.3.png",
-            url: "http://grupochavezradio.ddns.net:8001/gs"
+            url: "https://streaming.shoutcast.com/gs-la-super-estacion"
         },
     ],
     "guaymas": [
@@ -32801,7 +32791,7 @@ var stations = {/*
         {
             name: "Máxima 96.3",
             logo: "stations/images-america/mexico/hermosillo/Máxima 96.3.png",
-            url: "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/66ad356de8f3b93d2da94362/playlist.m3u8"
+            url: "https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8"
         },
         {
             name: "La Número Uno 97.1",
@@ -32841,7 +32831,7 @@ var stations = {/*
         {
             name: "La Raza 105.1",
             logo: "stations/images-america/mexico/hermosillo/La Raza 105.1.png",
-            url: "http://www.tuasesorweb.com:8058/stream"
+            url: "https://stream.zeno.fm/wy9eauldjwavv"
         },
         {
             name: "Click FM 105.9",
@@ -32851,12 +32841,12 @@ var stations = {/*
         {
             name: "Política y Rock'n Roll Radio 106.7",
             logo: "stations/images-america/mexico/hermosillo/Política y Rock'n Roll Radio 106.7.png",
-            url: "http://freeuk29.listen2myradio.com:13176/;"
+            url: "http://uk4freenew.listen2myradio.com:30228/;"
         },
         {
             name: "Radio Universidad 107.5",
             logo: "stations/images-america/mexico/hermosillo/Radio Universidad 107.5.png",
-            url: "https://148.225.54.10/broadwavehigh.mp3"
+            url: "http://148.225.54.10/broadwavehigh.mp3"
         },
     ],
     "huazamota": [
@@ -32882,17 +32872,17 @@ var stations = {/*
         {
             name: "Trión 89.1",
             logo: "stations/images-america/mexico/0_general_logos/Trión.png",
-            url: "http://stream.radiojar.com/qqtzpdr76p8uv"
+            url: "http://stream.radiojar.com/4f89tufzv9duv"
         },
         {
             name: "La Poderosa 89.5",
             logo: "stations/images-america/mexico/h_nogales/La Poderosa 89.5.png",
-            url: "https://freepi.host:9067/stream"
+            url: "https://stream.freepi.io:8414/live"
         },
         {
             name: "89.9 @FM",
             logo: "stations/images-america/mexico/h_nogales/89.9 @FM.png",
-            url: "https://stream.zeno.fm/y3428gfzbfhvv"
+            url: "https://stream.freepi.io/8412/live"
         },
         {
             name: "KY 90.3",
@@ -32927,12 +32917,12 @@ var stations = {/*
         {
             name: "Urbana 104.3",
             logo: "stations/images-america/mexico/h_nogales/Urbana 104.3.png",
-            url: "https://stream9.mexiserver.com/8066/stream"
+            url: "https://ice26.securenetsystems.net/XHAZE"
         },	
         {
             name: "Estéreo Genial 105.1",
             logo: "stations/images-america/mexico/h_nogales/Estéreo Genial 105.1.png",
-            url: "http://189.238.239.167:8002/genial.mp3"
+            url: "https://stream.zeno.fm/e6ae2u9wueruv"
         },
         {
             name: "Radio Sonora 105.9",
@@ -32942,12 +32932,12 @@ var stations = {/*
         {
             name: "Studio 106.7",
             logo: "stations/images-america/mexico/h_nogales/Studio 106.7.png",
-            url: "https://freepi.host:9068/stream"
+            url: "https://stream.freepi.io/8416/live"
         },
         {
             name: "Más Radio 107.9",
             logo: "stations/images-america/mexico/h_nogales/Más Radio 107.9.png",
-            url: "https://s5.mexside.net:9079/stream"
+            url: "https://s5.mexside.net:8000/stream"
         },
     ],	
     "jalpa": [
@@ -32973,7 +32963,7 @@ var stations = {/*
         {
             name: "La Campera 92.9",
             logo: "stations/images-america/mexico/jimenez/La Campera 92.9.png",
-            url: "https://sp5.servidorrprivado.com/8773/stream"
+            url: "https://stream.zeno.fm/4nmspyoqrjdvv"
         },
         {
             name: "Halcón Stereo 104.3",
@@ -33000,7 +32990,7 @@ var stations = {/*
         {
             name: "Digimix 95",
             logo: "stations/images-america/mexico/la_paz/Digimix 95.png",
-            url: "http://www.digimix95.com:8080/digimix95"
+            url: "https://stream.zeno.fm/pgs4nreif6yvv"
         },
         {
             name: "Super Stereo 96",
@@ -33020,7 +33010,7 @@ var stations = {/*
         {
             name: "Estéreo Romance 100.7",
             logo: "stations/images-america/mexico/la_paz/Estéreo Romance 100.7.png",
-            url: "http://www.estereoromance.com:8080/estromance"
+            url: "https://stream.zeno.fm/pgs4nreif6yvv"
         },
         {
             name: "Radio 990",
@@ -33032,14 +33022,14 @@ var stations = {/*
         {
             name: "Radio La Giganta 730",
             logo: "stations/images-america/mexico/loreto/Radio La Giganta 730.png",
-            url: "http://www.radiolagiganta.com:8080/radiolagiganta"
+            url: "https://stream.zeno.fm/a1csfaau69ruv"
         },
     ],
     "los_mochis": [
         {
             name: "La Interesante de Los Mochis 88.5",
             logo: "stations/images-america/mexico/los_mochis/La Interesante de Los Mochis 88.5.png",
-            url: "https://intemochis-megacaster.radioca.st/stream"
+            url: "https://stream.soyradioinc.com:8150/stream"
         },
         {
             name: "Radio UAdeO 89.3",
@@ -33059,17 +33049,12 @@ var stations = {/*
         {
             name: "Radio Sinaloa 92.5",
             logo: "stations/images-america/mexico/culiacan/Radio Sinaloa 94.5.png",
-            url: "http://192.99.16.17:8170/stream"
+            url: "https://stream20.usastreams.com/8156/stream"
         },
         {
             name: "La Mexicana 93.3",
             logo: "stations/images-america/mexico/los_mochis/La Mexicana 93.3.png",
-            url: "http://167.114.116.223:1044/stream.mp3"
-        },
-        {
-            name: "LOS40 94.1",
-            logo: "stations/images-america/mexico/los_mochis/Los 40 94.1.png",
-            url: "https://stream.zeno.fm/3z6w5h8hfphvv"
+            url: "https://a6.asurahosting.com:7910/stream/1/"
         },
         {
             name: "La Z 96.5",
@@ -33094,7 +33079,7 @@ var stations = {/*
         {
             name: "Radio 65 100.5",
             logo: "stations/images-america/mexico/los_mochis/Radio 65 100.5.png",
-            url: "http://grupochavezradio.ddns.net:8001/r65"
+            url: "https://streaming.shoutcast.com/radio-65"
         },
         {
             name: "Stereo Uno 101.3",
@@ -33114,7 +33099,7 @@ var stations = {/*
         {
             name: "La Maxi 102.5",
             logo: "stations/images-america/mexico/los_mochis/La Maxi 102.5.png",
-            url: "http://grupochavezradio.ddns.net:8001/kb"
+            url: "https://streaming.shoutcast.com/la-maxi"
         },
         {
             name: "Radio Variedades 103.5",
@@ -33187,7 +33172,7 @@ var stations = {/*
         {
             name: "La Lupe 92.1",
             logo: "stations/images-america/mexico/mazatlan/La Lupe 92.1.png",
-            url: "https://streaming.multimedios.com/station"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHNMAZFMAAC_SC"
         },
         {
             name: "Studio 93.1",
@@ -33200,13 +33185,13 @@ var stations = {/*
             url: "https://stream.zeno.fm/vhebfx7hfphvv"
         },
         {
-            name: "Magia Digital 97.1",
-            logo: "stations/images-america/mexico/mazatlan/Magia Digital 97.1.png",
-            url: "https://tv.radiohosting.online:8110/stream"
+            name: "La Morrita 97.1",
+            logo: "stations/images-america/mexico/mazatlan/La Morrita 97.1.png",
+            url: "https://audiostreaming.luz.network/stream/11/"
         },	
         {
-            name: "FM Globo 97.9",
-            logo: "stations/images-america/mexico/mazatlan/FM Globo 97.9.png",
+            name: "globo 97.9",
+            logo: "stations/images-america/mexico/mazatlan/globo 97.9.png",
             url: "https://sp2.servidorrprivado.com:10861/stream"
         },
         {
@@ -33227,7 +33212,7 @@ var stations = {/*
         {
             name: "La Mejor 102.7",
             logo: "stations/images-america/mexico/mazatlan/La Mejor 102.7.png",
-            url: "https://sp3.servidorrprivado.com:10968/stream"
+            url: "https://a6.asurahosting.com:8060/stream/1/"
         },
         {
             name: "XHSPRM 103.5",
@@ -33282,8 +33267,8 @@ var stations = {/*
             url: "http://201.netromedia.com/radiocanonhls/radiocanonhls/playlist.m3u8"
         },
         {
-            name: "FM Globo 101.9",
-            logo: "stations/images-america/mexico/mexicali/FM Globo 101.9.png",
+            name: "globo 101.9",
+            logo: "stations/images-america/mexico/mexicali/globo 101.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC_SC"
         },
         {
@@ -33314,12 +33299,12 @@ var stations = {/*
         {
             name: "Buenísima 850",
             logo: "stations/images-america/mexico/mexicali/Buenísima 850.png",
-            url: "https://streamssl.eu:2222/stream"
+            url: "https://sg.centrocibernetico.com/audiorama-xezf"
         },
         {
             name: "Radio Mexicana 910",
             logo: "stations/images-america/mexico/mexicali/Radio Mexicana 910.png",
-            url: "https://streamssl.eu:2226/stream"
+            url: "https://sg.centrocibernetico.com/audiorama-xeao"
         },
         {
             name: "La Rocola 990",
@@ -33329,7 +33314,7 @@ var stations = {/*
         {
             name: "Vida 1370",
             logo: "stations/images-america/mexico/mexicali/Vida 1370.png",
-            url: "https://streamssl.eu:2224/stream"
+            url: "https://sg.centrocibernetico.com/audiorama-xehg"
         },
     ],
     "moctezuma": [
@@ -33341,9 +33326,9 @@ var stations = {/*
     ],
     "nacozari": [
         {
-            name: "Toño 99.1",
-            logo: "stations/images-america/mexico/nacozari/Toño 99.1.png",
-            url: "http://stream.zenolive.com/39n0gar1dzzuv"
+            name: "La Reina de la Sierra 99.1",
+            logo: "stations/images-america/mexico/nacozari/La Reina de la Sierra 99.1.png",
+            url: "https://sp5.servidorrprivado.com/8064/stream/1/"
         },
         {
             name: "Radio Sonora 105.5",
@@ -33370,7 +33355,7 @@ var stations = {/*
         {
             name: "XHNVS 93.7",
             logo: "stations/images-america/mexico/hermosillo/Radio Universidad 107.5.png",
-            url: "https://148.225.54.10/broadwavehigh.mp3"
+            url: "http://148.225.54.10/broadwavehigh.mp3"
         },
         {
             name: "Radio Sonora 94.7",
@@ -33410,9 +33395,9 @@ var stations = {/*
             url: "https://stream.zeno.fm/8db4bm3xa84tv"
         },
         {
-            name: "Stereo Digital 104.9",
-            logo: "stations/images-america/mexico/nvo_casas/Stereo Digital 104.9.png",
-            url: "https://stream.zenolive.com/a6mbde9ub84tv"
+            name: "La 104.9",
+            logo: "stations/images-america/mexico/nvo_casas/La 104.9.png",
+            url: "https://stream.zeno.fm/usrf978ub84tv"
         },
     ],
     "nvo_vallarta": [
@@ -33422,7 +33407,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMEFMAAC_SC"
         },
         {
-            name: "W Radio 104.9",
+            name: "W Radio 90.3",
             logo: "stations/images-america/mexico/0_general_logos/W Radio.png",
             url: "https://playradio.mx/proxy/wvallarta?mp=/stream"
         },
@@ -33439,17 +33424,17 @@ var stations = {/*
         {
             name: "La Patrona 93.5",
             logo: "stations/images-america/mexico/nvo_vallarta/La Patrona 93.5.png",
-            url: "https://www.radiohosting.online/stream/?puerto=9774"
+            url: "https://tv.radiohosting.online:2000/stream/9774"
         },	
         {
             name: "La Poderosa 94.3",
             logo: "stations/images-america/mexico/nvo_vallarta/La Poderosa 94.3.png",
-            url: "http://5.79.86.14:8286/stream"
+            url: "https://stream.zeno.fm/w33xcmu7rzvtv"
         },
         {
             name: "Ke Buena 95.9",
             logo: "stations/images-america/mexico/nvo_vallarta/Ke Buena 95.9.png",
-            url: "https://cdn.digitalradio.mx/radio/8360/XHCJU"
+            url: "https://playradio.mx/proxy/kebuenav?mp=/stream"
         },
         {
             name: "Radiante FM 98.3",
@@ -33474,7 +33459,7 @@ var stations = {/*
         {
             name: "Oreja 105.1",
             logo: "stations/images-america/mexico/nvo_vallarta/Oreja 105.1.png",
-            url: "https://server3.sit-mexico.com:2199/proxy/orejapvj?mp=/stream"
+            url: "https://stream.zeno.fm/uxpvnss7gpvtv"
         }, 
         {
             name: "Lokura 105.9",
@@ -33491,7 +33476,7 @@ var stations = {/*
         {
             name: "Estéreo Romance 100.1",
             logo: "stations/images-america/mexico/ojinaga/Estéreo Romance 100.1.png",
-            url: "https://stream.zeno.fm/8nfp7m8ub84tv"
+            url: "https://stream.zeno.fm/069xrm8ub84tv"
         },
         {
             name: "La Poderosa 100.9",
@@ -33538,7 +33523,7 @@ var stations = {/*
         {
             name: "La Lupe 101.7",
             logo: "stations/images-america/mexico/parral/La Lupe 101.7.png",
-            url: "https://streaming.multimedios.com/station3"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHHPRFMAAC_SC"
         },	
         {
             name: "La Más Picuda 104.7",
@@ -33560,7 +33545,7 @@ var stations = {/*
         {
             name: "La Explosiva 89.9",
             logo: "stations/images-america/mexico/parras/La Explosiva 89.9.png",
-            url: "https://stream.zeno.fm/josbdcdmjuluv"
+            url: "https://stream.zeno.fm/qdbuvfhpiiovv"
         },
         {
             name: "Coahuila Radio 103.5",
@@ -33603,7 +33588,7 @@ var stations = {/*
         {
             name: "La Bonita del Norte 92.7",
             logo: "stations/images-america/mexico/0_general_logos/La Bonita del Norte.png",
-            url: "http://192.187.112.50:8220/stream"
+            url: "https://stream3.mexiserver.com:10131/;"
         },
         {
             name: "La Grande 97.1",
@@ -33692,7 +33677,7 @@ var stations = {/*
         {
             name: "Radio Universidad Saltillo 104.1",
             logo: "stations/images-america/mexico/saltillo/Radio Universidad Saltillo 104.1.png",
-            url: "https://192.187.112.50:8212/;"
+            url: "https://stream11.mexiserver.com:9002/;?_=1#.mp3"
         },
         {
             name: "La Lupe 105.7",
@@ -33894,7 +33879,7 @@ var stations = {/*
         {
             name: "La Bonita del Norte 90.7",
             logo: "stations/images-america/mexico/0_general_logos/La Bonita del Norte.png",
-            url: "http://192.187.112.50:8238/stream"
+            url: "http://204.12.193.98:8129/;"
         },
         {
             name: "Radio Cañón 92.3",
@@ -33935,12 +33920,12 @@ var stations = {/*
         {
             name: "90.9 La Que Manda",
             logo: "stations/images-america/mexico/tamazunchale/90.9 La Que Manda.png",
-            url: "http://freeuk22.listen2myradio.com:36792/;"
+            url: "http://uk19freenew.listen2myradio.com:15588/;"
         },
         {
-            name: "La Poderosa 92.3",
-            logo: "stations/images-america/mexico/tamazunchale/La Poderosa 92.3.png",
-            url: "https://stream.zeno.fm/x1shru8zfkhvv"
+            name: "Fiesta Mexicana 92.3",
+            logo: "stations/images-america/mexico/tamazunchale/Fiesta Mexicana 92.3.png",
+            url: "https://stream.zeno.fm/gdw4sagsdhltv"
         },
         {
             name: "La Mejor 94.7",
@@ -33968,8 +33953,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC_SC"
         },
         {
-            name: "FM Globo 102.7",
-            logo: "stations/images-america/mexico/tamazunchale/FM Globo 102.7.png",
+            name: "globo 102.7",
+            logo: "stations/images-america/mexico/0_general_logos/globo.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC_SC"
         },
         {
@@ -33990,9 +33975,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCTNFMAAC_SC"
         },
         {
-            name: "La Patrona 92.1",
-            logo: "stations/images-america/mexico/tepic/La Patrona 92.1.png",
-            url: "https://tv.radiohosting.online:9890/stream"
+            name: "Lokura FM 92.1",
+            logo: "stations/images-america/mexico/tepic/Lokura FM 92.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHUXAAC_SC"
         },
         {
             name: "La Más Picuda 93.7",
@@ -34022,12 +34007,12 @@ var stations = {/*
         {
             name: "Radio UAN 101.1",
             logo: "stations/images-america/mexico/tepic/Radio UAN 101.1.png",
-            url: "https://mediadigitalstreaming.com:8326/stream"
+            url: "https://streamingradio.uan.mx/;type=http&nocache=5"
         },
         {
             name: "Radio Tepic 104.1",
             logo: "stations/images-america/mexico/tepic/Radio Tepic 104.1.png",
-            url: "https://stream.zeno.fm/tgan2u6qsfhvv"
+            url: "https://streamingcwsradio30.com/8310/stream"
         },
         {
             name: "LOS40 104.9",
@@ -34059,7 +34044,7 @@ var stations = {/*
         {
             name: "Adictivo Radio 90.3",
             logo: "stations/images-america/mexico/torreon/Adictivo Radio 90.3.png",
-            url: "https://stream.zeno.fm/xhqbe725dkhvv"
+            url: "https://s22.myradiostream.com/:9504/stream/1/"
         },
         {
             name: "globo 91.1",
@@ -34110,11 +34095,6 @@ var stations = {/*
             name: "Coahuila Hoy 97.5",
             logo: "stations/images-america/mexico/torreon/Coahuila Hoy 97.5.png",
             url: "https://cast1.my-control-panel.com/proxy/coahuilahoy/stream"
-        },
-        {
-            name: "Frecuencia UAL 98.7",
-            logo: "stations/images-america/mexico/torreon/Frecuencia UAL 98.7.png",
-            url: "https://shaincast.caster.fm:24123/listen.mp3?authne7f627bba8e2a43af39055dc3bd749f1"
         },
         {
             name: "La Perla 99.1",
@@ -34247,12 +34227,12 @@ var stations = {/*
         {
             name: "exa 101.3",
             logo: "stations/images-america/mexico/vdurango/exa 101.3.png",
-            url: "https://stream3.mexiserver.com:10076/stream.mp3"
+            url: "https://stream9.mexiserver.com:8114/stream/1/"
         },
         {
             name: "La Lupe 102.9",
             logo: "stations/images-america/mexico/vdurango/La Lupe 102.9.png",
-            url: "https://streaming.multimedios.com/station21"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHRPU_FMAAC_SC"
         },
         {
             name: "La Mejor 103.7",
@@ -34291,7 +34271,7 @@ var stations = {/*
         {
             name: "Estéreo Plata 91.5",
             logo: "stations/images-america/mexico/zacatecas/Estéreo Plata 91.5.png",
-            url: "http://189.196.189.146:9001/estereoplata.mp3"
+            url: "https://online.estereoplataradio.com/estereoplata.mp3"
         },		
         {
             name: "Lupe 93.3",
@@ -34301,7 +34281,7 @@ var stations = {/*
         {
             name: "La Súper G 94.7",
             logo: "stations/images-america/mexico/zacatecas/La Súper G 94.7.png",
-            url: "http://189.196.189.146:9001/superg.mp3"
+            url: "https://online.lasuperg.com/superg.mp3"
         },
         {
             name: "Lobos FM 95.5",
