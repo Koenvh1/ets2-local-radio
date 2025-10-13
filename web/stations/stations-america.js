@@ -27357,7 +27357,7 @@ var stations = {/*
         {
             name: "K-HITS 95.5",
             logo: "stations/images-america/stephenville/K-HITS 95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMEFMAAC_SC"
+            url: "https://lkcm-live-a.edge.audiocdn.com/10360.aac"
         },
         {
             name: "95.9 The Ranch",
