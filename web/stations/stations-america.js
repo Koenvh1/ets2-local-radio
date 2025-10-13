@@ -33010,7 +33010,7 @@ var stations = {/*
         {
             name: "Estéreo Romance 100.7",
             logo: "stations/images-america/mexico/la_paz/Estéreo Romance 100.7.png",
-            url: "https://stream.zeno.fm/pgs4nreif6yvv"
+            url: "https://stream.zeno.fm/rkh7xul6uf8vv"
         },
         {
             name: "Radio 990",
@@ -35839,9 +35839,9 @@ var stations = {/*
             url: "https://us2.maindigitalstream.com/ssl/WGSX"
         },
         {
-            name: "Jingle 105.9",
-            logo: "stations/images-america/c2c/panama_city_fl/Jingle 105.9.png",
-            url: "https://dash.streamkast.co/proxy/magicbroadcasting2/wilnfm"
+            name: "105.9 The Wave",
+            logo: "stations/images-america/c2c/panama_city_fl/105.9 The Wave.png",
+            url: "https://ais-sa1.streamon.fm/10475_96k.aac"
         },
         {
             name: "K-LOVE 107.9",
@@ -56610,9 +56610,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/WOWN"
         },
         {
-            name: "99.7 Duke FM",
-            logo: "stations/images-america/c2c/green_bay_wi/93.5 Duke FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGEEFMAAC.aac"
+            name: "99.7 WNFL",
+            logo: "stations/images-america/c2c/green_bay_wi/WNFL.png",
+            url: "https://mwc.streamguys1.com/mwc-aac"
         },
         {
             name: "Y100",
@@ -56626,8 +56626,8 @@ var stations = {/*
         },
         {
             name: "101.9 WNFL",
-            logo: "stations/images-america/c2c/green_bay_wi/101.9 WNFL.png",
-            url: "https://mwc.streamguys1.com/wnfl-aac"
+            logo: "stations/images-america/c2c/green_bay_wi/WNFL.png",
+            url: "http://mwc.streamguys1.com/mwc-aac"
         },
         {
             name: "WRVM 102.7",
@@ -56711,8 +56711,8 @@ var stations = {/*
         },
         {
             name: "1440 WNFL",
-            logo: "stations/images-america/c2c/green_bay_wi/101.9 WNFL.png",
-            url: "http://mwc.streamguys1.com/wnfl-aac"
+            logo: "stations/images-america/c2c/green_bay_wi/WNFL.png",
+            url: "https:///mwc.streamguys1.com/mwc-aac"
         },
         {
             name: "1590 WGBW",
@@ -57016,8 +57016,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4717/hls.m3u8"
         },
         {
-            name: "97.3 The Game",
-            logo: "stations/images-america/c2c/milwaukee_wi/97.3 The Game.png",
+            name: "B97.3",
+            logo: "stations/images-america/c2c/milwaukee_wi/B97.3.png",
             url: "https://stream.revma.ihrhls.com/zc2685/hls.m3u8"
         },
         {
