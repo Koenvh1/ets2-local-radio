@@ -13617,11 +13617,6 @@ var stations = {/*
             url: "https://crystalout.surfernetwork.com:8001/KACZ_MP3"
         },
         {
-            name: "Power Hits 97.5",
-            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
-        },
-        {
             name: "KCLY 100.9",
             logo: "stations/images-america/junction_city/KCLY 100.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCLYFMAAC_SC"
@@ -13685,6 +13680,13 @@ var stations = {/*
             name: "1560 The General",
             logo: "stations/images-america/salina_ks/The General 1560.png",
             url: "https://ice42.securenetsystems.net/KABI"
+        },
+    ],
+    "junction_city_kjckfm": [
+        {
+            name: "Power Hits 97.5",
+            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
         },
     ],
     "katl": [
@@ -23462,11 +23464,6 @@ var stations = {/*
             name: "K-LOVE 96.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "Power Hits 97.5",
-            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
         },
         {
             name: "99KG",

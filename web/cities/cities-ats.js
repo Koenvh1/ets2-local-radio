@@ -1053,7 +1053,13 @@ var country_properties = {
         name: "Junction City",
         name_english: "Junction City",
         code: "us-ks",
-        relative_radius: 0.5
+        relative_radius: 0.9
+    },
+    "junction_city_kjckfm": {
+        name: "Junction City",
+        name_english: "Junction City",
+        code: "us-ks",
+        relative_radius: 0.9
     },
     "kalispell": {
         name: "Kalispell",
@@ -2942,6 +2948,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "junction_city": {
+        relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "junction_city_kjckfm": {
         relative_whitenoise: 0.95
     },
     "kalispell": {
@@ -5326,6 +5336,22 @@ var cities = [
         "x": "-4005.22",
         "y": "69.2695",
         "z": "-766.828"
+    },
+    {
+        "gameName": "junction_city",
+        "realName": "Junction City",
+        "country": "junction_city_kjckfm",
+        "x": "-4005.22",
+        "y": "69.2695",
+        "z": "-766.828"
+    },
+    {
+        "gameName": "junction_city_kjckfm",
+        "realName": "Junction City",
+        "country": "junction_city_kjckfm",
+        "x": "-4627.28",
+        "y": "59.9687",
+        "z": "159.158"
     },
     {
         "gameName": "kalispell",
