@@ -86,6 +86,73 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
     ],*/
+    "halloween": [
+        {
+            name: "iHeart Halloween Radio",
+            logo: "stations/images-america/2_halloween/iHeart Halloween Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc7001/hls.m3u8"
+        },
+        {
+            name: "Halloween Radio",
+            logo: "stations/images-america/2_halloween/Halloween Radio.png",
+            url: "https://listen.halloweenradio.net"
+        }, 
+        {
+            name: "Halloween Radio Oldies",
+            logo: "stations/images-america/2_halloween/Halloween Radio Oldies.png",
+            url: "https://listen.halloweenradio.net/oldies"
+        }, 
+        {
+            name: "Halloween Radio Movies",
+            logo: "stations/images-america/2_halloween/Halloween Radio Movies.png",
+            url: "https://listen.halloweenradio.net/movies"
+        }, 
+        {
+            name: "Halloween Radio Atmosphere",
+            logo: "stations/images-america/2_halloween/Halloween Radio Atmosphere.png",
+            url: "https://listen.halloweenradio.net/atmosphere"
+        }, 
+        {
+            name: "Less spooky stations upcoming...",
+            logo: "stations/images-america/2_halloween/spooky.png",
+            url: ""
+        },
+        {
+            name: "Today's Mix",
+            logo: "stations/images-america/0_general_logos/Today's Mix.png",
+            url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
+        },
+        {
+            name: "KISS",
+            logo: "stations/images-america/0_general_logos/KISS.png",
+            url: "https://stream.revma.ihrhls.com/zc7362/hls.m3u8"
+        },
+        {
+            name: "Evolution",
+            logo: "stations/images-america/0_general_logos/Evolution.png",
+            url: "https://stream.revma.ihrhls.com/zc5953/hls.m3u8"
+        },
+        {
+            name: "Country Radio",
+            logo: "stations/images-america/0_general_logos/iHeartCountry Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4418/hls.m3u8"
+        }, 
+        {
+            name: "ALT",
+            logo: "stations/images-america/0_general_logos/ALT Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+        },
+        {
+            name: "Rock Nation",
+            logo: "stations/images-america/0_general_logos/Rock Nation.png",
+            url: "https://stream.revma.ihrhls.com/zc4443/hls.m3u8"
+        }, 
+        {
+            name: "Classic Rock",
+            logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
+            url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
+        }, 
+    ],
     "aberdeen": [
         {
             name: "Air1 88.1",
@@ -27133,9 +27200,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7678_48k.aac"
         },
         {
-            name: "102.1 KQRA",
-            logo: "stations/images-america/springfield_mo/Q92.9.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KQRAFMAAC_SC"
+            name: "102.1 The Won",
+            logo: "stations/images-america/springfield_mo/102.1 The Won.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KOSPFMAAC_SC"
         },
         {
             name: "KWPQ 103.3",

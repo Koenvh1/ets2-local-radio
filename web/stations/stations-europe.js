@@ -51,7 +51,7 @@ var stations = {/*
             url: "https://streams.weihnachtsmusik.fm/hits/mp3-192/weihnachtsradiofm"
         },
         {
-            name: "Stations for Grinches upcoming...",
+            name: "Stations for Grinches follow...",
             logo: "stations/images-europe/0_christmas/Grinch.png",
             url: ""
         },
@@ -101,6 +101,78 @@ var stations = {/*
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
     ],*/
+    "halloween": [
+        {
+            name: "Halloween Radio",
+            logo: "stations/images-europe/1_halloween/Halloween Radio.png",
+            url: "https://listen.halloweenradio.net"
+        }, 
+        {
+            name: "Halloween Radio Oldies",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Oldies.png",
+            url: "https://listen.halloweenradio.net/oldies"
+        }, 
+        {
+            name: "Halloween Radio Movies",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Movies.png",
+            url: "https://listen.halloweenradio.net/movies"
+        }, 
+        {
+            name: "Halloween Radio Atmosphere",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Atmosphere.png",
+            url: "https://listen.halloweenradio.net/atmosphere"
+        }, 
+        {
+            name: "Less scary stations follow...",
+            logo: "stations/images-europe/1_halloween/spooky.png",
+            url: ""
+        },
+        {
+            name: "Power 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-power_64k.aac"
+        },
+        {
+            name: "The Office",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-office_64k.aac"
+        },
+        {
+            name: "Energy 98",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-energy98_64k.aac"
+        },
+        {
+            name: "Classic Hits 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-greatoldies_64k.aac"
+        },
+        {
+            name: "Awesome 80's",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-awesome80s_64k.aac"
+        },
+        {
+            name: "The Point",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-thepoint_64k.aac"
+        },
+        {
+            name: "Rock 181",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-rock_64k.aac"
+        },
+        {
+            name: "The Buzz",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-buzz_64k.aac"
+        },
+        {
+            name: "The Beat",
+            logo: "stations/images-europe/0_christmas/181.fm.png",
+            url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
+        },
+    ],
     "aland": [
         {
             name: "SR P1",

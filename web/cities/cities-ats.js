@@ -5,6 +5,12 @@ var country_properties = {
         code: "us",
         relative_radius: 2.0
     },
+    "halloween": {
+        name: "Brackenreach",
+        name_english: "Brackenreach",
+        code: "us",
+        relative_radius: 2.0
+    },
     "aberdeen": {
         name: "Aberdeen",
         name_english: "Aberdeen",
@@ -2357,6 +2363,9 @@ var city_properties = {
     "christmas": {
         relative_whitenoise: 0.75
     },
+    "halloween": {
+        relative_whitenoise: 0.75
+    },
     "aberdeen": {
         relative_whitenoise: 0.85
     },
@@ -3672,6 +3681,14 @@ var cities = [
         "x": "-159808",
         "y": "40.5334",
         "z": "124170"
+    },
+    {
+        "gameName": "halloween",
+        "realName": "Brackenreach",
+        "country": "halloween",
+        "x": "-137800",
+        "y": "182.305",
+        "z": "98283.6"
     },
     {
         "gameName": "aberdeen",

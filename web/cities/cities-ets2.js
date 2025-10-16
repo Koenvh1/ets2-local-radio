@@ -5,6 +5,12 @@ var country_properties = {
         code: "eu",
         relative_radius: 1,
     },
+    "halloween": {
+        name: "Brackenreach",
+        name_english: "Brackenreach",
+        code: "eu",
+        relative_radius: 1,
+    },
     "aland": {
         name: "Åland",
         name_english: "Åland",
@@ -693,6 +699,9 @@ var country_properties = {
 
 var city_properties = {
     "winterland": {
+        relative_radius: 2,
+    },
+    "halloween": {
         relative_radius: 2,
     },
     "aberdeen": {
@@ -1862,6 +1871,14 @@ var cities = [
         "x": "-159999",
         "y": "2.81779",
         "z": "123949"
+    },
+    {
+        "gameName": "halloween",
+        "realName": "Brackenreach",
+        "country": "christmas",
+        "x": "-138442",
+        "y": "182.305",
+        "z": "97740.6"
     },
     {
         "gameName": "aalborg",
