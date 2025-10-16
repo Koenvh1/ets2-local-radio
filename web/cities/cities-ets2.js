@@ -1875,7 +1875,7 @@ var cities = [
     {
         "gameName": "halloween",
         "realName": "Brackenreach",
-        "country": "christmas",
+        "country": "halloween",
         "x": "-138442",
         "y": "182.305",
         "z": "97740.6"
