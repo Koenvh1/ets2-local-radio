@@ -46,7 +46,7 @@ var stations = {/*
             url: "https://streaming.live365.com/a53827"
         },
         {
-            name: "Stations for Grinches upcoming...",
+            name: "Stations for Grinches follow...",
             logo: "stations/images-america/1_christmas/Grinch.png",
             url: ""
         },
@@ -113,7 +113,7 @@ var stations = {/*
             url: "https://listen.halloweenradio.net/atmosphere"
         }, 
         {
-            name: "Less spooky stations upcoming...",
+            name: "Less scary stations follow...",
             logo: "stations/images-america/2_halloween/spooky.png",
             url: ""
         },
