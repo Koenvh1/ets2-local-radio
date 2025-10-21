@@ -6209,7 +6209,7 @@ var stations = {/*
         {
             name: "KPOD 1240",
             logo: "stations/images-america/crescent_city/KPOD 106.7.png",
-            url: "https://us9.maindigitalstream.com//ssl/KPODAM"
+            url: "https://us9.maindigitalstream.com:443/ssl/KPODAM"
         },
         {
             name: "Relevant Radio 1400",
@@ -6593,7 +6593,7 @@ var stations = {/*
         {
             name: "KKDA 730",
             logo: "stations/images-america/dallas_fort_worth/KKDA 730.png",
-            url: "http://us1new.listen2myradio.com:10095/stream"
+            url: "https://us1new.listen2myradio.com:2199/listen.php?port=10095&type=s2&mount=/stream"
         },
         {
             name: "The Truth 770",
@@ -28594,11 +28594,6 @@ var stations = {/*
             url: "https://us9.maindigitalstream.com/ssl/KCGB"
         },
         {
-            name: "KLCK 98.1",
-            logo: "stations/images-america/the_dalles/KLCK 1400.png",
-            url: "http://ice26.securenetsystems.net/KLCK"
-        },
-        {
             name: "KIHR 98.3",
             logo: "stations/images-america/the_dalles/KIHR 98.3.png",
             url: "https://us9.maindigitalstream.com/ssl/KIHR"
@@ -31366,6 +31361,11 @@ var stations = {/*
             name: "100.9 Cherry FM",
             logo: "stations/images-america/yakima/100.9 Cherry FM.png",
             url: "https://ice5.securenetsystems.net/KARY"
+        },
+        {
+            name: "101.3 KIT",
+            logo: "stations/images-america/yakima/1280 KIT.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kitamaac-ibc3"
         },
         {
             name: "K-LOVE 103.1",
