@@ -17556,11 +17556,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/kbtqfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
-            name: "TUDN Radio 96.1-HD2",
-            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
             name: "96.9 KVMV",
             logo: "stations/images-america/mcallen_brownsville/96.9 KVMV.png",
             url: "https://ais-sa15.cdnstream1.com/5059_64.aac"
@@ -17653,7 +17648,7 @@ var stations = {/*
         {
             name: "La Patrona 107.5",
             logo: "stations/images-america/mcallen_brownsville/La Patrona 107.5.png",
-            url: "https://sonic-ca.instainternet.com/8052/stream"
+            url: "https://virtual5.emisorasvirtuales.com/listen/la_patrona_1065_fm/live"
         },
         {
             name: "107.9 RGV",
@@ -42392,7 +42387,7 @@ var stations = {/*
         {
             name: "KNWD 91.7",
             logo: "stations/images-america/c2c/natchitoches_la/KNWD 91.7.png",
-            url: "http://s18.myradiostream.com:10900/;"
+            url: "https://us2.maindigitalstream.com/ssl/KNWD"
         },
         {
             name: "KZBL 100.7",
