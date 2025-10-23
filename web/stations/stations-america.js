@@ -207,7 +207,7 @@ var stations = {/*
         {
             name: "KNKX 100.9",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "Sunny 102.1",
@@ -2230,7 +2230,7 @@ var stations = {/*
         {
             name: "KNKX 88.7",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "KUGS 89.3",
@@ -7449,7 +7449,7 @@ var stations = {/*
         {
             name: "98.5 The Bar",
             logo: "stations/images-america/sedalia/98.5 The Bar.png",
-            url: "https://us2.maindigitalstream.com/ssl/KWKJ"
+            url: "https://stream.radiojar.com/h1gp4nup0ncwv"
         },
         {
             name: "Spirit FM 100.3",
@@ -16203,7 +16203,7 @@ var stations = {/*
         {
             name: "KNKX 104.7",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "105.5 KUKN",
@@ -19639,7 +19639,7 @@ var stations = {/*
         {
             name: "90.1 KNKX",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "NWPB Classical 90.9",
@@ -21191,7 +21191,7 @@ var stations = {/*
         {
             name: "KNKX 89.3",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "NWPB News 90.1",
@@ -25719,7 +25719,7 @@ var stations = {/*
         {
             name: "KNKX 88.5",
             logo: "stations/images-america/0_general_logos/KNKX.png",
-            url: "https://live.amperwave.net/direct/ppm-knkxfmaac256-ibc1"
+            url: "https://knkx-live-a.edge.audiocdn.com/6284_256k"
         },
         {
             name: "Jazz 24 88.5-HD2",
@@ -26121,7 +26121,7 @@ var stations = {/*
         {
             name: "98.5 The Bar",
             logo: "stations/images-america/sedalia/98.5 The Bar.png",
-            url: "https://us2.maindigitalstream.com/ssl/KWKJ"
+            url: "https://stream.radiojar.com/h1gp4nup0ncwv"
         },
         {
             name: "KIX 105.7",

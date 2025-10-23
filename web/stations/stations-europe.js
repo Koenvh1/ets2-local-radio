@@ -4033,7 +4033,7 @@ var stations = {/*
         {
             name: "DeeJay",
             logo: "stations/images-europe/greece/DeeJay.png",
-            url: "https://s6.e-resellers.gr/8010/stream.mp3"
+            url: "https://a6.asurahosting.com:7030/radio.mp3"
         },
         {
             name: "Χρώμα FM",
