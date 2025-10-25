@@ -180,9 +180,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kxxkfmaac-ibc4"
         },
         {
-            name: "Mixx 96.1",
-            logo: "stations/images-america/washington/Mixx 96.1.png",
-            url: "https://ice10.securenetsystems.net/KXXO"
+            name: "X96.1",
+            logo: "stations/images-america/washington/X96.1.png",
+            url: "https://ice25.securenetsystems.net/KXXOFM"
         },
         {
             name: "96.9 KAYO",
@@ -1355,9 +1355,9 @@ var stations = {/*
             url: "http://ice41.securenetsystems.net/KBGE"
         },
         {
-            name: "Mixx 96.1",
-            logo: "stations/images-america/washington/Mixx 96.1.png",
-            url: "https://ice10.securenetsystems.net/KXXO"
+            name: "X96.1",
+            logo: "stations/images-america/washington/X96.1.png",
+            url: "https://ice25.securenetsystems.net/KXXOFM"
         },
         {
             name: "C96",
@@ -19657,9 +19657,9 @@ var stations = {/*
             url: "http://kyagold.ddns.net:20112/"
         },
         {
-            name: "Mixx 96.1",
-            logo: "stations/images-america/washington/Mixx 96.1.png",
-            url: "https://ice10.securenetsystems.net/KXXO"
+            name: "X96.1",
+            logo: "stations/images-america/washington/X96.1.png",
+            url: "https://ice25.securenetsystems.net/KXXOFM"
         },
         {
             name: "K-LOVE 98.5",
@@ -21833,7 +21833,7 @@ var stations = {/*
         {
             name: "106.3 K292AT",
             logo: "stations/images-america/salt_lake/Z104.png",
-            url: "http://ice7.securenetsystems.net/KSOPFM"
+            url: "https://stream.aiir.com/wjfesic70c6uv"
         },
         {
             name: "KOAL 107.5",
@@ -23074,7 +23074,7 @@ var stations = {/*
         {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "KDVS 90.3",
@@ -23933,7 +23933,7 @@ var stations = {/*
         {
             name: "Z104",
             logo: "stations/images-america/salt_lake/Z104.png",
-            url: "http://ice7.securenetsystems.net/KSOPFM"
+            url: "https://stream.aiir.com/wjfesic70c6uv"
         },
         {
             name: "104.7 Mi Preferida",
@@ -53044,9 +53044,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6863/hls.m3u8"
         },
         {
-            name: "Q100.1",
-            logo: "stations/images-america/c2c/florence_sc/Q100.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQPDFMAAC_SC"
+            name: "Glory 100.1",
+            logo: "stations/images-america/c2c/florence_sc/Glory 100.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFFMAAC_SC"
         },
         {
             name: "100.5 The Game",
@@ -53077,6 +53077,11 @@ var stations = {/*
             name: "WYNN 106.3",
             logo: "stations/images-america/c2c/florence_sc/WYNN 106.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYNNFMAAC_SC"
+        },
+        {
+            name: "540 The Hound",
+            logo: "stations/images-america/c2c/florence_sc/540 The Hound.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYNNAMAAC_SC"
         },
         {
             name: "Newstalk 1400",
