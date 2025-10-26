@@ -391,7 +391,7 @@ var stations = {/*
     "armenia_yerevan": [
         {
             name: "Europa Plus 87.5",
-            logo: "stations/images-europe/armenia/yerevan/Evropa Plus 87.5.png",
+            logo: "stations/images-europe/armenia/yerevan/Europa Plus 87.5.png",
             url: "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
         },
         {
@@ -421,7 +421,7 @@ var stations = {/*
         },
         {
             name: "Радио МИР 93.7",
-            logo: "stations/images-europe/armenia/yerevan/Радио МИР Ереван 93.7.png",
+            logo: "stations/images-europe/armenia/yerevan/Радио МИР 93.7.png",
             url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
         },
         {
@@ -6335,7 +6335,7 @@ var stations = {/*
         },
         {
             name: "Radio RECORD Moldova 107.9",
-            logo: "stations/images-europe/moldova/chisinau/Radio RECORD Moldova.png",
+            logo: "stations/images-europe/moldova/chisinau/Radio RECORD Moldova 107.9.png",
             url: "https://air.radiorecord.md/recordmdhd"
         },
     ],
