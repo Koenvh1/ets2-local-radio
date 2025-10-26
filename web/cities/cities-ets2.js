@@ -885,6 +885,9 @@ var city_properties = {
     "ashshwayrif": {
         relative_radius: 1.8,
     },
+    "astara": {
+        relative_radius: 0.6,
+    },
     "athens": {
         relative_radius: 0.9,
         relative_whitenoise: 0.95,
@@ -15237,6 +15240,22 @@ var cities_beyond = [
       "z": "118925"
     },
     {
+      "gameName": "astara",
+      "realName": "Astara",
+      "country": "azerbaijan",
+      "x": "165103.7",
+      "y": "154.8242",
+      "z": "35357.87"
+    },
+    {
+      "gameName": "astara",
+      "realName": "Astara",
+      "country": "iran",
+      "x": "165103.7",
+      "y": "154.8242",
+      "z": "35357.87"
+    },
+    {
       "gameName": "atiabroki",
       "realName": "Ati",
       "country": "chad",
@@ -15291,6 +15310,14 @@ var cities_beyond = [
       "x": "235627",
       "y": "190.375",
       "z": "-11428.6"
+    },
+    {
+      "gameName": "bilasuvar",
+      "realName": "Bilasuvar",
+      "country": "azerbaijan",
+      "x": "160822.1",
+      "y": "138.5391",
+      "z": "29795.07"
     },
     {
       "gameName": "bileomara",
@@ -15357,20 +15384,20 @@ var cities_beyond = [
       "z": "-240720"
     },
     {
-        "gameName": "corfu",
-        "realName": "Κέρκυρα",
-        "country": "greece_ert",
-        "x": "38486.17",
-        "y": "60.65234",
-        "z": "62311.61"
+      "gameName": "corfu",
+      "realName": "Κέρκυρα",
+      "country": "greece_ert",
+      "x": "38486.17",
+      "y": "60.65234",
+      "z": "62311.61"
     },
     {
-        "gameName": "corfu",
-        "realName": "Κέρκυρα",
-        "country": "greece_corfu",
-        "x": "38486.17",
-        "y": "60.65234",
-        "z": "62311.61"
+      "gameName": "corfu",
+      "realName": "Κέρκυρα",
+      "country": "greece_corfu",
+      "x": "38486.17",
+      "y": "60.65234",
+      "z": "62311.61"
     },
     {
       "gameName": "dahaban",
@@ -15600,8 +15627,8 @@ var cities_beyond = [
       "gameName": "gorgan",
       "realName": "Gorgan",
       "country": "iran",
-      "x": "191547",
-      "y": "147.859",
+      "x": "191546.8",
+      "y": "147.8594",
       "z": "30292.8"
     },
     {
@@ -15651,6 +15678,14 @@ var cities_beyond = [
       "x": "139033",
       "y": "64.9609",
       "z": "148530"
+    },
+    {
+      "gameName": "hashtpar",
+      "realName": "Hashtpar",
+      "country": "iran",
+      "x": "166161.4",
+      "y": "180.0117",
+      "z": "37340.69"
     },
     {
       "gameName": "herat",
@@ -15997,6 +16032,14 @@ var cities_beyond = [
       "z": "162137"
     },
     {
+      "gameName": "punel",
+      "realName": "Punel",
+      "country": "iran",
+      "x": "167976.8",
+      "y": "154.8203",
+      "z": "38541.19"
+    },
+    {
       "gameName": "pyongyang",
       "realName": "평양",
       "country": "koreadpr",
@@ -16061,6 +16104,14 @@ var cities_beyond = [
       "z": "210586"
     },
     {
+      "gameName": "rasht",
+      "realName": "Rasht",
+      "country": "iran",
+      "x": "171486.8",
+      "y": "137.1016",
+      "z": "38430.41"
+    },
+    {
       "gameName": "rawalpindi",
       "realName": "Rawalpindi",
       "country": "pakistan",
@@ -16107,6 +16158,14 @@ var cities_beyond = [
       "x": "245524",
       "y": "234.23",
       "z": "-23133.2"
+    },
+    {
+      "gameName": "salyan",
+      "realName": "Salyan",
+      "country": "azerbaijan",
+      "x": "162422.7",
+      "y": "154.8242",
+      "z": "28642.28"
     },
     {
       "gameName": "sari",
@@ -16235,6 +16294,14 @@ var cities_beyond = [
       "x": "238739",
       "y": "301.633",
       "z": "-43650.3"
+    },
+    {
+      "gameName": "tehran",
+      "realName": "Tehran",
+      "country": "iran",
+      "x": "182502.3",
+      "y": "65",
+      "z": "43419.62"
     },
     {
       "gameName": "tejen",
