@@ -41,6 +41,12 @@ var country_properties = {
         code: "am",
         relative_radius: 1,
     },
+    "armenia_yerevan": {
+        name: "Երևան",
+        name_english: "Yerevan",
+        code: "am",
+        relative_radius: 0.7,
+    },
     "austria": {
         name: "Österreich",
         name_english: "Austria",
@@ -514,6 +520,12 @@ var country_properties = {
         name_english: "Moldova",
         code: "md",
         relative_radius: 0.75,
+    },
+    "moldova_chisinau": {
+        name: "Chişinău",
+        name_english: "Chisinau",
+        code: "md",
+        relative_radius: 0.6,
     },
     "netherlands": {
         name: "Nederland",
@@ -2647,14 +2659,6 @@ var cities = [
         "x": "66300",
         "y": "65.1484",
         "z": "66274.3"
-    },
-    {
-        "gameName": "chisinau",
-        "realName": "Chişinău",
-        "country": "moldova",
-        "x": "70134.7",
-        "y": "120",
-        "z": "16235.3"
     },
     {
         "gameName": "cieszyn",
@@ -8230,6 +8234,14 @@ var cities_pm250 = [
     {
         "gameName": "chisinau",
         "realName": "Chişinău",
+        "country": "moldova_chisinau",
+        "x": "70134.7",
+        "y": "120",
+        "z": "16235.3"
+    },
+    {
+        "gameName": "chisinau",
+        "realName": "Chişinău",
         "country": "moldova",
         "x": "70134.7",
         "y": "120",
@@ -9550,6 +9562,22 @@ var cities_pm274 = [
         "x": "143732.234",
         "y": "0",
         "z": "29728.8184"
+    },
+    {
+        "gameName": "yerevan",
+        "realName": "Verevan",
+        "country": "armenia_yerevan",
+        "x": "147115.7",
+        "y": "120",
+        "z": "36948.11"
+    },
+    {
+        "gameName": "yerevan",
+        "realName": "Verevan",
+        "country": "armenia",
+        "x": "147115.7",
+        "y": "120",
+        "z": "36948.11"
     },
     {
         "gameName": "marneuli",

@@ -33316,6 +33316,11 @@ var stations = {/*
             url: "http://s1.audiorama.mx:6592/stream"
         },
         {
+            name: "La Poderosa 96.9",
+            logo: "stations/images-america/mexico/mexicali/La Poderosa 96.9.png",
+            url: "https://sg.centrocibernetico.com/poderosa969"
+        },
+        {
             name: "Power 98",
             logo: "stations/images-america/mexico/mexicali/Power 98.png",
             url: "https://s2.mexside.net/8220/stream"

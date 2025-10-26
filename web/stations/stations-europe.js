@@ -177,17 +177,17 @@ var stations = {/*
         {
             name: "SR P1",
             logo: "stations/images-europe/sweden/Sveriges Radio P1.png",
-            url: "http://http-live.sr.se/p1-mp3-192"
+            url: "https://live1.sr.se/p1-mp3-192"
         },
         {
             name: "SR P2",
             logo: "stations/images-europe/sweden/Sveriges Radio P2.png",
-            url: "http://http-live.sr.se/p2-mp3-192"
+            url: "https://live1.sr.se/p2-mp3-192"
         },
         {
             name: "SR P3",
             logo: "stations/images-europe/sweden/Sveriges Radio P3.png",
-            url: "http://http-live.sr.se/p3-mp3-192"
+            url: "https://live1.sr.se/p3-mp3-192"
         },
         {
             name: "Yle Vega",
@@ -378,9 +378,101 @@ var stations = {/*
             url: "http://14678.cloudrad.io:9440/live"
         },
         {
-            name: "Yerevan FM",
-            logo: "stations/images-europe/armenia/Yerevan FM.png",
+            name: "1FM",
+            logo: "stations/images-europe/armenia/1FM.png",
+            url: "https://eu1.stream4cast.com/proxy/fmllcfm1/stream"
+        },
+        {
+            name: "Radio Jan",
+            logo: "stations/images-europe/armenia/Radio Jan.png",
+            url: "http://s7.voscast.com:10258/;"
+        },
+    ],
+    "armenia_yerevan": [
+        {
+            name: "Europa Plus 87.5",
+            logo: "stations/images-europe/armenia/yerevan/Evropa Plus 87.5.png",
+            url: "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+        },
+        {
+            name: "KISS FM 88.3",
+            logo: "stations/images-europe/armenia/yerevan/KISS FM 88.3.png",
+            url: "https://am.radioaurora.am/kiss"
+        },
+        {
+            name: "POP FM 89.3",
+            logo: "stations/images-europe/armenia/yerevan/POP FM 89.3.png",
+            url: "https://eu1.stream4cast.com/proxy/pop/stream"
+        },
+        {
+            name: "Авторадио Ереван 89.8",
+            logo: "stations/images-europe/armenia/yerevan/Авторадио Ереван 89.8.png",
+            url: "https://srv11.gpmradio.ru:8443/stream/air/aac/64/100"
+        },
+        {
+            name: "Радио Шансон FM 90.1",
+            logo: "stations/images-europe/armenia/yerevan/Радио Шансон FM 90.1.png",
+            url: "https://srv01.gpmradio.ru/stream/pro/aac/64/50"
+        },
+        {
+            name: "Vem Radio 91.1",
+            logo: "stations/images-europe/armenia/yerevan/Vem Radio 91.1.png",
+            url: "https://eu1.stream4cast.com/proxy/vemradio/stream"
+        },
+        {
+            name: "Радио МИР 93.7",
+            logo: "stations/images-europe/armenia/yerevan/Радио МИР Ереван 93.7.png",
+            url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
+        },
+        {
+            name: "Go.Sport FM 96.3",
+            logo: "stations/images-europe/armenia/yerevan/Go.Sport FM 96.3.png",
+            url: "https://gosport.webcaramba.com/gosport128.mp3"
+        },
+        {
+            name: "Ռադիո Արևիկ FM 97.3",
+            logo: "stations/images-europe/armenia/yerevan/Ռադիո Արևիկ FM 97.3.png",
+            url: "https://eu1.stream4cast.com/proxy/aamiryan/stream"
+        },
+        {
+            name: "Radio Aurora 100.7",
+            logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
+            url: "https://am.radioaurora.am/al.mp3"
+        },
+        {
+            name: "Yerevan FM 101.9",
+            logo: "stations/images-europe/armenia/yerevan/Yerevan FM 101.9.png",
             url: "https://eu1.stream4cast.com/proxy/arradioi/stream?1648992323080"
+        },
+        {
+            name: "Radio Van 103.1",
+            logo: "stations/images-europe/armenia/yerevan/Radio Van 103.1.png",
+            url: "https://stream.radiovan.fm:8000/96_stereo"
+        },
+        {
+            name: "Radio Marshall 103.5",
+            logo: "stations/images-europe/armenia/yerevan/Radio Marshall 103.5.png",
+            url: "https://eu.stream4cast.com/proxy/marshallfm/stream"
+        },
+        {
+            name: "Im Radio 103.8",
+            logo: "stations/images-europe/armenia/yerevan/Im Radio 103.8.png",
+            url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
+        },
+        {
+            name: "Русское Радио Армения 104.9",
+            logo: "stations/images-europe/armenia/yerevan/Русское Радио Армения 104.9.png",
+            url: "https://stream.radiovan.fm/radio/tracks-a1/mono.m3u8"
+        },
+        {
+            name: "FM 105.5",
+            logo: "stations/images-europe/armenia/yerevan/FM 105.5.png",
+            url: "http://14842.cloudrad.io:9536/live"
+        },
+        {
+            name: "Lratvakan Radio 106.5",
+            logo: "stations/images-europe/armenia/yerevan/Lratvakan Radio 106.5.png",
+            url: "http://212.34.233.78:8000/live"
         },
     ],
     "austria": [
@@ -6090,11 +6182,6 @@ var stations = {/*
             url: "http://radiolive.trm.md:8000/PGM1_256kb"
         },
         {
-            name: "Radio Moldova Muzical",
-            logo: "stations/images-europe/moldova/Radio Moldova Muzical.png",
-            url: "http://radiolive.trm.md:8000/RM-muzical-256"
-        },
-        {
             name: "Radio Moldova Tineret",
             logo: "stations/images-europe/moldova/Radio Moldova Tineret.png",
             url: "http://radiolive.trm.md:8000/RM-tineret-256"
@@ -6103,16 +6190,6 @@ var stations = {/*
             name: "Eco FM",
             logo: "stations/images-europe/moldova/Eco FM.png",
             url: "https://astreaming.ecofm.md:8443/ecoFM"
-        },
-        {
-            name: "Europa Plus",
-            logo: "stations/images-europe/moldova/Europa Plus.png",
-            url: "http://217.26.167.180:8081/broadwave.mp3"
-        },
-        {
-            name: "KISS FM",
-            logo: "stations/images-europe/moldova/Kiss FM.png",
-            url: "https://live.kissfm.md/kissfm.chisinau"
         },
         {
             name: "HIT FM",
@@ -6125,19 +6202,14 @@ var stations = {/*
             url: "https://audio.jurnalfm.md/hq"
         },
         {
+            name: "Love Radio Moldova",
+            logo: "stations/images-europe/moldova/Love Radio Moldova.png",
+            url: "https://stream.mmgmoldova.md:8443/lovefm"
+        },
+        {
             name: "Новое Радио Молдова",
             logo: "stations/images-europe/moldova/Новое Радио.png",
             url: "https://stream.newradio.md/stream"
-        },
-        {
-            name: "Publika FM",
-            logo: "stations/images-europe/moldova/Publika FM.png",
-            url: "https://publikafm.md/publikafm"
-        },
-        {
-            name: "Radio Chișinău",
-            logo: "stations/images-europe/moldova/Radio Chișinău.png",
-            url: "http://95.65.9.171:8000/radiochisinau"
         },
         {
             name: "Radio Dar",
@@ -6169,10 +6241,102 @@ var stations = {/*
             logo: "stations/images-europe/moldova/Radio Vocea Speranţei.png",
             url: "https://air.rvs.md:8443/rvsmoldova"
         },
+    ],
+    "moldova_chisinau": [
         {
-            name: "Vocea Basarabiei",
-            logo: "stations/images-europe/moldova/Vocea Basarabiei.png",
-            url: "https://stream.noroc.tv/radiovb_aac"
+            name: "Muz FM 88.0",
+            logo: "stations/images-europe/moldova/chisinau/Muz FM 88.0.png",
+            url: "https://live.muzfm.md//muzfmhd"
+        },
+        {
+            name: "MEGAPOLIS FM 88.6",
+            logo: "stations/images-europe/moldova/chisinau/MEGAPOLIS FM 88.6.png",
+            url: "https://megapolisfm.md:8443/886"
+        },
+        {
+            name: "Retro FM 89.1",
+            logo: "stations/images-europe/moldova/chisinau/Retro FM 89.1.png",
+            url: "https://efir.retrofm.md:8000/retro"
+        },
+        {
+            name: "Radio Chișinău 89.6",
+            logo: "stations/images-europe/moldova/chisinau/Radio Chișinău 89.6.png",
+            url: "http://95.65.9.171:8000/radiochisinau"
+        },
+        {
+            name: "Aquarelle FM 90.7",
+            logo: "stations/images-europe/moldova/chisinau/Aquarelle FM 90.7.png",
+            url: "http://live.aquarellefm.md:8000/Aquarellefm.aac"
+        },
+        {
+            name: "Radio ZUM 2 91.1",
+            logo: "stations/images-europe/moldova/chisinau/Radio ZUM 2 91.1.png",
+            url: "https://streams.radiozum.md/listen/zum2/ZUM2"
+        },
+        {
+            name: "Ai Noștri 92.1",
+            logo: "stations/images-europe/moldova/chisinau/Ai Noștri 92.1.png",
+            url: "https://s5.radio.co/sfd9f42d1d/listen"
+        },
+        {
+            name: "Radio ONE 96.2",
+            logo: "stations/images-europe/moldova/chisinau/Radio ONE 96.2.png",
+            url: "https://radio1.md/r1"
+        },
+        {
+            name: "Radio ROKS 96.7",
+            logo: "stations/images-europe/moldova/chisinau/Radio ROKS 96.7.png",
+            url: "https://stream.dixi.md:9443/Roks"
+        },
+        {
+            name: "realitatea FM 98.6",
+            logo: "stations/images-europe/moldova/chisinau/realitatea FM 98.6.png",
+            url: "https://radio.realitatea.group/realitatea"
+        },
+        {
+            name: "Radio Studentus 99.0",
+            logo: "stations/images-europe/moldova/chisinau/Radio Studentus 99.0.png",
+            url: "https://rlive.studentus.md/live"
+        },
+        {
+            name: "KISS FM 100.9",
+            logo: "stations/images-europe/moldova/chisinau/KISS FM 100.9.png",
+            url: "https://live.kissfm.md/kissfm.chisinau"
+        },
+        {
+            name: "dance FM 101.3",
+            logo: "stations/images-europe/moldova/chisinau/dance FM 101.3.png",
+            url: "https://stream.mmgmoldova.md:8443/dancefm"
+        },
+        {
+            name: "Radio 21 102.7",
+            logo: "stations/images-europe/moldova/chisinau/Radio 21 102.7.png",
+            url: "http://217.26.167.180:8083/Radio21.mp3"
+        },
+        {
+            name: "Авторадио Молдова 103.2",
+            logo: "stations/images-europe/moldova/chisinau/Авторадио Молдова 103.2.png",
+            url: "https://streams.radiozum.md/listen/autoradio/autoradio"
+        },
+        {
+            name: "Radio 7 105.2",
+            logo: "stations/images-europe/moldova/chisinau/Radio 7 105.2.png",
+            url: "https://radio7.md/stream/mountr7.mp3"
+        },
+        {
+            name: "Europa Plus 106.4",
+            logo: "stations/images-europe/moldova/chisinau/Europa Plus 106.4.png",
+            url: "http://217.26.167.180:8081/broadwave.mp3"
+        },
+        {
+            name: "RFI România 107.3",
+            logo: "stations/images-europe/moldova/chisinau/RFI România 107.3.png",
+            url: "https://asculta.radiorfi.ro/live.mp3"
+        },
+        {
+            name: "Radio RECORD Moldova 107.9",
+            logo: "stations/images-europe/moldova/chisinau/Radio RECORD Moldova.png",
+            url: "https://air.radiorecord.md/recordmdhd"
         },
     ],
     "netherlands": [
@@ -7864,22 +8028,22 @@ var stations = {/*
         {
             name: "SR P1",
             logo: "stations/images-europe/sweden/Sveriges Radio P1.png",
-            url: "http://http-live.sr.se/p1-mp3-192"
+            url: "https://live1.sr.se/p1-mp3-96"
         },
         {
             name: "SR P2",
             logo: "stations/images-europe/sweden/Sveriges Radio P2.png",
-            url: "http://http-live.sr.se/p2-mp3-192"
+            url: "https://live1.sr.se/p2-mp3-96"
         },
         {
             name: "SR P3",
             logo: "stations/images-europe/sweden/Sveriges Radio P3.png",
-            url: "http://http-live.sr.se/p3-mp3-192"
+            url: "https://live1.sr.se/p3-mp3-96"
         },
         {
             name: "SR P4 Stockholm",
             logo: "stations/images-europe/sweden/Sveriges Radio P4.png",
-            url: "http://http-live.sr.se/p4stockholm-mp3-192"
+            url: "https://live1.sr.se/p4sth-mp3-96"
         },
         {
             name: "Bandit Rock",
