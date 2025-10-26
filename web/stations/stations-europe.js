@@ -190,6 +190,16 @@ var stations = {/*
             url: "http://http-live.sr.se/p3-mp3-192"
         },
         {
+            name: "SR P4 Stockholm",
+            logo: "stations/images-europe/sweden/Sveriges Radio P4.png",
+            url: "http://http-live.sr.se/p4stockholm-mp3-192"
+        },
+        {
+            name: "Yle Radio Suomi",
+            logo: "stations/images-europe/finland/YLE Radio Suomi.png",
+            url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"
+        },
+        {
             name: "Yle Vega",
             logo: "stations/images-europe/finland/YLE Vega.png",
             url: "https://yleradiolive.akamaized.net/hls/live/2027712/in-YleVegaOsterbotten/master.m3u8"
@@ -1161,8 +1171,8 @@ var stations = {/*
             url: "https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3"
         },
         {
-            name: "Catalunya Informació",
-            logo: "stations/images-europe/catalonia/Catalunya Informació.png",
+            name: "3CatInfo Ràdio",
+            logo: "stations/images-europe/catalonia/3CatInfo Ràdio.png",
             url: "https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3"
         },
         {
@@ -2542,11 +2552,11 @@ var stations = {/*
             logo: "stations/images-europe/georgia/Sputnik Абхазия.png",
             url: "https://icecast-rian.cdnvideo.ru/voicesuh"
         },
-        {
+        /*{
             name: "Voice Of Abkhazia",
             logo: "stations/images-europe/georgia/Voice Of Abkhazia.png",
             url: "http://109.172.136.60:8081/broadwavelow.mp3"
-        },
+        },*/
     ],
     "germany": [
         {
@@ -2760,6 +2770,11 @@ var stations = {/*
             name: "pure fm",
             logo: "stations/images-europe/germany-berlin/pure fm.png",
             url: "https://s4.radionetz.de/purefm-bln.mp3"
+        },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
         },
         {
             name: "radio GOLD",
@@ -3754,6 +3769,11 @@ var stations = {/*
             url: "https://rsh.streamabc.net/regc-rshlive-mp3-192-6238539"
         },
         {
+            name: "NIUS Radio",
+            logo: "stations/images-europe/germany/NIUS Radio.png",
+            url: "https://radio.nius.de/live/mp3-192"
+        },
+        {
             name: "Ostseewelle",
             logo: "stations/images-europe/germany-mv/Ostseewelle.png",
             url: "https://ostseewelle-nord.cast.addradio.de/ostseewelle/nord/mp3/high"
@@ -3935,11 +3955,6 @@ var stations = {/*
             url: "https://frontend.streamonkey.net/kulthitradio-nrw"
         },
         {
-            name: "NOXX",
-            logo: "stations/images-europe/germany-wdr/NOXX.png",
-            url: "https://noxx--di--rnrw-ais-01--04--cdn.cast.addradio.de/noxx/simulcast/mp3/high"
-        },
-        {
             name: "RADIO 21",
             logo: "stations/images-europe/germany-nds/RADIO 21.png",
             url: "https://streams.radio21.de/nrw/mp3-192/radioplayer"
@@ -3953,6 +3968,11 @@ var stations = {/*
             name: "Radio Holiday",
             logo: "stations/images-europe/germany-rbb/Radio Holiday.png",
             url: "https://radiogroup-stream32.radiohost.de/radio-holiday_mp3-192"
+        },
+        {
+            name: "Radio Mixtape",
+            logo: "stations/images-europe/germany-wdr/Radio Mixtape.png",
+            url: "https://stream.lokalradio.nrw/4459jsj"
         },
         {
             name: "Radio Paloma",
@@ -7688,6 +7708,11 @@ var stations = {/*
             url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
         },
         {
+            name: "Inolvidable FM",
+            logo: "stations/images-europe/spain/Inolvidable FM.png",
+            url: "https://de4.streamingpulse.com/ssl/inolvidablefm"
+        },
+        {
             name: "KISS FM",
             logo: "stations/images-europe/spain/KISS FM.png",
             url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3"
@@ -7852,7 +7877,7 @@ var stations = {/*
         {
             name: "Capital Radio 103.2",
             logo: "stations/images-europe/spain-madrid/Capital Radio 103.2.png",
-            url: "https://capitalradio-live.flumotion.com/capital-radio/capitalradio.mp3"
+            url: "https://mdstrm.com/audio/67d2a8685ae4234de49e40f6/live.m3u8"
         },
         {
             name: "COPE Madrid 106.3",
