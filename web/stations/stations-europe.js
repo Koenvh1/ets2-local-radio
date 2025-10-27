@@ -1295,33 +1295,6 @@ var stations = {/*
             url: "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3"
         },
     ],
-    "cameroon": [
-        {
-            name: "CRTV Poste National",
-            logo: "stations/images-europe/cameroon/CRTV Poste National.png",
-            url: "https://crtv237webradio.ice.infomaniak.ch/crtv237webradio-128.mp3"
-        },
-        {
-            name: "BBC Afrique",
-            logo: "stations/images-europe/cameroon/BBC Afrique.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_afrique_radio"
-        },
-        {
-            name: "Radio Balafon",
-            logo: "stations/images-europe/cameroon/Radio Balafon.png",
-            url: "https://stream.pacificaservice.org:9000/kkfi_128"
-        },
-        {
-            name: "Radio Bonne Nouvelle",
-            logo: "stations/images-europe/cameroon/Radio Bonne Nouvelle.png",
-            url: "https://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3"
-        },
-        {
-            name: "RFI Afrique",
-            logo: "stations/images-europe/chad/RFI Afrique.png",
-            url: "https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3"
-        },
-    ],
     "catalonia": [
         {
             name: "Ràdio 4",
@@ -9349,28 +9322,6 @@ var stations = {/*
             name: "Virgin Radio",
             logo: "stations/images-europe/turkey/Virgin Radio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIOAAC_SC"
-        },
-    ],
-    "turkmenistan": [
-        {
-            name: "Radio Watan",
-            logo: "stations/images-europe/turkmenistan/Radio Watan.png",
-            url: "https://radio.telecom.tm/listen/watan/radio.mp3"
-        },
-        {
-            name: "Radio Çar-Tarapdan",
-            logo: "stations/images-europe/turkmenistan/Radio Çar-Tarapdan.png",
-            url: "https://radio.telecom.tm/listen/char/radio.mp3"
-        },
-        {
-            name: "Radio Miras",
-            logo: "stations/images-europe/turkmenistan/Radio Miras.png",
-            url: "https://radio.telecom.tm/listen/miras/radio.mp3"
-        },
-        {
-            name: "Radio Owaz",
-            logo: "stations/images-europe/turkmenistan/Radio Owaz.png",
-            url: "https://radio.telecom.tm/listen/owaz/radio.mp3"
         },
     ],
     "turkmenistan": [
