@@ -112,11 +112,11 @@ var stations = {/*
             logo: "stations/images-europe/afghanistan/BBC Pashto.png",
             url: "https://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio"
         },
-        {
+        /*{
             name: "Radio Killid",
             logo: "stations/images-europe/afghanistan/Radio Killid.png",
             url: "https://s1.voscast.com:7887/stream"
-        },
+        },*/
         {
             name: "Salam Watandar",
             logo: "stations/images-europe/afghanistan/Salam Watandar.png",
@@ -1841,12 +1841,12 @@ var stations = {/*
             name: "ERTU Al Orobi",
             logo: "stations/images-europe/egypt/ERTU.png",
             url: "https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8"
-        },*/
+        },
         {
             name: "MIX FM 87.8",
             logo: "stations/images-europe/egypt/MIX FM 87.8.png",
             url: "https://stream.zeno.fm/na3vpvn10qruv"
-        },
+        },*/
         {
             name: "Radio Hits 88.2",
             logo: "stations/images-europe/egypt/Radio Hits 88.2.png",
@@ -5472,17 +5472,17 @@ var stations = {/*
         {
             name: "УТРК Биринчи Радио",
             logo: "stations/images-europe/kyrgyzstan/УТРК Биринчи Радио.png",
-            url: "https://liveradio.utrk.kg/1radio"
-        },
-        {
-            name: "УТРК Миң-Кыял FM",
-            logo: "stations/images-europe/kyrgyzstan/УТРК Миң-Кыял FM.png",
-            url: "https://liveradio.utrk.kg/1000kiyal"
+            url: "http://89.168.75.18/redir/mediabay/565.m3u8"
         },
         {
             name: "УТРК Кыргыз Радиосу",
             logo: "stations/images-europe/kyrgyzstan/УТРК Кыргыз Радиосу.png",
-            url: "https://liveradio.utrk.kg/kyrgyzradio"
+            url: "http://89.168.75.18/redir/mediabay/566.m3u8"
+        },
+        {
+            name: "УТРК Миң-Кыял FM",
+            logo: "stations/images-europe/kyrgyzstan/УТРК Миң-Кыял FM.png",
+            url: "http://89.168.75.18/redir/mediabay/567.m3u8"
         },
         {
             name: "Европа Плюс Кыргызстан",
@@ -5713,7 +5713,7 @@ var stations = {/*
         {
             name: "VOA Africa",
             logo: "stations/images-europe/libya/VOA Africa.png",
-            url: "https://stream.radiojar.com/gyac3bggq3quv"
+            url: "https://voa-ingest.akamaized.net/hls/live/2035209/152_134L/master.m3u8"
         },
     ],
     "liecht": [
@@ -6418,7 +6418,7 @@ var stations = {/*
         {
             name: "Kapital FM",
             logo: "stations/images-europe/nigeria/Kapital FM.png",
-            url: "https://radiohq.radioca.st/;/'"
+            url: "https://cast4.asurahosting.com/proxy/radioni1/stream/;/'"
         },
         {
             name: "Brila FM",
