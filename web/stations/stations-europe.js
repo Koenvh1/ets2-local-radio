@@ -1401,6 +1401,135 @@ var stations = {/*
             url: "http://89.168.75.18/redir/cn/653.m3u8"
         },
     ],
+    
+    "china_hlj": [
+        {
+            name: "黑龙江新闻广播",
+            logo: "stations/images-europe/china/hlj/黑龙江新闻广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江交通广播",
+            logo: "stations/images-europe/china/hlj/黑龙江交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江女性广播",
+            logo: "stations/images-europe/china/hlj/黑龙江女性广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江爱家广播",
+            logo: "stations/images-europe/china/hlj/黑龙江爱家广播.png",
+            url: "https://stream3.hljtv.com/hljrd97/playlist.m3u8"
+        },
+        {
+            name: "黑龙江私家车广播",
+            logo: "stations/images-europe/china/hlj/黑龙江私家车广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8"
+        },
+        {
+            name: "黑龙江音乐广播",
+            logo: "stations/images-europe/china/hlj/黑龙江音乐广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8"
+        },
+    ],
+    "china_jl": [
+        {
+            name: "吉林新闻综合广播",
+            logo: "stations/images-europe/china/jl/吉林新闻综合广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8"
+        },
+        {
+            name: "吉林乡村广播",
+            logo: "stations/images-europe/china/jl/吉林乡村广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8"
+        },
+        {
+            name: "吉林交通广播",
+            logo: "stations/images-europe/china/jl/吉林交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8"
+        },
+        {
+            name: "吉林旅游广播",
+            logo: "stations/images-europe/china/jl/吉林旅游广播.png",
+            url: "https://live-jlr.jlntv.cn/live/fm1033/fm1033.aac"
+        },
+        {
+            name: "吉林经济广播",
+            logo: "stations/images-europe/china/jl/吉林经济广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8"
+        },
+        {
+            name: "吉林音乐广播",
+            logo: "stations/images-europe/china/jl/吉林音乐广播.png",
+            url: "https://live-jlr.jlntv.cn/live/fm927/fm927.aac"
+        },
+    ],
+    "china_ln": [
+        {
+            name: "辽宁之声",
+            logo: "stations/images-europe/china/ln/辽宁之声.png",
+            url: "http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁乡村广播",
+            logo: "stations/images-europe/china/ln/辽宁乡村广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁交通广播",
+            logo: "stations/images-europe/china/ln/辽宁交通广播.png",
+            url: "http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8"
+        },
+        {
+            name: "辽宁文艺广播",
+            logo: "stations/images-europe/china/ln/辽宁文艺广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8"
+        },
+        {
+            name: "辽宁经济广播",
+            logo: "stations/images-europe/china/ln/辽宁经济广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8"
+        },
+    ],
+    "china_xj": [
+        {
+            name: "قازاقشا راديو",
+            logo: "stations/images-europe/china/xj/قازاقشا راديو.png",
+            url: "http://89.168.75.18/redir/cn/655.m3u8"
+        },
+        {
+            name: "ئۇيغۇرچە رادىيو",
+            logo: "stations/images-europe/china/xj/ئۇيغۇرچە رادىيو.png",
+            url: "http://89.168.75.18/redir/cn/651.m3u8"
+        },
+        {
+            name: "新疆交通广播",
+            logo: "stations/images-europe/china/xj/新疆交通广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8"
+        },
+        {
+            name: "新疆新闻广播",
+            logo: "stations/images-europe/china/xj/新疆新闻广播.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8"
+        },
+        {
+            name: "راديوسى شىڭجاڭ قازاق ءتىلى",
+            logo: "stations/images-europe/china/xj/راديوسى شىڭجاڭ قازاق ءتىلى.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8"
+        },
+        {
+            name: "ئۇيغۇرچە ئۈنۋېرسال رادىيو",
+            logo: "stations/images-europe/china/xj/ئۇيغۇرچە ئۈنۋېرسال رادىيو.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8"
+        },
+        {
+            name: "قاتناش سەنئەت رادىيوسى",
+            logo: "stations/images-europe/china/xj/قاتناش سەنئەت رادىيوسى.png",
+            url: "https://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8"
+        },
+    ],
     "croatia": [
         {
             name: "HR 1",
@@ -6157,6 +6286,33 @@ var stations = {/*
             name: "Virgin Radio Lebanon",
             logo: "stations/images-europe/lebanon/Virgin Radio Lebanon.png",
             url: "https://stream.zeno.fm/p3m819pkha0uv"
+        },
+    ],
+    "libya": [
+        {
+            name: "راديو الوسط",
+            logo: "stations/images-europe/libya/راديو الوسط.png",
+            url: "https://streams.radio.co/sd0daa78c9/listen"   
+        },
+        {
+            name: "DO FM",
+            logo: "stations/images-europe/libya/DO FM.png",
+            url: "http://live.dofm.ly:8000/stream.mp3"
+        },
+        {
+            name: "Libyana Hits",
+            logo: "stations/images-europe/libya/Libyana Hits.png",
+            url: "https://libyanahitsfm.radioca.st/stream"   
+        },
+        {
+            name: "RTV Lebda",
+            logo: "stations/images-europe/libya/RTV Lebda.png",
+            url: "http://57.129.63.210:8082/stream"
+        },
+        {
+            name: "VOA Africa",
+            logo: "stations/images-europe/libya/VOA Africa.png",
+            url: "https://voa-ingest.akamaized.net/hls/live/2035209/152_134L/master.m3u8"
         },
     ],
     "lithuania": [
