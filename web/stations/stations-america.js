@@ -1509,6 +1509,11 @@ var stations = {/*
             url: "http://streaming.koop.org/stream.aac"
         },
         {
+            name: "BOOST 92.1",
+            logo: "stations/images-america/0_general_logos/Boost Radio.png",
+            url: "https://gateway.cdnstream1.com/boost-live"
+        },
+        {
             name: "Air1 92.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
@@ -1517,6 +1522,11 @@ var stations = {/*
             name: "Radio Nueva Vida 92.5-HD2",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
             url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
+            name: "BOOST 92.5-HD3",
+            logo: "stations/images-america/0_general_logos/Boost Radio.png",
+            url: "http://gateway.cdnstream1.com/boost-live"
         },
         {
             name: "Vibe 93.3",
@@ -2042,8 +2052,8 @@ var stations = {/*
             url: "https://sonic01.instainternet.com/8058/stream"
         },
         {
-            name: "96.9 KHDR",
-            logo: "stations/images-america/las_vegas/Highway Rock 99.7-HD3.png",
+            name: "KNAC 96.9",
+            logo: "stations/images-america/las_vegas/KNAC.png",
             url: "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream"
         },
         {
@@ -15270,8 +15280,8 @@ var stations = {/*
             url: "https://lvradio.lvonline.com/stream"
         },*/
         {
-            name: "Highway Rock 99.7-HD3",
-            logo: "stations/images-america/las_vegas/Highway Rock 99.7-HD3.png",
+            name: "KNAC 99.7-HD3",
+            logo: "stations/images-america/las_vegas/KNAC.png",
             url: "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream"
         },
         {
@@ -21466,7 +21476,7 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1957/hls.m3u8"
         },
         {
-            name: "BOOST Radio 103.7",
+            name: "BOOST 103.7",
             logo: "stations/images-america/0_general_logos/Boost Radio.png",
             url: "https://gateway.cdnstream1.com/boost-live"
         },
@@ -41762,7 +41772,7 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9_christmas.png",
             url: "https://stream.rcs.revma.com/276q9hbhz7uvv"
         },
         {
@@ -45464,9 +45474,9 @@ var stations = {/*
             url: "http://ice9.securenetsystems.net/WROA"
         },
         {
-            name: "Cruisin' 100.9",
-            logo: "stations/images-america/c2c/gulfport_ms/Cruisin' 100.9.png",
-            url: "https://ice23.securenetsystems.net/WGCMAM"
+            name: "Hype 100.9",
+            logo: "stations/images-america/c2c/gulfport_ms/Hype 100.9.png",
+            url: "https://ice41.securenetsystems.net/WZKXHD3"
         },
         {
             name: "Coast 102",
@@ -45509,9 +45519,9 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/WZKXHD2"
         },
         {
-            name: "The Hype 107.9-HD3",
-            logo: "stations/images-america/c2c/gulfport_ms/The Hype 107.9-HD3.png",
-            url: "https://ice41.securenetsystems.net/WZKXHD3"
+            name: "107.9 WZKX-HD3",
+            logo: "stations/images-america/c2c/gulfport_ms/Hype 100.9.png",
+            url: "http://ice41.securenetsystems.net/WZKXHD3"
         },
         {
             name: "Sonshine 800",
@@ -45529,9 +45539,9 @@ var stations = {/*
             url: "http:///thassos.cdnstream.com:5208/live"
         },
         {
-            name: "Cruisin' 1240",
-            logo: "stations/images-america/c2c/gulfport_ms/Cruisin' 100.9.png",
-            url: "http://ice23.securenetsystems.net/WGCMAM"
+            name: "1240 WGCM",
+            logo: "stations/images-america/c2c/gulfport_ms/Hype 100.9.png",
+            url: "https:///ice41.securenetsystems.net/WZKXHD3"
         },
         {
             name: "BIN 1280",
@@ -46642,7 +46652,7 @@ var stations = {/*
         },
         {
             name: "The New 96.1",
-            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1.png",
+            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wmsxfmaac-ibc3"
         },
         {
@@ -49900,7 +49910,7 @@ var stations = {/*
         },
         {
             name: "STAR 93.3",
-            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_christmas.png",
             url: "https://pillar2.streamguys1.com/live"
         },
         {
@@ -54428,7 +54438,7 @@ var stations = {/*
             url: "https://securenetg.com/listen/96.3_random_/radio.aac"
         },
         {
-            name: "Boost Radio 96.7",
+            name: "BOOST 96.7",
             logo: "stations/images-america/0_general_logos/Boost Radio.png",
             url: "https://gateway.cdnstream1.com/boost-live"
         },
@@ -57050,9 +57060,9 @@ var stations = {/*
             url: "http://peridot.streamguys.com:7530/wmselivemp3"
         },
         {
-            name: "B93.3",
-            logo: "stations/images-america/c2c/milwaukee_wi/B93.3.png",
-            url: "http://wldb.streamon.fm:8000/WLDB-48k.aac"
+            name: "K-LOVE 93.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "93.3 WLDB-HD2",
@@ -57130,9 +57140,9 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/goodkarma-wgkbamaac-ibc1"
         },
         {
-            name: "FM 102.1",
-            logo: "stations/images-america/c2c/milwaukee_wi/FM 102.1.png",
-            url: "http://wlum.streamon.fm:8000/WLUM-48k.aac"
+            name: "Air1 102.1",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
             name: "103.7 KISS FM",
