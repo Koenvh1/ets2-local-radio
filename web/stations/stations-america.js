@@ -7271,7 +7271,7 @@ var stations = {/*
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/denver/Star 101.5.png",
+            logo: "stations/images-america/denver/Star 101.5_christmas.png",
             url: "https://pillar.streamguys1.com/KSRC"
         },
         {
@@ -19890,7 +19890,7 @@ var stations = {/*
         },
         {
             name: "Star 104.5",
-            logo: "stations/images-america/omaha/Star 104.5.png",
+            logo: "stations/images-america/omaha/Star 104.5_christmas.png",
             url: "https://stream.rcs.revma.com/1bpp8ncyu7uvv"
         },
         {
@@ -40117,7 +40117,7 @@ var stations = {/*
         },
         {
             name: "99.3 WAJK",
-            logo: "stations/images-america/c2c/lasalle_il/99.3 WAJK.png",
+            logo: "stations/images-america/c2c/lasalle_il/99.3 WAJK_christmas.png",
             url: "http://ice5.securenetsystems.net/WAJK"
         },
         {
@@ -40408,7 +40408,7 @@ var stations = {/*
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
@@ -41453,7 +41453,7 @@ var stations = {/*
         },
         {
             name: "Mix 94.5",
-            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5.png",
+            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3552/hls.m3u8"
         },
         {
@@ -41737,7 +41737,7 @@ var stations = {/*
         },
         {
             name: "102.3 The Rose",
-            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose.png",
+            logo: "stations/images-america/c2c/louisville_ky/102.3 The Rose_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wxmafmaac-ibc2"
         },
         {
@@ -46328,7 +46328,7 @@ var stations = {/*
         },
         {
             name: "B95.5",
-            logo: "stations/images-america/c2c/albany_ny/B95.5.png",
+            logo: "stations/images-america/c2c/albany_ny/B95.5_christmas.png",
             url: "https://ais-sa1.streamon.fm/7821_128k.aac"
         },
         {
@@ -52437,7 +52437,7 @@ var stations = {/*
         },
         {
             name: "92 Mix FM",
-            logo: "stations/images-america/c2c/scranton_pa/92 Mix FM.png",
+            logo: "stations/images-america/c2c/scranton_pa/92 Mix FM_christmas.png",
             url: "https://ais-sa1.streamon.fm/7248_48k.aac"
         },
         {
@@ -55640,7 +55640,7 @@ var stations = {/*
         },
         {
             name: "105.3 The Breeze",
-            logo: "stations/images-america/c2c/norfolk_va/105.3 The Breeze.png",
+            logo: "stations/images-america/c2c/norfolk_va/105.3 The Breeze_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc4900/hls.m3u8"
         },
         {
@@ -56390,6 +56390,11 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/wvradio-wfbyfmaac-ibc2"
         },
         {
+            name: "FUN 93.1",
+            logo: "stations/images-america/c2c/clarksburg_wv/FUN 93.1.png",
+            url: "https://live.amperwave.net/manifest/bowers-wclgamaac-hlsc1.m3u8"
+        },
+        {
             name: "93.5 The FBY",
             logo: "stations/images-america/c2c/clarksburg_wv/93.5 The FBY.png",
             url: "https://live.amperwave.net/manifest/wvradio-wfbyfmaac-ibc2"
@@ -56461,7 +56466,7 @@ var stations = {/*
         },
         {
             name: "104.9 WPDX",
-            logo: "stations/images-america/c2c/clarksburg_wv/104.9 WPDX.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/104.9 WPDX_christmas.png",
             url: "https://live.amperwave.net/manifest/bowers-wfgmfmaac-hlsc1.m3u8"
         },
         {
@@ -56831,9 +56836,9 @@ var stations = {/*
             url: "http://crystalout.surfernetwork.com:8001/WRQT_MP3"
         },
         {
-            name: "Mix 96.1",
-            logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+            name: "Christmas 96.1",
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix_christmas.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/magnumbroadcasting-wkbhhd2aac-ibc1"
         }, 
         {
             name: "WKTY 96.7",
@@ -56846,9 +56851,9 @@ var stations = {/*
             url: "http://64.78.234.165:8000/WCOW"
         },
         {
-            name: "Mix 97.9",
-            logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wxymfmaac-ibc1"
+            name: "Christmas 97.9",
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix_christmas.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wkbhhd2aac-ibc1"
         }, 
         {
             name: "100.5 The Hawk",
@@ -57014,7 +57019,7 @@ var stations = {/*
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
@@ -58733,7 +58738,7 @@ var stations = {/*
         },
         {
             name: "Magic 103.1",
-            logo: "stations/images-america/canada/kingston/Magic 103.1.png",
+            logo: "stations/images-america/canada/kingston/Magic 103.1_christmas.png",
             url: "https://cb.streamguys1.com/wtoj.aac"
         },
         {
