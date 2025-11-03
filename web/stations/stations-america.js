@@ -56466,7 +56466,7 @@ var stations = {/*
         },
         {
             name: "104.9 WPDX",
-            logo: "stations/images-america/c2c/clarksburg_wv/104.9 WPDX_christmas.png",
+            logo: "stations/images-america/c2c/clarksburg_wv/104.9 WPDX.png",
             url: "https://live.amperwave.net/manifest/bowers-wfgmfmaac-hlsc1.m3u8"
         },
         {
