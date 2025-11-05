@@ -53626,9 +53626,9 @@ var stations = {/*
             url: "https://ice24.securenetsystems.net/KSOU"
         },
         {
-            name: "Q95.7",
-            logo: "stations/images-america/c2c/sioux_falls_sd/Q95.7.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQSFFMAAC_SC"
+            name: "95.7 KELO FM",
+            logo: "stations/images-america/c2c/sioux_falls_sd/95.7 KELO FM_christmas.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
         },
         {
             name: "Life 96.5",
@@ -53676,9 +53676,9 @@ var stations = {/*
             url: "http://ice23.securenetsystems.net/KSOUAM"
         },
         {
-            name: "101.9 KELO FM",
-            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM_christmas.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
+            name: "101.9 KQSF FM",
+            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KQSF FM.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQSFFMAAC_SC"
         },
         {
             name: "ESPN 102.3",
