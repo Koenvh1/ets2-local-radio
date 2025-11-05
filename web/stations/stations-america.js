@@ -20909,7 +20909,7 @@ var stations = {/*
         },
         {
             name: "99.9 KEZ",
-            logo: "stations/images-america/phoenix/99.9 KEZ.png",
+            logo: "stations/images-america/phoenix/99.9 KEZ_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
         },
         {
@@ -26913,9 +26913,9 @@ var stations = {/*
     ],
     "spokane": [
         {
-            name: "KEWU 89.5",
-            logo: "stations/images-america/spokane/KEWU 89.5.png",
-            url: "http://kewuradio.ewu.edu/KEWU_Jazz_89.5"
+            name: "KOOL 89.5",
+            logo: "stations/images-america/spokane/KOOL 89.5.png",
+            url: "https://streamer.radio.co/s3ba633066/listen"
         },
         {
             name: "PRX Remix 90.3",
@@ -27068,9 +27068,9 @@ var stations = {/*
             url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
-            name: "Moody Radio 107.1",
-            logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMBIFMAAC_SC"
+            name: "KOOL 107.1",
+            logo: "stations/images-america/spokane/KOOL 107.1.png",
+            url: "https://streaming.live365.com/a21180"
         },
         {
             name: "590 KQNT",
@@ -39900,7 +39900,7 @@ var stations = {/*
         },
         {
             name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
+            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
         },
         {
@@ -40470,7 +40470,7 @@ var stations = {/*
         },
         {
             name: "98.7 WNNS",
-            logo: "stations/images-america/c2c/springfield_il/98.7 WNNS.png",
+            logo: "stations/images-america/c2c/springfield_il/98.7 WNNS_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFMAAC_SC"
         },
         {
@@ -44275,7 +44275,7 @@ var stations = {/*
         },
         {
             name: "Star 105.7",
-            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1169/hls.m3u8"
         },
         {
@@ -46022,7 +46022,7 @@ var stations = {/*
         },
         {
             name: "Mix 98.7",
-            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7.png",
+            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wjkkfmaac-ibc3"
         },
         {
@@ -47539,7 +47539,7 @@ var stations = {/*
         },
         {
             name: "100.7 WHUD",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/100.7 WHUD.png",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/100.7 WHUD_christmas.png",
             url: "https://ais-sa1.streamon.fm/7833_128k.aac"
         },
         {
@@ -48439,7 +48439,7 @@ var stations = {/*
         },
         {
             name: "102.9 The Lake",
-            logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake.png",
+            logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1609/hls.m3u8"
         },
         {
@@ -48469,7 +48469,7 @@ var stations = {/*
         },
         {
             name: "K104.7",
-            logo: "stations/images-america/c2c/charlotte_nc/K104.7.png",
+            logo: "stations/images-america/c2c/charlotte_nc/K104.7_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKQCFMAAC_SC"
         },
         {
@@ -48638,7 +48638,7 @@ var stations = {/*
         },
         {
             name: "Mix 99.5",
-            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5.png",
+            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8"
         },
         {
@@ -50926,8 +50926,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYFMFMAAC_SC"
         },
         {
-            name: "Z104",
-            logo: "stations/images-america/c2c/youngstown_oh/Z104.png",
+            name: "Christmas 104",
+            logo: "stations/images-america/c2c/youngstown_oh/Z104_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWIZFMAAC_SC"
         },
         {
@@ -53677,7 +53677,7 @@ var stations = {/*
         },
         {
             name: "101.9 KELO FM",
-            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM.png",
+            logo: "stations/images-america/c2c/sioux_falls_sd/101.9 KELO FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KELOFMAAC_SC"
         },
         {
@@ -55070,7 +55070,7 @@ var stations = {/*
         },
         {
             name: "MIX 95.1",
-            logo: "stations/images-america/c2c/hagerstown_md/MIX 95.1.png",
+            logo: "stations/images-america/c2c/hagerstown_md/MIX 95.1_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wikzfmaac-ibc4"
         },
         {
@@ -56660,7 +56660,7 @@ var stations = {/*
         },
         {
             name: "96.7 WBDK",
-            logo: "stations/images-america/c2c/green_bay_wi/96.7 WBDK.png",
+            logo: "stations/images-america/c2c/green_bay_wi/96.7 WBDK_christmas.png",
             url: "https://ice64.securenetsystems.net/WBDK"
         },
         {
@@ -57101,7 +57101,7 @@ var stations = {/*
         },
         {
             name: "B97.3",
-            logo: "stations/images-america/c2c/milwaukee_wi/B97.3.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/B97.3_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2685/hls.m3u8"
         },
         {
@@ -57932,7 +57932,7 @@ var stations = {/*
         },
         {
             name: "MIX 107.9",
-            logo: "stations/images-america/canada/edmonton/MIX 107.9.png",
+            logo: "stations/images-america/canada/edmonton/MIX 107.9_christmas.png",
             url: "https://goldenwest.leanstream.co/CKFTFM"
         },
         {
@@ -62818,8 +62818,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4732/hls.m3u8"
         },
         {
-            name: "play 96.5",
-            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/play 96.5.png",
+            name: "Estereotempo 96.5",
+            logo: "stations/images-america/caribbean/puerto_rico/sanjuan/Estereotempo 96.5.png",
             url: "https://liveaudio.lamusica.com/PR_WRXD_icy"
         },
         {
