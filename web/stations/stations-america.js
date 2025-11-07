@@ -15361,7 +15361,7 @@ var stations = {/*
         },
         {
             name: "Sunny 106.5",
-            logo: "stations/images-america/las_vegas/Sunny 106.5.png",
+            logo: "stations/images-america/las_vegas/Sunny 106.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1341/hls.m3u8"
         },
         {
@@ -20456,12 +20456,12 @@ var stations = {/*
             name: "Rewind 93.3",
             logo: "stations/images-america/page/Rewind 93.3.png",
             url: "https://s5.radioforge.com:6874/kxaz240120"
-        },
+        },/*
         {
             name: "KiX 98.3",
             logo: "stations/images-america/page/KiX 98.3.png",
             url: "https://s5.radioforge.com:6874/kpge240120"
-        },
+        },*/
         {
             name: "102.7 K274AY",
             logo: "stations/images-america/0_general_logos/KNAU.png",
@@ -20476,12 +20476,12 @@ var stations = {/*
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
-        },
+        },/*
         {
             name: "1340 KPGE",
             logo: "stations/images-america/page/KiX 98.3.png",
             url: "http://s5.radioforge.com:6874/kpge240120"
-        },
+        },*/
     ],
     "palacios": [
         {
@@ -24316,7 +24316,7 @@ var stations = {/*
         },
         {
             name: "Q101.9",
-            logo: "stations/images-america/san_antonio/Q101.9.png",
+            logo: "stations/images-america/san_antonio/Q101.9_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2341/hls.m3u8"
         },
         {
@@ -34603,7 +34603,7 @@ var stations = {/*
         },
         {
             name: "Magic 96.5",
-            logo: "stations/images-america/c2c/birmingham_al/Magic 96.5.png",
+            logo: "stations/images-america/c2c/birmingham_al/Magic 96.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3081/hls.m3u8"
         },
         {
@@ -38098,7 +38098,7 @@ var stations = {/*
         },
         {
             name: "105.5 WDUV",
-            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV.png",
+            logo: "stations/images-america/c2c/tampa_fl/105.5 WDUV_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://ad-oom-cmg.streamguys1.com/tam1055/tam1055-sgplayer-aac"
         },
         {
@@ -44048,7 +44048,7 @@ var stations = {/*
         },
         {
             name: "100.3 WNIC",
-            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC.png",
+            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1153/hls.m3u8"
         },
         {
@@ -50259,7 +50259,7 @@ var stations = {/*
         },
         {
             name: "93.3 The Bus",
-            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus.png",
+            logo: "stations/images-america/c2c/columbus_oh/93.3 The Bus_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1761/hls.m3u8"
         },
         {
