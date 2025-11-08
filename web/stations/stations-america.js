@@ -20456,12 +20456,12 @@ var stations = {/*
             name: "Rewind 93.3",
             logo: "stations/images-america/page/Rewind 93.3.png",
             url: "https://s5.radioforge.com:6874/kxaz240120"
-        },/*
+        },
         {
             name: "KiX 98.3",
             logo: "stations/images-america/page/KiX 98.3.png",
-            url: "https://s5.radioforge.com:6874/kpge240120"
-        },*/
+            url: "https://s5.radioforge.com:6874/kxqx"
+        },
         {
             name: "102.7 K274AY",
             logo: "stations/images-america/0_general_logos/KNAU.png",
@@ -20476,12 +20476,12 @@ var stations = {/*
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
-        },/*
+        },
         {
             name: "1340 KPGE",
             logo: "stations/images-america/page/KiX 98.3.png",
-            url: "http://s5.radioforge.com:6874/kpge240120"
-        },*/
+            url: "http://s5.radioforge.com:6874/kxqx"
+        },
     ],
     "palacios": [
         {
@@ -26434,9 +26434,14 @@ var stations = {/*
             url: "https://ice23.securenetsystems.net/KRFM"
         },
         {
-            name: "K-Bear 100.5",
-            logo: "stations/images-america/show_low/K-Bear 100.5.png",
+            name: "K-Bear 100.9",
+            logo: "stations/images-america/show_low/K-Bear 100.9.png",
             url: "https://s5.radioforge.com:6874/kbear24"
+        },
+        {
+            name: "ALT 100.9-HD2",
+            logo: "stations/images-america/show_low/ALT 100.9-HD2.png",
+            url: "https://s5.radioforge.com:6874/alt"
         },
         {
             name: "Majik 101.7",
@@ -50152,13 +50157,13 @@ var stations = {/*
         },
         {
             name: "Majic 105.7",
-            logo: "stations/images-america/c2c/cleveland_oh/Majic 105.7.png",
+            logo: "stations/images-america/c2c/cleveland_oh/Majic 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1737/hls.m3u8"
         },
         {
-            name: "iHeart50s 105.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart50s.png",
-            url: "https://stream.revma.ihrhls.com/zc6882/hls.m3u8"
+            name: "K-LOVE 105.7-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "Real 106.1",
