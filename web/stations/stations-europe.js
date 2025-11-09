@@ -1401,7 +1401,6 @@ var stations = {/*
             url: "http://89.168.75.18/redir/cn/653.m3u8"
         },
     ],
-    
     "china_hlj": [
         {
             name: "黑龙江新闻广播",
@@ -6108,11 +6107,11 @@ var stations = {/*
             logo: "stations/images-europe/kyrgyzstan/Ретро FM Кыргызстан.png",
             url: "https://cdn.radioplayer.kg:8443/retro64"
         },
-        {
+        /*{
             name: "Санжыра радиосу",
             logo: "stations/images-europe/kyrgyzstan/Санжыра радиосу.png",
             url: "https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/795883"
-        },
+        },*/
         {
             name: "Сүйүнчү FM",
             logo: "stations/images-europe/kyrgyzstan/Сүйүнчү FM.png",
