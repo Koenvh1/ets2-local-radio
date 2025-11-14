@@ -5596,7 +5596,7 @@ var stations = {/*
         },
         {
             name: "98.3 The Dove",
-            logo: "stations/images-america/columbia_jcmo/98.3 The Dove.png",
+            logo: "stations/images-america/columbia_jcmo/98.3 The Dove_christmas.png",
             url: "https://ais-sa1.streamon.fm/7931_96k.aac"
         },
         {
@@ -7261,7 +7261,7 @@ var stations = {/*
         },
         {
             name: "KOSI 101.1",
-            logo: "stations/images-america/denver/KOSI 101.1.png",
+            logo: "stations/images-america/denver/KOSI 101.1_christmas.png",
             url: "https://bonneville.cdnstream1.com/2709_48.aac"
         },
         {
@@ -17164,7 +17164,7 @@ var stations = {/*
         },
         {
             name: "104.9 The Cat",
-            logo: "stations/images-america/maryville/104.9 The Cat.png",
+            logo: "stations/images-america/maryville/104.9 The Cat_christmas.png",
             url: "https://live.amperwave.net/manifest/eagleradio-kbctfmaac-ibc4"
         },
         {
@@ -17199,7 +17199,7 @@ var stations = {/*
         },
         {
             name: "1550 KESJ",
-            logo: "stations/images-america/st_joseph/JoeTown 107.5.png",
+            logo: "stations/images-america/st_joseph/JoeTown 107.5_christmas.png",
             url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -21604,7 +21604,7 @@ var stations = {/*
         }, 
         {
             name: "100.5 The Hawk",
-            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDHKFMAAC_SC"
         },
         {
@@ -23648,7 +23648,7 @@ var stations = {/*
         },
         {
             name: "KWAV 96.9",
-            logo: "stations/images-america/salinas/KWAV 96.9.png",
+            logo: "stations/images-america/salinas/KWAV 96.9_christmas.png",
             url: "https://ice9.securenetsystems.net/KWAV"
         },
         {
@@ -27886,7 +27886,7 @@ var stations = {/*
         },
         {
             name: "JoeTown 107.5",
-            logo: "stations/images-america/st_joseph/JoeTown 107.5.png",
+            logo: "stations/images-america/st_joseph/JoeTown 107.5_christmas.png",
             url: "https://live.amperwave.net/direct/eagleradio-kesjamaac-ibc4"
         },
         {
@@ -38803,7 +38803,7 @@ var stations = {/*
         },
         {
             name: "Magic 98.1",
-            logo: "stations/images-america/c2c/macon_ga/Magic 98.1.png",
+            logo: "stations/images-america/c2c/macon_ga/Magic 98.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3888/hls.m3u8"
         },
         {
@@ -40142,7 +40142,7 @@ var stations = {/*
         },
         {
             name: "Classic Hits 106",
-            logo: "stations/images-america/c2c/lasalle_il/Classic Hits 106.png",
+            logo: "stations/images-america/c2c/lasalle_il/Classic Hits 106_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYYSFMAAC_SC"
         },
     ],
@@ -42894,7 +42894,7 @@ var stations = {/*
         },
         {
             name: "KISS FM 94.5",
-            logo: "stations/images-america/c2c/bangor_me/KISS FM 94.5.png",
+            logo: "stations/images-america/c2c/bangor_me/KISS FM 94.5_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/blueberry-wksqfmaac-ibc1"
         },
         {
@@ -51981,7 +51981,7 @@ var stations = {/*
         },
         {
             name: "B101.1",
-            logo: "stations/images-america/c2c/philadelphia_pa/B101.1.png",
+            logo: "stations/images-america/c2c/philadelphia_pa/B101.1_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbebfmaac-imc"
         },
         {
@@ -56857,7 +56857,7 @@ var stations = {/*
         }, 
         {
             name: "100.5 The Hawk",
-            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk.png",
+            logo: "stations/images-america/c2c/la_crosse_wi/100.5 The Hawk_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDHKFMAAC_SC"
         },
         {
