@@ -16469,7 +16469,7 @@ var stations = {/*
         },
         {
             name: "KOST 103.5",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -22507,7 +22507,7 @@ var stations = {/*
         },*/
         {
             name: "94.7 K234CR",
-            logo: "stations/images-america/los_angeles/KOST 103.5.png",
+            logo: "stations/images-america/los_angeles/KOST 103.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc193/hls.m3u8"
         },
         {
@@ -35179,8 +35179,8 @@ var stations = {/*
         },
         {
             name: "96.1 WQKS-HD2",
-            logo: "stations/images-america/c2c/montgomery_al/Yo! 100.5.png",
-            url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/WQKSHD2"
+            logo: "stations/images-america/c2c/montgomery_al/Streamz 100.5.png",
+            url: "http://cast.streamkast.co/wqkshd2"
         },
         {
             name: "96.1 WQKS-HD3",
@@ -35218,9 +35218,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/WBAM"
         },
         {
-            name: "Yo! 100.5",
-            logo: "stations/images-america/c2c/montgomery_al/Yo! 100.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/WQKSHD2"
+            name: "Streamz 100.5",
+            logo: "stations/images-america/c2c/montgomery_al/Streamz 100.5.png",
+            url: "https://cast.streamkast.co/wqkshd2"
         },
         {
             name: "Y102",
@@ -42403,6 +42403,11 @@ var stations = {/*
             name: "KNWD 91.7",
             logo: "stations/images-america/c2c/natchitoches_la/KNWD 91.7.png",
             url: "https://us2.maindigitalstream.com/ssl/KNWD"
+        },
+        {
+            name: "95.9 The Bounce",
+            logo: "stations/images-america/c2c/natchitoches_la/95.9 The Bounce.png",
+            url: "https://streams.radiomast.io/9d316955-9c2a-4e39-b250-789fdea71ebf"
         },
         {
             name: "KZBL 100.7",
@@ -63275,7 +63280,7 @@ var stations = {/*
         },
         {
             name: "Magic 101.1",
-            logo: "stations/images-america/alaska/fairbanks/Magic 101.1.png",
+            logo: "stations/images-america/alaska/fairbanks/Magic 101.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3328/hls.m3u8"
         },
         {
