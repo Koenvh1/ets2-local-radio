@@ -29614,12 +29614,12 @@ var stations = {/*
         },
         {
             name: "96.1 KLIX",
-            logo: "stations/images-america/twin_falls/96.1 KLIX_christmas.png",
+            logo: "stations/images-america/twin_falls/96.1 KLIX.png",
             url: "https://live.amperwave.net/manifest/townsquare-klixamaac-ibc3"
         },
         {
             name: "KOOL 96.5",
-            logo: "stations/images-america/twin_falls/KOOL 96.5.png",
+            logo: "stations/images-america/twin_falls/KOOL 96.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-klixfmaac-ibc3"
         },
         {
@@ -29719,7 +29719,7 @@ var stations = {/*
         },
         {
             name: "1310 KLIX",
-            logo: "stations/images-america/twin_falls/96.1 KLIX_christmas.png",
+            logo: "stations/images-america/twin_falls/96.1 KLIX.png",
             url: "http://live.amperwave.net/manifest/townsquare-klixamaac-ibc3"
         },
         {
