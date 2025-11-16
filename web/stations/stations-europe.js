@@ -9123,7 +9123,7 @@ var stations = {/*
         {
             name: "Ninar FM",
             logo: "stations/images-europe/syria/Ninar FM.png",
-            url: "http://ninarfm.grtvstream.com:8896/;"
+            url: "http://ninarfm.grtvstream.com:8896/;stream.mp3"
         },
     ],
     "tajikistan": [
