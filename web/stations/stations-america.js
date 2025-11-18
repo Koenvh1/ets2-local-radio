@@ -2363,7 +2363,7 @@ var stations = {/*
         },
         {
             name: "Cool 92.5",
-            logo: "stations/images-america/beaumont/Cool 92.5.png",
+            logo: "stations/images-america/beaumont/Cool 92.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2189/hls.m3u8"
         },
         {
@@ -36178,7 +36178,7 @@ var stations = {/*
         },
         {
             name: "96.1 WEJZ",
-            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ.png",
+            logo: "stations/images-america/c2c/jacksonville_fl/96.1 WEJZ_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEJZFMAAC_SC"
         },
         {
@@ -39450,7 +39450,7 @@ var stations = {/*
         },
         {
             name: "105.9 The Wave",
-            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave.png",
+            logo: "stations/images-america/c2c/honolulu_hi/105.9 The Wave_christmas.png",
             url: "https://pacificmedia.cdnstream1.com/2781_64.aac"
         },
         {
@@ -40699,7 +40699,7 @@ var stations = {/*
         },
         {
             name: "Mix 98.1",
-            logo: "stations/images-america/c2c/fort_wayne_in/Mix 98.1.png",
+            logo: "stations/images-america/c2c/fort_wayne_in/Mix 98.1_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1793/hls.m3u8"
         },
         {
@@ -53560,7 +53560,7 @@ var stations = {/*
         },
         {
             name: "Z106.3",
-            logo: "stations/images-america/c2c/rapid_city_sd/Z106.3.png",
+            logo: "stations/images-america/c2c/rapid_city_sd/Z106.3_christmas.png",
             url: "https://ais-sa1.streamon.fm/7769_96k.aac"
         },
         {
