@@ -592,9 +592,69 @@ var stations = {/*
             url: "https://s14.myradiostream.com/:30454/listen.mp3"
         },
         {
+            name: "ASAN Radio",
+            logo: "stations/images-europe/azerbaijan/ASAN Radio.png",
+            url: "https://play.asanradio.az/"
+        },
+        {
+            name: "Avto FM",
+            logo: "stations/images-europe/azerbaijan/Avto FM.png",
+            url: "http://5.191.241.101:8000/avtofm"
+        },
+        {
+            name: "Azad Azərbaycan Radiosu",
+            logo: "stations/images-europe/azerbaijan/Azad Azərbaycan Radiosu.png",
+            url: "https://audiostr.atv.az/106.3fm"
+        },
+        {
+            name: "Baku Hit FM",
+            logo: "stations/images-europe/azerbaijan/Baku Hit FM.png",
+            url: "http://5.191.241.101:8000/bakuhitfm"
+        },
+        {
+            name: "Baku Retro FM",
+            logo: "stations/images-europe/azerbaijan/Baku Retro FM.png",
+            url: "http://5.191.241.101:8000/bakuretrofm"
+        },
+        {
+            name: "İctimai Radio",
+            logo: "stations/images-europe/azerbaijan/İctimai Radio.png",
+            url: "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
+        },
+        {
             name: "Media FM",
             logo: "stations/images-europe/azerbaijan/Media FM.png",
             url: "https://icecast.livetv.az/mediafm"
+        },
+        {
+            name: "Radio Enerji",
+            logo: "stations/images-europe/azerbaijan/Radio Enerji.png",
+            url: "https://icecast.livetv.az/antennfm"
+        },
+        {
+            name: "Radio TMB",
+            logo: "stations/images-europe/azerbaijan/Radio TMB.png",
+            url: "https://s39.myradiostream.com/:5458/listen.mp3"
+        },
+        {
+            name: "Real FM",
+            logo: "stations/images-europe/azerbaijan/Real FM.png",
+            url: "http://94.20.137.130:8995/realfm"
+        },
+        {
+            name: "Space Radio",
+            logo: "stations/images-europe/azerbaijan/Space Radio.png",
+            url: "https://stream.zeno.fm/noozxmffa38uv"
+        },
+        {
+            name: "Xəzər FM",
+            logo: "stations/images-europe/azerbaijan/Xəzər FM.png",
+            url: "https://s40.myradiostream.com/22546/listen.mp3"
+        },
+        {
+            name: "Yurd FM",
+            logo: "stations/images-europe/azerbaijan/Yurd FM.png",
+            url: "https://icecast.livetv.az/yurdfm"
         },
     ],
     "basque": [
