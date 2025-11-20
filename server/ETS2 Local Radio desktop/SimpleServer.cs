@@ -282,14 +282,11 @@ namespace ETS2_Local_Radio_server
 
                 while (true)
                 {
-                    if (previousId != Main.commandsData.id)
-                    {
-                        previousId = Main.commandsData.id;
-                        string text = "event: commands\ndata: " + Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData) + "\n\n";
+                    previousId = Main.commandsData.id;
+                    string text = "event: commands\ndata: " + Newtonsoft.Json.JsonConvert.SerializeObject(Main.commandsData) + "\n\n";
 
-                        context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
-                        context.Response.OutputStream.Flush();
-                    }
+                    context.Response.OutputStream.Write(Encoding.UTF8.GetBytes(text), 0, Encoding.UTF8.GetBytes(text).Length);
+                    context.Response.OutputStream.Flush();
 
                     Thread.Sleep(50);
                 }

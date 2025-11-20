@@ -44,3 +44,4 @@ fabric.properties
 server/packages/**
 *.exe
 web/stations/16.11..txt
+sync.cmd
