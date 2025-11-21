@@ -47,6 +47,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "alexandria_la": {
+        name: "Alexandria",
+        name_english: "Alexandria",
+        code: "us-la",
+        relative_radius: 0.8
+    },
     "algona": {
         name: "Algona",
         name_english: "Algona",
@@ -2385,6 +2391,9 @@ var city_properties = {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
     },
+    "alexandria_la": {
+        relative_whitenoise: 0.95
+    },
     "algona": {
         relative_whitenoise: 0.95
     },
@@ -3737,6 +3746,14 @@ var cities = [
         "x": "-49704.4",
         "y": "80.0663",
         "z": "21583.7"
+    },
+    {
+        "gameName": "alexandria_la",
+        "realName": "Alexandria",
+        "country": "alexandria_la",
+        "x": "17350.1",
+        "y": "64.9961",
+        "z": "42386.1"
     },
     {
         "gameName": "algona",
@@ -9943,12 +9960,6 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 0.8
     },
-    "alexandria_la": {
-        name: "alexandria_la",
-        name_english: "alexandria_la",
-        code: "us-la",
-        relative_radius: 0.8
-    },
     "baton_rouge": {
         name: "baton_rouge",
         name_english: "baton_rouge",
@@ -10957,9 +10968,6 @@ var city_properties_c2c = {
     "paducah": {
         relative_whitenoise: 0.85
     },
-    "alexandria_la": {
-        relative_whitenoise: 0.85
-    },
     "baton_rouge": {
         relative_whitenoise: 0.85
     },
@@ -11833,14 +11841,6 @@ var cities_c2c = [
         "x": "35843.7",
         "y": "26.005",
         "z": "9181.52"
-    },
-    {
-        "gameName": "alexandria_la",
-        "realName": "Alexandria",
-        "country": "alexandria_la",
-        "x": "17350.1",
-        "y": "64.9961",
-        "z": "42386.1"
     },
     {
         "gameName": "baton_rouge",

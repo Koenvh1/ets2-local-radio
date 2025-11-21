@@ -868,6 +868,183 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
     ],
+    "alexandria_la": [
+        {
+            name: "KAYT 88.1",
+            logo: "stations/images-america/0_general_logos/KAYT.png",
+            url: "https://ice23.securenetsystems.net/KAYT"
+        },
+        {
+            name: "K-LOVE 89.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Red River Radio 90.7",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
+        },
+        {
+            name: "RRR Classical 90.7-HD2",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC"
+        },
+        {
+            name: "RRR News Talk 90.7-HD3",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
+        },
+        {
+            name: "RRR Alt Red River 90.7-HD3",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4_SC"
+        },
+        {
+            name: "BBN 91.3",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "afr Hybrid 91.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net/talk.mp4"
+        },
+        {
+            name: "Q93",
+            logo: "stations/images-america/alexandria_la/Q93.png",
+            url: "https://ice5.securenetsystems.net/KQID"
+        },
+        {
+            name: "93.1 KQID-HD2",
+            logo: "stations/images-america/alexandria_la/Magic 100.9.png",
+            url: "http://ice41.securenetsystems.net/KQIDHD2"
+        },
+        {
+            name: "93.1 KQID-HD3",
+            logo: "stations/images-america/alexandria_la/94.7 ESPN.png",
+            url: "http://ice9.securenetsystems.net/KDBS"
+        },
+        {
+            name: "Mix 93.9",
+            logo: "stations/images-america/alexandria_la/Mix 93.9.png",
+            url: "https://ice41.securenetsystems.net/KMXH"
+        },
+        {
+            name: "94.7 ESPN",
+            logo: "stations/images-america/alexandria_la/94.7 ESPN.png",
+            url: "https://ice9.securenetsystems.net/KDBS"
+        },
+        {
+            name: "96.9 KZMZ",
+            logo: "stations/images-america/alexandria_la/96.9 KZMZ.png",
+            url: "https://ice5.securenetsystems.net/KZMZ"
+        },
+        {
+            name: "97.7 The Cajun",
+            logo: "stations/images-america/alexandria_la/97.7 The Cajun.png",
+            url: "https://ice42.securenetsystems.net/KAPB"
+        },
+        {
+            name: "Old School 97.7-HD2",
+            logo: "stations/images-america/alexandria_la/Old School 97.7-HD2.png",
+            url: "https://ice25.securenetsystems.net/KAPBHD2"
+        },
+        {
+            name: "Kiss 98.7",
+            logo: "stations/images-america/alexandria_la/Kiss 98.7.png",
+            url: "https://ice5.securenetsystems.net/KKST"
+        },
+        {
+            name: "Kiss 98.7-HD2",
+            logo: "stations/images-america/alexandria_la/Kiss 98.7-HD2.png",
+            url: "https://ice41.securenetsystems.net/KKSTHD2"
+        },
+        {
+            name: "Rejoice 98.7-HD3",
+            logo: "stations/images-america/alexandria_la/Rejoice 98.7-HD3.png",
+            url: "https://ice41.securenetsystems.net/KKSTHD3"
+        },
+        {
+            name: "KWDF 99.7",
+            logo: "stations/images-america/alexandria_la/KWDF.png",
+            url: "https://ice41.securenetsystems.net/KWDF"
+        },
+        {
+            name: "KRRV 100.3",
+            logo: "stations/images-america/alexandria_la/KRRV 100.3.png",
+            url: "https://ice5.securenetsystems.net/KRRV"
+        },
+        {
+            name: "K-Dixie 100.3-HD2",
+            logo: "stations/images-america/alexandria_la/K-Dixie 100.3-HD2.png",
+            url: "https://ice41.securenetsystems.net/KDIXIE"
+        },
+        {
+            name: "KSYL 100.3-HD3",
+            logo: "stations/images-america/alexandria_la/KSYL.png",
+            url: "http://ice5.securenetsystems.net/KSYL"
+        },
+        {
+            name: "Magic 100.9",
+            logo: "stations/images-america/alexandria_la/Magic 100.9.png",
+            url: "https://ice41.securenetsystems.net/KQIDHD2"
+        },
+        {
+            name: "102.3 Jack FM",
+            logo: "stations/images-america/alexandria_la/102.3 Jack FM.png",
+            url: "https://ice41.securenetsystems.net/KBCE"
+        },
+        {
+            name: "LA 103.5",
+            logo: "stations/images-america/alexandria_la/LA 103.5.png",
+            url: "https://stream.aiir.com/by6zccomhrntv"
+        },
+        {
+            name: "The Bridge 104.3",
+            logo: "stations/images-america/alexandria_la/The Bridge 104.3.png",
+            url: "https://stream.aiir.com/f071gn1vbl7uv"
+        },
+        {
+            name: "KSYL 104.9",
+            logo: "stations/images-america/alexandria_la/KSYL.png",
+            url: "https://ice5.securenetsystems.net/KSYL"
+        },
+        {
+            name: "105.5 The Fox",
+            logo: "stations/images-america/alexandria_la/105.5 The Fox.png",
+            url: "https://stream.aiir.com/u6pwedoukqztv"
+        },
+        {
+            name: "Sunny 106.9",
+            logo: "stations/images-america/alexandria_la/Sunny 106.9.png",
+            url: "https://stream.aiir.com/lr724f6o5v7vv"
+        },
+        {
+            name: "Radio Maria 580",
+            logo: "stations/images-america/0_general_logos/Radio Maria.png",
+            url: "http://ice41.securenetsystems.net/KWDF"
+        },
+        {
+            name: "KWDF 840",
+            logo: "stations/images-america/alexandria_la/KWDF.png",
+            url: "http://ice41.securenetsystems.net/KWDF"
+        },
+        {
+            name: "KSYL 970",
+            logo: "stations/images-america/alexandria_la/KSYL.png",
+            url: "https:///ice5.securenetsystems.net/KSYL"
+        },
+        {
+            name: "KTTP 1110",
+            logo: "stations/images-america/alexandria_la/KTTP 1110.png",
+            url: "https://ice26.securenetsystems.net/KTTP"
+        },
+        {
+            name: "1410 ESPN",
+            logo: "stations/images-america/alexandria_la/94.7 ESPN.png",
+            url: "https:///ice9.securenetsystems.net/KDBS"
+        },
+    ],
     "algona": [
         {
             name: "Hometown Radio 92.7",
@@ -4378,7 +4555,7 @@ var stations = {/*
         },
         {
             name: "104.5 KDAT",
-            logo: "stations/images-america/cedar_valley/104.5 KDAT.png",
+            logo: "stations/images-america/cedar_valley/104.5 KDAT_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kdatfmaac-ibc3"
         },
         {
@@ -41891,83 +42068,6 @@ var stations = {/*
             name: "920 WMOK",
             logo: "stations/images-america/c2c/paducah_ky/WMOK.png",
             url: "https://ice103.wbcstreaming.com:8130/aac"
-        },
-    ],
-    "alexandria_la": [
-        {
-            name: "KAYT 88.1",
-            logo: "stations/images-america/0_general_logos/KAYT.png",
-            url: "https://ice23.securenetsystems.net/KAYT"
-        },
-        {
-            name: "Red River Radio 90.7",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
-        },
-        {
-            name: "Red River Radio Classical 90.7-HD2",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC"
-        },
-        {
-            name: "Red River Radio NewsTalk 90.7-HD3",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
-        },
-        {
-            name: "Q93",
-            logo: "stations/images-america/c2c/alexandria_la/Q93.png",
-            url: "http://ice5.securenetsystems.net/KQID"
-        },
-        {
-            name: "94.7 ESPN",
-            logo: "stations/images-america/c2c/alexandria_la/94.7 ESPN.png",
-            url: "https://ice9.securenetsystems.net/KDBS"
-        },
-        {
-            name: "96.9 ROCKS",
-            logo: "stations/images-america/c2c/alexandria_la/96.9 ROCKS.png",
-            url: "http://ice5.securenetsystems.net/KZMZ"
-        },
-        {
-            name: "Kiss 98.7",
-            logo: "stations/images-america/c2c/alexandria_la/Kiss 98.7.png",
-            url: "http://ice5.securenetsystems.net/KKST"
-        },
-        {
-            name: "100.3 KRRV",
-            logo: "stations/images-america/c2c/alexandria_la/100.3 KRRV.png",
-            url: "http://ice5.securenetsystems.net/KRRV"
-        },
-        {
-            name: "KDixie 100.3-HD2",
-            logo: "stations/images-america/c2c/alexandria_la/KDixie 100.3-HD2.png",
-            url: "https://ice41.securenetsystems.net/KDIXIE"
-        },
-        {
-            name: "KSYL 100.3-HD3",
-            logo: "stations/images-america/c2c/alexandria_la/KSYL 100.3-HD3.png",
-            url: "http://ice5.securenetsystems.net/KSYL"
-        },
-        {
-            name: "Magic 100.9",
-            logo: "stations/images-america/c2c/alexandria_la/Magic 100.9.png",
-            url: "http://ice41.securenetsystems.net/KQIDHD2"
-        },
-        {
-            name: "LA 103.5",
-            logo: "stations/images-america/c2c/alexandria_la/LA 103.5.png",
-            url: "https://stream.aiir.com/by6zccomhrntv"
-        },
-        {
-            name: "105.5 The Fox",
-            logo: "stations/images-america/c2c/alexandria_la/105.5 The Fox.png",
-            url: "https://stream.aiir.com/u6pwedoukqztv"
-        },
-        {
-            name: "Sunny 106.9",
-            logo: "stations/images-america/c2c/alexandria_la/Sunny 106.9.png",
-            url: "https://stream.aiir.com/lr724f6o5v7vv"
         },
     ],
     "baton_rouge": [
