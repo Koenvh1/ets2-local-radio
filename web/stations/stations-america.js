@@ -729,7 +729,7 @@ var stations = {/*
         },
         {
             name: "Magic 99.5",
-            logo: "stations/images-america/albuquerque/Magic 99.5.png",
+            logo: "stations/images-america/albuquerque/Magic 99.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGAFMAAC_SC"
         },
         {
@@ -804,12 +804,12 @@ var stations = {/*
         },
         {
             name: "Fuzión 104.7",
-            logo: "stations/images-america/albuquerque/Fuzión 104.7.png",
+            logo: "stations/images-america/0_general_logos/Fuzíon.png",
             url: "https://emg.streamguys1.com/fuzion-website"
         },
         {
             name: "Mix 105.1",
-            logo: "stations/images-america/albuquerque/Mix 105.1.png",
+            logo: "stations/images-america/albuquerque/Mix 105.1_christmas.png",
             url: "https://live.amperwave.net/manifest/agmedia28-kkrgfmaac-ibc3"
         },
         {
@@ -872,7 +872,7 @@ var stations = {/*
         {
             name: "KAYT 88.1",
             logo: "stations/images-america/0_general_logos/KAYT.png",
-            url: "https://ice23.securenetsystems.net/KAYT"
+            url: "https://i2a.ncnr.io/kaytfm.heaacv2"
         },
         {
             name: "K-LOVE 89.9",
@@ -1157,7 +1157,7 @@ var stations = {/*
         },
         {
             name: "Mix 94.1",
-            logo: "stations/images-america/amarillo/Mix 94.1.png",
+            logo: "stations/images-america/amarillo/Mix 94.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kmxjfmaac-ibc3"
         },
         {
@@ -1747,7 +1747,7 @@ var stations = {/*
         },
         {
             name: "Majic 95.5",
-            logo: "stations/images-america/austin/Majic 95.5.png",
+            logo: "stations/images-america/austin/Majic 95.5_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkmjfmaac-imc"
         },
         {
@@ -2980,7 +2980,7 @@ var stations = {/*
         },
         {
             name: "95.5 Lite FM",
-            logo: "stations/images-america/billings/95.5 Lite FM.png",
+            logo: "stations/images-america/billings/95.5 Lite FM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kchhfmaac-ibc3"
         },
         {
@@ -7864,7 +7864,7 @@ var stations = {/*
         },
         {
             name: "104.1 EZ FM",
-            logo: "stations/images-america/des_moines/104.1 EZ FM.png",
+            logo: "stations/images-america/des_moines/104.1 EZ FM_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-koezfmaac-ibc1"
         },
         {
@@ -8702,7 +8702,7 @@ var stations = {/*
         },
         {
             name: "Z107.5",
-            logo: "stations/images-america/c2c/monroe_la/Z107.5.png",
+            logo: "stations/images-america/tyler/Z107.5.png",
             url: "https://ice7.securenetsystems.net/KXKZ"
         },
         {
@@ -9304,7 +9304,7 @@ var stations = {/*
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "https://www.ophanim.net:8444/s/8970"
         },
         {
@@ -11573,7 +11573,7 @@ var stations = {/*
         },
         {
             name: "KOOL 107.9",
-            logo: "stations/images-america/grand_junction_montrose/KOOL 107.9.png",
+            logo: "stations/images-america/grand_junction_montrose/KOOL 107.9_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kbklfmaac-ibc3"
         },
     ],
@@ -14364,7 +14364,7 @@ var stations = {/*
         },
         {
             name: "98.3 The Key",
-            logo: "stations/images-america/kennewick_pendleton/98.3 The Key.png",
+            logo: "stations/images-america/kennewick_pendleton/98.3 The Key_christmas.png",
             url: "https://live.amperwave.net/direct/townsquare-keywfmaac-ibc3"
         },
         {
@@ -16043,7 +16043,7 @@ var stations = {/*
         },
         {
             name: "B107.3",
-            logo: "stations/images-america/lincoln/B107.3.png",
+            logo: "stations/images-america/lincoln/B107.3_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBBKFMAAC_SC"
         },
         {
@@ -17129,7 +17129,7 @@ var stations = {/*
         },
         {
             name: "Fuzíon 97.7",
-            logo: "stations/images-america/tyler/Fuzíon 102.3.png",
+            logo: "stations/images-america/0_general_logos/Fuzíon.png",
             url: "https://emg.streamguys1.com/fuzion"
         },
         {
@@ -19252,7 +19252,7 @@ var stations = {/*
         },
         {
             name: "94.5 Mix FM",
-            logo: "stations/images-america/eugene/94.5 Mix FM.png",
+            logo: "stations/images-america/eugene/94.5 Mix FM_christmas.png",
             url: "https://www.ophanim.net:8444/s/8970"
         },
         {
@@ -21268,7 +21268,7 @@ var stations = {/*
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/st_george/Star 98.png",
+            logo: "stations/images-america/st_george/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
     ],
@@ -26150,7 +26150,7 @@ var stations = {/*
         },
         {
             name: "106.9 KRWM-HD2",
-            logo: "stations/images-america/seattle/Warm 106.9.png",
+            logo: "stations/images-america/seattle/Warm 106.9_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRWMXMASAAC_SC"
         },
         {
@@ -26292,7 +26292,7 @@ var stations = {/*
         },
         {
             name: "Mix 92.3",
-            logo: "stations/images-america/sedalia/Mix 92.3.png",
+            logo: "stations/images-america/sedalia/Mix 92.3_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-ksdlfmaac-ibc3"
         },
         {
@@ -26651,6 +26651,228 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/KVWM"
         },
     ],
+    "shreveport": [
+        {
+            name: "K-LOVE 88.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KVNE 89.1",
+            logo: "stations/images-america/shreveport/KVNE.png",
+            url: "https://emg.streamguys1.com/kvne-website"
+        },
+        {
+            name: "Red River Radio 89.9",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
+        },
+        {
+            name: "Red River Radio Classical 89.9-HD2",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC"
+        },
+        {
+            name: "Red River Radio NewsTalk 89.9-HD3",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
+        },
+        {
+            name: "Red River Radio Alt 89.9-HD4",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4_SC"
+        },
+        {
+            name: "Promise 90.7",
+            logo: "stations/images-america/shreveport/Promise 90.7.png",
+            url: "http://69.64.65.171:8192/kflofm2"
+        },
+        {
+            name: "Red River Radio Alt 91.3",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4_SC"
+        },
+        {
+            name: "afr Talk 91.7",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "Fuzíon 92.1",
+            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            url: "https://emg.streamguys1.com/fuzion"
+        },
+        {
+            name: "92.5 K223BI",
+            logo: "stations/images-america/0_general_logos/KAYT.png",
+            url: "https://i2a.ncnr.io/kaytfm.heaacv2"
+        },
+        {
+            name: "KOKA 93.3",
+            logo: "stations/images-america/shreveport/KOKA 93.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kokaamaac-ibc4"
+        },
+        {
+            name: "Kiss Country 93.7",
+            logo: "stations/images-america/shreveport/Kiss Country 93.7.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kxksfmaac-ibc3"
+        },
+        {
+            name: "Q94.1",
+            logo: "stations/images-america/shreveport/Q94.1.png",
+            url: "https://ice10.securenetsystems.net/KRLQ"
+        },
+        {
+            name: "K94.5",
+            logo: "stations/images-america/shreveport/K94.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kruffmaac-ibc3"
+        },
+        {
+            name: "KIOU 94.9",
+            logo: "stations/images-america/shreveport/KIOU.png",
+            url: "https://ice41.securenetsystems.net/KIOU"
+        },
+        {
+            name: "The River 95.7",
+            logo: "stations/images-america/shreveport/The River 95.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klklfmaac-ibc4"
+        },
+        {
+            name: "96.5 KVKI",
+            logo: "stations/images-america/shreveport/96.5 KVKI_christmas.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kvkifmaac-ibc3"
+        },
+        {
+            name: "96.9 K245BA",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "Q97.3",
+            logo: "stations/images-america/shreveport/Q97.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQHNFMAAC_SC"
+        },
+        {
+            name: "97.7 Da Heat",
+            logo: "stations/images-america/shreveport/97.7 Da Heat.png",
+            url: "https://listen.radioking.com/radio/706364/stream/771806"
+        },
+        {
+            name: "98 Rocks",
+            logo: "stations/images-america/texarkana/98 Rocks.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
+        },
+        {
+            name: "Highway 98.9",
+            logo: "stations/images-america/shreveport/Highway 98.9.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ktuxfmaac-ibc3"
+        },
+        {
+            name: "99.7 KMJJ",
+            logo: "stations/images-america/shreveport/99.7 KMJJ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJJFMAAC_SC"
+        },
+        {
+            name: "Lite Rock 100.7",
+            logo: "stations/images-america/shreveport/Lite Rock 100.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDAMAAC_SC"
+        },
+        {
+            name: "101.1 KRMD",
+            logo: "stations/images-america/shreveport/101.1 KRMD.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDFMAAC_SC"
+        },
+        {
+            name: "KEEL 101.7",
+            logo: "stations/images-america/shreveport/KEEL.png",
+            url: "https://live.amperwave.net/manifest/townsquare-keelamaac-ibc3"
+        },
+        {
+            name: "102.1 KDKS",
+            logo: "stations/images-america/shreveport/102.1 KDKS.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
+        },
+        {
+            name: "Magic 102.9",
+            logo: "stations/images-america/shreveport/Magic 102.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC"
+        },
+        {
+            name: "103.3 K277DO",
+            logo: "stations/images-america/shreveport/1130 The Tiger.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kwkhamaac-ibc3"
+        },
+        {
+            name: "103.7 Tha Beat",
+            logo: "stations/images-america/shreveport/103.7 Tha Beat.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbttfmaac-ibc4"
+        },
+        {
+            name: "KBEF 104.5",
+            logo: "stations/images-america/shreveport/KBEF 104.5.png",
+            url: "https://ice3.securenetsystems.net/KBEF"
+        },
+        {
+            name: "CSN Radio 105.5",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "KYKX 105.7",
+            logo: "stations/images-america/tyler/KYKX 105.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kykxfmaac-ibc4"
+        },
+        {
+            name: "Air1 106.7",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "Z107.5",
+            logo: "stations/images-america/tyler/Z107.5.png",
+            url: "https://ice7.securenetsystems.net/KXKZ"
+        },
+        {
+            name: "NOAA Weather Radio Shreveport",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/39769"
+        },
+        {
+            name: "KEEL 710",
+            logo: "stations/images-america/shreveport/KEEL.png",
+            url: "http://live.amperwave.net/manifest/townsquare-keelamaac-ibc3"
+        },
+        {
+            name: "KOKA 980",
+            logo: "stations/images-america/shreveport/KOKA 93.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kokaamaac-ibc4"
+        },
+        {
+            name: "The Bridge 1070",
+            logo: "stations/images-america/shreveport/The Bridge 1070.png",
+            url: "https://crystalout.surfernetwork.com:8001/KBCL_MP3"
+        },
+        {
+            name: "1130 The Tiger",
+            logo: "stations/images-america/shreveport/1130 The Tiger.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kwkhamaac-ibc3"
+        },
+        {
+            name: "AM 1240 KASO",
+            logo: "stations/images-america/shreveport/AM 1240 KASO.png",
+            url: "https://ice3.securenetsystems.net/KASO"
+        },
+        {
+            name: "KYSB 1300",
+            logo: "stations/images-america/shreveport/KYSB 1300.png",
+            url: "https://stream.surfernetwork.com/yurzac3ntb3tv"
+        },
+        {
+            name: "KIOU 1480",
+            logo: "stations/images-america/shreveport/KIOU.png",
+            url: "http://ice41.securenetsystems.net/KIOU"
+        },
+    ],
     "sidney_ne": [
         {
             name: "My Bridge Radio 88.7",
@@ -26910,7 +27132,7 @@ var stations = {/*
         },
         {
             name: "Fuzión 104.7",
-            logo: "stations/images-america/albuquerque/Fuzión 104.7.png",
+            logo: "stations/images-america/0_general_logos/Fuzíon.png",
             url: "https://emg.streamguys1.com/fuzion-website"
         },
         {
@@ -27228,12 +27450,12 @@ var stations = {/*
             name: "104.9 KEEH-HD2",
             logo: "stations/images-america/0_general_logos/LifeTalk Radio.png",
             url: "https://ais-sa1.streamon.fm/7013_64k.aac"
-        },/*
+        },
         {
             name: "104.9 KEEH-HD3",
             logo: "stations/images-america/spokane/Glisten.png",
             url: "https://streaming.live365.com/a66291"
-        },*/
+        },
         {
             name: "105.7 NOW FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
@@ -27248,6 +27470,16 @@ var stations = {/*
             name: "KOOL 107.1",
             logo: "stations/images-america/spokane/KOOL 107.1.png",
             url: "https://streaming.live365.com/a21180"
+        },
+        {
+            name: "Moody Radio 107.9",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMBIFMAAC_SC"
+        },
+        {
+            name: "107.9 KMBI-HD2",
+            logo: "stations/images-america/0_general_logos/Way FM_christmas.png",
+            url: "https://ais-sa8.cdnstream1.com/3160_64.aac"
         },
         {
             name: "590 KQNT",
@@ -27881,7 +28113,7 @@ var stations = {/*
         },
         {
             name: "Star 98",
-            logo: "stations/images-america/st_george/Star 98.png",
+            logo: "stations/images-america/st_george/Star 98_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-krecfmaac-ibc3"
         },
         {
@@ -29072,7 +29304,7 @@ var stations = {/*
         },
         {
             name: "Majic 107.7",
-            logo: "stations/images-america/topeka/Majic 107.7.png",
+            logo: "stations/images-america/topeka/Majic 107.7_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMAJFMAAC_SC"
         },
         {
@@ -29287,7 +29519,7 @@ var stations = {/*
         },
         {
             name: "94.9 MIXfm",
-            logo: "stations/images-america/tucson/94.9 MIXfm.png",
+            logo: "stations/images-america/tucson/94.9 MIXfm_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFMAAC_SC"
         },
         {
@@ -30018,7 +30250,7 @@ var stations = {/*
         },
         {
             name: "Fuzíon 102.3",
-            logo: "stations/images-america/tyler/Fuzíon 102.3.png",
+            logo: "stations/images-america/0_general_logos/Fuzíon.png",
             url: "https://emg.streamguys1.com/fuzion"
         },
         {
@@ -37537,7 +37769,7 @@ var stations = {/*
         },
         {
             name: "HITS 96.5",
-            logo: "stations/images-america/c2c/orlando_fl/HITS 96.5.png",
+            logo: "stations/images-america/c2c/orlando_fl/HITS 96.5_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/orl965/orl965-sgplayer-aac"
         },
         {
@@ -37839,7 +38071,7 @@ var stations = {/*
         },
         {
             name: "Coast 93.3",
-            logo: "stations/images-america/c2c/pensacola_fl/Coast 93.3.png",
+            logo: "stations/images-america/c2c/pensacola_fl/Coast 93.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNCVFMAAC_SC"
         },
         {
@@ -40764,7 +40996,7 @@ var stations = {/*
         },
         {
             name: "My 105.3",
-            logo: "stations/images-america/c2c/evansville_in/My 105.3.png",
+            logo: "stations/images-america/c2c/evansville_in/My 105.3_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wjltfmaac-ibc3"
         },
         {
@@ -42347,7 +42579,7 @@ var stations = {/*
         },
         {
             name: "92.9 The Lake",
-            logo: "stations/images-america/c2c/lake_charles_la/92.9 The Lake.png",
+            logo: "stations/images-america/c2c/lake_charles_la/92.9 The Lake_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-khlafmaac-ibc3"
         },
         {
@@ -42368,7 +42600,7 @@ var stations = {/*
         {
             name: "KAYT 100.1",
             logo: "stations/images-america/0_general_logos/KAYT.png",
-            url: "https://ice23.securenetsystems.net/KAYT"
+            url: "https://i2a.ncnr.io/kaytfm.heaacv2"
         },
         {
             name: "Rock 101",
@@ -42450,7 +42682,7 @@ var stations = {/*
         {
             name: "KAYT 98.9",
             logo: "stations/images-america/0_general_logos/KAYT.png",
-            url: "https://ice23.securenetsystems.net/KAYT"
+            url: "https://i2a.ncnr.io/kaytfm.heaacv2"
         },
         {
             name: "99.7 The Legend",
@@ -42494,7 +42726,7 @@ var stations = {/*
         },
         {
             name: "Z107.5",
-            logo: "stations/images-america/c2c/monroe_la/Z107.5.png",
+            logo: "stations/images-america/tyler/Z107.5.png",
             url: "https://ice7.securenetsystems.net/KXKZ"
         },
     ],
@@ -42725,178 +42957,6 @@ var stations = {/*
             name: "BIN 1280",
             logo: "stations/images-america/c2c/new_orleans_la/BIN 1280.png",
             url: "https://stream.revma.ihrhls.com/zc6223/hls.m3u8"
-        },
-    ],
-    "shreveport": [
-        {
-            name: "K-LOVE 88.5",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "Red River Radio 89.9",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
-        },
-        {
-            name: "Red River Radio Classical 89.9-HD2",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD2_SC"
-        },
-        {
-            name: "Red River Radio NewsTalk 89.9-HD3",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
-        },
-        {
-            name: "Red River Radio Alt 89.9-HD4",
-            logo: "stations/images-america/0_general_logos/Red River Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4_SC"
-        },
-        {
-            name: "Promise 90.7",
-            logo: "stations/images-america/c2c/shreveport_la/Promise 90.7.png",
-            url: "http://69.64.65.171:8192/kflofm2"
-        },
-        {
-            name: "afr Talk 91.7",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
-        },
-        {
-            name: "The Light 92.1",
-            logo: "stations/images-america/c2c/shreveport_la/The Light 92.1.png",
-            url: "http://69.64.65.171:8192/ksyr"
-        },
-        {
-            name: "KAYT 92.5",
-            logo: "stations/images-america/0_general_logos/KAYT.png",
-            url: "https://ice23.securenetsystems.net/KAYT"
-        },
-        {
-            name: "KOKA 93.3",
-            logo: "stations/images-america/c2c/shreveport_la/KOKA 93.3.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kokaamaac-ibc4"
-        },
-        {
-            name: "Kiss Country 93.7",
-            logo: "stations/images-america/c2c/shreveport_la/Kiss Country 93.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kxksfmaac-ibc3"
-        },
-        {
-            name: "Q94.1",
-            logo: "stations/images-america/c2c/shreveport_la/Q94.1.png",
-            url: "https://ice10.securenetsystems.net/KRLQ"
-        },
-        {
-            name: "K94.5",
-            logo: "stations/images-america/c2c/shreveport_la/K94.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kruffmaac-ibc3"
-        },
-        {
-            name: "94.9 K235CQ",
-            logo: "stations/images-america/c2c/shreveport_la/KIOU 1480.png",
-            url: "https://ice41.securenetsystems.net/KIOU"
-        },
-        {
-            name: "The River 95.7",
-            logo: "stations/images-america/c2c/shreveport_la/The River 95.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-klklfmaac-ibc4"
-        },
-        {
-            name: "96.5 KVKI",
-            logo: "stations/images-america/c2c/shreveport_la/96.5 KVKI.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kvkifmaac-ibc3"
-        },
-        {
-            name: "96.9 K245BA",
-            logo: "stations/images-america/0_general_logos/KHCB.png",
-            url: "https://khcb.streamguys1.com/live-128k-mp3"
-        },
-        {
-            name: "Q97.3",
-            logo: "stations/images-america/c2c/shreveport_la/Q97.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQHNFMAAC_SC"
-        },
-        {
-            name: "97.7 Da Heat",
-            logo: "stations/images-america/c2c/shreveport_la/97.7 Da Heat.png",
-            url: "https://listen.radioking.com/radio/374005/stream/424198"
-        },
-        {
-            name: "98 Rocks",
-            logo: "stations/images-america/texarkana/98 Rocks.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktalfmaac-ibc4"
-        },
-        {
-            name: "Highway 98.9",
-            logo: "stations/images-america/c2c/shreveport_la/Highway 98.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktuxfmaac-ibc3"
-        },
-        {
-            name: "99.7 KMJJ",
-            logo: "stations/images-america/c2c/shreveport_la/99.7 KMJJ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJJFMAAC_SC"
-        },
-        {
-            name: "Lite Rock 100.7",
-            logo: "stations/images-america/c2c/shreveport_la/Lite Rock 100.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDAMAAC_SC"
-        },
-        {
-            name: "101.1 KRMD",
-            logo: "stations/images-america/c2c/shreveport_la/101.1 KRMD.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMDFMAAC_SC"
-        },
-        {
-            name: "KEEL 101.7",
-            logo: "stations/images-america/c2c/shreveport_la/KEEL 101.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-keelamaac-ibc3"
-        },
-        {
-            name: "102.1 KDKS",
-            logo: "stations/images-america/c2c/shreveport_la/102.1 KDKS.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdksfmaac-ibc4"
-        },
-        {
-            name: "Magic 102.9",
-            logo: "stations/images-america/c2c/shreveport_la/Magic 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC"
-        },
-        {
-            name: "103.7 Tha Beat",
-            logo: "stations/images-america/c2c/shreveport_la/103.7 Tha Beat.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kbttfmaac-ibc4"
-        },
-        {
-            name: "KBEF 104.5",
-            logo: "stations/images-america/c2c/shreveport_la/KBEF 104.5.png",
-            url: "https://ice3.securenetsystems.net/KBEF"
-        },
-        {
-            name: "Air1 106.7",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "Z107.5",
-            logo: "stations/images-america/c2c/monroe_la/Z107.5.png",
-            url: "https://ice7.securenetsystems.net/KXKZ"
-        },
-        {
-            name: "NOAA Weather Radio Shreveport",
-            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/39769"
-        },
-        {
-            name: "The Bridge 1070",
-            logo: "stations/images-america/c2c/shreveport_la/The Bridge 1070.png",
-            url: "https://crystalout.surfernetwork.com:8001/KBCL_MP3"
-        },
-        {
-            name: "1130 The Tiger",
-            logo: "stations/images-america/c2c/shreveport_la/1130 The Tiger.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kwkhamaac-ibc3"
         },
     ],
     "augusta_me": [
@@ -43168,7 +43228,7 @@ var stations = {/*
         },
         {
             name: "94.9 HOM",
-            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM.png",
+            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
@@ -43522,7 +43582,7 @@ var stations = {/*
         },
         {
             name: "97.1 WASH-FM",
-            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM.png",
+            logo: "stations/images-america/c2c/washington_dc/97.1 WASH-FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2501/hls.m3u8"
         },
         {
@@ -43874,7 +43934,7 @@ var stations = {/*
         },
         {
             name: "Magic 106.7",
-            logo: "stations/images-america/c2c/boston_ma/Magic 106.7.png",
+            logo: "stations/images-america/c2c/boston_ma/Magic 106.7_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmjxfmaac-imc"
         },
         {
@@ -44330,7 +44390,7 @@ var stations = {/*
         },
         {
             name: "100.5 The River",
-            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/100.5 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wtrvfmaac-ibc3"
         },
         {
@@ -44462,7 +44522,7 @@ var stations = {/*
         },
         {
             name: "99.1 WFMK",
-            logo: "stations/images-america/c2c/lansing_mi/99.1 WFMK.png",
+            logo: "stations/images-america/c2c/lansing_mi/99.1 WFMK_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wfmkfmaac-ibc3"
         },
         {
@@ -44574,7 +44634,7 @@ var stations = {/*
         },
         {
             name: "Cars 108",
-            logo: "stations/images-america/c2c/flint_mi/Cars 108.png",
+            logo: "stations/images-america/c2c/flint_mi/Cars 108_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wcrzfmaac-ibc3"
         },
         {
@@ -45140,7 +45200,7 @@ var stations = {/*
     "rochester_y105": [
         {
             name: "Y105",
-            logo: "stations/images-america/c2c/rochester_mn/Y105.png",
+            logo: "stations/images-america/c2c/rochester_mn/Y105_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kybafmaac-ibc3"
         },
     ],
@@ -47278,7 +47338,7 @@ var stations = {/*
         },
         {
             name: "Star 99.1",
-            logo: "stations/images-america/c2c/nyc/Star 99.1.png",
+            logo: "stations/images-america/c2c/nyc/Star 99.1_christmas.png",
             url: "https://pillar.streamguys1.com/WAWZ-HD1"
         },
         {
@@ -47408,7 +47468,7 @@ var stations = {/*
         },
         {
             name: "106.7 Lite fm",
-            logo: "stations/images-america/c2c/nyc/106.7 Lite FM.png",
+            logo: "stations/images-america/c2c/nyc/106.7 Lite FM_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1477/hls.m3u8"
         },
         {
@@ -47604,7 +47664,7 @@ var stations = {/*
         },
         {
             name: "94.3 Lite FM",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/94.3 Lite FM.png",
+            logo: "stations/images-america/c2c/poughkeepsie_ny/94.3 Lite FM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wkxpfmaac-ibc3"
         },
         {
@@ -48260,7 +48320,7 @@ var stations = {/*
         },
         {
             name: "Lite 98.7",
-            logo: "stations/images-america/c2c/utica_ny/Lite 98.7.png",
+            logo: "stations/images-america/c2c/utica_ny/Lite 98.7_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wlzwfmaac-ibc3"
         },
         {
@@ -50055,7 +50115,7 @@ var stations = {/*
         },
         {
             name: "Warm 98.5",
-            logo: "stations/images-america/c2c/cincinnati_oh/Warm 98.5.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Warm 98.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC_SC"
         },
         {
@@ -50237,7 +50297,7 @@ var stations = {/*
         },
         {
             name: "Star 102",
-            logo: "stations/images-america/c2c/cleveland_oh/Star 102.png",
+            logo: "stations/images-america/c2c/cleveland_oh/Star 102_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wdokfmaac-imc"
         },
         {
@@ -52380,7 +52440,7 @@ var stations = {/*
         },
         {
             name: "94.5 3WS",
-            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS.png",
+            logo: "stations/images-america/c2c/pittsburgh_pa/94.5 3WS_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc2029/hls.m3u8"
         },
         {
@@ -52824,7 +52884,7 @@ var stations = {/*
         },
         {
             name: "Lite 105",
-            logo: "stations/images-america/c2c/providence_ri/Lite 105.png",
+            logo: "stations/images-america/c2c/providence_ri/Lite 105_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWLIFMAAC_SC"
         },
         {
@@ -54295,7 +54355,7 @@ var stations = {/*
         },
         {
             name: "98.5 WTFM",
-            logo: "stations/images-america/c2c/kingsport_tn/98.5 WTFM.png",
+            logo: "stations/images-america/c2c/kingsport_tn/98.5 WTFM_christmas.png",
             url: "http://ice66.securenetsystems.net/WTFM"
         },
         {
@@ -55190,7 +55250,7 @@ var stations = {/*
         },
         {
             name: "Today's 97.5",
-            logo: "stations/images-america/c2c/hagerstown_md/Today's 97.5.png",
+            logo: "stations/images-america/c2c/hagerstown_md/Today's 97.5_christmas.png",
             url: "https://live.amperwave.net/manifest/wvradio-wltffmaac-ibc2"
         },
         {
@@ -55297,7 +55357,7 @@ var stations = {/*
         },
         {
             name: "94.9 HOM",
-            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM.png",
+            logo: "stations/images-america/c2c/lebanon_nh/94.9 HOM_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-whomfmaac-ibc3"
         },
         {
@@ -56121,7 +56181,7 @@ var stations = {/*
         },
         {
             name: "Today's 97.5",
-            logo: "stations/images-america/c2c/hagerstown_md/Today's 97.5.png",
+            logo: "stations/images-america/c2c/hagerstown_md/Today's 97.5_christmas.png",
             url: "https://live.amperwave.net/manifest/wvradio-wltffmaac-ibc2"
         },
         {
@@ -56310,7 +56370,7 @@ var stations = {/*
         },
         {
             name: "V100",
-            logo: "stations/images-america/c2c/charleston_wv/V100.png",
+            logo: "stations/images-america/c2c/charleston_wv/V100_christmas.png",
             url: "https://live.amperwave.net/direct/wvradio-wvaffmaac-imc2"
         },
         {

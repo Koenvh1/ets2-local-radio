@@ -1925,6 +1925,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.8
     },
+    "shreveport": {
+        name: "shreveport",
+        name_english: "shreveport",
+        code: "us-la",
+        relative_radius: 0.8
+    },
     "sidney_ne": {
         name: "Sidney",
         name_english: "Sidney",
@@ -3495,6 +3501,9 @@ var city_properties = {
     },
     "show_low": {
         relative_whitenoise: 0.80
+    },
+    "shreveport": {
+        relative_whitenoise: 0.95
     },
     "sidney_ne": {
         relative_whitenoise: 0.95
@@ -6788,6 +6797,14 @@ var cities = [
         "z": "21330.9"
     },
     {
+        "gameName": "shreveport",
+        "realName": "Shreveport",
+        "country": "shreveport",
+        "x": "10027.9",
+        "y": "30.749",
+        "z": "35026.7"
+    },
+    {
         "gameName": "sidney_ne",
         "realName": "Sidney",
         "country": "sidney_ne",
@@ -9996,12 +10013,6 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 0.8
     },
-    "shreveport": {
-        name: "shreveport",
-        name_english: "shreveport",
-        code: "us-la",
-        relative_radius: 0.8
-    },
     "maine": {
         name: "maine",
         name_english: "maine",
@@ -10987,9 +10998,6 @@ var city_properties_c2c = {
     "new_orleans": {
         relative_whitenoise: 0.75
     },
-    "shreveport": {
-        relative_whitenoise: 0.85
-    },
     "augusta_me": {
         relative_whitenoise: 0.85
     },
@@ -11897,14 +11905,6 @@ var cities_c2c = [
         "x": "29456.7",
         "y": "112.188",
         "z": "50159.6"
-    },
-    {
-        "gameName": "shreveport",
-        "realName": "Shreveport",
-        "country": "shreveport",
-        "x": "10027.9",
-        "y": "30.749",
-        "z": "35026.7"
     },
     {
         "gameName": "augusta_me",
