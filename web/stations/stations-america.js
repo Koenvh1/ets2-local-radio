@@ -804,7 +804,7 @@ var stations = {/*
         },
         {
             name: "Fuzión 104.7",
-            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
             url: "https://emg.streamguys1.com/fuzion-website"
         },
         {
@@ -17128,8 +17128,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kafxfmaac-ibc3"
         },
         {
-            name: "Fuzíon 97.7",
-            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            name: "Fuzión 97.7",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
             url: "https://emg.streamguys1.com/fuzion"
         },
         {
@@ -26698,8 +26698,8 @@ var stations = {/*
             url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
-            name: "Fuzíon 92.1",
-            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            name: "Fuzión 92.1",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
             url: "https://emg.streamguys1.com/fuzion"
         },
         {
@@ -27132,7 +27132,7 @@ var stations = {/*
         },
         {
             name: "Fuzión 104.7",
-            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
             url: "https://emg.streamguys1.com/fuzion-website"
         },
         {
@@ -30249,8 +30249,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-knuefmaac-ibc3"
         },
         {
-            name: "Fuzíon 102.3",
-            logo: "stations/images-america/0_general_logos/Fuzíon.png",
+            name: "Fuzión 102.3",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
             url: "https://emg.streamguys1.com/fuzion"
         },
         {
