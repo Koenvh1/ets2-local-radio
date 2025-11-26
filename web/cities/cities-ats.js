@@ -1145,6 +1145,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "lake_charles": {
+        name: "lake_charles",
+        name_english: "lake_charles",
+        code: "us-la",
+        relative_radius: 0.7
+    },
     "lakeview": {
         name: "Lakeview",
         name_english: "Lakeview",
@@ -1445,6 +1451,12 @@ var country_properties = {
         code: "us-ca",
 		relative_radius: 0.7
     },
+    "monroe": {
+        name: "Monroe",
+        name_english: "Monroe",
+        code: "us-la",
+        relative_radius: 0.5
+    },
     "monterey": {
         name: "Monterey",
         name_english: "Monterey",
@@ -1468,6 +1480,12 @@ var country_properties = {
         name_english: "Mountain Home",
         code: "us-ar",
         relative_radius: 0.7
+    },
+    "natchitoches": {
+        name: "Natchitoches",
+        name_english: "Natchitoches",
+        code: "us-la",
+        relative_radius: 0.5
     },
     "needles": {
         name: "Needles",
@@ -3017,6 +3035,9 @@ var city_properties = {
     "klamath_f": {
         relative_whitenoise: 0.85
     },
+    "lake_charles": {
+        relative_whitenoise: 0.95
+    },
     "lakeview": {
         relative_whitenoise: 0.85
     },
@@ -3180,10 +3201,16 @@ var city_properties = {
     "mojave": {
         relative_whitenoise: 0.95
     },
+    "monroe": {
+        relative_whitenoise: 0.95
+    },
     "montpelier": {
         relative_whitenoise: 0.85
     },
     "mountain_home": {
+        relative_whitenoise: 0.95
+    },
+    "natchitoches": {
         relative_whitenoise: 0.95
     },
     "needles": {
@@ -5111,7 +5138,7 @@ var cities = [
     {
         "gameName": "hamburg_ar",
         "realName": "Hamburg",
-        "country": "monroe_la",
+        "country": "monroe",
         "x": "19055.1",
         "y": "29.9327",
         "z": "33363.9"
@@ -5491,6 +5518,14 @@ var cities = [
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
+    },
+    {
+        "gameName": "lake_charles",
+        "realName": "Lake Charles",
+        "country": "lake_charles",
+        "x": "14587.6",
+        "y": "28.9116",
+        "z": "48573"
     },
     {
         "gameName": "lakeview",
@@ -5933,6 +5968,14 @@ var cities = [
         "z": "10744.1"
     },
     {
+        "gameName": "monroe",
+        "realName": "Monroe",
+        "country": "monroe",
+        "x": "18310.5",
+        "y": "34.1494",
+        "z": "35505.5"
+    },
+    {
         "gameName": "monterey",
         "realName": "Monterey",
         "country": "monterey",
@@ -5971,6 +6014,14 @@ var cities = [
         "x": "17033.3",
         "y": "125.211",
         "z": "14618.9"
+    },
+    {
+        "gameName": "natchitoches",
+        "realName": "Natchitoches",
+        "country": "natchitoches",
+        "x": "14267.8",
+        "y": "91.4961",
+        "z": "38305.5"
     },
     {
         "gameName": "needles",
@@ -9989,24 +10040,6 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 0.7
     },
-    "lake_charles": {
-        name: "lake_charles",
-        name_english: "lake_charles",
-        code: "us-la",
-        relative_radius: 0.7
-    },
-    "monroe_la": {
-        name: "Monroe",
-        name_english: "Monroe",
-        code: "us-la",
-        relative_radius: 0.5
-    },
-    "natchitoches_la": {
-        name: "Natchitoches",
-        name_english: "Natchitoches",
-        code: "us-la",
-        relative_radius: 0.5
-    },
     "new_orleans": {
         name: "new_orleans",
         name_english: "new_orleans",
@@ -10986,15 +11019,6 @@ var city_properties_c2c = {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
-    "lake_charles": {
-        relative_whitenoise: 0.95
-    },
-    "monroe_la": {
-        relative_whitenoise: 0.95
-    },
-    "natchitoches_la": {
-        relative_whitenoise: 0.85
-    },
     "new_orleans": {
         relative_whitenoise: 0.75
     },
@@ -11873,30 +11897,6 @@ var cities_c2c = [
         "x": "19753.2",
         "y": "25.4653",
         "z": "48213.6"
-    },
-    {
-        "gameName": "lake_charles",
-        "realName": "Lake Charles",
-        "country": "lake_charles",
-        "x": "14587.6",
-        "y": "28.9116",
-        "z": "48573"
-    },
-    {
-        "gameName": "monroe_la",
-        "realName": "Monroe",
-        "country": "monroe_la",
-        "x": "18310.5",
-        "y": "34.1494",
-        "z": "35505.5"
-    },
-    {
-        "gameName": "natchitoches_la",
-        "realName": "Natchitoches",
-        "country": "natchitoches_la",
-        "x": "14267.8",
-        "y": "91.4961",
-        "z": "38305.5"
     },
     {
         "gameName": "new_orleans",
