@@ -19132,7 +19132,7 @@ var stations = {/*
         },
         {
             name: "102.5 KCXB-LP",
-            logo: "stations/images-america/0_general_logos/102.5 KCXB-LP.png",
+            logo: "stations/images-america/monroe/102.5 KCXB-LP.png",
             url: "https://radio.truth.fm:8000/kcxb"
         },
         {
