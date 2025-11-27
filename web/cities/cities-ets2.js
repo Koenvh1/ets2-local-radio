@@ -2281,6 +2281,14 @@ var cities = [
         "z": "58465.1"
     },
     {
+        "gameName": "alesund",
+        "realName": "Ålesund",
+        "country": "norway",
+        "x": "-7676.78",
+        "y": "65",
+        "z": "-67160.3"
+    },
+    {
         "gameName": "algeciras",
         "realName": "Algeciras",
         "country": "spain",
@@ -2305,12 +2313,28 @@ var cities = [
         "z": "69261.1"
     },
     {
+        "gameName": "alta",
+        "realName": "Alta",
+        "country": "norway",
+        "x": "33622.6",
+        "y": "133.023",
+        "z": "-113314"
+    },
+    {
         "gameName": "amsterdam",
         "realName": "Amsterdam",
         "country": "netherlands",
         "x": "-18598.7",
         "y": "105.766",
         "z": "-11736.2"
+    },
+    {
+        "gameName": "andenes",
+        "realName": "Andenes",
+        "country": "norway",
+        "x": "19085.9",
+        "y": "57.0039",
+        "z": "-108481"
     },
     {
         "gameName": "andorra",
@@ -2367,6 +2391,14 @@ var cities = [
         "x": "-14732.1",
         "y": "78.0078",
         "z": "-8798.42"
+    },
+    {
+        "gameName": "arvidsjaur",
+        "realName": "Arvidsjaur",
+        "country": "sweden",
+        "x": "26476.8",
+        "y": "136.258",
+        "z": "-83892"
     },
     {
         "gameName": "athens",
@@ -2634,11 +2666,11 @@ var cities = [
     },
     {
         "gameName": "bodo",
-        "realName": "Bodo",
+        "realName": "Bodø",
         "country": "norway",
-        "x": "15539.4",
-        "y": "40.8495",
-        "z": "-95389.6"
+        "x": "15050.1",
+        "y": "59.6094",
+        "z": "-93658.7"
     },
     {
         "gameName": "bologna",
@@ -2687,6 +2719,14 @@ var cities = [
         "x": "-89285.6",
         "y": "79.3555",
         "z": "-102462"
+    },
+    {
+        "gameName": "borlange",
+        "realName": "Borlänge",
+        "country": "sweden",
+        "x": "17542.5",
+        "y": "65.9336",
+        "z": "-54327.3"
     },
     {
         "gameName": "bratislava",
@@ -3036,9 +3076,9 @@ var cities = [
         "gameName": "dombas",
         "realName": "Dombås",
         "country": "norway",
-        "x": "880.86",
-        "y": "9.25",
-        "z": "-64641.21"
+        "x": "-198.039",
+        "y": "120.781",
+        "z": "-64839.7"
     },
     {
         "gameName": "donostia",
@@ -3249,6 +3289,14 @@ var cities = [
         "z": "-69291.6"
     },
     {
+        "gameName": "falun",
+        "realName": "Falun",
+        "country": "sweden",
+        "x": "18558.2",
+        "y": "191.797",
+        "z": "-56060"
+    },
+    {
         "gameName": "fauske",
         "realName": "Fauske",
         "country": "norway",
@@ -3436,9 +3484,9 @@ var cities = [
         "gameName": "gavle",
         "realName": "Gävle",
         "country": "sweden",
-        "x": "23069.2",
-        "y": "64.2813",
-        "z": "-55929.9"
+        "x": "23433.9",
+        "y": "61.5156",
+        "z": "-56164.7"
     },
     {
         "gameName": "gdansk",
@@ -3604,9 +3652,9 @@ var cities = [
         "gameName": "hamar",
         "realName": "Hamar",
         "country": "norway",
-        "x": "5453.67",
-        "y": "0",
-        "z": "-57135.11"
+        "x": "5641.92",
+        "y": "50.6016",
+        "z": "-57373.8"
     },
     {
         "gameName": "hamburg",
@@ -3676,9 +3724,9 @@ var cities = [
         "gameName": "haparanda",
         "realName": "Haparanda",
         "country": "sweden",
-        "x": "37318.5",
-        "y": "100.352",
-        "z": "-86889.9"
+        "x": "37198.7",
+        "y": "55.7227",
+        "z": "-86732.9"
     },
     {
         "gameName": "heilbronn",
@@ -3801,6 +3849,14 @@ var cities = [
         "z": "-30171"
     },
     {
+        "gameName": "honningsvag",
+        "realName": "Honningsvåg",
+        "country": "norway",
+        "x": "37581.6",
+        "y": "65.207",
+        "z": "-119980"
+    },
+    {
         "gameName": "huelva",
         "realName": "Huelva",
         "country": "spain",
@@ -3897,6 +3953,14 @@ var cities = [
         "z": "-111213"
     },
     {
+        "gameName": "ivalo",
+        "realName": "Ivalo",
+        "country": "finland",
+        "x": "43279.4",
+        "y": "62.9805",
+        "z": "-104649"
+    },
+    {
         "gameName": "jekabpils",
         "realName": "Jēkabpils",
         "country": "latvia",
@@ -3908,9 +3972,9 @@ var cities = [
         "gameName": "joensuu",
         "realName": "Joensuu",
         "country": "finland",
-        "x": "54766.7",
-        "y": "112",
-        "z": "-70556.7"
+        "x": "55432.7",
+        "y": "81.7617",
+        "z": "-72269.4"
     },
     {
         "gameName": "jonkoping",
@@ -3940,9 +4004,17 @@ var cities = [
         "gameName": "jyvaskyla",
         "realName": "Jyväskylä",
         "country": "finland",
-        "x": "44157.5",
-        "y": "113.934",
-        "z": "-67111.2"
+        "x": "44465.3",
+        "y": "51.3516",
+        "z": "-67197.3"
+    },
+    {
+        "gameName": "kajaani",
+        "realName": "Kajaani",
+        "country": "finland",
+        "x": "48135.2",
+        "y": "65",
+        "z": "-79059.1"
     },
     {
         "gameName": "kalamata",
@@ -3975,6 +4047,14 @@ var cities = [
         "x": "39138",
         "y": "58.2266",
         "z": "-47985.5"
+    },
+    {
+        "gameName": "karesuando",
+        "realName": "Karesuando",
+        "country": "sweden",
+        "x": "32105.3",
+        "y": "134.977",
+        "z": "-102648"
     },
     {
         "gameName": "karlskrona",
@@ -4113,6 +4193,14 @@ var cities = [
         "z": "-68910.3"
     },
     {
+        "gameName": "kiruna",
+        "realName": "Kiruna",
+        "country": "sweden",
+        "x": "27489.6",
+        "y": "98.2852",
+        "z": "-98263.8"
+    },
+    {
         "gameName": "klagenfurt",
         "realName": "Klagenfurt am Wörthersee",
         "country": "austria",
@@ -4164,9 +4252,9 @@ var cities = [
         "gameName": "kokkola",
         "realName": "Kokkola",
         "country": "finland",
-        "x": "36840.59",
-        "y": "63",
-        "z": "-75249.69"
+        "x": "36959.3",
+        "y": "51.3516",
+        "z": "-74942.5"
     },
     {
         "gameName": "kolding",
@@ -4257,6 +4345,14 @@ var cities = [
         "z": "-42891.5"
     },
     {
+        "gameName": "kristiansund",
+        "realName": "Kristiansund",
+        "country": "norway",
+        "x": "-2971.11",
+        "y": "63.2852",
+        "z": "-70355.2"
+    },
+    {
         "gameName": "kristianstad",
         "realName": "Kristianstad",
         "country": "sweden",
@@ -4284,9 +4380,9 @@ var cities = [
         "gameName": "kuopio",
         "realName": "Kuopio",
         "country": "finland",
-        "x": "48984.6",
-        "y": "106.898",
-        "z": "-72219.8"
+        "x": "49162",
+        "y": "55",
+        "z": "-71794"
     },
     {
         "gameName": "kuressaare",
@@ -4297,6 +4393,14 @@ var cities = [
         "z": "-43361"
     },
     {
+        "gameName": "kuusamo",
+        "realName": "Kuusamo",
+        "country": "finland",
+        "x": "49211.8",
+        "y": "80.0586",
+        "z": "-89679.4"
+    },
+    {
         "gameName": "lamia",
         "realName": "Λαμία",
         "country": "greece_ert",
@@ -4313,6 +4417,14 @@ var cities = [
         "z": "65483.1"
     },
     {
+        "gameName": "lappeenranta",
+        "realName": "Lappeenranta",
+        "country": "finland",
+        "x": "52720.7",
+        "y": "54",
+        "z": "-63232.1"
+    },
+    {
         "gameName": "larissa",
         "realName": "Λάρισα",
         "country": "greece_ert",
@@ -4327,6 +4439,14 @@ var cities = [
         "x": "50113.6",
         "y": "87.3086",
         "z": "62125.7"
+    },
+    {
+        "gameName": "lillehammer",
+        "realName": "Lillehammer",
+        "country": "norway",
+        "x": "4467.21",
+        "y": "71.8516",
+        "z": "-59136.1"
     },
     {
         "gameName": "lleida",
@@ -4513,6 +4633,14 @@ var cities = [
         "z": "-3967.52"
     },
     {
+        "gameName": "lulea",
+        "realName": "Luleå",
+        "country": "sweden",
+        "x": "32862.3",
+        "y": "55.1406",
+        "z": "-85239"
+    },
+    {
         "gameName": "luxembourg",
         "realName": "Luxembourg",
         "country": "luxembourg",
@@ -4668,9 +4796,9 @@ var cities = [
         "gameName": "mikkeli",
         "realName": "Mikkeli",
         "country": "finland",
-        "x": "49304.6",
-        "y": "111.875",
-        "z": "-65111"
+        "x": "49501.3",
+        "y": "53.6992",
+        "z": "-64918.8"
     },
     {
         "gameName": "milano",
@@ -4700,9 +4828,9 @@ var cities = [
         "gameName": "mo_i_rana",
         "realName": "Mo i Rana",
         "country": "norway",
-        "x": "15130.6",
-        "y": "42.8664",
-        "z": "-89632.2"
+        "x": "14312.2",
+        "y": "101.129",
+        "z": "-87673.5"
     },
     {
         "gameName": "mosjoen",
@@ -4751,6 +4879,14 @@ var cities = [
         "x": "-33667",
         "y": "55.7969",
         "z": "38783.3"
+    },
+    {
+        "gameName": "narvik",
+        "realName": "Narvik",
+        "country": "norway",
+        "x": "21320.7",
+        "y": "106.969",
+        "z": "-100873"
     },
     {
         "gameName": "newcastle",
@@ -4900,9 +5036,9 @@ var cities = [
         "gameName": "ornskoldsvik",
         "realName": "Örnsköldsvik",
         "country": "sweden",
-        "x": "26265.7",
-        "y": "56.7734",
-        "z": "-71104.9"
+        "x": "25702.1",
+        "y": "70.6797",
+        "z": "-70706"
     },
     {
         "gameName": "oslo",
@@ -4937,20 +5073,20 @@ var cities = [
         "z": "-9841.73"
     },
     {
+        "gameName": "ostersund",
+        "realName": "Östersund",
+        "country": "sweden",
+        "x": "15249.6",
+        "y": "83.3516",
+        "z": "-70178.2"
+    },
+    {
         "gameName": "ostrava",
         "realName": "Ostrava",
         "country": "czech",
         "x": "28231.9",
         "y": "125.836",
         "z": "5136.1"
-    },
-    {
-        "gameName": "ostersund",
-        "realName": "Östersund",
-        "country": "sweden",
-        "x": "15266.24",
-        "y": "0",
-        "z": "-70243.28"
     },
     {
         "gameName": "ostroleka",
@@ -4980,9 +5116,9 @@ var cities = [
         "gameName": "oulu",
         "realName": "Oulu",
         "country": "finland",
-        "x": "40906.9",
-        "y": "98",
-        "z": "-81971.1"
+        "x": "41759.8",
+        "y": "52",
+        "z": "-82463.4"
     },
     {
         "gameName": "padborg",
@@ -5292,9 +5428,9 @@ var cities = [
         "gameName": "rovaniemi",
         "realName": "Rovaniemi",
         "country": "finland",
-        "x": "41044.7",
-        "y": "139.375",
-        "z": "-91216.5"
+        "x": "39885",
+        "y": "63.6484",
+        "z": "-90311.4"
     },
     {
         "gameName": "rzeszow",
@@ -5401,6 +5537,14 @@ var cities = [
         "z": "-9261.17"
     },
     {
+        "gameName": "skelleftea",
+        "realName": "Skellefteå",
+        "country": "sweden",
+        "x": "29890",
+        "y": "64.6875",
+        "z": "-80715.1"
+    },
+    {
         "gameName": "sligo",
         "realName": "Sligo (Sligeach)",
         "country": "ireland",
@@ -5447,6 +5591,14 @@ var cities = [
         "x": "-10553.7",
         "y": "62.6094",
         "z": "-48126.8"
+    },
+    {
+        "gameName": "steinkjer",
+        "realName": "Steinkjer",
+        "country": "norway",
+        "x": "6718.09",
+        "y": "68.3086",
+        "z": "-75178.3"
     },
     {
         "gameName": "sthelier",
@@ -5540,9 +5692,9 @@ var cities = [
         "gameName": "sundsvall",
         "realName": "Sundsvall",
         "country": "sweden",
-        "x": "21950.3",
-        "y": "84",
-        "z": "-65749.8"
+        "x": "22379.4",
+        "y": "64.043",
+        "z": "-65796.6"
     },
     {
         "gameName": "suwalki",
@@ -5551,6 +5703,14 @@ var cities = [
         "x": "43448.6",
         "y": "118.813",
         "z": "-21045.2"
+    },
+    {
+        "gameName": "svolvaer",
+        "realName": "Svolvær",
+        "country": "norway",
+        "x": "13393.7",
+        "y": "110.973",
+        "z": "-100028"
     },
     {
         "gameName": "swansea",
@@ -5652,9 +5812,9 @@ var cities = [
         "gameName": "tornio",
         "realName": "Tornio",
         "country": "finland",
-        "x": "37743.5",
-        "y": "100.512",
-        "z": "-86984.2"
+        "x": "38089.9",
+        "y": "55.7227",
+        "z": "-86729.5"
     },
     {
         "gameName": "torshavn",
@@ -5705,12 +5865,20 @@ var cities = [
         "z": "1242.87"
     },
     {
+        "gameName": "tromso",
+        "realName": "Tromsø",
+        "country": "norway",
+        "x": "24516.7",
+        "y": "64.043",
+        "z": "-111251"
+    },
+    {
         "gameName": "trondheim",
         "realName": "Trondheim",
         "country": "norway",
-        "x": "4607.3",
-        "y": "-5.65",
-        "z": "-72584.71"
+        "x": "3550.63",
+        "y": "90.9375",
+        "z": "-72880.9"
     },
     {
         "gameName": "tukums",
@@ -5796,9 +5964,9 @@ var cities = [
         "gameName": "umea",
         "realName": "Umeå",
         "country": "sweden",
-        "x": "29337.1",
-        "y": "65.168",
-        "z": "-74712.2"
+        "x": "28991.3",
+        "y": "63.75",
+        "z": "-75080.6"
     },
     {
         "gameName": "uppsala",
@@ -5820,9 +5988,9 @@ var cities = [
         "gameName": "vaasa",
         "realName": "Vaasa",
         "country": "finland",
-        "x": "33342.8",
-        "y": "110.332",
-        "z": "-70726"
+        "x": "32998.3",
+        "y": "60",
+        "z": "-71017"
     },
     {
         "gameName": "vaduz",
@@ -12951,7 +13119,6 @@ var cities_yksrsk = [
         "z": "45170.6"
     }
 ];
-
 
 var cities_roextended_turkey = [
     {

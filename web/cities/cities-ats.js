@@ -1145,9 +1145,15 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "lafayette_la": {
+        name: "Lafayette",
+        name_english: "Lafayette",
+        code: "us-la",
+        relative_radius: 0.7
+    },
     "lake_charles": {
-        name: "lake_charles",
-        name_english: "lake_charles",
+        name: "Lake Charles",
+        name_english: "Lake Charles",
         code: "us-la",
         relative_radius: 0.7
     },
@@ -3034,6 +3040,10 @@ var city_properties = {
     },
     "klamath_f": {
         relative_whitenoise: 0.85
+    },
+    "lafayette_la": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
     },
     "lake_charles": {
         relative_whitenoise: 0.95
@@ -5518,6 +5528,22 @@ var cities = [
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
+    },
+    {
+        "gameName": "lafayette_la",
+        "realName": "Lafayette",
+        "country": "lafayette_la",
+        "x": "19753.2",
+        "y": "25.4653",
+        "z": "48213.6"
+    },
+    {
+        "gameName": "lafayette_la",
+        "realName": "Lafayette",
+        "country": "baton_rouge",
+        "x": "19753.2",
+        "y": "25.4653",
+        "z": "48213.6"
     },
     {
         "gameName": "lake_charles",
@@ -10034,12 +10060,6 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 0.7
     },
-    "lafayette_la": {
-        name: "lafayette_la",
-        name_english: "lafayette_la",
-        code: "us-la",
-        relative_radius: 0.7
-    },
     "new_orleans": {
         name: "new_orleans",
         name_english: "new_orleans",
@@ -11015,10 +11035,6 @@ var city_properties_c2c = {
     "baton_rouge": {
         relative_whitenoise: 0.85
     },
-    "lafayette_la": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
     "new_orleans": {
         relative_whitenoise: 0.75
     },
@@ -11881,22 +11897,6 @@ var cities_c2c = [
         "x": "23112.9",
         "y": "41.9934",
         "z": "47069.5"
-    },
-    {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "lafayette_la",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
-    },
-    {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "baton_rouge",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
     },
     {
         "gameName": "new_orleans",

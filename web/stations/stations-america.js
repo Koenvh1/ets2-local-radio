@@ -166,7 +166,7 @@ var stations = {/*
         },
         {
             name: "92.1 K221BG",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
@@ -14090,7 +14090,7 @@ var stations = {/*
         },
         {
             name: "94.9 KCMO",
-            logo: "stations/images-america/kansas_city/94.9 KCMO.png",
+            logo: "stations/images-america/kansas_city/94.9 KCMO_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOFMAAC_SC"
         },
         {
@@ -14856,6 +14856,223 @@ var stations = {/*
             name: "1450 KFLS",
             logo: "stations/images-america/klamath_falls/102.5 KFLS.png",
             url: "http://ice10.securenetsystems.net/KFLS"
+        },
+    ],
+    "lafayette_la": [
+        {
+            name: "KRVS 88.7",
+            logo: "stations/images-america/lafayette_la/KRVS 88.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFMAAC_SC"
+        },
+        {
+            name: "KampusFM 88.7-HD2",
+            logo: "stations/images-america/lafayette_la/KampusFM 88.7-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAMPUS_FMAAC_SC"
+        },
+        {
+            name: "KRVS Context 88.7-HD3",
+            logo: "stations/images-america/lafayette_la/KRVS 88.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVS_HD3AAC_SC"
+        },
+        {
+            name: "Family Radio 89.1",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
+        },
+        {
+            name: "afr Talk 89.9",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "Christ Our King Radio 90.5",
+            logo: "stations/images-america/lafayette_la/Christ Our King Radio.png",
+            url: "https://ice6.securenetsystems.net/KLFT"
+        },
+        {
+            name: "K-LOVE 90.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "WHFG 91.3",
+            logo: "stations/images-america/lafayette_la/WHFG 91.3.png",
+            url: "https://primary.christianradiostreaming.org/whfg.mp3"
+        },
+        {
+            name: "SonLife Radio 91.9",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
+        },
+        {
+            name: "92.7 Jam Central",
+            logo: "stations/images-america/lafayette_la/92.7 Jam Central.png",
+            url: "https://ice42.securenetsystems.net/KZJM"
+        },
+        {
+            name: "93.1 The Viking",
+            logo: "stations/images-america/lafayette_la/93.1 The Viking.png",
+            url: "https://ice42.securenetsystems.net/VIKINGS"
+        },
+        {
+            name: "BBN 93.7",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "94.5 KSMB",
+            logo: "stations/images-america/lafayette_la/94.5 KSMB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSMBFMAAC_SC"
+        },
+        {
+            name: "Q95.5",
+            logo: "stations/images-america/lafayette_la/Q95.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRQFMAAC_SC"
+        },
+        {
+            name: "96.5 KPEL",
+            logo: "stations/images-america/lafayette_la/96.5 KPEL.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kpelfmaac-ibc3"
+        },
+        {
+            name: "97.3 The Dawg",
+            logo: "stations/images-america/lafayette_la/97.3 The Dawg.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kmdlfmaac-ibc3"
+        },
+        {
+            name: "97.7 MeTV FM",
+            logo: "stations/images-america/lafayette_la/97.7 MeTV FM.png",
+            url: "https://ice9.securenetsystems.net/KVOL"
+        },
+        {
+            name: "News Talk 98.5",
+            logo: "stations/images-america/lafayette_la/News Talk 98.5.png",
+            url: "https://ice9.securenetsystems.net/KFXZAM"
+        },
+        {
+            name: "99.1 KXKC",
+            logo: "stations/images-america/lafayette_la/99.1 KXKC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
+        },
+        {
+            name: "Christ Our King Radio 99.5",
+            logo: "stations/images-america/lafayette_la/Christ Our King Radio.png",
+            url: "http://ice6.securenetsystems.net/KLFT"
+        },
+        {
+            name: "99.9 KTDY",
+            logo: "stations/images-america/lafayette_la/99.9 KTDY.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ktdyfmaac-ibc3"
+        },
+        {
+            name: "KBON 101.1",
+            logo: "stations/images-america/lafayette_la/KBON 101.1.png",
+            url: "https://ice64.securenetsystems.net/KBON"
+        },
+        {
+            name: "BIG 102.1",
+            logo: "stations/images-america/lafayette_la/Big 102.1.png",
+            url: "https://ice42.securenetsystems.net/BIG"
+        },
+        {
+            name: "KAJN 102.9",
+            logo: "stations/images-america/lake_charles/KAJN 102.9.png",
+            url: "https://ice41.securenetsystems.net/KAJN"
+        },
+        {
+            name: "103.3 The Goat",
+            logo: "stations/images-america/lafayette_la/103.3 The Goat.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kpelamaac-ibc3"
+        },
+        {
+            name: "ESPN 103.7",
+            logo: "stations/images-america/lake_charles/ESPN 104.1.png",
+            url: "https://ice6.securenetsystems.net/KLWB"
+        },
+        {
+            name: "Emmanuel Radio 104.3",
+            logo: "stations/images-america/lafayette_la/Emmanuel Radio 104.3.png",
+            url: "https://ss.redradios.net:8010/stream"
+        },
+        {
+            name: "Magic 104.7",
+            logo: "stations/images-america/lafayette_la/Magic 104.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEKFMAAC_SC"
+        },
+        {
+            name: "Classic Rock 105.1",
+            logo: "stations/images-america/lafayette_la/Classic Rock 105.1.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kftefmaac-ibc3"
+        },
+        {
+            name: "Z105.9",
+            logo: "stations/images-america/lafayette_la/Z105.9.png",
+            url: "http://ice7.securenetsystems.net/KFXZ"
+        },
+        {
+            name: "106.3",
+            logo: "stations/images-america/lafayette_la/106.3.png",
+            url: "http://ice7.securenetsystems.net/KYMK"
+        },
+        {
+            name: "Planet Radio 106.7",
+            logo: "stations/images-america/lafayette_la/Planet Radio 106.7.png",
+            url: "https://streaming.live365.com/a47924"
+        },
+        {
+            name: "Mustang 107.1",
+            logo: "stations/images-america/lafayette_la/Mustang 107.1.png",
+            url: "http://ice6.securenetsystems.net/KOGM"
+        },
+        {
+            name: "HOT 107.9",
+            logo: "stations/images-america/lafayette_la/HOT 107.9.png",
+            url: "https://live.amperwave.net/manifest/townsquare-khxtfmaac-ibc3"
+        },
+        {
+            name: "WWL 870",
+            logo: "stations/images-america/c2c/new_orleans_la/WWL 105.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
+        },
+        {
+            name: "TalkRadio 960",
+            logo: "stations/images-america/lafayette_la/TalkRadio 960.png",
+            url: "https://live.amperwave.net/manifest/townsquare-krofamaac-ibc3"
+        },
+        {
+            name: "Christ Our King Radio 1230",
+            logo: "stations/images-america/lafayette_la/Christ Our King Radio.png",
+            url: "http:///ice6.securenetsystems.net/KLFT"
+        },
+        {
+            name: "KANE 1240",
+            logo: "stations/images-america/lafayette_la/KANE 1240.png",
+            url: "http://sc03.warpradio.com:8554/;"
+        },
+        {
+            name: "1330 MeTV FM",
+            logo: "stations/images-america/lafayette_la/97.7 MeTV FM.png",
+            url: "http://ice9.securenetsystems.net/KVOL"
+        },
+        {
+            name: "Radio Maria 1360",
+            logo: "stations/images-america/0_general_logos/Radio Maria.png",
+            url: "http://ice41.securenetsystems.net/KWDF"
+        },
+        {
+            name: "1420 KPEL",
+            logo: "stations/images-america/lafayette_la/96.5 KPEL.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kpelfmaac-ibc3"
+        },
+        {
+            name: "1450 KSIG",
+            logo: "stations/images-america/lafayette_la/Freedom 95.1.png",
+            url: "https://ice41.securenetsystems.net/KSIG1067"
+        },
+        {
+            name: "News Talk 1520",
+            logo: "stations/images-america/lafayette_la/News Talk 98.5.png",
+            url: "http://ice9.securenetsystems.net/KFXZAM"
         },
     ],
     "lake_charles": [
@@ -26481,7 +26698,7 @@ var stations = {/*
         },
         {
             name: "Spirit 105.3",
-            logo: "stations/images-america/seattle/Spirit 105.3.png",
+            logo: "stations/images-america/seattle/Spirit 105.3_christmas.png",
             url: "https://crista-kcms.streamguys1.com/kcmsmp3"
         },
         {
@@ -32139,7 +32356,7 @@ var stations = {/*
         },
         {
             name: "100.9 Cherry FM",
-            logo: "stations/images-america/yakima/100.9 Cherry FM.png",
+            logo: "stations/images-america/yakima/100.9 Cherry FM_christmas.png",
             url: "https://ice5.securenetsystems.net/KARY"
         },
         {
@@ -40451,7 +40668,7 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9.png",
+            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
         },
         {
@@ -41116,7 +41333,7 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9.png",
+            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
         },
         {
@@ -42002,7 +42219,7 @@ var stations = {/*
         },
         {
             name: "102.7 WBOW",
-            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW.png",
+            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOWFMAAC_SC"
         },
         {
@@ -42813,123 +43030,6 @@ var stations = {/*
             name: "Heaven 1460",
             logo: "stations/images-america/c2c/baton_rouge_la/Heaven 1460.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXOKAMAAC_SC"
-        },
-    ],
-    "lafayette_la": [
-        {
-            name: "KRVS 88.7",
-            logo: "stations/images-america/c2c/lafayette_la/KRVS 88.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRVSFM_SC"
-        },
-        {
-            name: "92.7 Jam Central",
-            logo: "stations/images-america/c2c/lafayette_la/92.7 Jam Central.png",
-            url: "https://ice42.securenetsystems.net/KZJM"
-        },
-        {
-            name: "94.5 KSMB",
-            logo: "stations/images-america/c2c/lafayette_la/94.5 KSMB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSMBFMAAC_SC"
-        },
-        {
-            name: "Freedom 95.1",
-            logo: "stations/images-america/c2c/lafayette_la/Freedom 95.1.png",
-            url: "https://ice41.securenetsystems.net/KSIG1067"
-        },
-        {
-            name: "Q95.5",
-            logo: "stations/images-america/c2c/lafayette_la/Q95.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRQFMAAC_SC"
-        },
-        {
-            name: "96.5 KPEL",
-            logo: "stations/images-america/c2c/lafayette_la/96.5 KPEL.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kpelfmaac-ibc3"
-        },
-        {
-            name: "97.3 The Dawg",
-            logo: "stations/images-america/c2c/lafayette_la/97.3 The Dawg.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kmdlfmaac-ibc3"
-        },
-        {
-            name: "97.7 MeTV FM",
-            logo: "stations/images-america/c2c/lafayette_la/97.7 MeTV FM.png",
-            url: "https://ice9.securenetsystems.net/KVOL"
-        },
-        {
-            name: "News Talk 98.5",
-            logo: "stations/images-america/c2c/lafayette_la/News Talk 98.5.png",
-            url: "https://ice9.securenetsystems.net/KFXZAM"
-        },
-        {
-            name: "99.1 KXKC",
-            logo: "stations/images-america/c2c/lafayette_la/99.1 KXKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
-        },
-        {
-            name: "99.9 KTDY",
-            logo: "stations/images-america/c2c/lafayette_la/99.9 KTDY.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktdyfmaac-ibc3"
-        },
-        {
-            name: "BIG 102.1",
-            logo: "stations/images-america/c2c/lafayette_la/Big 102.1.png",
-            url: "https://ice42.securenetsystems.net/BIG"
-        },
-        {
-            name: "103.3 The Goat",
-            logo: "stations/images-america/c2c/lafayette_la/103.3 The Goat.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kpelamaac-ibc3"
-        },
-        {
-            name: "103.7 The Game",
-            logo: "stations/images-america/c2c/lafayette_la/103.7 The Game.png",
-            url: "http://ice6.securenetsystems.net/KLWB"
-        },
-        {
-            name: "Magic 104.7",
-            logo: "stations/images-america/c2c/lafayette_la/Magic 104.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNEKFMAAC_SC"
-        },
-        {
-            name: "Classic Rock 105.1",
-            logo: "stations/images-america/c2c/lafayette_la/Classic Rock 105.1.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kftefmaac-ibc3"
-        },
-        {
-            name: "Z105.9",
-            logo: "stations/images-america/c2c/lafayette_la/Z105.9.png",
-            url: "http://ice7.securenetsystems.net/KFXZ"
-        },
-        {
-            name: "106Three",
-            logo: "stations/images-america/c2c/lafayette_la/106Three.png",
-            url: "http://ice7.securenetsystems.net/KYMK"
-        },
-        {
-            name: "Planet Radio 106.7",
-            logo: "stations/images-america/c2c/lafayette_la/Planet Radio 106.7.png",
-            url: "https://streaming.live365.com/a47924"
-        },
-        {
-            name: "Mustang 107.1",
-            logo: "stations/images-america/c2c/lafayette_la/Mustang 107.1.png",
-            url: "http://ice6.securenetsystems.net/KOGM"
-        },
-        {
-            name: "HOT 107.9",
-            logo: "stations/images-america/c2c/lafayette_la/HOT 107.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-khxtfmaac-ibc3"
-        },
-        {
-            name: "TalkRadio 960",
-            logo: "stations/images-america/c2c/lafayette_la/TalkRadio 960.png",
-            url: "https://live.amperwave.net/manifest/townsquare-krofamaac-ibc3"
-        },
-        {
-            name: "KANE 1240",
-            logo: "stations/images-america/c2c/lafayette_la/KANE 1240.png",
-            url: "http://sc03.warpradio.com:8554/;"
         },
     ],
     "new_orleans": [
@@ -44216,7 +44316,7 @@ var stations = {/*
         },
         {
             name: "94.7 WMAS",
-            logo: "stations/images-america/c2c/springfield_ma/94.7 WMAS.png",
+            logo: "stations/images-america/c2c/springfield_ma/94.7 WMAS_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmasfmaac-imc"
         },
         {
@@ -49680,7 +49780,7 @@ var stations = {/*
         },
         {
             name: "101.9 Jack FM",
-            logo: "stations/images-america/c2c/fargo_nd/101.9 Jack FM.png",
+            logo: "stations/images-america/c2c/fargo_nd/101.9 Jack FM_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRWKFMAAC_SC"
         },
         {
@@ -50218,7 +50318,7 @@ var stations = {/*
         },
         {
             name: "1590 WAKR",
-            logo: "stations/images-america/c2c/canton_oh/1590 WAKR.png",
+            logo: "stations/images-america/c2c/canton_oh/1590 WAKR_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC"
         },
     ],
@@ -54627,7 +54727,7 @@ var stations = {/*
         },
         {
             name: "B97.5",
-            logo: "stations/images-america/c2c/knoxville_tn/B97.5.png",
+            logo: "stations/images-america/c2c/knoxville_tn/B97.5_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJXBFMAAC_SC"
         },
         {
@@ -54864,7 +54964,7 @@ var stations = {/*
         },
         {
             name: "104.5 The River",
-            logo: "stations/images-america/c2c/memphis_tn/104.5 The River.png",
+            logo: "stations/images-america/c2c/memphis_tn/104.5 The River_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wrvrfmaac-imc"
         },
         {
@@ -57551,7 +57651,7 @@ var stations = {/*
         },
         {
             name: "Pure Oldies 106.9",
-            logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9.png",
+            logo: "stations/images-america/c2c/milwaukee_wi/Pure Oldies 106.9_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wrxsfmaac-ibc2"
         },
         {
