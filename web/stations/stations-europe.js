@@ -100,7 +100,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],*/
+    ],
     "halloween": [
         {
             name: "Halloween Radio",
@@ -172,7 +172,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],
+    ],*/
     "afghanistan": [
         {
             name: "Ariana FM",
@@ -2392,7 +2392,7 @@ var stations = {/*
         {
             name: "Aito Iskelmä",
             logo: "stations/images-europe/finland/Aito Iskelmä.png",
-            url: "https://ms-live-aitoiskelma.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Basso",
@@ -2402,12 +2402,12 @@ var stations = {/*
         {
             name: "Classic Hits",
             logo: "stations/images-europe/finland/Classic Hits.png",
-            url: "https://ms-live-classichits.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Easy Hits",
             logo: "stations/images-europe/finland/Easy Hits.png",
-            url: "https://ms-live-easyhits.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "ENERGY",
@@ -2417,12 +2417,12 @@ var stations = {/*
         {
             name: "Groove FM",
             logo: "stations/images-europe/finland/Groove FM.png",
-            url: "https://ms-live-groove.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "HitMix",
             logo: "stations/images-europe/finland/HitMix.png",
-            url: "https://ms-live-hitmix.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Iskelmä",
@@ -2442,7 +2442,7 @@ var stations = {/*
         {
             name: "Loop",
             logo: "stations/images-europe/finland/Loop.png",
-            url: "https://ms-live-loop.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "POPfm",
@@ -2487,12 +2487,12 @@ var stations = {/*
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "https://ms-live-radiorock.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
-            url: "https://ms-live-suomipop.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "SuomiRäp",

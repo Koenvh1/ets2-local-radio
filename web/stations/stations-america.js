@@ -85,7 +85,7 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
-    ],*/
+    ],
     "halloween": [
         {
             name: "iHeart Halloween Radio",
@@ -152,7 +152,7 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
-    ],
+    ],*/
     "aberdeen": [
         {
             name: "Air1 88.1",
@@ -52316,7 +52316,7 @@ var stations = {/*
         },
         {
             name: "93.7 WSTW",
-            logo: "stations/images-america/c2c/philadelphia_pa/93.7 WSTW.png",
+            logo: "stations/images-america/c2c/philadelphia_pa/93.7 WSTW_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7864_96k.aac"
         },
         {

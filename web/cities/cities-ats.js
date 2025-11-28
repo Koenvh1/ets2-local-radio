@@ -3042,7 +3042,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lafayette_la": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "lake_charles": {
@@ -5533,14 +5532,6 @@ var cities = [
         "gameName": "lafayette_la",
         "realName": "Lafayette",
         "country": "lafayette_la",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
-    },
-    {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "baton_rouge",
         "x": "19753.2",
         "y": "25.4653",
         "z": "48213.6"
