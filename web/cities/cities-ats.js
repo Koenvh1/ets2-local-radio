@@ -47,6 +47,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.9
     },
+    "alexandria_la": {
+        name: "Alexandria",
+        name_english: "Alexandria",
+        code: "us-la",
+        relative_radius: 0.8
+    },
     "algona": {
         name: "Algona",
         name_english: "Algona",
@@ -1139,6 +1145,18 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "lafayette_la": {
+        name: "Lafayette",
+        name_english: "Lafayette",
+        code: "us-la",
+        relative_radius: 0.7
+    },
+    "lake_charles": {
+        name: "Lake Charles",
+        name_english: "Lake Charles",
+        code: "us-la",
+        relative_radius: 0.7
+    },
     "lakeview": {
         name: "Lakeview",
         name_english: "Lakeview",
@@ -1439,6 +1457,12 @@ var country_properties = {
         code: "us-ca",
 		relative_radius: 0.7
     },
+    "monroe": {
+        name: "Monroe",
+        name_english: "Monroe",
+        code: "us-la",
+        relative_radius: 0.5
+    },
     "monterey": {
         name: "Monterey",
         name_english: "Monterey",
@@ -1462,6 +1486,12 @@ var country_properties = {
         name_english: "Mountain Home",
         code: "us-ar",
         relative_radius: 0.7
+    },
+    "natchitoches": {
+        name: "Natchitoches",
+        name_english: "Natchitoches",
+        code: "us-la",
+        relative_radius: 0.5
     },
     "needles": {
         name: "Needles",
@@ -1917,6 +1947,12 @@ var country_properties = {
         name: "Sheridan",
         name_english: "Sheridan",
         code: "us-wy",
+        relative_radius: 0.8
+    },
+    "shreveport": {
+        name: "shreveport",
+        name_english: "shreveport",
+        code: "us-la",
         relative_radius: 0.8
     },
     "sidney_ne": {
@@ -2384,6 +2420,9 @@ var city_properties = {
     "albuquerque_south": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.85
+    },
+    "alexandria_la": {
+        relative_whitenoise: 0.95
     },
     "algona": {
         relative_whitenoise: 0.95
@@ -3002,6 +3041,13 @@ var city_properties = {
     "klamath_f": {
         relative_whitenoise: 0.85
     },
+    "lafayette_la": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
+    "lake_charles": {
+        relative_whitenoise: 0.95
+    },
     "lakeview": {
         relative_whitenoise: 0.85
     },
@@ -3165,10 +3211,16 @@ var city_properties = {
     "mojave": {
         relative_whitenoise: 0.95
     },
+    "monroe": {
+        relative_whitenoise: 0.95
+    },
     "montpelier": {
         relative_whitenoise: 0.85
     },
     "mountain_home": {
+        relative_whitenoise: 0.95
+    },
+    "natchitoches": {
         relative_whitenoise: 0.95
     },
     "needles": {
@@ -3487,6 +3539,9 @@ var city_properties = {
     "show_low": {
         relative_whitenoise: 0.80
     },
+    "shreveport": {
+        relative_whitenoise: 0.95
+    },
     "sidney_ne": {
         relative_whitenoise: 0.95
     },
@@ -3737,6 +3792,14 @@ var cities = [
         "x": "-49704.4",
         "y": "80.0663",
         "z": "21583.7"
+    },
+    {
+        "gameName": "alexandria_la",
+        "realName": "Alexandria",
+        "country": "alexandria_la",
+        "x": "17350.1",
+        "y": "64.9961",
+        "z": "42386.1"
     },
     {
         "gameName": "algona",
@@ -5085,7 +5148,7 @@ var cities = [
     {
         "gameName": "hamburg_ar",
         "realName": "Hamburg",
-        "country": "monroe_la",
+        "country": "monroe",
         "x": "19055.1",
         "y": "29.9327",
         "z": "33363.9"
@@ -5465,6 +5528,30 @@ var cities = [
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
+    },
+    {
+        "gameName": "lafayette_la",
+        "realName": "Lafayette",
+        "country": "lafayette_la",
+        "x": "19753.2",
+        "y": "25.4653",
+        "z": "48213.6"
+    },
+    {
+        "gameName": "lafayette_la",
+        "realName": "Lafayette",
+        "country": "baton_rouge",
+        "x": "19753.2",
+        "y": "25.4653",
+        "z": "48213.6"
+    },
+    {
+        "gameName": "lake_charles",
+        "realName": "Lake Charles",
+        "country": "lake_charles",
+        "x": "14587.6",
+        "y": "28.9116",
+        "z": "48573"
     },
     {
         "gameName": "lakeview",
@@ -5907,6 +5994,14 @@ var cities = [
         "z": "10744.1"
     },
     {
+        "gameName": "monroe",
+        "realName": "Monroe",
+        "country": "monroe",
+        "x": "18310.5",
+        "y": "34.1494",
+        "z": "35505.5"
+    },
+    {
         "gameName": "monterey",
         "realName": "Monterey",
         "country": "monterey",
@@ -5945,6 +6040,14 @@ var cities = [
         "x": "17033.3",
         "y": "125.211",
         "z": "14618.9"
+    },
+    {
+        "gameName": "natchitoches",
+        "realName": "Natchitoches",
+        "country": "natchitoches",
+        "x": "14267.8",
+        "y": "91.4961",
+        "z": "38305.5"
     },
     {
         "gameName": "needles",
@@ -6769,6 +6872,14 @@ var cities = [
         "x": "-65151",
         "y": "102.9",
         "z": "21330.9"
+    },
+    {
+        "gameName": "shreveport",
+        "realName": "Shreveport",
+        "country": "shreveport",
+        "x": "10027.9",
+        "y": "30.749",
+        "z": "35026.7"
     },
     {
         "gameName": "sidney_ne",
@@ -9943,51 +10054,15 @@ var country_properties_c2c = {
         code: "us-la",
         relative_radius: 0.8
     },
-    "alexandria_la": {
-        name: "alexandria_la",
-        name_english: "alexandria_la",
-        code: "us-la",
-        relative_radius: 0.8
-    },
     "baton_rouge": {
         name: "baton_rouge",
         name_english: "baton_rouge",
         code: "us-la",
         relative_radius: 0.7
     },
-    "lafayette_la": {
-        name: "lafayette_la",
-        name_english: "lafayette_la",
-        code: "us-la",
-        relative_radius: 0.7
-    },
-    "lake_charles": {
-        name: "lake_charles",
-        name_english: "lake_charles",
-        code: "us-la",
-        relative_radius: 0.7
-    },
-    "monroe_la": {
-        name: "Monroe",
-        name_english: "Monroe",
-        code: "us-la",
-        relative_radius: 0.5
-    },
-    "natchitoches_la": {
-        name: "Natchitoches",
-        name_english: "Natchitoches",
-        code: "us-la",
-        relative_radius: 0.5
-    },
     "new_orleans": {
         name: "new_orleans",
         name_english: "new_orleans",
-        code: "us-la",
-        relative_radius: 0.8
-    },
-    "shreveport": {
-        name: "shreveport",
-        name_english: "shreveport",
         code: "us-la",
         relative_radius: 0.8
     },
@@ -10957,30 +11032,11 @@ var city_properties_c2c = {
     "paducah": {
         relative_whitenoise: 0.85
     },
-    "alexandria_la": {
-        relative_whitenoise: 0.85
-    },
     "baton_rouge": {
-        relative_whitenoise: 0.85
-    },
-    "lafayette_la": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.85
-    },
-    "lake_charles": {
-        relative_whitenoise: 0.95
-    },
-    "monroe_la": {
-        relative_whitenoise: 0.95
-    },
-    "natchitoches_la": {
         relative_whitenoise: 0.85
     },
     "new_orleans": {
         relative_whitenoise: 0.75
-    },
-    "shreveport": {
-        relative_whitenoise: 0.85
     },
     "augusta_me": {
         relative_whitenoise: 0.85
@@ -11835,14 +11891,6 @@ var cities_c2c = [
         "z": "9181.52"
     },
     {
-        "gameName": "alexandria_la",
-        "realName": "Alexandria",
-        "country": "alexandria_la",
-        "x": "17350.1",
-        "y": "64.9961",
-        "z": "42386.1"
-    },
-    {
         "gameName": "baton_rouge",
         "realName": "Baton Rouge",
         "country": "baton_rouge",
@@ -11851,60 +11899,12 @@ var cities_c2c = [
         "z": "47069.5"
     },
     {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "lafayette_la",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
-    },
-    {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "baton_rouge",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
-    },
-    {
-        "gameName": "lake_charles",
-        "realName": "Lake Charles",
-        "country": "lake_charles",
-        "x": "14587.6",
-        "y": "28.9116",
-        "z": "48573"
-    },
-    {
-        "gameName": "monroe_la",
-        "realName": "Monroe",
-        "country": "monroe_la",
-        "x": "18310.5",
-        "y": "34.1494",
-        "z": "35505.5"
-    },
-    {
-        "gameName": "natchitoches_la",
-        "realName": "Natchitoches",
-        "country": "natchitoches_la",
-        "x": "14267.8",
-        "y": "91.4961",
-        "z": "38305.5"
-    },
-    {
         "gameName": "new_orleans",
         "realName": "New Orleans",
         "country": "new_orleans",
         "x": "29456.7",
         "y": "112.188",
         "z": "50159.6"
-    },
-    {
-        "gameName": "shreveport",
-        "realName": "Shreveport",
-        "country": "shreveport",
-        "x": "10027.9",
-        "y": "30.749",
-        "z": "35026.7"
     },
     {
         "gameName": "augusta_me",
