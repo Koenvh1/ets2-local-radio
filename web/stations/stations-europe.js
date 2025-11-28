@@ -2356,6 +2356,11 @@ var stations = {/*
             url: "http://icecast.err.ee/raadiotallinn.mp3"
         },
         {
+            name: "Raadio X",
+            logo: "stations/images-europe/estonia/Raadio X.png",
+            url: "https://ice.leviracloud.eu/raadioX192-mp3"
+        },
+        {
             name: "Relax FM",
             logo: "stations/images-europe/estonia/Relax FM.png",
             url: "https://stream.relaxfm.ee/relax"
@@ -2462,7 +2467,7 @@ var stations = {/*
         {
             name: "Aito Iskelmä",
             logo: "stations/images-europe/finland/Aito Iskelmä.png",
-            url: "https://ms-live-aitoiskelma.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Basso",
@@ -2472,12 +2477,12 @@ var stations = {/*
         {
             name: "Classic Hits",
             logo: "stations/images-europe/finland/Classic Hits.png",
-            url: "https://ms-live-classichits.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Easy Hits",
             logo: "stations/images-europe/finland/Easy Hits.png",
-            url: "https://ms-live-easyhits.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "ENERGY",
@@ -2487,12 +2492,12 @@ var stations = {/*
         {
             name: "Groove FM",
             logo: "stations/images-europe/finland/Groove FM.png",
-            url: "https://ms-live-groove.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "HitMix",
             logo: "stations/images-europe/finland/HitMix.png",
-            url: "https://ms-live-hitmix.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Iskelmä",
@@ -2512,7 +2517,7 @@ var stations = {/*
         {
             name: "Loop",
             logo: "stations/images-europe/finland/Loop.png",
-            url: "https://ms-live-loop.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "POPfm",
@@ -2557,12 +2562,12 @@ var stations = {/*
         {
             name: "Radio Rock",
             logo: "stations/images-europe/finland/Radio Rock.png",
-            url: "https://ms-live-radiorock.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "Radio Suomipop",
             logo: "stations/images-europe/finland/Radio Suomipop.png",
-            url: "https://ms-live-suomipop.nm-elemental.nelonenmedia.fi/master.m3u8"
+            url: "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8"
         },
         {
             name: "SuomiRäp",
@@ -3945,6 +3950,11 @@ var stations = {/*
             name: "Radio BHeins",
             logo: "stations/images-europe/germany-rbb/Radio BHeins.png",
             url: "http://46.163.75.84:8000/;"
+        },
+        {
+            name: "Radio Bollerwagen",
+            logo: "stations/images-europe/germany-nds/Radio Bollerwagen.png",
+            url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
         },
         {
             name: "Radio Cottbus",
@@ -5749,6 +5759,11 @@ var stations = {/*
             url: "https://icecast.unitedradio.it/Radio105.mp3"
         },
         {
+            name: "Radio 105 Hits",
+            logo: "stations/images-europe/italy/Radio 105 Hits.png",
+            url: "https://icy.unitedradio.it/105Hits.mp3"
+        },
+        {
             name: "Radio 24",
             logo: "stations/images-europe/italy/Radio 24.png",
             url: "https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8"
@@ -5837,11 +5852,6 @@ var stations = {/*
             name: "Radio Sportiva",
             logo: "stations/images-europe/italy/Radio Sportiva.png",
             url: "https://sportiva.inmystream.it/stream/sportiva"
-        },
-        {
-            name: "Radio Subasio XL",
-            logo: "stations/images-europe/italy/Radio Subasio XL.png",
-            url: "https://icy.unitedradio.it/SubasioXL.mp3"
         },
         {
             name: "Radio Vaticana",
@@ -9042,8 +9052,8 @@ var stations = {/*
             url: "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3"
         },
         {
-            name: "RadioFr. Fresh",
-            logo: "stations/images-europe/switzerland-fr/RadioFr. Fresh.png",
+            name: "Radio Fresh",
+            logo: "stations/images-europe/switzerland-fr/Radio Fresh.png",
             url: "https://radiofresh.ice.infomaniak.ch/radiofresh.aac"
         },
         {

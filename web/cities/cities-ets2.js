@@ -921,6 +921,9 @@ var city_properties = {
     "artyk": {
         relative_radius: 1.7,
     },
+    "arvidsjaur": {
+        relative_radius: 1.2,
+    },
     "ashe": {
         relative_radius: 0.6,
     },
@@ -1338,9 +1341,6 @@ var city_properties = {
     "kaliningrad": {
         relative_radius: 0.45,
     },
-    "kalix": {
-        relative_radius: 0.45,
-    },
     "kamenomost": {
         relative_radius: 0.5,
     },
@@ -1364,6 +1364,9 @@ var city_properties = {
     },
     "kardla": {
         relative_radius: 0.6,
+    },
+    "karesuando": {
+        relative_radius: 1.15,
     },
     "karsamaki": {
         relative_radius: 0.55,
@@ -1665,9 +1668,6 @@ var city_properties = {
     },
     "oradea": {
         relative_radius: 0.5,
-    },
-    "ornskoldsvik": {
-        relative_radius: 0.6,
     },
     "orsk": {
         relative_radius: 0.6,
@@ -2024,9 +2024,6 @@ var city_properties = {
     },
     "ulanude": {
         relative_radius: 1.2,
-    },
-    "umea": {
-        relative_radius: 0.5,
     },
     "uppsala": {
         relative_radius: 1.4,
