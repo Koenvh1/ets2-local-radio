@@ -343,27 +343,32 @@ var stations = {/*
         {
             name: "Chaîne 1",
             logo: "stations/images-europe/algier/Chaîne 1.png",
-            url: "https://webradio.tda.dz/Chaine1_64K.mp3"
+            url: "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3"
         },
         {
             name: "Chaîne 2",
             logo: "stations/images-europe/algier/Chaîne 2.png",
-            url: "https://webradio.tda.dz/Chaine2_64K.mp3"
+            url: "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3"
         },
         {
             name: "Chaîne 3",
             logo: "stations/images-europe/algier/Chaîne 3.png",
-            url: "https://webradio.tda.dz/Chaine3_64K.mp3"
+            url: "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3"
+        },
+        {
+            name: "Jil FM",
+            logo: "stations/images-europe/algier/Jil FM.png",
+            url: "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3"
         },
         {
             name: "Radio Algérie Internationale",
             logo: "stations/images-europe/algier/Radio Algérie Internationale.png",
-            url: "https://webradio.tda.dz/Internationale_64K.mp3"
+            url: "https://radiointernationale.ice.infomaniak.ch/internationale.mp3"
         },
         {
             name: "Radio Coran",
             logo: "stations/images-europe/algier/Radio Coran.png",
-            url: "https://webradio.tda.dz/Coran_64K.mp3"
+            url: "https://radiocoran.ice.infomaniak.ch/coran.mp3"
         },
     ],
     "andorra": [
@@ -1248,7 +1253,7 @@ var stations = {/*
         {
             name: "RSG Radio",
             logo: "stations/images-europe/bosnia/RSG Radio.png",
-            url: "http://stream.rsg.ba:9000/;stream"
+            url: "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3"
         },
         {
             name: "RTRS",
@@ -2211,7 +2216,7 @@ var stations = {/*
         {
             name: "Mega FM",
             logo: "stations/images-europe/egypt/Mega FM.png",
-            url: "http://nebula.shoutca.st:8211/mp3"
+            url: "https://megafm927.radioca.st/stream"
         },
         {
             name: "Nagham FM",
@@ -4043,7 +4048,7 @@ var stations = {/*
         {
             name: "ENERGY Sachsen",
             logo: "stations/images-europe/germany/Energy.png",
-            url: "https://streaming.nrjaudio.fm/ouw8dwsk6j4d"
+            url: "https://streams-sachsen.energy.de/nrj-sachsen-live/mp3-192/homepage/"
         },
         {
             name: "Galaxy Sachsen",
@@ -6706,7 +6711,7 @@ var stations = {/*
         {
             name: "medi1",
             logo: "stations/images-europe/monaco/medi1.png",
-            url: "https://streaming1.medi1tv.com/radio/radio_mag.stream_aac/playlist.m3u8"
+            url: "https://cdn.live.easybroadcast.io/live/83_medi1radio-afrique_mh786kz/playlist.m3u8"
         },
         {
             name: "Radio Monaco",
@@ -8661,7 +8666,7 @@ var stations = {/*
         {
             name: "Radio Tentación 91.4",
             logo: "stations/images-europe/spain-madrid/Radio Tentación 91.4.png",
-            url: "http://88.26.228.190:8010/;"
+            url: "https://streaming6.locucionar.com:2020/stream/radiotentacion"
         },
         {
             name: "Master FM 93.7",
@@ -8676,7 +8681,7 @@ var stations = {/*
         {
             name: "Diversa Radio 96.7",
             logo: "stations/images-europe/spain-madrid/Diversa Radio 96.7.png",
-            url: "https://italia.101servicios.com:9060/stream"
+            url: "https://radio.lamejorfm.es/proxy/01user/stream"
         },
         {
             name: "TOP Radio 97.2",
@@ -8716,7 +8721,7 @@ var stations = {/*
         {
             name: "Únika FM 103.0",
             logo: "stations/images-europe/spain-madrid/Únika FM 103.0.png",
-            url: "https://stream.radiojar.com/7qyvpnex9vzuv"
+            url: "https://server1.easystreaming.pro:8443/unika"
         },
         {
             name: "Capital Radio 103.2",
