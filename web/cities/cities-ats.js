@@ -167,6 +167,18 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "baton_rouge": {
+        name: "Baton Rouge",
+        name_english: "Baton Rouge",
+        code: "us-la",
+        relative_radius: 0.9
+    },
+    "baton_rouge_lafayette": {
+        name: "Baton Rouge/Lafayette",
+        name_english: "Baton Rouge/Lafayette",
+        code: "us-la",
+        relative_radius: 0.9
+    },
     "beatrice": {
         name: "Beatrice",
         name_english: "Beatrice",
@@ -1149,7 +1161,7 @@ var country_properties = {
         name: "Lafayette",
         name_english: "Lafayette",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "lake_charles": {
         name: "Lake Charles",
@@ -1504,6 +1516,12 @@ var country_properties = {
         name_english: "Neodesha",
         code: "us-ks",
         relative_radius: 0.6
+    },
+    "new_orleans": {
+        name: "New Orleans",
+        name_english: "New Orleans",
+        code: "us-la",
+        relative_radius: 0.9
     },
     "newport": {
         name: "Newport",
@@ -2490,6 +2508,13 @@ var city_properties = {
         relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
+    "baton_rouge": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
+    "baton_rouge_lafayette": {
+        relative_whitenoise: 0.95
+    },
     "beatrice": {
         relative_radius: 0.4,
         relative_whitenoise: 0.95
@@ -3042,6 +3067,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lafayette_la": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "lake_charles": {
@@ -3227,6 +3253,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "neodesha": {
+        relative_whitenoise: 0.95
+    },
+    "new_orleans": {
         relative_whitenoise: 0.95
     },
     "newport": {
@@ -3983,6 +4012,30 @@ var cities = [
         "x": "-14995.5",
         "y": "52.6483",
         "z": "-20549"
+    },
+    {
+        "gameName": "baton_rouge",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge",
+        "x": "23112.9",
+        "y": "41.9934",
+        "z": "47069.5"
+    },
+    {
+        "gameName": "baton_rouge",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge_lafayette",
+        "x": "23112.9",
+        "y": "41.9934",
+        "z": "47069.5"
+    },
+    {
+        "gameName": "baton_rouge_lafayette",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge_lafayette",
+        "x": "23112.9",
+        "y": "41.9934",
+        "z": "47069.5"
     },
     {
         "gameName": "beatrice",
@@ -5537,6 +5590,14 @@ var cities = [
         "z": "48213.6"
     },
     {
+        "gameName": "lafayette_la",
+        "realName": "Lafayette",
+        "country": "baton_rouge_lafayette",
+        "x": "19753.2",
+        "y": "25.4653",
+        "z": "48213.6"
+    },
+    {
         "gameName": "lake_charles",
         "realName": "Lake Charles",
         "country": "lake_charles",
@@ -6063,6 +6124,14 @@ var cities = [
         "x": "1600.7",
         "y": "31.8317",
         "z": "9024.61"
+    },
+    {
+        "gameName": "new_orleans",
+        "realName": "New Orleans",
+        "country": "new_orleans",
+        "x": "29456.7",
+        "y": "112.188",
+        "z": "50159.6"
     },
     {
         "gameName": "newport",
@@ -10039,24 +10108,6 @@ var country_properties_c2c = {
         code: "us-ky",
         relative_radius: 0.7
     },
-    "louisiana": {
-        name: "louisiana",
-        name_english: "louisiana",
-        code: "us-la",
-        relative_radius: 0.8
-    },
-    "baton_rouge": {
-        name: "baton_rouge",
-        name_english: "baton_rouge",
-        code: "us-la",
-        relative_radius: 0.7
-    },
-    "new_orleans": {
-        name: "new_orleans",
-        name_english: "new_orleans",
-        code: "us-la",
-        relative_radius: 0.8
-    },
     "maine": {
         name: "maine",
         name_english: "maine",
@@ -11023,12 +11074,6 @@ var city_properties_c2c = {
     "paducah": {
         relative_whitenoise: 0.85
     },
-    "baton_rouge": {
-        relative_whitenoise: 0.85
-    },
-    "new_orleans": {
-        relative_whitenoise: 0.75
-    },
     "augusta_me": {
         relative_whitenoise: 0.85
     },
@@ -11880,14 +11925,6 @@ var cities_c2c = [
         "x": "35843.7",
         "y": "26.005",
         "z": "9181.52"
-    },
-    {
-        "gameName": "baton_rouge",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge",
-        "x": "23112.9",
-        "y": "41.9934",
-        "z": "47069.5"
     },
     {
         "gameName": "new_orleans",
