@@ -46400,7 +46400,7 @@ var stations = {/*
         },
         {
             name: "Max 94.1",
-            logo: "stations/images-america/c2c/mccomb_ms/Max 94.1.png",
+            logo: "stations/images-america/baton_rouge/Max 94.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WEMXFMAAC_SC"
         },
         {
