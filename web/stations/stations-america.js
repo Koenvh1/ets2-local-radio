@@ -211,7 +211,7 @@ var stations = {/*
         },
         {
             name: "Sunny 102.1",
-            logo: "stations/images-america/aberdeen/Sunny 102.1.png",
+            logo: "stations/images-america/aberdeen/Sunny 102.1_christmas.png",
             url: "https://stream1.noctel.com:7112/KSWW"
         },
         {
@@ -910,21 +910,6 @@ var stations = {/*
             url: "https://mediaserver3.afa.net/talk.mp4"
         },
         {
-            name: "Q93",
-            logo: "stations/images-america/alexandria_la/Q93.png",
-            url: "https://ice5.securenetsystems.net/KQID"
-        },
-        {
-            name: "93.1 KQID-HD2",
-            logo: "stations/images-america/alexandria_la/Magic 100.9.png",
-            url: "http://ice41.securenetsystems.net/KQIDHD2"
-        },
-        {
-            name: "93.1 KQID-HD3",
-            logo: "stations/images-america/alexandria_la/94.7 ESPN.png",
-            url: "http://ice9.securenetsystems.net/KDBS"
-        },
-        {
             name: "Mix 93.9",
             logo: "stations/images-america/alexandria_la/Mix 93.9.png",
             url: "https://ice41.securenetsystems.net/KMXH"
@@ -1043,6 +1028,13 @@ var stations = {/*
             name: "1410 ESPN",
             logo: "stations/images-america/alexandria_la/94.7 ESPN.png",
             url: "https:///ice9.securenetsystems.net/KDBS"
+        },
+    ],
+    "alexandria_q93": [
+        {
+            name: "Q93",
+            logo: "stations/images-america/alexandria_la/Q93.png",
+            url: "https://ice5.securenetsystems.net/KQID"
         },
     ],
     "algona": [
@@ -12040,7 +12032,7 @@ var stations = {/*
         },
         {
             name: "97.9 The River",
-            logo: "stations/images-america/greatfalls/97.9 The River.png",
+            logo: "stations/images-america/greatfalls/97.9 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
@@ -13289,7 +13281,7 @@ var stations = {/*
         },
         {
             name: "Classy 97",
-            logo: "stations/images-america/idaho_falls/Classy 97.png",
+            logo: "stations/images-america/idaho_falls/Classy 97_christmas.png",
             url: "https://ice10.securenetsystems.net/KLCE"
         },
         {
@@ -19553,7 +19545,7 @@ var stations = {/*
         },
         {
             name: "Sunny 98.3",
-            logo: "stations/images-america/monroe/Sunny 98.3.png",
+            logo: "stations/images-america/monroe/Sunny 98.3_christmas.png",
             url: "https://ice9.securenetsystems.net/KZRZ"
         },
         {
@@ -19742,7 +19734,7 @@ var stations = {/*
         },
         {
             name: "100.7 K264AD",
-            logo: "stations/images-america/idaho_falls/Classy 97.png",
+            logo: "stations/images-america/idaho_falls/Classy 97_christmas.png",
             url: "https://ice10.securenetsystems.net/KLCE"
         },
         {
@@ -22618,7 +22610,7 @@ var stations = {/*
         },
         {
             name: "97.1 Charlie",
-            logo: "stations/images-america/portland/97.1 Charlie.png",
+            logo: "stations/images-america/portland/97.1 Charlie_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kychfmaac-imc"
         },
         {
@@ -24217,6 +24209,38 @@ var stations = {/*
             name: "980 AM BOB FM",
             logo: "stations/images-america/russelville/97.1 BOB FM.png",
             url: "http://ais-sa8.cdnstream1.com/1689_64"
+        },
+    ],
+    "ruston": [
+        {
+            name: "afr Talk 88.3",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "89.1 KLPI",
+            logo: "stations/images-america/ruston/89.1 KLPI.png",
+            url: "http://138.47.83.60:8000/stream"
+        },
+        {
+            name: "Hitz 96.3",
+            logo: "stations/images-america/ruston/Hitz 96.3.png",
+            url: "https://ice42.securenetsystems.net/KRUS"
+        },
+        {
+            name: "KMLB 540",
+            logo: "stations/images-america/monroe/KMLB.png",
+            url: "http://ice66.securenetsystems.net/KMLB"
+        },
+        {
+            name: "KEEL 710",
+            logo: "stations/images-america/shreveport/KEEL.png",
+            url: "http://live.amperwave.net/manifest/townsquare-keelamaac-ibc3"
+        },
+        {
+            name: "1490 KRUS",
+            logo: "stations/images-america/ruston/Hitz 96.3.png",
+            url: "http://ice42.securenetsystems.net/KRUS"
         },
     ],
     "sac_city": [
@@ -27388,7 +27412,7 @@ var stations = {/*
         },
         {
             name: "97.9 The River",
-            logo: "stations/images-america/greatfalls/97.9 The River.png",
+            logo: "stations/images-america/greatfalls/97.9 The River_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kvvrfmaac-ibc3"
         },
         {
@@ -36682,7 +36706,7 @@ var stations = {/*
         },
         {
             name: "MIX 103.3",
-            logo: "stations/images-america/c2c/montgomery_al/MIX 103.3.png",
+            logo: "stations/images-america/c2c/montgomery_al/MIX 103.3_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMXSFMAAC_SC"
         },
         {
@@ -37260,7 +37284,7 @@ var stations = {/*
         },
         {
             name: "Sunny 107.9",
-            logo: "stations/images-america/c2c/port_saint_lucie_fl/Sunny 107.9.png",
+            logo: "stations/images-america/c2c/port_saint_lucie_fl/Sunny 107.9_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WEATFMAAC_SC"
         },
         {
@@ -49907,7 +49931,7 @@ var stations = {/*
         },
         {
             name: "106.9 The Eagle",
-            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle.png",
+            logo: "stations/images-america/c2c/fargo_nd/106.9 The Eagle_christmas.png",
             url: "http://ice9.securenetsystems.net/KEGK"
         },
         {
