@@ -915,7 +915,7 @@ var country_properties = {
         name: "Hamburg",
         name_english: "Hamburg",
         code: "us-ar",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "hannibal": {
         name: "Hannibal",
@@ -1485,7 +1485,7 @@ var country_properties = {
         name: "Monroe",
         name_english: "Monroe",
         code: "us-la",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "monterey": {
         name: "Monterey",
@@ -1881,7 +1881,7 @@ var country_properties = {
         name: "Ruston",
         name_english: "Ruston",
         code: "us-la",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "sac_city": {
         name: "Sac City",
@@ -1989,7 +1989,7 @@ var country_properties = {
         name: "shreveport",
         name_english: "shreveport",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "sidney_ne": {
         name: "Sidney",
@@ -7006,9 +7006,9 @@ var cities = [
         "gameName": "shreveport",
         "realName": "Shreveport",
         "country": "shreveport",
-        "x": "11357.6",
+        "x": "10357.6",
         "y": "56.293",
-        "z": "35496.8"
+        "z": "35396.8"
     },
     {
         "gameName": "sidney_ne",
