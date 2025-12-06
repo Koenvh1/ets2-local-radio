@@ -8878,7 +8878,7 @@ var stations = {/*
         },
         {
             name: "KGRM 91.5",
-            logo: "stations/images-america/el_dorado/KGRM 91.5.png",
+            logo: "stations/images-america/ruston/KGRM 91.5.png",
             url: "https://ice41.securenetsystems.net/KGRM"
         },
         {
@@ -8893,7 +8893,7 @@ var stations = {/*
         },
         {
             name: "SportsTalk 97.7",
-            logo: "stations/images-america/el_dorado/SportsTalk 97.7.png",
+            logo: "stations/images-america/ruston/SportsTalk 97.7.png",
             url: "https://ice7.securenetsystems.net/RDSPORTS"
         },
         {
@@ -8943,7 +8943,7 @@ var stations = {/*
         },
         {
             name: "Z107.5",
-            logo: "stations/images-america/tyler/Z107.5.png",
+            logo: "stations/images-america/ruston/Z107.5.png",
             url: "https://ice7.securenetsystems.net/KXKZ"
         },
         {
@@ -19484,11 +19484,6 @@ var stations = {/*
             url: "http://stream.kxul.com/listen"
         },
         {
-            name: "KGRM 91.5",
-            logo: "stations/images-america/monroe/KGRM 91.5.png",
-            url: "https://ice41.securenetsystems.net/KGRM"
-        },
-        {
             name: "afr Talk 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
             url: "https://mediaserver3.afa.net:8443/talk.mp4"
@@ -19514,11 +19509,6 @@ var stations = {/*
             url: "https://ice25.securenetsystems.net/KGGM"
         },
         {
-            name: "Q94.1",
-            logo: "stations/images-america/shreveport/Q94.1.png",
-            url: "https://ice10.securenetsystems.net/KRLQ"
-        },
-        {
             name: "The Breeze 95.3",
             logo: "stations/images-america/monroe/The Breeze 95.3.png",
             url: "http://45.31.15.87:88/broadwave.mp3"
@@ -19537,11 +19527,6 @@ var stations = {/*
             name: "97.3 Wink FM",
             logo: "stations/images-america/monroe/97.3 Wink FM_christmas.png",
             url: "https://ice25.securenetsystems.net/KJMG"
-        },
-        {
-            name: "SportsTalk 97.7",
-            logo: "stations/images-america/monroe/SportsTalk 97.7.png",
-            url: "https://ice7.securenetsystems.net/RDSPORTS"
         },
         {
             name: "Sunny 98.3",
@@ -19610,7 +19595,7 @@ var stations = {/*
         },
         {
             name: "Z107.5",
-            logo: "stations/images-america/tyler/Z107.5.png",
+            logo: "stations/images-america/ruston/Z107.5.png",
             url: "https://ice7.securenetsystems.net/KXKZ"
         },
         {
@@ -24223,9 +24208,59 @@ var stations = {/*
             url: "http://138.47.83.60:8000/stream"
         },
         {
+            name: "90.3 KEDM",
+            logo: "stations/images-america/monroe/90.3 KEDM.png",
+            url: "https://stream.kedm.org/listen"
+        },
+        {
+            name: "Red River Radio 90.7",
+            logo: "stations/images-america/0_general_logos/Red River Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQFM_SC"
+        },
+        {
+            name: "KGRM 91.5",
+            logo: "stations/images-america/ruston/KGRM 91.5.png",
+            url: "https://ice41.securenetsystems.net/KGRM"
+        },
+        {
+            name: "K-LOVE 93.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Q94.1",
+            logo: "stations/images-america/ruston/Q94.1.png",
+            url: "https://ice10.securenetsystems.net/KRLQ"
+        },
+        {
+            name: "94.7 K234AY",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
             name: "Hitz 96.3",
             logo: "stations/images-america/ruston/Hitz 96.3.png",
             url: "https://ice42.securenetsystems.net/KRUS"
+        },
+        {
+            name: "SportsTalk 97.7",
+            logo: "stations/images-america/ruston/SportsTalk 97.7.png",
+            url: "https://ice7.securenetsystems.net/RDSPORTS"
+        },
+        {
+            name: "99.3 The Peach",
+            logo: "stations/images-america/ruston/99.3 The Peach.png",
+            url: "https://ice7.securenetsystems.net/KPCH"
+        },
+        {
+            name: "KBNF 101.3",
+            logo: "stations/images-america/ruston/KBNF 101.3.png",
+            url: "https://ice41.securenetsystems.net/KBNF"
+        },
+        {
+            name: "Z107.5",
+            logo: "stations/images-america/ruston/Z107.5.png",
+            url: "https://ice7.securenetsystems.net/KXKZ"
         },
         {
             name: "KMLB 540",
@@ -27786,11 +27821,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxksfmaac-ibc3"
         },
         {
-            name: "Q94.1",
-            logo: "stations/images-america/shreveport/Q94.1.png",
-            url: "https://ice10.securenetsystems.net/KRLQ"
-        },
-        {
             name: "K94.5",
             logo: "stations/images-america/shreveport/K94.5.png",
             url: "https://live.amperwave.net/manifest/townsquare-kruffmaac-ibc3"
@@ -27894,11 +27924,6 @@ var stations = {/*
             name: "Air1 106.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "Z107.5",
-            logo: "stations/images-america/tyler/Z107.5.png",
-            url: "https://ice7.securenetsystems.net/KXKZ"
         },
         {
             name: "NOAA Weather Radio Shreveport",
