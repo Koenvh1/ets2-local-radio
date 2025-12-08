@@ -9479,7 +9479,7 @@ var stations = {/*
         {
             name: "740 KRMG",
             logo: "stations/images-america/tulsa/102.3 KRMG.png",
-            url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMGFMAAC_SC"
         },
         {
             name: "Bott Radio 800",
@@ -18198,7 +18198,7 @@ var stations = {/*
         {
             name: "740 KRMG",
             logo: "stations/images-america/tulsa/102.3 KRMG.png",
-            url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMGFMAAC_SC"
         },
         {
             name: "KETU 1120",
@@ -20770,7 +20770,7 @@ var stations = {/*
         {
             name: "740 KRMG",
             logo: "stations/images-america/tulsa/102.3 KRMG.png",
-            url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMGFMAAC_SC"
         },
         {
             name: "Bott Radio 800",
@@ -23566,7 +23566,7 @@ var stations = {/*
         },
         {
             name: "Sunny 106.9",
-            logo: "stations/images-america/reno/Sunny 106.9.png",
+            logo: "stations/images-america/reno/Sunny 106.9_christmas.png",
             url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KRNO"
         },
         {
@@ -30835,7 +30835,7 @@ var stations = {/*
         {
             name: "K95.5",
             logo: "stations/images-america/tulsa/K95.5.png",
-            url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/tul955/tul955-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWENFMAAC_SC"
         },
         {
             name: "95.5 KWEN-HD2",
@@ -30850,7 +30850,7 @@ var stations = {/*
         {
             name: "Mix 96.5",
             logo: "stations/images-america/tulsa/Mix 96.5.png",
-            url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/tul965/tul965-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRAVFMAAC_SC"
         },
         {
             name: "97.1 The Sports Animal",
@@ -30920,7 +30920,7 @@ var stations = {/*
         {
             name: "102.3 KRMG",
             logo: "stations/images-america/tulsa/102.3 KRMG.png",
-            url: "https://cmg.streamguys1.com/tul1023/tul1023-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRMGFMAAC_SC"
         },
         {
             name: "102.7 K274CX",
@@ -30930,7 +30930,7 @@ var stations = {/*
         {
             name: "103.3 The Eagle",
             logo: "stations/images-america/tulsa/103.3 The Eagle.png",
-            url: "http://84.32.44.251/index.php?u=https://cmg.streamguys1.com/tul1033/tul1033-sgplayer-aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJSRFMAAC_SC"
         },
         {
             name: "Z104.5 The Edge",

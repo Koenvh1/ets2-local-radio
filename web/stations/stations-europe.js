@@ -2430,6 +2430,11 @@ var stations = {/*
             url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
         },
         {
+            name: "Jouluradio",
+            logo: "stations/images-europe/finland/Jouluradio.png",
+            url: "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8"
+        },
+        {
             name: "Järviradio",
             logo: "stations/images-europe/finland/Järviradio.png",
             url: "https://jarviradio.radiotaajuus.fi:9000/jr"
