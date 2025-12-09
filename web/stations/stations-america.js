@@ -2589,7 +2589,7 @@ var stations = {/*
         {
             name: "640 KTIB",
             logo: "stations/images-america/new_orleans/La Calle 97.9.png",
-            url: "http://74.213.39.141:8000/stream.mp3"
+            url: "http://108.236.69.132:8000/lacallenola"
         },
         {
             name: "KGLA 830",
@@ -19049,6 +19049,11 @@ var stations = {/*
             url: "https://live.amperwave.net/direct/townsquare-kzoqfmaac-ibc3"
         },
         {
+            name: "102.5 Monk FM",
+            logo: "stations/images-america/missoula/102.5 Monk FM.png",
+            url: "https://stream.aiir.com/ecbh5tc8atdtv"
+        },
+        {
             name: "Trail 103.3",
             logo: "stations/images-america/missoula/Trail 103.3.png",
             url: "http://ice9.securenetsystems.net/KDTR"
@@ -20065,6 +20070,16 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1037/hls.m3u8"
         },
         {
+            name: "WXNO 93.7",
+            logo: "stations/images-america/new_orleans/WXNO 93.7.png",
+            url: "https://stream.zeno.fm/k73271vp538uv"
+        },
+        {
+            name: "93.9 WSLA",
+            logo: "stations/images-america/new_orleans/WSLA.png",
+            url: "https://listen.mixlr.com/10fe4f85e9ed49bbb6db0081cbde76a0"
+        },
+        {
             name: "WTIX 94.3",
             logo: "stations/images-america/new_orleans/WTIX 94.3.png",
             url: "http://hemnos.cdnstream.com/1427_64"
@@ -20085,6 +20100,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc5873/hls.m3u8"
         },
         {
+            name: "96.7 K244FX",
+            logo: "stations/images-america/new_orleans/BIN 1280.png",
+            url: "http://stream.revma.ihrhls.com/zc6223/hls.m3u8"
+        },
+        {
             name: "B97",
             logo: "stations/images-america/new_orleans/B97.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wezbfmaac-imc"
@@ -20095,9 +20115,14 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
         },
         {
+            name: "Latino Mix 97.5",
+            logo: "stations/images-america/new_orleans/Latino Mix 97.5.png",
+            url: "https://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream"
+        },
+        {
             name: "La Calle 97.9",
             logo: "stations/images-america/new_orleans/La Calle 97.9.png",
-            url: "http://74.213.39.141:8000/stream.mp3"
+            url: "http://108.236.69.132:8000/lacallenola"
         },
         {
             name: "98.5 WYLD",
@@ -20107,7 +20132,7 @@ var stations = {/*
         {
             name: "WXDR 99.1",
             logo: "stations/images-america/new_orleans/WXDR 99.1.png",
-            url: "http://mainstream.djcmedia.com/dolphinradiohigh"
+            url: "http://cast6.asurahosting.com/proxy/dolphin4/stream"
         },
         {
             name: "99.5 WRNO",
@@ -20180,9 +20205,34 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SC"
         },
         {
-            name: "106.7 The Ticket",
-            logo: "stations/images-america/new_orleans/106.7 The Ticket.png",
+            name: "The Ticket 106.7",
+            logo: "stations/images-america/new_orleans/The Ticket 106.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
+        },
+        {
+            name: "107.1 K296HM",
+            logo: "stations/images-america/new_orleans/WBOK 1230.png",
+            url: "http://ice42.securenetsystems.net/WBOK"
+        },
+        {
+            name: "K-LOVE 107.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "WVOG 600",
+            logo: "stations/images-america/new_orleans/WVOG.png",
+            url: "http://wwcr.gsradio.net:2367/;"
+        },
+        {
+            name: "640 KTIB",
+            logo: "stations/images-america/new_orleans/La Calle 97.9.png",
+            url: "http:///108.236.69.132:8000/lacallenola"
+        },
+        {
+            name: "690 WQNO",
+            logo: "stations/images-america/baton_rouge/Catholic Community Radio.png",
+            url: "https://ccr.streamguys1.com/batonrouge"
         },
         {
             name: "Sonshine 800",
@@ -20195,9 +20245,19 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wwlamaac-imc"
         },
         {
+            name: "Hallelujah 940",
+            logo: "stations/images-america/new_orleans/Hallelujah 940.png",
+            url: "https://stream.revma.ihrhls.com/zc3964/hls.m3u8"
+        },
+        {
             name: "WGSO 990",
             logo: "stations/images-america/new_orleans/WGSO 990.png",
             url: "https://streamingv2.shoutcast.com/wgso-990-am-new-orleans"
+        },
+        {
+            name: "Covenant Network 1010",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
         },
         {
             name: "WBOK 1230",
@@ -20208,6 +20268,21 @@ var stations = {/*
             name: "BIN 1280",
             logo: "stations/images-america/new_orleans/BIN 1280.png",
             url: "https://stream.revma.ihrhls.com/zc6223/hls.m3u8"
+        },
+        {
+            name: "The Bet 1350",
+            logo: "stations/images-america/new_orleans/The Bet 92.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wwwlamaac-imc"
+        },
+        {
+            name: "1540 WFNO",
+            logo: "stations/images-america/new_orleans/Latino Mix 97.5.png",
+            url: "http://radioserver11.profesionalhosting.com/proxy/pkg131317?mp=/stream"
+        },
+        {
+            name: "1560 WSLA",
+            logo: "stations/images-america/new_orleans/WSLA.png",
+            url: "http://listen.mixlr.com/10fe4f85e9ed49bbb6db0081cbde76a0"
         },
     ],
     "newport": [
