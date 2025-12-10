@@ -177,13 +177,7 @@ var country_properties = {
         name: "Baton Rouge",
         name_english: "Baton Rouge",
         code: "us-la",
-        relative_radius: 0.9
-    },
-    "baton_rouge_lafayette": {
-        name: "Baton Rouge/Lafayette",
-        name_english: "Baton Rouge/Lafayette",
-        code: "us-la",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "beatrice": {
         name: "Beatrice",
@@ -1173,13 +1167,13 @@ var country_properties = {
         name: "Lafayette",
         name_english: "Lafayette",
         code: "us-la",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "lake_charles": {
         name: "Lake Charles",
         name_english: "Lake Charles",
         code: "us-la",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "lakeview": {
         name: "Lakeview",
@@ -2531,10 +2525,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "baton_rouge": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
-    "baton_rouge_lafayette": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "beatrice": {
@@ -4065,22 +4056,6 @@ var cities = [
         "x": "24246",
         "y": "59.0586",
         "z": "46748.1"
-    },
-    {
-        "gameName": "baton_rouge",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge_lafayette",
-        "x": "24246",
-        "y": "59.0586",
-        "z": "46748.1"
-    },
-    {
-        "gameName": "baton_rouge_lafayette",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge_lafayette",
-        "x": "23112.9",
-        "y": "41.9934",
-        "z": "47069.5"
     },
     {
         "gameName": "beatrice",
@@ -5643,20 +5618,12 @@ var cities = [
         "z": "48891.2"
     },
     {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "baton_rouge_lafayette",
-        "x": "18825",
-        "y": "56.293",
-        "z": "48891.2"
-    },
-    {
         "gameName": "lake_charles",
         "realName": "Lake Charles",
         "country": "lake_charles",
-        "x": "14221.5",
-        "y": "63.2617",
-        "z": "48493.7"
+        "x": "13295.4",
+        "y": "49.8151",
+        "z": "48848.5"
     },
     {
         "gameName": "lakeview",

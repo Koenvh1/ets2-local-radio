@@ -2632,23 +2632,6 @@ var stations = {/*
             url: "http://s7.voscast.com:7958/;"
         },
     ],
-    "baton_rouge_lafayette": [
-        {
-            name: "99.1 KXKC",
-            logo: "stations/images-america/lafayette_la/99.1 KXKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
-        },
-        {
-            name: "99.9 KTDY",
-            logo: "stations/images-america/lafayette_la/99.9 KTDY.png",
-            url: "https://live.amperwave.net/manifest/townsquare-ktdyfmaac-ibc3"
-        },
-        {
-            name: "HOT 107.9",
-            logo: "stations/images-america/lafayette_la/HOT 107.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-khxtfmaac-ibc3"
-        },
-    ],
     "bellingham": [
         {
             name: "KMRE 88.3",
@@ -15191,9 +15174,19 @@ var stations = {/*
             url: "https://ice9.securenetsystems.net/KFXZAM"
         },
         {
+            name: "99.1 KXKC",
+            logo: "stations/images-america/lafayette_la/99.1 KXKC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXKCFMAAC_SC"
+        },
+        {
             name: "Christ Our King Radio 99.5",
             logo: "stations/images-america/lafayette_la/Christ Our King Radio.png",
             url: "http://ice6.securenetsystems.net/KLFT"
+        },
+        {
+            name: "99.9 KTDY",
+            logo: "stations/images-america/lafayette_la/99.9 KTDY.png",
+            url: "https://live.amperwave.net/manifest/townsquare-ktdyfmaac-ibc3"
         },
         {
             name: "KBON 101.1",
@@ -15254,6 +15247,11 @@ var stations = {/*
             name: "Mustang 107.1",
             logo: "stations/images-america/lafayette_la/Mustang 107.1.png",
             url: "http://ice6.securenetsystems.net/KOGM"
+        },
+        {
+            name: "HOT 107.9",
+            logo: "stations/images-america/lafayette_la/HOT 107.9.png",
+            url: "https://live.amperwave.net/manifest/townsquare-khxtfmaac-ibc3"
         },
         {
             name: "WWL 870",
