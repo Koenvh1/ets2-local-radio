@@ -177,7 +177,7 @@ var country_properties = {
         name: "Baton Rouge",
         name_english: "Baton Rouge",
         code: "us-la",
-        relative_radius: 0.8
+        relative_radius: 0.85
     },
     "beatrice": {
         name: "Beatrice",
@@ -2525,7 +2525,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "baton_rouge": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "beatrice": {
@@ -3083,7 +3082,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lafayette_la": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "lake_charles": {
@@ -4053,9 +4051,9 @@ var cities = [
         "gameName": "baton_rouge",
         "realName": "Baton Rouge",
         "country": "baton_rouge",
-        "x": "24246",
-        "y": "59.0586",
-        "z": "46748.1"
+        "x": "23414.7",
+        "y": "55.283",
+        "z": "48292.2"
     },
     {
         "gameName": "beatrice",
@@ -5613,7 +5611,7 @@ var cities = [
         "gameName": "lafayette_la",
         "realName": "Lafayette",
         "country": "lafayette_la",
-        "x": "18825",
+        "x": "19825",
         "y": "56.293",
         "z": "48891.2"
     },
