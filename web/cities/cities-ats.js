@@ -1179,7 +1179,7 @@ var country_properties = {
         name: "Lake Charles",
         name_english: "Lake Charles",
         code: "us-la",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "lakeview": {
         name: "Lakeview",

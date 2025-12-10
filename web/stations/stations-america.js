@@ -20052,7 +20052,7 @@ var stations = {/*
         {
             name: "K-LOVE 91.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "WTUL 91.5",
