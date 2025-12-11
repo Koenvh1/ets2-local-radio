@@ -533,6 +533,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.9
     },
+    "deepwater": {
+        name: "Deepwater",
+        name_english: "Deepwater",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -557,22 +563,16 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
-    "deepwater": {
-        name: "Deepwater",
-        name_english: "Deepwater",
-        code: "us-mo",
+    "deridder": {
+        name: "DeRidder",
+        name_english: "DeRidder",
+        code: "us-la",
         relative_radius: 0.5
     },
     "de_queen": {
         name: "De Queen",
         name_english: "De Queen",
         code: "us-ar",
-        relative_radius: 0.5
-    },
-    "deridder": {
-        name: "DeRidder",
-        name_english: "DeRidder",
-        code: "us-la",
         relative_radius: 0.5
     },
     "des_moines": {
@@ -2727,6 +2727,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "deepwater": {
+        relative_whitenoise: 0.95
+    },
     "del_rio": {
         relative_whitenoise: 0.95
     },
@@ -2739,13 +2742,10 @@ var city_properties = {
     "denver": {
         relative_whitenoise: 0.85
     },
-    "deepwater": {
+    "deridder": {
         relative_whitenoise: 0.95
     },
     "de_queen": {
-        relative_whitenoise: 0.95
-    },
-    "deridder": {
         relative_whitenoise: 0.95
     },
     "des_moines": {
@@ -4696,20 +4696,20 @@ var cities = [
         "z": "-5191.34"
     },
     {
-        "gameName": "de_queen",
-        "realName": "De Queen",
-        "country": "de_queen",
-        "x": "8009.72",
-        "y": "52.4887",
-        "z": "25208.4"
-    },
-    {
         "gameName": "deridder",
         "realName": "DeRidder",
         "country": "deridder",
         "x": "13243.3",
         "y": "53.5",
         "z": "44826.5"
+    },
+    {
+        "gameName": "de_queen",
+        "realName": "De Queen",
+        "country": "de_queen",
+        "x": "8009.72",
+        "y": "52.4887",
+        "z": "25208.4"
     },
     {
         "gameName": "des_moines",

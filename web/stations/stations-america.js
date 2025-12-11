@@ -7303,6 +7303,73 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KCLNAM"
         },
     ],
+    "deepwater": [
+        {
+            name: "Bott Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "KDKD 95.3",
+            logo: "stations/images-america/deepwater/KDKD 95.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kdkdfmaac-ibc1"
+        },
+        {
+            name: "K-LOVE 96.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "97.1 The Lake",
+            logo: "stations/images-america/deepwater/97.1 The Lake.png",
+            url: "https://stream.aiir.com/gctyda1icp3uv"
+        },
+        {
+            name: "98.5 The Bar",
+            logo: "stations/images-america/sedalia/98.5 The Bar.png",
+            url: "https://stream.radiojar.com/h1gp4nup0ncwv"
+        },
+        {
+            name: "Spirit FM 100.3",
+            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
+            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+        },
+        {
+            name: "104.9 The Bizz",
+            logo: "stations/images-america/deepwater/104.9 The Bizz.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kxeafmaac-ibc1"
+        },
+        {
+            name: "KIX 105.7",
+            logo: "stations/images-america/sedalia/KIX 105.7.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kxkxfmaac-ibc3"
+        },
+        {
+            name: "560 KWTO",
+            logo: "stations/images-america/springfield_mo/KWTO.png",
+            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7679_48k.aac"
+        },
+        {
+            name: "The Fan 610",
+            logo: "stations/images-america/kansas_city/The Fan 610.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
+        },
+        {
+            name: "810 WHB",
+            logo: "stations/images-america/kansas_city/810 WHB.png",
+            url: "https://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2"
+        },
+        {
+            name: "KKOW 860",
+            logo: "stations/images-america/joplin/KKOW.png",
+            url: "http://ice42.securenetsystems.net/KKOWAM"
+        },
+        {
+            name: "TALK 980",
+            logo: "stations/images-america/kansas_city/TALK 980.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
+        },
+    ],
     "del_rio": [
         {
             name: "88.5 KVFE",
@@ -7836,71 +7903,61 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2708_48.aac"
         },
     ],
-    "deepwater": [
+    "deridder": [
         {
-            name: "Bott Radio 88.9",
-            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
+            name: "SonLife Radio 89.5",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
         },
         {
-            name: "KDKD 95.3",
-            logo: "stations/images-america/deepwater/KDKD 95.3.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kdkdfmaac-ibc1"
+            name: "91.5 KDRD",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
         },
         {
-            name: "K-LOVE 96.1",
+            name: "KROK 95.7",
+            logo: "stations/images-america/deridder/KROK 95.7.png",
+            url: "https://ice41.securenetsystems.net/KROK"
+        },
+        {
+            name: "97.9 Nash Icon",
+            logo: "stations/images-america/lake_charles/97.9 Nash Icon.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KQLKFMAAC_SC"
+        },
+        {
+            name: "Gator 99.5",
+            logo: "stations/images-america/lake_charles/Gator 99.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-kngtfmaac-ibc3"
+        },
+        {
+            name: "K-LOVE 104.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "97.1 The Lake",
-            logo: "stations/images-america/deepwater/97.1 The Lake.png",
-            url: "https://stream.aiir.com/gctyda1icp3uv"
+            name: "Today's Country 105.7",
+            logo: "stations/images-america/deridder/Today's Country 105.7.png",
+            url: "https://ice41.securenetsystems.net/KVVP"
         },
         {
-            name: "98.5 The Bar",
-            logo: "stations/images-america/sedalia/98.5 The Bar.png",
-            url: "https://stream.radiojar.com/h1gp4nup0ncwv"
+            name: "Mix 106.7",
+            logo: "stations/images-america/deridder/Mix 106.7.png",
+            url: "https://ice41.securenetsystems.net/KUMX"
         },
         {
-            name: "Spirit FM 100.3",
-            logo: "stations/images-america/0_general_logos/Spirit FM Missouri.png",
-            url: "https://nwm-live.streamguys1.com/kcvo-aac"
+            name: "560 KLVI",
+            logo: "stations/images-america/beaumont/560 KLVI.png",
+            url: "https://stream.revma.ihrhls.com/zc2197/hls.m3u8"
         },
         {
-            name: "104.9 The Bizz",
-            logo: "stations/images-america/deepwater/104.9 The Bizz.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/radford-kxeafmaac-ibc1"
+            name: "Radio Maria 580",
+            logo: "stations/images-america/0_general_logos/Radio Maria.png",
+            url: "http://ice41.securenetsystems.net/KWDF"
         },
         {
-            name: "KIX 105.7",
-            logo: "stations/images-america/sedalia/KIX 105.7.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kxkxfmaac-ibc3"
-        },
-        {
-            name: "560 KWTO",
-            logo: "stations/images-america/springfield_mo/KWTO.png",
-            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7679_48k.aac"
-        },
-        {
-            name: "The Fan 610",
-            logo: "stations/images-america/kansas_city/The Fan 610.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kfnzamaac-imc"
-        },
-        {
-            name: "810 WHB",
-            logo: "stations/images-america/kansas_city/810 WHB.png",
-            url: "https://live.amperwave.net/manifest/unionbroadcasting-whbamaac-ibc2"
-        },
-        {
-            name: "KKOW 860",
-            logo: "stations/images-america/joplin/KKOW.png",
-            url: "http://ice42.securenetsystems.net/KKOWAM"
-        },
-        {
-            name: "TALK 980",
-            logo: "stations/images-america/kansas_city/TALK 980.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmbzamaac-imc"
+            name: "KWDF 840",
+            logo: "stations/images-america/alexandria_la/KWDF.png",
+            url: "http://ice41.securenetsystems.net/KWDF"
         },
     ],
     "de_queen": [
