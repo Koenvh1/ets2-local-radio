@@ -13013,6 +13013,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.0
     },
+    "cranbrook": {
+        name: "Cranbrook",
+        name_english: "Cranbrook",
+        code: "ca-bc",
+        relative_radius: 0.7
+    },
     "dawsoncreek": {
         name: "Dawson Creek",
         name_english: "Dawson Creek",
@@ -13083,7 +13089,7 @@ var country_properties_canada = {
         name: "Golden",
         name_english: "Golden",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "grandfalls": {
         name: "Grand Falls",
@@ -13355,6 +13361,12 @@ var country_properties_canada = {
         code: "ca-sk",
         relative_radius: 1.2
     },
+    "revelstoke": {
+        name: "Revelstoke",
+        name_english: "Revelstoke",
+        code: "ca-bc",
+        relative_radius: 0.9
+    },
     "rouynnoranda": {
         name: "Rouyn-Noranda",
         name_english: "Rouyn-Noranda",
@@ -13535,6 +13547,9 @@ var city_properties_canada = {
     "chapleau": {
         relative_whitenoise: 0.95
     },
+    "cranbrook": {
+        relative_whitenoise: 0.95
+    },
     "dawsoncreek": {
         relative_whitenoise: 0.95
     },
@@ -13709,6 +13724,9 @@ var city_properties_canada = {
     "regina": {
         relative_whitenoise: 0.95
     },
+    "revelstoke": {
+        relative_whitenoise: 0.95
+    },
     "rouynnoranda": {
         relative_whitenoise: 0.95
     },
@@ -13849,6 +13867,14 @@ var cities_canada = [
         "z": "-53884.2"
     },
     {
+        "gameName": "cranbrook",
+        "realName": "Cranbrook",
+        "country": "cranbrook",
+        "x": "-73281.1",
+        "y": "87",
+        "z": "-67331.9"
+    },
+    {
         "gameName": "dawsoncreek",
         "realName": "Dawson Creek",
         "country": "dawsoncreek",
@@ -13940,9 +13966,9 @@ var cities_canada = [
         "gameName": "golden",
         "realName": "Golden",
         "country": "golden",
-        "x": "-73410.9",
-        "y": "264.496",
-        "z": "-79297.7"
+        "x": "-75203.7",
+        "y": "88.1289",
+        "z": "-78575.4"
     },
     {
         "gameName": "grandfalls",
@@ -14311,6 +14337,14 @@ var cities_canada = [
         "x": "-31901.6",
         "y": "90.3281",
         "z": "-68350.9"
+    },
+    {
+        "gameName": "revelstoke",
+        "realName": "Revelstoke",
+        "country": "revelstoke",
+        "x": "-79415.9",
+        "y": "94.7305",
+        "z": "-77594.7"
     },
     {
         "gameName": "rouynnoranda",
