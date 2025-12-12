@@ -1,4 +1,4 @@
-var stations = {/*
+var stations = {
     "christmas": [
         {
             name: "iHeart Christmas",
@@ -85,7 +85,7 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
-    ],
+    ],/*
     "halloween": [
         {
             name: "iHeart Halloween Radio",
@@ -56556,7 +56556,7 @@ var stations = {/*
         },
         {
             name: "2WD 101.3",
-            logo: "stations/images-america/c2c/norfolk_va/2WD 101.3.png",
+            logo: "stations/images-america/c2c/norfolk_va/2WD 101.3_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwdefmaac-imc"
         },
         {
