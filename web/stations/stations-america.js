@@ -2254,12 +2254,12 @@ var stations = {/*
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTIEAMAAC_SC"
-        },
+        },/*
         {
             name: "FOX Sports 610",
             logo: "stations/images-america/barstow/FOX Sports 610.png",
             url: "https://ice8.securenetsystems.net/KAVL"
-        },
+        },*/
         {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
@@ -14216,12 +14216,12 @@ var stations = {/*
             name: "YNOP 93.5",
             logo: "stations/images-america/0_general_logos/YNOP.png",
             url: "http://ice23.securenetsystems.net/YNOP"
-        },
+        },/*
         {
-            name: "95.9 Outlaw Country",
-            logo: "stations/images-america/kalispell/95.9 Outlaw Country.png",
+            name: "95.9 KBCK",
+            logo: "stations/images-america/kalispell/95.9 KBCK.png",
             url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KHNK"
-        },
+        },*/
         {
             name: "KGEZ 96.5",
             logo: "stations/images-america/kalispell/KGEZ 96.5.png",
@@ -14238,9 +14238,9 @@ var stations = {/*
             url: "http://war.str3am.com:7180/live"
         },
         {
-            name: "102.7 KSAM",
-            logo: "stations/images-america/kalispell/102.7 KSAM.png",
-            url: "https://ice23.securenetsystems.net/KSAMAM"
+            name: "102.7 Outlaw Country",
+            logo: "stations/images-america/kalispell/102.7 Outlaw Country.png",
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KHNK"
         },
         {
             name: "103.1 The River",
@@ -19435,7 +19435,7 @@ var stations = {/*
             name: "KMIX 106.3",
             logo: "stations/images-america/mojave/KMIX 106.3.png",
             url: "http://84.32.44.251/index.php?u=http://ice10.securenetsystems.net/KGMX"
-        },
+        },/*
         {
             name: "FOX Sports 106.7",
             logo: "stations/images-america/barstow/FOX Sports 610.png",
@@ -19445,7 +19445,7 @@ var stations = {/*
             name: "FOX Sports 610",
             logo: "stations/images-america/barstow/FOX Sports 610.png",
             url: "https://ice8.securenetsystems.net/KAVL"
-        },
+        },*/
         {
             name: "KFI AM 640",
             logo: "stations/images-america/los_angeles/KFI AM 640.png",
@@ -21621,7 +21621,7 @@ var stations = {/*
         {
             name: "Q99.5",
             logo: "stations/images-america/san_angelo/Q99.5.png",
-            url: "https://ice8.securenetsystems.net/KQTC"
+            url: "https://ice42.securenetsystems.net/KQTC"
         },
         {
             name: "103.5 The Beat",
@@ -25395,7 +25395,7 @@ var stations = {/*
         {
             name: "Q99.5",
             logo: "stations/images-america/san_angelo/Q99.5.png",
-            url: "https://ice8.securenetsystems.net/KQTC"
+            url: "https://ice42.securenetsystems.net/KQTC"
         },
         {
             name: "100.1 COOL FM",
@@ -40070,9 +40070,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDRRFMAAC_SC"
         },
         {
-            name: "FOX Sports 94.7",
-            logo: "stations/images-america/c2c/augusta_ga/FOX Sports 94.7.png",
-            url: "https://ice64.securenetsystems.net/WAAWFM"
+            name: "Shout! 94.7",
+            logo: "stations/images-america/c2c/augusta_ga/Shout! 94.7.png",
+            url: "https://ice25.securenetsystems.net/WAAW"
         },
         {
             name: "95.1 WGAC",
@@ -40694,7 +40694,7 @@ var stations = {/*
         {
             name: "106.7 The Buck",
             logo: "stations/images-america/c2c/waycross_ga/106.7 The Buck.png",
-            url: "https://ice41.securenetsystems.net/WOKAFM"
+            url: "https://streaming.live365.com/a02615"
         },
         {
             name: "Kool 107.1",
@@ -42060,7 +42060,7 @@ var stations = {/*
         {
             name: "WSON 96.5",
             logo: "stations/images-america/c2c/evansville_in/WSON 96.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/WSON"
+            url: "https://ice8.securenetsystems.net/WSON"
         },
         {
             name: "98.5 WEOA",
@@ -43521,13 +43521,13 @@ var stations = {/*
         {
             name: "WZLO 100.3-HD2",
             logo: "stations/images-america/c2c/bangor_me/WZLO 100.3-HD2.png",
-            url: "http://ice8.securenetsystems.net/WZLO"
-        },
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMXFMAAC_SC"
+        },/*
         {
             name: "Z62 100.3-HD3",
             logo: "stations/images-america/c2c/bangor_me/Z62 100.3-HD3.png",
             url: "http://ice6.securenetsystems.net/WZON"
-        },
+        },*/
         {
             name: "K-LOVE 101.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
@@ -62541,7 +62541,7 @@ var stations = {/*
         {
             name: "The National Voice 1540",
             logo: "stations/images-america/caribbean/nassau/The National Voice 1540.png",
-            url: "http://znsradiogroup.streamcomedia.com:9788/zns1540am"
+            url: "https://radiostreams.streamcomedia.com:8008/zns1540am"
         },
     ],
     "guantanamo_bay": [
@@ -63547,7 +63547,7 @@ var stations = {/*
         {
             name: "KATB 89.3",
             logo: "stations/images-america/alaska/anchorage/KATB 89.3.png",
-            url: "https://ic2.sslstream.com/katb-fm"
+            url: "https://streaming.live365.com/a85503"
         },
         {
             name: "90.3 KNBA",
@@ -63832,7 +63832,7 @@ var stations = {/*
         {
             name: "KQHE 92.7",
             logo: "stations/images-america/alaska/fairbanks/KQHE 92.7.png",
-            url: "https://listen.mixlr.com/f84f1c40dbb1699e62160ed3e9d24441"
+            url: "https://listen.mixlr.com/f7840d90f3e350df21e749ebfb64331a"
         },
         {
             name: "93.5 Chet FM",
