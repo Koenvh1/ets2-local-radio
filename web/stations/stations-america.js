@@ -3756,7 +3756,7 @@ var stations = {
     "bozeman_kzmy": [
         {
             name: "My 103.5",
-            logo: "stations/images-america/bozeman/My 103.5.png",
+            logo: "stations/images-america/bozeman/My 103.5_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-kzmyfmaac-ibc3"
         },
     ],
@@ -47588,7 +47588,7 @@ var stations = {
         },
         {
             name: "Energy 95.3",
-            logo: "stations/images-america/c2c/buffalo_ny/Energy 95.3.png",
+            logo: "stations/images-america/c2c/buffalo_ny/Energy 95.3_christmas.png",
             url: "https://corus.leanstream.co/CINGFM"
         },
         {
@@ -62044,7 +62044,7 @@ var stations = {
         },
         {
             name: "Energy 95.3",
-            logo: "stations/images-america/c2c/buffalo_ny/Energy 95.3.png",
+            logo: "stations/images-america/c2c/buffalo_ny/Energy 95.3_christmas.png",
             url: "https://corus.leanstream.co/CINGFM"
         },
         {

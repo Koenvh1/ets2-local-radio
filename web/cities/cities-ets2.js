@@ -1203,7 +1203,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "gedser": {
-        relative_radius: 0.6,
+        relative_radius: 0.8,
     },
     "geneina": {
         relative_radius: 1.3,
@@ -3508,9 +3508,9 @@ var cities = [
         "gameName": "gedser",
         "realName": "Gedser",
         "country": "denmark",
-        "x": "6271.11",
+        "x": "6687.13",
         "y": "52.3789",
-        "z": "-22000.3"
+        "z": "-24234.5"
     },
     {
         "gameName": "geneve",
