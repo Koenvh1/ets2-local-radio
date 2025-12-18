@@ -1007,7 +1007,7 @@ var stations = {
         {
             name: "Radio Maria 580",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "http://ice41.securenetsystems.net/KWDF"
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "KWDF 840",
@@ -2856,6 +2856,11 @@ var stations = {
             name: "SportsTalk 790",
             logo: "stations/images-america/houston/SportsTalk 790.png",
             url: "https://stream.revma.ihrhls.com/zc2257/hls.m3u8"
+        },
+        {
+            name: "Radio Maria 1250",
+            logo: "stations/images-america/0_general_logos/Radio Maria.png",
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
     ],
     "bend": [
@@ -7952,7 +7957,7 @@ var stations = {
         {
             name: "Radio Maria 580",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "http://ice41.securenetsystems.net/KWDF"
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "KWDF 840",
@@ -9478,7 +9483,7 @@ var stations = {
         },
         {
             name: "My 95.7",
-            logo: "stations/images-america/enid/My 95.7.png",
+            logo: "stations/images-america/enid/My 95.7_christmas.png",
             url: "https://ice8.securenetsystems.net/KXLS"
         },
         {
@@ -15448,7 +15453,7 @@ var stations = {
         {
             name: "Radio Maria 1360",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "http://ice41.securenetsystems.net/KWDF"
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "1420 KPEL",
@@ -15485,7 +15490,7 @@ var stations = {
         {
             name: "Radio Maria 91.1",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "https://ice41.securenetsystems.net/KWDF"
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "Power 92.1",
@@ -20101,7 +20106,7 @@ var stations = {
         {
             name: "Radio Maria 89.7",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "http://ice41.securenetsystems.net/KWDF"
+            url: "https://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "Red River Radio 90.7",
@@ -20141,7 +20146,7 @@ var stations = {
         {
             name: "Radio Maria 580",
             logo: "stations/images-america/0_general_logos/Radio Maria.png",
-            url: "https://ice41.securenetsystems.net/KWDF"
+            url: "http://dreamsiteradiocp4.com/proxy/rmusa?mp=/stream"
         },
         {
             name: "KEEL 710",
@@ -57720,11 +57725,6 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://woodward-radio.streamb.live//SB00068"
         },
         {
-            name: "1280 WNAM",
-            logo: "stations/images-america/c2c/green_bay_wi/1280 WNAM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNAMAMAAC_SC"
-        },
-        {
             name: "WTAQ 1360",
             logo: "stations/images-america/c2c/green_bay_wi/WTAQ 97.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTAQAMAAC.aac"
@@ -58256,7 +58256,7 @@ var stations = {
         },
         {
             name: "WAVE 100.5",
-            logo: "stations/images-america/c2c/wausau_wi/Wave 100.5.png",
+            logo: "stations/images-america/c2c/wausau_wi/Wave 100.5_christmas.png",
             url: "https://us2.maindigitalstream.com/ssl/WAVL"
         },
         {
