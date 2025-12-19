@@ -16072,6 +16072,11 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOMPFMAAC_SC"
         },
         {
+            name: "92.3 KOMP-HD2",
+            logo: "stations/images-america/las_vegas/FOX Sports LV.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC.aac"
+        },
+        {
             name: "Fuego 92.7",
             logo: "stations/images-america/las_vegas/Fuego 92.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRNFMAAC_SC"
@@ -16107,9 +16112,9 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KXLI"
         },
         {
-            name: "94.7 HANK FM",
-            logo: "stations/images-america/las_vegas/94.7 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
+            name: "FOX Sports 94.7",
+            logo: "stations/images-america/las_vegas/FOX Sports LV.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
             name: "95.5 The Bull",
@@ -16143,7 +16148,7 @@ var stations = {
         },
         {
             name: "97.1 KXPT-HD2",
-            logo: "stations/images-america/las_vegas/94.7 HANK FM.png",
+            logo: "stations/images-america/las_vegas/98.9 HANK FM.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
         },
         {
@@ -16172,9 +16177,9 @@ var stations = {
             url: "http://streamer.radio.co/s564c61bce/listen"
         },
         {
-            name: "FOX Sports 98.9",
-            logo: "stations/images-america/las_vegas/FOX Sports 98.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
+            name: "98.9 HANK FM",
+            logo: "stations/images-america/las_vegas/98.9 HANK FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
         },
         {
             name: "Latino Beats 99.3",
@@ -16340,6 +16345,11 @@ var stations = {
             name: "1230 The Game",
             logo: "stations/images-america/las_vegas/1230 The Game.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLAVAMAAC_SC"
+        },
+        {
+            name: "FOX Sports 1340",
+            logo: "stations/images-america/las_vegas/FOX Sports LV.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
             name: "1400 KSHP",
@@ -38675,11 +38685,6 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wamrfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "107.5 WAMR-HD2",
-            logo: "stations/images-america/c2c/miami_fl/Radio Mambí 710.png",
-            url: "http://84.32.44.251/index.php?u=http://lmn.streamguys1.com/waqiam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
-        },
-        {
             name: "Uforia Rock 107.5-HD3",
             logo: "stations/images-america/c2c/miami_fl/Uforia Rock.png",
             url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/uforiarock-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed"
@@ -38708,11 +38713,6 @@ var stations = {
             name: "670 The Word",
             logo: "stations/images-america/c2c/miami_fl/The Word.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WWFEAMAAC_SC"
-        },
-        {
-            name: "Radio Mambí 710",
-            logo: "stations/images-america/c2c/miami_fl/Radio Mambí 710.png",
-            url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/waqiam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
             name: "Radio Libre 790",
@@ -49359,14 +49359,19 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc6656/hls.m3u8"
         },
         {
-            name: "99.3 WBT",
-            logo: "stations/images-america/c2c/charlotte_nc/99.3 WBT.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBTAMAAC_SC"
+            name: "Mix 99.3",
+            logo: "stations/images-america/c2c/charlotte_nc/Mix 100.9_99.3.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNKFMAAC_SC"
         },
         {
             name: "99.7 The Fox",
             logo: "stations/images-america/c2c/charlotte_nc/99.7 The Fox.png",
             url: "https://stream.revma.ihrhls.com/zc1613/hls.m3u8"
+        },
+        {
+            name: "Mix 100.9",
+            logo: "stations/images-america/c2c/charlotte_nc/Mix 100.9_99.3.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WLNKFMAAC_SC"
         },
         {
             name: "WNCW 101.3",
@@ -49384,6 +49389,11 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WQNCFMAAC_SC"
         },
         {
+            name: "Praise 102.5",
+            logo: "stations/images-america/c2c/charlotte_nc/Praise 102.5.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WPZSFMAAC_SC"
+        },
+        {
             name: "102.9 The Lake",
             logo: "stations/images-america/c2c/charlotte_nc/102.9 The Lake_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1609/hls.m3u8"
@@ -49392,11 +49402,6 @@ var stations = {
             name: "Pride Radio 102.9-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
-        },
-        {
-            name: "Today's Mix 102.9-HD3",
-            logo: "stations/images-america/0_general_logos/Today's Mix.png",
-            url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
         },
         {
             name: "Streetz 103.3",
@@ -49419,19 +49424,29 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKQCFMAAC_SC"
         },
         {
+            name: "105.3 RnB",
+            logo: "stations/images-america/c2c/charlotte_nc/105.3 RnB.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WOSFFMAAC_SC"
+        },
+        {
             name: "106.5 The End",
             logo: "stations/images-america/c2c/charlotte_nc/106.5 The End.png",
             url: "https://stream.revma.ihrhls.com/zc1597/hls.m3u8"
         },
         {
-            name: "Rock Nation Top 20 106.5-HD2",
-            logo: "stations/images-america/c2c/charlotte_nc/Rock Nation Top 20 106.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4932/hls.m3u8"
+            name: "WBT 107.9",
+            logo: "stations/images-america/c2c/charlotte_nc/WBT 107.9.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WBTAMAAC_SC"
         },
         {
-            name: "Mix 107.9",
-            logo: "stations/images-america/c2c/charlotte_nc/Mix 107.9.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNKFMAAC_SC"
+            name: "107.9 WBT-HD2",
+            logo: "stations/images-america/c2c/charlotte_nc/Mix 100.9_99.3.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WLNKFMAAC.aac"
+        },
+        {
+            name: "Praise 610",
+            logo: "stations/images-america/c2c/charlotte_nc/Praise 102.5.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WPZSFMAAC_SC"
         },
     ],
     "fayetteville_nc": [
