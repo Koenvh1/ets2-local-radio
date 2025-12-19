@@ -3602,7 +3602,7 @@ var stations = {
         },
         {
             name: "1210 KGYN",
-            logo: "stations/images-america/c2c/liberal_ks/106.3 KGYN.png",
+            logo: "stations/images-america/liberal/106.3 KGYN.png",
             url: "http://162.244.80.178:8012//stream"
         },
         {
@@ -3612,7 +3612,7 @@ var stations = {
         },
         {
             name: "KSCB 1270",
-            logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
+            logo: "stations/images-america/liberal/KSCB 1270.png",
             url: "https://streaming.live365.com/a55668"
         },
         {
@@ -8394,7 +8394,7 @@ var stations = {
         },
         {
             name: "KSCB 1270",
-            logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
+            logo: "stations/images-america/liberal/KSCB 1270.png",
             url: "https://streaming.live365.com/a55668"
         },
         {
@@ -43096,12 +43096,12 @@ var stations = {
     "liberal_ks": [
         {
             name: "92.3 K222DM",
-            logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
+            logo: "stations/images-america/liberal/KSCB 1270.png",
             url: "http://streaming.live365.com/a55668"
         },
         {
             name: "His Mission Radio 94.3",
-            logo: "stations/images-america/c2c/liberal_ks/His Mission Radio 94.3.png",
+            logo: "stations/images-america/liberal/His Mission Radio 94.3.png",
             url: "https://carina.streamerr.co:2020/stream/8046"
         },
         {
@@ -43126,12 +43126,12 @@ var stations = {
         },
         {
             name: "La Mexicana 101.5",
-            logo: "stations/images-america/c2c/liberal_ks/La Mexicana.png",
+            logo: "stations/images-america/liberal/La Mexicana.png",
             url: "https://ice42.securenetsystems.net/KSMMKZRD"
         },
         {
             name: "102.7 The Legend",
-            logo: "stations/images-america/c2c/liberal_ks/102.7 The Legend.png",
+            logo: "stations/images-america/liberal/102.7 The Legend.png",
             url: "https://streaming.live365.com/a54864"
         },
         {
@@ -43141,22 +43141,22 @@ var stations = {
         },
         {
             name: "106.3 KGYN",
-            logo: "stations/images-america/c2c/liberal_ks/106.3 KGYN.png",
+            logo: "stations/images-america/liberal/106.3 KGYN.png",
             url: "http://162.244.80.178:8012/stream"
         },
         {
             name: "B107.5",
-            logo: "stations/images-america/c2c/liberal_ks/B107.5.png",
+            logo: "stations/images-america/liberal/B107.5.png",
             url: "https://streaming.live365.com/a47006"
         },
         {
             name: "1210 KGYN",
-            logo: "stations/images-america/c2c/liberal_ks/106.3 KGYN.png",
+            logo: "stations/images-america/liberal/106.3 KGYN.png",
             url: "http://162.244.80.178:8012//stream"
         },
         {
             name: "KSCB 1270",
-            logo: "stations/images-america/c2c/liberal_ks/KSCB 1270.png",
+            logo: "stations/images-america/liberal/KSCB 1270.png",
             url: "https://streaming.live365.com/a55668"
         },
         {
@@ -46528,7 +46528,7 @@ var stations = {
         },
         {
             name: "KZ94.3",
-            logo: "stations/images-america/c2c/hattiesburg_ms/KZ94.3.png",
+            logo: "stations/images-america/c2c/hattiesburg_ms/KZ94.3_christmas.png",
             url: "http://ice10.securenetsystems.net/WKZW"
         },
         {
