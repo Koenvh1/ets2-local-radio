@@ -54162,8 +54162,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc2105/hls.m3u8"
         },
         {
-            name: "Classic Rock 101.1",
-            logo: "stations/images-america/c2c/greenville_sc/Classic Rock 101.1.png",
+            name: "101.1 Big Buck Country",
+            logo: "stations/images-america/c2c/greenville_sc/101.1 Big Buck Country.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wroqfmaac-imc"
         },
         {
