@@ -1516,7 +1516,7 @@ var stations = {
         {
             name: "94.3 KRKZ",
             logo: "stations/images-america/astoria/94.3 KRKZ.png",
-            url: "https://stream.aiir.com/hzh43wwrgtsuv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/hzh43wwrgtsuv"
         },
         {
             name: "94.9 The Bridge",
@@ -3273,9 +3273,9 @@ var stations = {
             url: "https://desertmountainbroadcasting.streamguys1.com/KPLN"
         },
         {
-            name: "The River 107.1",
-            logo: "stations/images-america/billings/The River 107.1.png",
-            url: "https://ice10.securenetsystems.net/MOUNTAIN"
+            name: "CSN Radio 107.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "790 KGHL",
@@ -49888,7 +49888,7 @@ var stations = {
         },
         {
             name: "Mix 101.5",
-            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5.png",
+            logo: "stations/images-america/c2c/raleigh_nc/Mix 101.5_christmas.png",
             url: "https://ais-sa8.cdnstream1.com/2748_64.aac"
         },
         {
@@ -51602,7 +51602,7 @@ var stations = {
         },
         {
             name: "MIX 107.7",
-            logo: "stations/images-america/c2c/dayton_oh/MIX 107.7.png",
+            logo: "stations/images-america/c2c/dayton_oh/MIX 107.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1781/hls.m3u8"
         },
         {
