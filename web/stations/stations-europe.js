@@ -219,7 +219,7 @@ var stations = {/*
         {
             name: "SR P4 Stockholm",
             logo: "stations/images-europe/sweden/Sveriges Radio P4.png",
-            url: "http://http-live.sr.se/p4stockholm-mp3-192"
+            url: "https://live1.sr.se/p4stockholm-mp3-192"
         },
         {
             name: "Yle Radio Suomi",
