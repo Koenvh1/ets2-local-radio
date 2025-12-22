@@ -177,13 +177,7 @@ var country_properties = {
         name: "Baton Rouge",
         name_english: "Baton Rouge",
         code: "us-la",
-        relative_radius: 0.9
-    },
-    "baton_rouge_lafayette": {
-        name: "Baton Rouge/Lafayette",
-        name_english: "Baton Rouge/Lafayette",
-        code: "us-la",
-        relative_radius: 0.9
+        relative_radius: 0.85
     },
     "beatrice": {
         name: "Beatrice",
@@ -539,6 +533,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.9
     },
+    "deepwater": {
+        name: "Deepwater",
+        name_english: "Deepwater",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "delta": {
         name: "Delta",
         name_english: "Delta",
@@ -563,22 +563,16 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
-    "deepwater": {
-        name: "Deepwater",
-        name_english: "Deepwater",
-        code: "us-mo",
+    "deridder": {
+        name: "DeRidder",
+        name_english: "DeRidder",
+        code: "us-la",
         relative_radius: 0.5
     },
     "de_queen": {
         name: "De Queen",
         name_english: "De Queen",
         code: "us-ar",
-        relative_radius: 0.5
-    },
-    "deridder": {
-        name: "DeRidder",
-        name_english: "DeRidder",
-        code: "us-la",
         relative_radius: 0.5
     },
     "des_moines": {
@@ -1173,13 +1167,13 @@ var country_properties = {
         name: "Lafayette",
         name_english: "Lafayette",
         code: "us-la",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "lake_charles": {
         name: "Lake Charles",
         name_english: "Lake Charles",
         code: "us-la",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "lakeview": {
         name: "Lakeview",
@@ -2531,10 +2525,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "baton_rouge": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.95
-    },
-    "baton_rouge_lafayette": {
         relative_whitenoise: 0.95
     },
     "beatrice": {
@@ -2737,6 +2727,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "deepwater": {
+        relative_whitenoise: 0.95
+    },
     "del_rio": {
         relative_whitenoise: 0.95
     },
@@ -2749,13 +2742,10 @@ var city_properties = {
     "denver": {
         relative_whitenoise: 0.85
     },
-    "deepwater": {
+    "deridder": {
         relative_whitenoise: 0.95
     },
     "de_queen": {
-        relative_whitenoise: 0.95
-    },
-    "deridder": {
         relative_whitenoise: 0.95
     },
     "des_moines": {
@@ -3092,7 +3082,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lafayette_la": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "lake_charles": {
@@ -4062,25 +4051,9 @@ var cities = [
         "gameName": "baton_rouge",
         "realName": "Baton Rouge",
         "country": "baton_rouge",
-        "x": "24246",
-        "y": "59.0586",
-        "z": "46748.1"
-    },
-    {
-        "gameName": "baton_rouge",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge_lafayette",
-        "x": "24246",
-        "y": "59.0586",
-        "z": "46748.1"
-    },
-    {
-        "gameName": "baton_rouge_lafayette",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge_lafayette",
-        "x": "23112.9",
-        "y": "41.9934",
-        "z": "47069.5"
+        "x": "23414.7",
+        "y": "55.283",
+        "z": "48292.2"
     },
     {
         "gameName": "beatrice",
@@ -4723,20 +4696,20 @@ var cities = [
         "z": "-5191.34"
     },
     {
-        "gameName": "de_queen",
-        "realName": "De Queen",
-        "country": "de_queen",
-        "x": "8009.72",
-        "y": "52.4887",
-        "z": "25208.4"
-    },
-    {
         "gameName": "deridder",
         "realName": "DeRidder",
         "country": "deridder",
         "x": "13243.3",
         "y": "53.5",
         "z": "44826.5"
+    },
+    {
+        "gameName": "de_queen",
+        "realName": "De Queen",
+        "country": "de_queen",
+        "x": "8009.72",
+        "y": "52.4887",
+        "z": "25208.4"
     },
     {
         "gameName": "des_moines",
@@ -5638,15 +5611,7 @@ var cities = [
         "gameName": "lafayette_la",
         "realName": "Lafayette",
         "country": "lafayette_la",
-        "x": "18825",
-        "y": "56.293",
-        "z": "48891.2"
-    },
-    {
-        "gameName": "lafayette_la",
-        "realName": "Lafayette",
-        "country": "baton_rouge_lafayette",
-        "x": "18825",
+        "x": "19825",
         "y": "56.293",
         "z": "48891.2"
     },
@@ -5654,9 +5619,9 @@ var cities = [
         "gameName": "lake_charles",
         "realName": "Lake Charles",
         "country": "lake_charles",
-        "x": "14221.5",
-        "y": "63.2617",
-        "z": "48493.7"
+        "x": "13295.4",
+        "y": "49.8151",
+        "z": "48848.5"
     },
     {
         "gameName": "lakeview",
@@ -13048,6 +13013,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.0
     },
+    "cranbrook": {
+        name: "Cranbrook",
+        name_english: "Cranbrook",
+        code: "ca-bc",
+        relative_radius: 0.7
+    },
     "dawsoncreek": {
         name: "Dawson Creek",
         name_english: "Dawson Creek",
@@ -13118,7 +13089,7 @@ var country_properties_canada = {
         name: "Golden",
         name_english: "Golden",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 0.8
     },
     "grandfalls": {
         name: "Grand Falls",
@@ -13390,6 +13361,12 @@ var country_properties_canada = {
         code: "ca-sk",
         relative_radius: 1.2
     },
+    "revelstoke": {
+        name: "Revelstoke",
+        name_english: "Revelstoke",
+        code: "ca-bc",
+        relative_radius: 0.9
+    },
     "rouynnoranda": {
         name: "Rouyn-Noranda",
         name_english: "Rouyn-Noranda",
@@ -13570,6 +13547,9 @@ var city_properties_canada = {
     "chapleau": {
         relative_whitenoise: 0.95
     },
+    "cranbrook": {
+        relative_whitenoise: 0.95
+    },
     "dawsoncreek": {
         relative_whitenoise: 0.95
     },
@@ -13744,6 +13724,9 @@ var city_properties_canada = {
     "regina": {
         relative_whitenoise: 0.95
     },
+    "revelstoke": {
+        relative_whitenoise: 0.95
+    },
     "rouynnoranda": {
         relative_whitenoise: 0.95
     },
@@ -13884,6 +13867,14 @@ var cities_canada = [
         "z": "-53884.2"
     },
     {
+        "gameName": "cranbrook",
+        "realName": "Cranbrook",
+        "country": "cranbrook",
+        "x": "-73281.1",
+        "y": "87",
+        "z": "-67331.9"
+    },
+    {
         "gameName": "dawsoncreek",
         "realName": "Dawson Creek",
         "country": "dawsoncreek",
@@ -13975,9 +13966,9 @@ var cities_canada = [
         "gameName": "golden",
         "realName": "Golden",
         "country": "golden",
-        "x": "-73410.9",
-        "y": "264.496",
-        "z": "-79297.7"
+        "x": "-75203.7",
+        "y": "88.1289",
+        "z": "-78575.4"
     },
     {
         "gameName": "grandfalls",
@@ -14346,6 +14337,14 @@ var cities_canada = [
         "x": "-31901.6",
         "y": "90.3281",
         "z": "-68350.9"
+    },
+    {
+        "gameName": "revelstoke",
+        "realName": "Revelstoke",
+        "country": "revelstoke",
+        "x": "-79415.9",
+        "y": "94.7305",
+        "z": "-77594.7"
     },
     {
         "gameName": "rouynnoranda",

@@ -249,7 +249,7 @@ var country_properties = {
         name: "Deutschland [HH]",
         name_english: "Germany [HH]",
         code: "de",
-        relative_radius: 1,
+        relative_radius: 0.7,
     },
     "germany-hr": {
         name: "Deutschland [HR]",
@@ -1027,6 +1027,9 @@ var city_properties = {
     "burg": {
         relative_radius: 0.5,
     },
+    "byvallen": {
+        relative_radius: 0.7,
+    },
     "calais": {
         relative_radius: 0.4,
     },
@@ -1131,6 +1134,9 @@ var city_properties = {
     "donostia": {
         relative_radius: 0.6,
     },
+    "dorotea": {
+        relative_radius: 0.7,
+    },
     "dortmund": {
         relative_radius: 0.9,
         relative_whitenoise: 0.9,
@@ -1199,6 +1205,9 @@ var city_properties = {
     "forst": {
         relative_radius: 0.6,
     },
+    "gaellivare": {
+        relative_radius: 0.7,
+    },
     "garyan": {
         relative_radius: 1.2,
     },
@@ -1206,7 +1215,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "gedser": {
-        relative_radius: 0.6,
+        relative_radius: 0.8,
     },
     "geneina": {
         relative_radius: 1.3,
@@ -1272,6 +1281,9 @@ var city_properties = {
     "hameenlinna": {
         relative_radius: 0.9,
     },
+    "hammerdal": {
+        relative_radius: 0.7,
+    },
     "haparanda": {
         relative_radius: 0.25,
     },
@@ -1334,6 +1346,9 @@ var city_properties = {
     },
     "jvari": {
         relative_radius: 0.4,
+    },
+    "kabdalis": {
+        relative_radius: 0.7,
     },
     "kaesong": {
         relative_radius: 0.7,
@@ -1669,6 +1684,9 @@ var city_properties = {
     "oradea": {
         relative_radius: 0.5,
     },
+    "ornskoldsvik": {
+        relative_radius: 0.8,
+    },
     "orsk": {
         relative_radius: 0.6,
     },
@@ -1926,6 +1944,9 @@ var city_properties = {
     "strasbourg": {
         relative_radius: 0.65,
     },
+    "stroemsund": {
+        relative_radius: 0.8,
+    },
     "stroitel": {
         relative_radius: 0.8,
     },
@@ -1937,6 +1958,9 @@ var city_properties = {
     },
     "suwalki": {
         relative_radius: 0.6,
+    },
+    "sveg": {
+        relative_radius: 0.7,
     },
     "szeged": {
         relative_radius: 0.6,
@@ -1976,6 +2000,9 @@ var city_properties = {
     },
     "toulouse": {
         relative_radius: 1.22,
+    },
+    "travemuende": {
+        relative_radius: 0.3,
     },
     "trelleborg": {
         relative_radius: 0.5,
@@ -2106,6 +2133,9 @@ var city_properties = {
     "volgograd": {
         relative_radius: 2,
     },
+    "volgsjoen": {
+        relative_radius: 0.7,
+    },
     "vologda": {
         relative_radius: 1.3,
     },
@@ -2141,6 +2171,9 @@ var city_properties = {
     },
     "winklern": {
         relative_radius: 0.6,
+    },
+    "ytterhogdal": {
+        relative_radius: 0.7,
     },
     "xiuyanzhen": {
         relative_radius: 1.15,
@@ -2894,6 +2927,14 @@ var cities = [
         "z": "-13850.1"
     },
     {
+        "gameName": "byvallen",
+        "realName": "Byvallen",
+        "country": "sweden",
+        "x": "17025.5",
+        "y": "36.92",
+        "z": "-61807.1"
+    },
+    {
         "gameName": "bystrica",
         "realName": "Banská Bystrica",
         "country": "slovakia",
@@ -3092,6 +3133,14 @@ var cities = [
         "x": "-53789.7",
         "y": "63.875",
         "z": "34870.4"
+    },
+    {
+        "gameName": "dorotea",
+        "realName": "Dorotea",
+        "country": "sweden",
+        "x": "19996",
+        "y": "48.2375",
+        "z": "-76524.2"
     },
     {
         "gameName": "dortmund",
@@ -3470,6 +3519,14 @@ var cities = [
         "z": "5970.42"
     },
     {
+        "gameName": "gaellivare",
+        "realName": "Gällivare",
+        "country": "sweden",
+        "x": "28533.1",
+        "y": "75.9805",
+        "z": "-92701.2"
+    },
+    {
         "gameName": "galway",
         "realName": "Galway",
         "country": "ireland",
@@ -3505,9 +3562,9 @@ var cities = [
         "gameName": "gedser",
         "realName": "Gedser",
         "country": "denmark",
-        "x": "6271.11",
+        "x": "6687.13",
         "y": "52.3789",
-        "z": "-22000.3"
+        "z": "-24234.5"
     },
     {
         "gameName": "geneve",
@@ -3692,6 +3749,14 @@ var cities = [
         "x": "42545.3",
         "y": "106.004",
         "z": "-59899.2"
+    },
+    {
+        "gameName": "hammerdal",
+        "realName": "Hammerdal",
+        "country": "sweden",
+        "x": "17427.9",
+        "y": "36.0295",
+        "z": "-72450.2"
     },
     {
         "gameName": "hannover",
@@ -4004,6 +4069,14 @@ var cities = [
         "x": "44465.3",
         "y": "51.3516",
         "z": "-67197.3"
+    },
+    {
+        "gameName": "kabdalis",
+        "realName": "Kabdalis",
+        "country": "sweden",
+        "x": "27861.8",
+        "y": "34.9364",
+        "z": "-87772.4"
     },
     {
         "gameName": "kajaani",
@@ -5646,6 +5719,14 @@ var cities = [
         "z": "11198.7"
     },
     {
+        "gameName": "stroemsund",
+        "realName": "Strömsund",
+        "country": "sweden",
+        "x": "18192",
+        "y": "46.2868",
+        "z": "-74358.9"
+    },
+    {
         "gameName": "stromness",
         "realName": "Stromness",
         "country": "scotland",
@@ -5700,6 +5781,14 @@ var cities = [
         "x": "43448.6",
         "y": "118.813",
         "z": "-21045.2"
+    },
+    {
+        "gameName": "sveg",
+        "realName": "Sveg",
+        "country": "sweden",
+        "x": "15719.2",
+        "y": "40.893",
+        "z": "-63750.8"
     },
     {
         "gameName": "svolvaer",
@@ -5820,6 +5909,14 @@ var cities = [
         "x": "-51298.5",
         "y": "59.8984",
         "z": "-81483.6"
+    },
+    {
+        "gameName": "travemuende",
+        "realName": "Travemünde",
+        "country": "germany-ndr",
+        "x": "3471.27",
+        "y": "1.94694",
+        "z": "-19526.9"
     },
     {
         "gameName": "trelleborg",
@@ -6126,6 +6223,14 @@ var cities = [
         "z": "25584"
     },
     {
+        "gameName": "volgsjoen",
+        "realName": "Volgsjön",
+        "country": "sweden",
+        "x": "20440",
+        "y": "28.4993",
+        "z": "-78561.2"
+    },
+    {
         "gameName": "walcz",
         "realName": "Wałcz",
         "country": "poland",
@@ -6220,6 +6325,14 @@ var cities = [
         "x": "23500.3",
         "y": "120.508",
         "z": "-1890.36"
+    },
+    {
+        "gameName": "ytterhogdal",
+        "realName": "Ytterhogdal",
+        "country": "sweden",
+        "x": "16561.7",
+        "y": "23.0754",
+        "z": "-65028.8"
     },
     {
         "gameName": "zamosc",

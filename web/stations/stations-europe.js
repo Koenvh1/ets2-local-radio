@@ -1,4 +1,4 @@
-var stations = {/*
+var stations = {
     "christmas": [
         {
             name: "Christmas Channel",
@@ -100,7 +100,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],
+    ],/*
     "halloween": [
         {
             name: "Halloween Radio",
