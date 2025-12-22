@@ -1956,6 +1956,9 @@ var city_properties = {
     "sundsvall": {
         relative_radius: 0.8,
     },
+    "suomussalmi": {
+        relative_radius: 0.6,
+    },
     "suwalki": {
         relative_radius: 0.6,
     },
@@ -5773,6 +5776,14 @@ var cities = [
         "x": "22379.4",
         "y": "64.043",
         "z": "-65796.6"
+    },
+    {
+        "gameName": "suomussalmi",
+        "realName": "Suomussalmi",
+        "country": "finland",
+        "x": "49736.84",
+        "y": "77",
+        "z": "-83555.9"
     },
     {
         "gameName": "suwalki",
