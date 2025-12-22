@@ -51,7 +51,13 @@ var country_properties = {
         name: "Alexandria",
         name_english: "Alexandria",
         code: "us-la",
-        relative_radius: 0.8
+        relative_radius: 0.6
+    },
+    "alexandria_q93": {
+        name: "Alexandria",
+        name_english: "Alexandria",
+        code: "us-la",
+        relative_radius: 0.9
     },
     "algona": {
         name: "Algona",
@@ -166,6 +172,18 @@ var country_properties = {
         name_english: "Bassett",
         code: "us-ne",
         relative_radius: 0.6
+    },
+    "baton_rouge": {
+        name: "Baton Rouge",
+        name_english: "Baton Rouge",
+        code: "us-la",
+        relative_radius: 0.9
+    },
+    "baton_rouge_lafayette": {
+        name: "Baton Rouge/Lafayette",
+        name_english: "Baton Rouge/Lafayette",
+        code: "us-la",
+        relative_radius: 0.9
     },
     "beatrice": {
         name: "Beatrice",
@@ -557,6 +575,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.5
     },
+    "deridder": {
+        name: "DeRidder",
+        name_english: "DeRidder",
+        code: "us-la",
+        relative_radius: 0.5
+    },
     "des_moines": {
         name: "Des Moines",
         name_english: "Des Moines",
@@ -891,7 +915,7 @@ var country_properties = {
         name: "Hamburg",
         name_english: "Hamburg",
         code: "us-ar",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "hannibal": {
         name: "Hannibal",
@@ -1149,13 +1173,13 @@ var country_properties = {
         name: "Lafayette",
         name_english: "Lafayette",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "lake_charles": {
         name: "Lake Charles",
         name_english: "Lake Charles",
         code: "us-la",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "lakeview": {
         name: "Lakeview",
@@ -1461,7 +1485,7 @@ var country_properties = {
         name: "Monroe",
         name_english: "Monroe",
         code: "us-la",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "monterey": {
         name: "Monterey",
@@ -1491,7 +1515,7 @@ var country_properties = {
         name: "Natchitoches",
         name_english: "Natchitoches",
         code: "us-la",
-        relative_radius: 0.5
+        relative_radius: 0.7
     },
     "needles": {
         name: "Needles",
@@ -1504,6 +1528,12 @@ var country_properties = {
         name_english: "Neodesha",
         code: "us-ks",
         relative_radius: 0.6
+    },
+    "new_orleans": {
+        name: "New Orleans",
+        name_english: "New Orleans",
+        code: "us-la",
+        relative_radius: 0.9
     },
     "newport": {
         name: "Newport",
@@ -1846,6 +1876,12 @@ var country_properties = {
         name_english: "Russelville",
         code: "us-ar",
         relative_radius: 0.5
+    },
+    "ruston": {
+        name: "Ruston",
+        name_english: "Ruston",
+        code: "us-la",
+        relative_radius: 0.6
     },
     "sac_city": {
         name: "Sac City",
@@ -2422,7 +2458,11 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "alexandria_la": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
+    },
+    "alexandria_q93": {
+        relative_whitenoise: 0.85
     },
     "algona": {
         relative_whitenoise: 0.95
@@ -2488,6 +2528,13 @@ var city_properties = {
     },
     "bassett": {
         relative_radius: 0.4,
+        relative_whitenoise: 0.95
+    },
+    "baton_rouge": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.95
+    },
+    "baton_rouge_lafayette": {
         relative_whitenoise: 0.95
     },
     "beatrice": {
@@ -2706,6 +2753,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "de_queen": {
+        relative_whitenoise: 0.95
+    },
+    "deridder": {
         relative_whitenoise: 0.95
     },
     "des_moines": {
@@ -3221,6 +3271,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "natchitoches": {
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "needles": {
@@ -3228,6 +3279,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "neodesha": {
+        relative_whitenoise: 0.95
+    },
+    "new_orleans": {
         relative_whitenoise: 0.95
     },
     "newport": {
@@ -3420,6 +3474,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "russelville": {
+        relative_whitenoise: 0.95
+    },
+    "ruston": {
         relative_whitenoise: 0.95
     },
     "sac_city": {
@@ -3797,9 +3854,25 @@ var cities = [
         "gameName": "alexandria_la",
         "realName": "Alexandria",
         "country": "alexandria_la",
-        "x": "17350.1",
-        "y": "64.9961",
-        "z": "42386.1"
+        "x": "16370.2",
+        "y": "60",
+        "z": "42174.1"
+    },
+    {
+        "gameName": "alexandria_la",
+        "realName": "Alexandria",
+        "country": "alexandria_q93",
+        "x": "16370.2",
+        "y": "60",
+        "z": "42174.1"
+    },
+    {
+        "gameName": "alexandria_q93",
+        "realName": "Alexandria",
+        "country": "alexandria_q93",
+        "x": "18475.9",
+        "y": "39.8889",
+        "z": "40750.6"
     },
     {
         "gameName": "algona",
@@ -3984,6 +4057,30 @@ var cities = [
         "x": "-14995.5",
         "y": "52.6483",
         "z": "-20549"
+    },
+    {
+        "gameName": "baton_rouge",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge",
+        "x": "24246",
+        "y": "59.0586",
+        "z": "46748.1"
+    },
+    {
+        "gameName": "baton_rouge",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge_lafayette",
+        "x": "24246",
+        "y": "59.0586",
+        "z": "46748.1"
+    },
+    {
+        "gameName": "baton_rouge_lafayette",
+        "realName": "Baton Rouge",
+        "country": "baton_rouge_lafayette",
+        "x": "23112.9",
+        "y": "41.9934",
+        "z": "47069.5"
     },
     {
         "gameName": "beatrice",
@@ -4632,6 +4729,14 @@ var cities = [
         "x": "8009.72",
         "y": "52.4887",
         "z": "25208.4"
+    },
+    {
+        "gameName": "deridder",
+        "realName": "DeRidder",
+        "country": "deridder",
+        "x": "13243.3",
+        "y": "53.5",
+        "z": "44826.5"
     },
     {
         "gameName": "des_moines",
@@ -5533,25 +5638,25 @@ var cities = [
         "gameName": "lafayette_la",
         "realName": "Lafayette",
         "country": "lafayette_la",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
+        "x": "18825",
+        "y": "56.293",
+        "z": "48891.2"
     },
     {
         "gameName": "lafayette_la",
         "realName": "Lafayette",
-        "country": "baton_rouge",
-        "x": "19753.2",
-        "y": "25.4653",
-        "z": "48213.6"
+        "country": "baton_rouge_lafayette",
+        "x": "18825",
+        "y": "56.293",
+        "z": "48891.2"
     },
     {
         "gameName": "lake_charles",
         "realName": "Lake Charles",
         "country": "lake_charles",
-        "x": "14587.6",
-        "y": "28.9116",
-        "z": "48573"
+        "x": "14221.5",
+        "y": "63.2617",
+        "z": "48493.7"
     },
     {
         "gameName": "lakeview",
@@ -5997,9 +6102,9 @@ var cities = [
         "gameName": "monroe",
         "realName": "Monroe",
         "country": "monroe",
-        "x": "18310.5",
-        "y": "34.1494",
-        "z": "35505.5"
+        "x": "18851.6",
+        "y": "51",
+        "z": "35732.5"
     },
     {
         "gameName": "monterey",
@@ -6045,9 +6150,17 @@ var cities = [
         "gameName": "natchitoches",
         "realName": "Natchitoches",
         "country": "natchitoches",
-        "x": "14267.8",
-        "y": "91.4961",
-        "z": "38305.5"
+        "x": "15110.3",
+        "y": "55.5",
+        "z": "40093.5"
+    },
+    {
+        "gameName": "natchitoches",
+        "realName": "Natchitoches",
+        "country": "alexandria_q93",
+        "x": "15110.3",
+        "y": "55.5",
+        "z": "40093.5"
     },
     {
         "gameName": "needles",
@@ -6072,6 +6185,14 @@ var cities = [
         "x": "1600.7",
         "y": "31.8317",
         "z": "9024.61"
+    },
+    {
+        "gameName": "new_orleans",
+        "realName": "New Orleans",
+        "country": "new_orleans",
+        "x": "29415.8",
+        "y": "56.293",
+        "z": "50645.9"
     },
     {
         "gameName": "newport",
@@ -6578,6 +6699,14 @@ var cities = [
         "z": "18646.2"
     },
     {
+        "gameName": "ruston",
+        "realName": "Ruston",
+        "country": "ruston",
+        "x": "15556.1",
+        "y": "42.5672",
+        "z": "35668.1"
+    },
+    {
         "gameName": "sac_city",
         "realName": "Sac City",
         "country": "sac_city",
@@ -6877,9 +7006,9 @@ var cities = [
         "gameName": "shreveport",
         "realName": "Shreveport",
         "country": "shreveport",
-        "x": "10027.9",
-        "y": "30.749",
-        "z": "35026.7"
+        "x": "10357.6",
+        "y": "56.293",
+        "z": "35396.8"
     },
     {
         "gameName": "sidney_ne",
@@ -10048,24 +10177,6 @@ var country_properties_c2c = {
         code: "us-ky",
         relative_radius: 0.7
     },
-    "louisiana": {
-        name: "louisiana",
-        name_english: "louisiana",
-        code: "us-la",
-        relative_radius: 0.8
-    },
-    "baton_rouge": {
-        name: "baton_rouge",
-        name_english: "baton_rouge",
-        code: "us-la",
-        relative_radius: 0.7
-    },
-    "new_orleans": {
-        name: "new_orleans",
-        name_english: "new_orleans",
-        code: "us-la",
-        relative_radius: 0.8
-    },
     "maine": {
         name: "maine",
         name_english: "maine",
@@ -10244,7 +10355,7 @@ var country_properties_c2c = {
         name: "gulfport_ms",
         name_english: "gulfport_ms",
         code: "us-ms",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "hattiesburg": {
         name: "hattiesburg",
@@ -11031,12 +11142,6 @@ var city_properties_c2c = {
     },
     "paducah": {
         relative_whitenoise: 0.85
-    },
-    "baton_rouge": {
-        relative_whitenoise: 0.85
-    },
-    "new_orleans": {
-        relative_whitenoise: 0.75
     },
     "augusta_me": {
         relative_whitenoise: 0.85
@@ -11889,22 +11994,6 @@ var cities_c2c = [
         "x": "35843.7",
         "y": "26.005",
         "z": "9181.52"
-    },
-    {
-        "gameName": "baton_rouge",
-        "realName": "Baton Rouge",
-        "country": "baton_rouge",
-        "x": "23112.9",
-        "y": "41.9934",
-        "z": "47069.5"
-    },
-    {
-        "gameName": "new_orleans",
-        "realName": "New Orleans",
-        "country": "new_orleans",
-        "x": "29456.7",
-        "y": "112.188",
-        "z": "50159.6"
     },
     {
         "gameName": "augusta_me",

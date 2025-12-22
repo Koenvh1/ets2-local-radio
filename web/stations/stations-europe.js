@@ -100,7 +100,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],*/
+    ],
     "halloween": [
         {
             name: "Halloween Radio",
@@ -172,7 +172,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],
+    ],*/
     "afghanistan": [
         {
             name: "Ariana FM",
@@ -2508,6 +2508,11 @@ var stations = {/*
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
             url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
+        },
+        {
+            name: "Jouluradio",
+            logo: "stations/images-europe/finland/Jouluradio.png",
+            url: "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8"
         },
         {
             name: "Järviradio",
