@@ -3963,7 +3963,7 @@ var stations = {
         {
             name: "ENERGY Sachsen",
             logo: "stations/images-europe/germany/Energy.png",
-            url: "https://streaming.nrjaudio.fm/ouw8dwsk6j4d"
+            url: "https://regiocast.streamabc.net/regc_nren36tvre_bunk-mp3-192-6739542"
         },
         {
             name: "Galaxy Sachsen",
