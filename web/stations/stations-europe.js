@@ -429,6 +429,11 @@ var stations = {
             logo: "stations/images-europe/armenia/Radio Jan.png",
             url: "http://s7.voscast.com:10258/;"
         },
+        {
+            name: "Yerevan FM",
+            logo: "stations/images-europe/armenia/Yerevan FM.png",
+            url: "https://eu1.stream4cast.com/proxy/arradioi/stream"
+        },
     ],
     "armenia_yerevan": [
         {
@@ -480,11 +485,6 @@ var stations = {
             name: "Radio Aurora 100.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
             url: "https://am.radioaurora.am/al.mp3"
-        },
-        {
-            name: "Yerevan FM 101.9",
-            logo: "stations/images-europe/armenia/yerevan/Yerevan FM 101.9.png",
-            url: "https://eu1.stream4cast.com/proxy/arradioi/stream?1648992323080"
         },
         {
             name: "Radio Van 103.1",
@@ -6863,6 +6863,11 @@ var stations = {
             url: "https://stream.newradio.md/stream"
         },
         {
+            name: "Radio Chișinău",
+            logo: "stations/images-europe/moldova/Radio Chișinău.png",
+            url: "http://95.65.9.171:8000/radiochisinau"
+        },
+        {
             name: "Radio Dar",
             logo: "stations/images-europe/moldova/Radio Dar.png",
             url: "http://188.138.191.214:8000/RadioDar"
@@ -6908,11 +6913,6 @@ var stations = {
             name: "Retro FM 89.1",
             logo: "stations/images-europe/moldova/chisinau/Retro FM 89.1.png",
             url: "https://efir.retrofm.md:8000/retro"
-        },
-        {
-            name: "Radio Chișinău 89.6",
-            logo: "stations/images-europe/moldova/chisinau/Radio Chișinău 89.6.png",
-            url: "http://95.65.9.171:8000/radiochisinau"
         },
         {
             name: "Aquarelle FM 90.7",
