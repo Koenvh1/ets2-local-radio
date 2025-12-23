@@ -921,6 +921,9 @@ var city_properties = {
     "artyk": {
         relative_radius: 1.7,
     },
+    "arvidsjaur": {
+        relative_radius: 1.2,
+    },
     "ashe": {
         relative_radius: 0.6,
     },
@@ -1353,9 +1356,6 @@ var city_properties = {
     "kaliningrad": {
         relative_radius: 0.45,
     },
-    "kalix": {
-        relative_radius: 0.45,
-    },
     "kamenomost": {
         relative_radius: 0.5,
     },
@@ -1379,6 +1379,9 @@ var city_properties = {
     },
     "kardla": {
         relative_radius: 0.6,
+    },
+    "karesuando": {
+        relative_radius: 1.15,
     },
     "karsamaki": {
         relative_radius: 0.55,
@@ -1953,6 +1956,9 @@ var city_properties = {
     "sundsvall": {
         relative_radius: 0.8,
     },
+    "suomussalmi": {
+        relative_radius: 0.6,
+    },
     "suwalki": {
         relative_radius: 0.6,
     },
@@ -2048,9 +2054,6 @@ var city_properties = {
     },
     "ulanude": {
         relative_radius: 1.2,
-    },
-    "umea": {
-        relative_radius: 0.5,
     },
     "uppsala": {
         relative_radius: 1.4,
@@ -5775,6 +5778,14 @@ var cities = [
         "z": "-65796.6"
     },
     {
+        "gameName": "suomussalmi",
+        "realName": "Suomussalmi",
+        "country": "finland",
+        "x": "49736.84",
+        "y": "77",
+        "z": "-83555.9"
+    },
+    {
         "gameName": "suwalki",
         "realName": "Suwałki",
         "country": "poland",
@@ -6514,6 +6525,14 @@ var cities_rusmap = [
         "z": "-89467.5"
     },
     {
+        "gameName": "khimki",
+        "realName": "Химки",
+        "country": "russia",
+        "x": "87717.91",
+        "y": "55.58594",
+        "z": "-41049.2"
+    },
+    {
         "gameName": "kholm",
         "realName": "Холм",
         "country": "russia",
@@ -6645,9 +6664,9 @@ var cities_rusmap = [
         "gameName": "moscow",
         "realName": "Москва",
         "country": "russia",
-        "x": "89175.6",
-        "y": "70.6719",
-        "z": "-39463.7"
+        "x": "89644.41",
+        "y": "45.83203",
+        "z": "-39792.41"
     },
     {
         "gameName": "mozir",
@@ -6984,6 +7003,14 @@ var cities_rusmap = [
         "x": "65397.11",
         "y": "57.47656",
         "z": "-32575.59"
+    },
+    {
+        "gameName": "vitino",
+        "realName": "Витино",
+        "country": "russia",
+        "x": "57669.54",
+        "y": "55.80859",
+        "z": "-95417.22"
     },
     {
         "gameName": "volgograd",
@@ -14415,6 +14442,14 @@ var cities_japan = [
 
 var cities_sibir = [
     {
+      "gameName": "abatskoe",
+      "realName": "Абатское",
+      "country": "russia",
+      "x": "175179.1",
+      "y": "158.3867",
+      "z": "-94620.88"
+    },
+    {
       "gameName": "akyar",
       "realName": "Акъяр",
       "country": "russia",
@@ -14631,6 +14666,14 @@ var cities_sibir = [
       "z": "-92069.98"
     },
     {
+      "gameName": "isilkul",
+      "realName": "Исилькуль",
+      "country": "russia",
+      "x": "183385.4",
+      "y": "186.7344",
+      "z": "-89899.18"
+    },
+    {
       "gameName": "isyang",
       "realName": "Исянгулово",
       "country": "russia",
@@ -14661,6 +14704,14 @@ var cities_sibir = [
       "x": "119299.2",
       "y": "81.40234",
       "z": "-55874.78"
+    },
+    {
+      "gameName": "krutinka",
+      "realName": "Крутинка",
+      "country": "russia",
+      "x": "179571.3",
+      "y": "171.8828",
+      "z": "-96536.22"
     },
     {
       "gameName": "kurgan",
@@ -14725,6 +14776,14 @@ var cities_sibir = [
       "x": "163268.5",
       "y": "163.5703",
       "z": "-75657.78"
+    },
+    {
+      "gameName": "moskalenky",
+      "realName": "Москаленки",
+      "country": "russia",
+      "x": "184335.3",
+      "y": "174.0273",
+      "z": "-91775.36"
     },
     {
       "gameName": "novotroitsk",
@@ -14853,6 +14912,14 @@ var cities_sibir = [
       "x": "161852.8",
       "y": "160.5078",
       "z": "-66048.72"
+    },
+    {
+      "gameName": "tukalinsk",
+      "realName": "Тюкалинск",
+      "country": "russia",
+      "x": "182451.4",
+      "y": "173.8867",
+      "z": "-97651.61"
     },
     {
       "gameName": "tulgan",
@@ -16054,9 +16121,9 @@ var cities_trans_siberian = [
       "gameName": "omsk",
       "realName": "Омск",
       "country": "russia",
-      "x": "186725.5",
-      "y": "161.2695",
-      "z": "-95522.56"
+      "x": "189787.8",
+      "y": "168.6328",
+      "z": "-99013.02"
     },
     {
       "gameName": "pzabai",
