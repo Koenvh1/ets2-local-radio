@@ -14414,8 +14414,8 @@ var stations = {
         },
         {
             name: "1240 KSAM",
-            logo: "stations/images-america/kalispell/102.7 KSAM.png",
-            url: "http://ice23.securenetsystems.net/KSAMAM"
+            logo: "stations/images-america/kalispell/102.7 Outlaw Country.png",
+            url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/KHNK"
         },
         {
             name: "1340 KQDE",
@@ -52035,7 +52035,7 @@ var stations = {
         },
         {
             name: "Latina 106.5",
-            logo: "stations/images-america/c2c/allentown_pa/Latina 92.1.png",
+            logo: "stations/images-america/c2c/allentown_pa/Latina 106.5.png",
             url: "https://radiordomi.com/8708/stream"
         },
         {
@@ -57109,7 +57109,7 @@ var stations = {
         },
         {
             name: "107.1 WPSK XL",
-            logo: "stations/images-america/c2c/wytheville_va/107.1 WPSK XL.png",
+            logo: "stations/images-america/c2c/wytheville_va/107.1 WPSK.png",
             url: "https://ice26.securenetsystems.net/WPSK"
         },
     ],
