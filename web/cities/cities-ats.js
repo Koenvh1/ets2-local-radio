@@ -1547,6 +1547,12 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "oberlin_la": {
+        name: "Oberlin",
+        name_english: "Oberlin",
+        code: "us-la",
+        relative_radius: 0.8
+    },
     "odessa": {
         name: "Odessa",
         name_english: "Odessa",
@@ -3082,7 +3088,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lafayette_la": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lake_charles": {
         relative_whitenoise: 0.95
@@ -3281,6 +3287,10 @@ var city_properties = {
     },
     "north_platte": {
         relative_whitenoise: 0.95
+    },
+    "oberlin_la": {
+        relative_radius: 0.3,
+        relative_whitenoise: 0.85
     },
     "odessa": {
         relative_radius: 0.6,
@@ -6182,6 +6192,14 @@ var cities = [
         "x": "-20265.6",
         "y": "79.8008",
         "z": "-12950.8"
+    },
+    {
+        "gameName": "oberlin_la",
+        "realName": "Oberlin",
+        "country": "lafayette_la",
+        "x": "15993",
+        "y": "10.3678",
+        "z": "46324.7"
     },
     {
         "gameName": "odessa",
