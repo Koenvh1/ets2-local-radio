@@ -6524,7 +6524,7 @@ var stations = {
         },
         {
             name: "RTL Today",
-            logo: "stations/images-europe/germany/RTL Today.png",
+            logo: "stations/images-europe/luxembourg/RTL Today.png",
             url: "https://stream.rtl.lu/data/live/radio/rtltoday/playlist.m3u8"
         },
         {
