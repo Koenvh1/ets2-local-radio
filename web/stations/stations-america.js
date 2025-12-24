@@ -5323,7 +5323,7 @@ var stations = {
         {
             name: "Rewind 93.3",
             logo: "stations/images-america/clovis/Rewind 93.3.png",
-            url: "https://stream.rcast.net/70249"
+            url: "https://443-1.autopo.st/227/krwd251102"
         },
         {
             name: "3ABN 93.9",
@@ -5346,9 +5346,9 @@ var stations = {
             url: "https://streaming.live365.com/a32900"
         },
         {
-            name: "104.7 K284DA",
-            logo: "stations/images-america/clovis/Rewind 93.3.png",
-            url: "http://stream.rcast.net/70249"
+            name: "104.7 The Bull",
+            logo: "stations/images-america/clovis/104.7 The Bull.png",
+            url: "http://443-1.autopo.st/227/thebull"
         },
         {
             name: "KSEL Country 105.9",
