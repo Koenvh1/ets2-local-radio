@@ -9925,8 +9925,8 @@ var stations = {
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdutfmaac-ibc4"
         },
         {
-            name: "Christmas 103",
-            logo: "stations/images-america/salt_lake/Christmas 103.png",
+            name: "Coast 103.1",
+            logo: "stations/images-america/salt_lake/Coast 103.1.png",
             url: "https://ais-sa3.cdnstream1.com/2284_96.aac"
         },
         {
@@ -25531,8 +25531,8 @@ var stations = {
             url: "https://lds.msvdn.net/icecastRelay/101155/40TKLCJ/icecast"
         },
         {
-            name: "Christmas 103",
-            logo: "stations/images-america/salt_lake/Christmas 103.png",
+            name: "Coast 103.1",
+            logo: "stations/images-america/salt_lake/Coast 103.1.png",
             url: "https://ais-sa3.cdnstream1.com/2284_96.aac"
         },
         {
