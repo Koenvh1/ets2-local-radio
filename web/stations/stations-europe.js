@@ -2181,6 +2181,11 @@ var stations = {
             logo: "stations/images-europe/denmark/The Voice.png",
             url: "https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3"
         },
+        {
+            name: "VLR",
+            logo: "stations/images-europe/denmark/VLR.png",
+            url: "https://netradio.vlr.dk/vlr8d"
+        },
     ],
     "egypt": [
         {

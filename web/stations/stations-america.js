@@ -414,7 +414,7 @@ var stations = {
         {
             name: "NewsTalk 1560",
             logo: "stations/images-america/abilene/NewsTalk 1560.png",
-            url: "https://stream.aiir.com/coy3dsm4pbyuv"
+            url: "http://stream.aiir.com/coy3dsm4pbyuv"
         },
     ],
     "alamogordo": [
@@ -588,7 +588,7 @@ var stations = {
         {
             name: "104.1 K281BC",
             logo: "stations/images-america/alamosa/KSPK 100.3.png",
-            url: "http://stream.kspk.com:8000/live.mp3"
+            url: "http://stream.kspk.com:8000/live.mp3?"
         },
         {
             name: "VCY America 106.5",
@@ -17427,7 +17427,7 @@ var stations = {
         {
             name: "105.1 KKGO-HD2",
             logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a28050"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a28050?"
         },
         {
             name: "105.1-HD4 The Surf",
@@ -18196,7 +18196,7 @@ var stations = {
         {
             name: "IPR News 91.5",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "http://news-stream.iowapublicradio.org/News.mp3"
+            url: "https://news-stream.iowapublicradio.org/News.mp3"
         },
         {
             name: "Kinship Christian Radio 92.5",
@@ -18266,7 +18266,7 @@ var stations = {
         {
             name: "IPR News 640",
             logo: "stations/images-america/0_general_logos/Iowa Public Radio.png",
-            url: "https://news-stream.iowapublicradio.org/News.mp3"
+            url: "https://news-stream.iowapublicradio.org/News.mp3?"
         },
         {
             name: "Real Presence Radio 970",
@@ -19304,11 +19304,6 @@ var stations = {
             url: "http://ice9.securenetsystems.net/KKVUHD3"
         },
         {
-            name: "105.5 KFGM",
-            logo: "stations/images-america/missoula/105.5 KFGM.png",
-            url: "https://s4.radio.co/s136b8d11e/listen"
-        },
-        {
             name: "106.7 KXDR",
             logo: "stations/images-america/missoula/106.7 KXDR.png",
             url: "https://sc9coolradio.maindigitalstream.com/ssl/KXDR"
@@ -19953,7 +19948,7 @@ var stations = {
         {
             name: "101.1 K266BD",
             logo: "stations/images-america/monterey/105.1 K-Ocean.png",
-            url: "https://stream.revma.ihrhls.com/zc3639/hls.m3u8"
+            url: "http://stream.revma.ihrhls.com/zc3639/hls.m3u8"
         },
         {
             name: "101.7 The Beach",
@@ -25860,9 +25855,9 @@ var stations = {
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktfmhd2aac-ibc4"
         },
         {
-            name: "WE 94.5",
-            logo: "stations/images-america/san_antonio/WE 94.5.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktfmhd2aac-ibc4"
+            name: "94.5 K233DB",
+            logo: "stations/images-america/san_antonio/ESPN 1250.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kzdcamaac-ibc4"
         },
         {
             name: "Amor 95.1",
@@ -37787,11 +37782,6 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://ice66.securenetsystems.net/RNB941"
         },
         {
-            name: "94.1 W231DH",
-            logo: "stations/images-america/c2c/gainesville_fl/Magic 101.3.png",
-            url: "http://84.32.44.251/index.php?u=https://ice66.securenetsystems.net/WTMG"
-        },
-        {
             name: "GHQ 95.3",
             logo: "stations/images-america/c2c/gainesville_fl/GHQ 95.3.png",
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7269_48k.aac"
@@ -39248,7 +39238,7 @@ var stations = {
         {
             name: "101.1 WJRR-HD2",
             logo: "stations/images-america/c2c/orlando_fl/96.9 The Game.png",
-            url: "http://stream.revma.ihrhls.com/zc601/hls.m3u8"
+            url: "https:///stream.revma.ihrhls.com/zc601/hls.m3u8"
         },
         {
             name: "ALT 101.1-HD3",
@@ -42408,7 +42398,7 @@ var stations = {
         {
             name: "102.5 W273DR",
             logo: "stations/images-america/c2c/springfield_il/WMAY.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
         },
         {
             name: "WDBR 103.7",
@@ -44307,7 +44297,7 @@ var stations = {
         {
             name: "The Bet 1300",
             logo: "stations/images-america/c2c/baltimore_md/The Bet 1300.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wjzamaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wjzamaac-imc"
         },
         {
             name: "Spirit 1400",
@@ -47470,7 +47460,7 @@ var stations = {
         {
             name: "WABY 900",
             logo: "stations/images-america/c2c/albany_ny/93.9 WABY.png",
-            url: "https://stream.radiojar.com/64pdhr32pbruv"
+            url: "http://stream.radiojar.com/64pdhr32pbruv"
         },
         {
             name: "FOX Sports 980",
@@ -48648,7 +48638,7 @@ var stations = {
         {
             name: "96.1 W241DG",
             logo: "stations/images-america/c2c/rochester_ny/WHAM 1180.png",
-            url: "https://stream.revma.ihrhls.com/zc1505"
+            url: "http://stream.revma.ihrhls.com/zc1505"
         },
         {
             name: "96.5 WCMF",
@@ -48788,7 +48778,7 @@ var stations = {
         {
             name: "1040 WYSL",
             logo: "stations/images-america/c2c/rochester_ny/WYSL.png",
-            url: "https://listen.warpradio.com:8005/WYSL"
+            url: "https://listen.warpradio.com:8005/WYSL?"
         },
         {
             name: "CJ Country 1140",
@@ -53574,7 +53564,7 @@ var stations = {
         {
             name: "1550 WITK",
             logo: "stations/images-america/c2c/scranton_pa/1550 WITK.png",
-            url: "https://ice10.securenetsystems.net/WITK"
+            url: "http://ice10.securenetsystems.net/WITK"
         },
     ],
     "providence": [
@@ -57376,9 +57366,9 @@ var stations = {
             url: "https://us3.streamingpulse.com/ssl/WVGVFM"
         },
         {
-            name: "Froggy 92.7",
-            logo: "stations/images-america/c2c/clarksburg_wv/Froggy 92.7.png",
-            url: "https://live.amperwave.net/manifest/wvradio-wfbyfmaac-ibc2"
+            name: "92.7 WGIE",
+            logo: "stations/images-america/c2c/clarksburg_wv/92.7 WGIE.png",
+            url: "https://www.tundracast.stream/1474336000010958003/mount1"
         },
         {
             name: "FUN 93.1",
@@ -61213,7 +61203,7 @@ var stations = {
         {
             name: "Sortir FM 106.9",
             logo: "stations/images-america/canada/quebec/Sortir FM 106.9.png",
-            url: "http://69.67.15.163:8000/stream"
+            url: "http://69.67.15.163:8000/stream?"
         },
         {
             name: "107.5 Rouge",
@@ -63243,7 +63233,7 @@ var stations = {
         {
             name: "Paraíso 92.9",
             logo: "stations/images-america/caribbean/puerto_rico/mayagüez/Paraíso 92.9.png",
-            url: "http://s3.voscast.com:7720/stream"
+            url: "https://stream.eleden.com:8240/wtpm.aac"
         },
         {
             name: "Radio Isla 93.5",
@@ -63656,7 +63646,7 @@ var stations = {
         {
             name: "WUKQ 98.7",
             logo: "stations/images-america/caribbean/puerto_rico/KQ 105.png",
-            url: "http://84.32.44.251/index.php?u=https://televicentro.streamguys1.com/wkaqfm-icy?key=a548fad34362b181adc2d8c3cc86b7cf1d424ef2d81c4050b3e6e1ba21f8de3d"
+            url: "http://84.32.44.251/index.php?u=http://televicentro.streamguys1.com/wkaqfm-icy?key=a548fad34362b181adc2d8c3cc86b7cf1d424ef2d81c4050b3e6e1ba21f8de3d"
         },
         {
             name: "Salsoul 99.1",
