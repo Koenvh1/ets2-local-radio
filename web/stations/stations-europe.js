@@ -4326,8 +4326,8 @@ var stations = {
             url: "https://mp3.harmonyfm.de/harmonyfm/hqlivestream.aac"
         },
         {
-            name: "kölschMUSIK FM",
-            logo: "stations/images-america/0_general_logos/placeholder.png",
+            name: "Kölsch Radio",
+            logo: "stations/images-europe/germany-wdr/Kölsch Radio.png",
             url: "https://frontend.streamonkey.net/kulthitradio-nrw"
         },
         {
@@ -5496,6 +5496,78 @@ var stations = {
             logo: "stations/images-europe/iceland/X977.png",
             url: "https://live.visir.is/hls-radio/x977/playlist.m3u8"
         },
+    ],
+    "indonesia": [
+        {
+            name: "RRI Pro 1",
+            logo: "stations/images-europe/indonesia/RRI Pro 1.png",
+            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3"
+        },
+        {
+            name: "RRI Pro 2",
+            logo: "stations/images-europe/indonesia/RRI Pro 2.png",
+            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3"
+        },
+        {
+            name: "RRI Pro 3",
+            logo: "stations/images-europe/indonesia/RRI Pro 3.png",
+            url: "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3"
+        },
+        {
+            name: "RRI Pro 4",
+            logo: "stations/images-europe/indonesia/RRI Pro 4.png",
+            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3"
+        },
+        {
+            name: "Delta FM",
+            logo: "stations/images-europe/indonesia/Delta FM.png",
+            url: "https://s1.cloudmu.id/listen/delta_fm/radio.mp3"
+        },
+        {
+            name: "Elshinta",
+            logo: "stations/images-europe/indonesia/Elshinta.png",
+            url: "https://stream-ssl.arenastreaming.com:8000/jakarta"
+        },
+        {
+            name: "iSwara",
+            logo: "stations/images-europe/indonesia/iSwara.png",
+            url: "https://stream.radiojar.com/4ywdgup3bnzuv"
+        },
+        {
+            name: "MNC Trijaya FM",
+            logo: "stations/images-europe/indonesia/MNC Trijaya FM.png",
+            url: "https://stream.roov.id:8060/;"
+        },
+        {
+            name: "Pop FM",
+            logo: "stations/images-europe/indonesia/Pop FM.png",
+            url: "https://i.klikhost.com/8272/stream"
+        },
+        {
+            name: "Prambors",
+            logo: "stations/images-europe/indonesia/Prambors.png",
+            url: "https://s2.cloudmu.id/listen/prambors/radio.aac"
+        },
+        {
+            name: "Radio Rodja",
+            logo: "stations/images-europe/indonesia/Radio Rodja.png",
+            url: "https://live2.radiorodja.com/rodja.mp3"
+        },
+        {
+            name: "Radio Sonora FM",
+            logo: "stations/images-europe/indonesia/Radio Sonora FM.png",
+            url: "https://cast1.my-control-panel.com/proxy/radioso1/stream"
+        },
+        {
+            name: "RDI",
+            logo: "stations/images-europe/indonesia/RDI.png",
+            url: "https://stream.roov.id:8062/;"
+        },
+        {
+            name: "Smart FM",
+            logo: "stations/images-europe/indonesia/Smart FM.png",
+            url: "https://cast2.my-control-panel.com/proxy/radioso3/stream"
+        }
     ],
     "iom": [
         {
@@ -9363,11 +9435,6 @@ var stations = {
             name: "BIG FM",
             logo: "stations/images-europe/thailand/BIG FM.png",
             url: "http://media.login.in.th:8195/;stream.mp3"
-        },
-        {
-            name: "Goodtime Radio",
-            logo: "stations/images-europe/thailand/Goodtime Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/GOODTIME_RADIOAAC_SC"
         },
         {
             name: "ลูกทุ่งเน็ตเวิร์ก",

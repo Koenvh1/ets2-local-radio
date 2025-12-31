@@ -449,6 +449,12 @@ var country_properties = {
         code: "is",
         relative_radius: 1,
     },
+    "indonesia": {
+        name: "Indonesia",
+        name_english: "Indonesia",
+        code: "id",
+        relative_radius: 0.6,
+    },
     "iom": {
         name: "Isle of Man",
         name_english: "Isle of Man",
@@ -1072,6 +1078,9 @@ var city_properties = {
     },
     "cieszyn": {
         relative_radius: 0.7,
+    },
+    "cilegon": {
+        relative_radius: 1.1,
     },
     "corfu": {
         relative_radius: 0.7,
@@ -2016,6 +2025,9 @@ var city_properties = {
     },
     "tanabru": {
         relative_radius: 0.4,
+    },
+    "tangerang": {
+        relative_radius: 1.2,
     },
     "taurage": {
         relative_radius: 0.5,
@@ -18312,6 +18324,73 @@ var cities_amur = [
     },
 ];
 
+var cities_jrr = [
+    {
+        "gameName": "bekasi",
+        "realName": "Bekasi",
+        "country": "indonesia",
+        "x": "624052.4",
+        "y": "61.125",
+        "z": "-68191.47"
+    },
+    {
+        "gameName": "bogor",
+        "realName": "Bogor",
+        "country": "indonesia",
+        "x": "627204.2",
+        "y": "70.42188",
+        "z": "-64102.55"
+    },
+    {
+        "gameName": "cilegon",
+        "realName": "Cilegon",
+        "country": "indonesia",
+        "x": "619419.6",
+        "y": "64.57422",
+        "z": "-58596"
+    },
+    {
+        "gameName": "depok",
+        "realName": "Depok",
+        "country": "indonesia",
+        "x": "626196.8",
+        "y": "70.42188",
+        "z": "-65210.17"
+    },
+    {
+        "gameName": "jakarta",
+        "realName": "Jakarta",
+        "country": "indonesia",
+        "x": "623356.9",
+        "y": "60",
+        "z": "-65776.02"
+    },
+    {
+        "gameName": "merak",
+        "realName": "Merak",
+        "country": "indonesia",
+        "x": "618216.3",
+        "y": "63.86328",
+        "z": "-60068.41"
+    },
+    {
+        "gameName": "serpong",
+        "realName": "Ciputat",
+        "country": "indonesia",
+        "x": "625214.7",
+        "y": "70.42188",
+        "z": "-64305.92"
+    },
+    {
+        "gameName": "tangerang",
+        "realName": "Tangerang",
+        "country": "indonesia",
+        "x": "623137.9",
+        "y": "66.74609",
+        "z": "-63514.29"
+    },
+];
+
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
@@ -18333,8 +18412,8 @@ cities = cities.concat(cities_kz); //The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
 cities = cities.concat(cities_japan); //AfroMap
 cities = cities.concat(cities_tsm); //TruckSim-Map
-cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v4.7)
-cities = cities.concat(cities_roextended_ua); //RoExtended UA/RU/BY (v4.7)
+cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v4.9)
+cities = cities.concat(cities_roextended_ua); //RoExtended UA/RU/BY (v4.9)
 //cities = cities.concat(cities_roex_pm_ua_common); //RoExtended/ProMods Ukraine common area
 cities = cities.concat(cities_open_spaces); //Northern Open Spaces
 //cities = cities.concat(cities_yks_turkey); //YKS Turkey
@@ -18356,3 +18435,4 @@ cities = cities.concat(cities_trans_siberian) // Trans-Siberian Truckway
 cities = cities.concat(cities_beyond) // Beyond by TerraMaps
 cities = cities.concat(cities_ural) // Ural Map
 cities = cities.concat(cities_amur); // Amur Map
+cities = cities.concat(cities_jrr); // Java Road Revolution
