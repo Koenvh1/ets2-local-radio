@@ -3975,11 +3975,6 @@ var stations = {
             url: "https://ais-sa8.cdnstream1.com/p56c0aeabim/ccw6g26tn8g"
         },
         {
-            name: "730 Gold",
-            logo: "stations/images-america/colby/730 Gold.png",
-            url: "https://ice42.securenetsystems.net/KLOE"
-        },
-        {
             name: "Freedom 760",
             logo: "stations/images-america/denver/Freedom 93.7.png",
             url: "https://stream.revma.ihrhls.com/zc381/hls.m3u8"
@@ -5538,11 +5533,6 @@ var stations = {
             name: "KFRM 550",
             logo: "stations/images-america/salina_ks/KFRM 550.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFRMAMAAC_SC"
-        },
-        {
-            name: "730 Gold",
-            logo: "stations/images-america/colby/730 Gold.png",
-            url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
             name: "KXXX 790",
@@ -7923,12 +7913,12 @@ var stations = {
             name: "91.5 KDRD",
             logo: "stations/images-america/0_general_logos/KHCB.png",
             url: "https://khcb.streamguys1.com/live-128k-mp3"
-        },
+        },/*
         {
             name: "KROK 95.7",
             logo: "stations/images-america/deridder/KROK 95.7.png",
             url: "https://ice41.securenetsystems.net/KROK"
-        },
+        },*/
         {
             name: "97.9 Nash Icon",
             logo: "stations/images-america/lake_charles/97.9 Nash Icon.png",
@@ -7943,7 +7933,7 @@ var stations = {
             name: "K-LOVE 104.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
+        },/*
         {
             name: "Today's Country 105.7",
             logo: "stations/images-america/deridder/Today's Country 105.7.png",
@@ -7953,7 +7943,7 @@ var stations = {
             name: "Mix 106.7",
             logo: "stations/images-america/deridder/Mix 106.7.png",
             url: "https://ice41.securenetsystems.net/KUMX"
-        },
+        },*/
         {
             name: "560 KLVI",
             logo: "stations/images-america/beaumont/560 KLVI.png",
@@ -9485,12 +9475,12 @@ var stations = {
             name: "The Gospel Station 93.1",
             logo: "stations/images-america/0_general_logos/The Gospel Station.png",
             url: "https://thegospelstation.streamguys1.com/live"
-        },
+        },/*
         {
             name: "My 95.7",
             logo: "stations/images-america/enid/My 95.7.png",
             url: "https://ice8.securenetsystems.net/KXLS"
-        },
+        },*/
         {
             name: "97.7 The Hawk",
             logo: "stations/images-america/enid/97.7 The Hawk.png",
@@ -33126,11 +33116,6 @@ var stations = {
             name: "106.9 K295CS",
             logo: "stations/images-america/wray/KRDZ 1440.png",
             url: "https:///www.ophanim.net:8444/s/7410"
-        },
-        {
-            name: "730 Gold",
-            logo: "stations/images-america/colby/730 Gold.png",
-            url: "https://ice42.securenetsystems.net/KLOE"
         },
         {
             name: "1010 KSIR",
