@@ -461,6 +461,12 @@ var country_properties = {
         code: "im",
         relative_radius: 0.5,
     },
+    "iqaluit": {
+        name: "Iqaluit",
+        name_english: "Iqaluit",
+        code: "ca-nu",
+        relative_radius: 1,
+    },
     "iran": {
         name: "ایران",
         name_english: "Iran",
@@ -18391,6 +18397,225 @@ var cities_jrr = [
     },
 ];
 
+var cities_sfigc = [
+    {
+        "gameName": "apex",
+        "realName": "Apex",
+        "country": "iqaluit",
+        "x": "-157954",
+        "y": "78.94141",
+        "z": "-183007.9"
+    },
+    {
+        "gameName": "brae",
+        "realName": "Brae",
+        "country": "shetland",
+        "x": "-30136.8",
+        "y": "110.1563",
+        "z": "-77157.3"
+    },
+    {
+        "gameName": "frodsba",
+        "realName": "Froðba",
+        "country": "faroe",
+        "x": "-50025.15",
+        "y": "62.59375",
+        "z": "-74024.72"
+    },
+    {
+        "gameName": "gloup",
+        "realName": "Gloup",
+        "country": "shetland",
+        "x": "-28456.94",
+        "y": "112.0313",
+        "z": "-79166.83"
+    },
+    {
+        "gameName": "grutness",
+        "realName": "Grutness",
+        "country": "shetland",
+        "x": "-30594.54",
+        "y": "108.8438",
+        "z": "-74078.02"
+    },
+    {
+        "gameName": "gutcher",
+        "realName": "Gutcher",
+        "country": "shetland",
+        "x": "-28301.31",
+        "y": "112.0664",
+        "z": "-78776.45"
+    },
+    {
+        "gameName": "husavik",
+        "realName": "Húsavík",
+        "country": "faroe",
+        "x": "-50301.42",
+        "y": "65.3125",
+        "z": "-77400.74"
+    },
+    {
+        "gameName": "hvalba",
+        "realName": "Hvalba",
+        "country": "faroe",
+        "x": "-51358.65",
+        "y": "62.59375",
+        "z": "-74536.58"
+    },
+    {
+        "gameName": "iqaluit",
+        "realName": "Iqaluit",
+        "country": "iqaluit",
+        "x": "-158031.1",
+        "y": "78.94141",
+        "z": "-183283.1"
+    },
+    {
+        "gameName": "itorqomt",
+        "realName": "Ittoqqortoormiit",
+        "country": "greenland",
+        "x": "-56779.94",
+        "y": "77.76953",
+        "z": "-132616.1"
+    },
+    {
+        "gameName": "kulusuk",
+        "realName": "Kulusuk",
+        "country": "greenland",
+        "x": "-98579.69",
+        "y": "77.75781",
+        "z": "-128887.4"
+    },
+    {
+        "gameName": "kuummiit",
+        "realName": "Kuummiit",
+        "country": "greenland",
+        "x": "-97560.98",
+        "y": "77.75781",
+        "z": "-130557.9"
+    },
+    {
+        "gameName": "lerwick",
+        "realName": "Lerwick",
+        "country": "shetland",
+        "x": "-30340.71",
+        "y": "114.8086",
+        "z": "-75768.77"
+    },
+    {
+        "gameName": "lopra",
+        "realName": "Lopra",
+        "country": "faroe",
+        "x": "-50005.41",
+        "y": "62.59375",
+        "z": "-73123.83"
+    },
+    {
+        "gameName": "mid_yell",
+        "realName": "Mid Yell",
+        "country": "shetland",
+        "x": "-28979.2",
+        "y": "112.0898",
+        "z": "-78551.72"
+    },
+    {
+        "gameName": "nanortalik",
+        "realName": "Nanortalik",
+        "country": "greenland",
+        "x": "-138771.5",
+        "y": "78.85938",
+        "z": "-119644.9"
+    },
+    {
+        "gameName": "porkeri",
+        "realName": "Porkeri",
+        "country": "faroe",
+        "x": "-50233.16",
+        "y": "62.59375",
+        "z": "-73678.75"
+    },
+    {
+        "gameName": "sandness",
+        "realName": "Sandness",
+        "country": "shetland",
+        "x": "-31367.48",
+        "y": "112.8672",
+        "z": "-76735.47"
+    },
+    {
+        "gameName": "sandvik",
+        "realName": "Sandvík",
+        "country": "faroe",
+        "x": "-51513.36",
+        "y": "62.59375",
+        "z": "-74831.03"
+    },
+    {
+        "gameName": "skopun",
+        "realName": "Skopun",
+        "country": "faroe",
+        "x": "-50842.39",
+        "y": "64.68359",
+        "z": "-77919.39"
+    },
+    {
+        "gameName": "sumba",
+        "realName": "Sumba",
+        "country": "faroe",
+        "x": "-49945.78",
+        "y": "62.59375",
+        "z": "-72735.58"
+    },
+    {
+        "gameName": "tasiilaq",
+        "realName": "Tasiilaq",
+        "country": "greenland",
+        "x": "-99809.9",
+        "y": "77.75781",
+        "z": "-129688.4"
+    },
+    {
+        "gameName": "tasiusaq",
+        "realName": "Tasiusaq",
+        "country": "greenland",
+        "x": "-136746.4",
+        "y": "75.63672",
+        "z": "-119556"
+    },
+    {
+        "gameName": "toft",
+        "realName": "Toft",
+        "country": "shetland",
+        "x": "-29770.07",
+        "y": "110.1563",
+        "z": "-77601.41"
+    },
+    {
+        "gameName": "trongisva",
+        "realName": "Trongisvágur",
+        "country": "faroe",
+        "x": "-50607.59",
+        "y": "63.47656",
+        "z": "-74109.84"
+    },
+    {
+        "gameName": "ulsta",
+        "realName": "Ulsta",
+        "country": "shetland",
+        "x": "-29320.07",
+        "y": "112.9102",
+        "z": "-77726.69"
+    },
+    {
+        "gameName": "vagur",
+        "realName": "Vágur",
+        "country": "faroe",
+        "x": "-50285.31",
+        "y": "62.59375",
+        "z": "-73262.34"
+    },
+];
+
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
 cities = cities.concat(cities_pm240); //ProMods 2.40 cities
@@ -18436,3 +18661,4 @@ cities = cities.concat(cities_beyond) // Beyond by TerraMaps
 cities = cities.concat(cities_ural) // Ural Map
 cities = cities.concat(cities_amur); // Amur Map
 cities = cities.concat(cities_jrr); // Java Road Revolution
+cities = cities.concat(cities_sfigc); // SFIGC
