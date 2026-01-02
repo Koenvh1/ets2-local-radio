@@ -1641,8 +1641,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1325/hls.m3u8"
         },
         {
-            name: "Santa Baby 1180",
-            logo: "stations/images-america/omaha/Santa Baby 1180.png",
+            name: "Yacht Rock 1180",
+            logo: "stations/images-america/omaha/Yacht Rock 1180.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
         },
     ],
@@ -21482,8 +21482,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc1325/hls.m3u8"
         },
         {
-            name: "Santa Baby 1180",
-            logo: "stations/images-america/omaha/Santa Baby 1180.png",
+            name: "Yacht Rock 1180",
+            logo: "stations/images-america/omaha/Yacht Rock 1180.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZOTAMAAC_SC"
         },
         {
@@ -21663,8 +21663,8 @@ var stations = {
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kfbdfmaac-ibc2"
         },
         {
-            name: "98.7 The Cove",
-            logo: "stations/images-america/osage_beach/98.7 The Cove.png",
+            name: "98.7 FOX Sports",
+            logo: "stations/images-america/osage_beach/98.7 FOX Sports.png",
             url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/THECOVE"
         },
         {
