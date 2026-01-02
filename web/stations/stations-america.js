@@ -13587,11 +13587,6 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KGAY"
         },
         {
-            name: "103.1 KMEE-HD2",
-            logo: "stations/images-america/indio/KGAY.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net//KGAY"
-        },
-        {
             name: "Fuego 103.5",
             logo: "stations/images-america/0_general_logos/Fuego.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPSTFMAAC_SC"
@@ -13622,9 +13617,9 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KPLM"
         },
         {
-            name: "KGAY 106.5",
-            logo: "stations/images-america/indio/KGAY.png",
-            url: "http://84.32.44.251/index.php?u=https:///ice9.securenetsystems.net/KGAY"
+            name: "Sunny 106.5",
+            logo: "stations/images-america/indio/Sunny 106.5.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://ice41.securenetsystems.net/KMEE"
         },
         {
             name: "106.9 The Eagle",
