@@ -18397,6 +18397,73 @@ var cities_jrr = [
     },
 ];
 
+var cities_jrr_b = [
+    {
+        "gameName": "bekasi",
+        "realName": "Bekasi",
+        "country": "indonesia",
+        "x": "635990.1",
+        "y": "61.125",
+        "z": "-68515.49"
+    },
+    {
+        "gameName": "bogor",
+        "realName": "Bogor",
+        "country": "indonesia",
+        "x": "639141.9",
+        "y": "70.42188",
+        "z": "-64426.58"
+    },
+    {
+        "gameName": "cilegon",
+        "realName": "Cilegon",
+        "country": "indonesia",
+        "x": "631357.3",
+        "y": "64.57422",
+        "z": "-58920.03"
+    },
+    {
+        "gameName": "depok",
+        "realName": "Depok",
+        "country": "indonesia",
+        "x": "638134.5",
+        "y": "70.42188",
+        "z": "-65534.2"
+    },
+    {
+        "gameName": "jakarta",
+        "realName": "Jakarta",
+        "country": "indonesia",
+        "x": "635294.6",
+        "y": "60",
+        "z": "-66100.04"
+    },
+    {
+        "gameName": "merak",
+        "realName": "Merak",
+        "country": "indonesia",
+        "x": "630153.9",
+        "y": "63.86328",
+        "z": "-60392.44"
+    },
+    {
+        "gameName": "serpong",
+        "realName": "Ciputat",
+        "country": "indonesia",
+        "x": "637152.4",
+        "y": "70.42188",
+        "z": "-64629.94"
+    },
+    {
+        "gameName": "tangerang",
+        "realName": "Tangerang",
+        "country": "indonesia",
+        "x": "635075.6",
+        "y": "66.74609",
+        "z": "-63838.31"
+    },
+];
+
 var cities_sfigc = [
     {
         "gameName": "apex",
@@ -18660,5 +18727,6 @@ cities = cities.concat(cities_trans_siberian) // Trans-Siberian Truckway
 cities = cities.concat(cities_beyond) // Beyond by TerraMaps
 cities = cities.concat(cities_ural) // Ural Map
 cities = cities.concat(cities_amur); // Amur Map
-cities = cities.concat(cities_jrr); // Java Road Revolution
+cities = cities.concat(cities_jrr); // Java Road Revolution (default background)
+//cities = cities.concat(cities_jrr_b); // Java Road Revolution (ProMods background)
 cities = cities.concat(cities_sfigc); // SFIGC
