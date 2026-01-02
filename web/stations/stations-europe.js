@@ -4066,11 +4066,6 @@ var stations = {
             url: "https://streams-sachsen.energy.de/nrj-sachsen-live/mp3-192/homepage/"
         },
         {
-            name: "Galaxy Sachsen",
-            logo: "stations/images-europe/germany-br/Radio Galaxy.png",
-            url: "https://frontend.streamonkey.net/fhn-galaxysachsen/stream/mp3"
-        },
-        {
             name: "Hitradio RTL",
             logo: "stations/images-europe/germany-sachsen/Hitradio RTL.png",
             url: "https://web.radio.hitradio-rtl.de/hrrtl-dresden"
@@ -9414,22 +9409,22 @@ var stations = {
         {
             name: "Радиои Тоҷикистон",
             logo: "stations/images-europe/tajikistan/Радиои Тоҷикистон.png",
-            url: "http://185.121.1.27:8000/tojikiston"
+            url: "http://89.168.75.18/redir/mediabay/122.m3u8"
         },
         {
             name: "Радиои Садои Душанбе",
             logo: "stations/images-europe/tajikistan/Радиои Садои Душанбе.png",
-            url: "http://185.121.1.27:8000/sdushanbe"
+            url: "http://89.168.75.18/redir/mediabay/120.m3u8"
         },
         {
             name: "Радиои Фарҳанг",
             logo: "stations/images-europe/tajikistan/Радиои Фарҳанг.png",
-            url: "http://185.121.1.27:8000/farhang"
+            url: "http://89.168.75.18/redir/mediabay/124.m3u8"
         },
         {
             name: "Радиои Овози тоҷик",
             logo: "stations/images-europe/tajikistan/Радиои Овози тоҷик.png",
-            url: "http://185.121.1.27:8000/otojik"
+            url: "http://89.168.75.18/redir/mediabay/118.m3u8"
         },
         {
             name: "Радио Азия-Плюс",

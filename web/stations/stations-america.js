@@ -13597,9 +13597,9 @@ var stations = {
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KGAY"
         },
         {
-            name: "103.1 KMEE-HD2",
-            logo: "stations/images-america/indio/KGAY.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net//KGAY"
+            name: "103.1 KGAY-HD2",
+            logo: "stations/images-america/indio/Sunny 106.5.png",
+            url: "http://84.32.44.251/index.php?u=http://ice41.securenetsystems.net/KMEE"
         },
         {
             name: "Fuego 103.5",
@@ -13632,9 +13632,9 @@ var stations = {
             url: "https://ice9.securenetsystems.net/KPLM"
         },
         {
-            name: "KGAY 106.5",
-            logo: "stations/images-america/indio/KGAY.png",
-            url: "http://84.32.44.251/index.php?u=https:///ice9.securenetsystems.net/KGAY"
+            name: "Sunny 106.5",
+            logo: "stations/images-america/indio/Sunny 106.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KMEE"
         },
         {
             name: "106.9 The Eagle",
