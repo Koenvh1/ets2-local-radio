@@ -6344,11 +6344,6 @@ var stations = {
             url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr3a.stream/playlist.m3u8"
         },
         {
-            name: "LR4 Doma Laukums",
-            logo: "stations/images-europe/latvia/Latvijas Radio 4.png",
-            url: "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8"
-        },
-        {
             name: "LR5 Pieci.lv",
             logo: "stations/images-europe/latvia/Latvijas Radio 5.png",
             url: "https://5a44e5b800a41.streamlock.net/pieci/mp4:k2/playlist.m3u8"
