@@ -25920,8 +25920,8 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc4242/hls.m3u8"
         },
         {
-            name: "San Antonio's 102.7",
-            logo: "stations/images-america/san_antonio/San Antonio's 102.7.png",
+            name: "102.7 BOB FM",
+            logo: "stations/images-america/san_antonio/102.7 BOB FM.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kjxkfmaac-ibc4"
         },
         {
@@ -45489,6 +45489,11 @@ var stations = {
             name: "WTCM 103.5",
             logo: "stations/images-america/c2c/traversecity_mi/WTCM 103.5.png",
             url: "https://ice24.securenetsystems.net/WTCMFM"
+        },
+        {
+            name: "Good Vibes 107.5",
+            logo: "stations/images-america/c2c/traversecity_mi/Good Vibes 107.5.png",
+            url: "https://ice24.securenetsystems.net/WCCWFM"
         },
         {
             name: "580 WTCM",

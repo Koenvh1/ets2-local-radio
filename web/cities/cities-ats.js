@@ -1986,8 +1986,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "shreveport": {
-        name: "shreveport",
-        name_english: "shreveport",
+        name: "Shreveport",
+        name_english: "Shreveport",
         code: "us-la",
         relative_radius: 0.8
     },
