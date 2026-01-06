@@ -487,6 +487,11 @@ var stations = {
             url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
         },
         {
+            name: "Radio Comedy 99.7",
+            logo: "stations/images-europe/armenia/yerevan/Radio Comedy 99.7.png",
+            url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
+        },
+        {
             name: "Radio Aurora 100.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
             url: "https://am.radioaurora.am/al.mp3"
@@ -2172,8 +2177,8 @@ var stations = {
             url: "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3"
         },
         {
-            name: "RADIO4",
-            logo: "stations/images-europe/denmark/RADIO4.png",
+            name: "Radio IIII",
+            logo: "stations/images-europe/denmark/Radio IIII.png",
             url: "https://netradio.radio4.dk/radio4"
         },
         {

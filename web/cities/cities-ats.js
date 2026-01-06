@@ -14574,12 +14574,24 @@ var cities_canada = [
     }
 ];
 
-var country_properties_caribbean = {
+var country_properties_beyond = {
     "adicora": {
         name: "Adicora",
         name_english: "Adicora",
         code: "ve",
         relative_radius: 0.4
+    },
+    "charlotte_amalie": {
+        name: "Charlotte Amalie",
+        name_english: "Charlotte Amalie",
+        code: "vi",
+        relative_radius: 0.6
+    },
+    "christiansted": {
+        name: "Christiansted",
+        name_english: "Christiansted",
+        code: "vi",
+        relative_radius: 0.75
     },
     "coro": {
         name: "Coro",
@@ -14591,7 +14603,7 @@ var country_properties_caribbean = {
         name: "Freeport",
         name_english: "Freeport",
         code: "bs",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "guantanamo_bay": {
         name: "Guantanamo Bay",
@@ -14604,6 +14616,12 @@ var country_properties_caribbean = {
         name_english: "Havana",
         code: "cu",
         relative_radius: 0.8
+    },
+    "george_town": {
+        name: "George Town",
+        name_english: "George Town",
+        code: "ky",
+        relative_radius: 1
     },
     "kingston": {
         name: "Kingston",
@@ -14635,6 +14653,12 @@ var country_properties_caribbean = {
         code: "aw",
         relative_radius: 0.4
     },
+    "palau": {
+        name: "Palau",
+        name_english: "Palau",
+        code: "pw",
+        relative_radius: 0.6
+    },
     "ponce": {
         name: "Ponce",
         name_english: "Ponce",
@@ -14647,28 +14671,58 @@ var country_properties_caribbean = {
         code: "ve",
         relative_radius: 0.4
     },
+    "saint_martin": {
+        name: "Saint Martin",
+        name_english: "Saint Martin",
+        code: "mf",
+        relative_radius: 0.4
+    },
     "sanjuan": {
         name: "San Juan",
         name_english: "San Juan",
         code: "pr",
         relative_radius: 0.6
     },
-    "treasure_cay": {
-        name: "Oranjestad",
-        name_english: "Oranjestad",
+    "sint_maarten": {
+        name: "Sint Maarten",
+        name_english: "Sint Maarten",
+        code: "sx",
+        relative_radius: 0.4
+    },
+    "south_andros": {
+        name: "South Andros",
+        name_english: "South Andros",
         code: "bs",
-        relative_radius: 0.5
+        relative_radius: 0.4
+    },
+    "treasure_cay": {
+        name: "Treasure Cay",
+        name_english: "Treasure Cay",
+        code: "bs",
+        relative_radius: 0.65
     },
 };
 
-var city_properties_caribbean = {
+var city_properties_beyond = {
     "adicora": {
+        relative_whitenoise: 0.85
+    },
+    "charlama": {
+        relative_whitenoise: 0.85
+    },
+    "christian": {
+        relative_whitenoise: 0.85
+    },
+    "congotown": {
         relative_whitenoise: 0.85
     },
     "coro": {
         relative_whitenoise: 0.85
     },
     "freeport": {
+        relative_whitenoise: 0.85
+    },
+    "george2": {
         relative_whitenoise: 0.85
     },
     "guantanamo_bay": {
@@ -14678,6 +14732,9 @@ var city_properties_caribbean = {
         relative_whitenoise: 0.85
     },
     "kingston": {
+        relative_whitenoise: 0.85
+    },
+    "marigot": {
         relative_whitenoise: 0.85
     },
     "mayagüez": {
@@ -14692,6 +14749,9 @@ var city_properties_caribbean = {
     "oranjestad": {
         relative_whitenoise: 0.85
     },
+    "philipsburg": {
+        relative_whitenoise: 0.85
+    },
     "puntofijo": {
         relative_whitenoise: 0.85
     },
@@ -14706,7 +14766,7 @@ var city_properties_caribbean = {
     },
 };
 
-var cities_caribbean = [
+var cities_beyond = [
     {
         "gameName": "adicora",
         "realName": "Adicora",
@@ -14714,6 +14774,46 @@ var cities_caribbean = [
         "x": "157727",
         "y": "112.589",
         "z": "136283"
+    },
+    {
+        "gameName": "aimeliik",
+        "realName": "Aimeliik",
+        "country": "palau",
+        "x": "-647471.1",
+        "y": "63.86328",
+        "z": "-265215.3"
+    },
+    {
+        "gameName": "airai",
+        "realName": "Airai",
+        "country": "palau",
+        "x": "-648148.1",
+        "y": "57.12891",
+        "z": "-264342.3"
+    },
+    {
+        "gameName": "charlama",
+        "realName": "Charlotte Amalie",
+        "country": "charlotte_amalie",
+        "x": "172696.9",
+        "y": "159.5898",
+        "z": "88770.67"
+    },
+    {
+        "gameName": "christian",
+        "realName": "Christiansted",
+        "country": "christiansted",
+        "x": "175433.5",
+        "y": "159.5898",
+        "z": "91853.34"
+    },
+    {
+        "gameName": "congotown",
+        "realName": "Congo Town",
+        "country": "south_andros",
+        "x": "96870.64",
+        "y": "60",
+        "z": "75223.31"
     },
     {
         "gameName": "coro",
@@ -14748,6 +14848,22 @@ var cities_caribbean = [
         "z": "85783.6"
     },
     {
+        "gameName": "george2",
+        "realName": "George Town",
+        "country": "george_town",
+        "x": "81615.08",
+        "y": "62",
+        "z": "107831.9"
+    },
+    {
+        "gameName": "kayangel",
+        "realName": "Kayangel",
+        "country": "palau",
+        "x": "-639026.9",
+        "y": "55",
+        "z": "-265412"
+    },
+    {
         "gameName": "kingston",
         "realName": "Kingston",
         "country": "kingston",
@@ -14756,12 +14872,36 @@ var cities_caribbean = [
         "z": "110186"
     },
     {
+        "gameName": "koror",
+        "realName": "Koror",
+        "country": "palau",
+        "x": "-651582.4",
+        "y": "50.99219",
+        "z": "-264441.2"
+    },
+    {
+        "gameName": "marigot",
+        "realName": "Marigot",
+        "country": "saint_martin",
+        "x": "183856.3",
+        "y": "65",
+        "z": "86249.63"
+    },
+    {
         "gameName": "mayagüez",
         "realName": "Mayagüez",
         "country": "mayagüez",
         "x": "161247",
         "y": "184.977",
         "z": "94517.4"
+    },
+    {
+        "gameName": "meyuns",
+        "realName": "Meyuns",
+        "country": "palau",
+        "x": "-649923.8",
+        "y": "53",
+        "z": "-265234.2"
     },
     {
         "gameName": "montegobay",
@@ -14780,12 +14920,36 @@ var cities_caribbean = [
         "z": "69835.9"
     },
     {
+        "gameName": "ngarchelong",
+        "realName": "Ngarchelong",
+        "country": "palau",
+        "x": "-644335.4",
+        "y": "53",
+        "z": "-264456.5"
+    },
+    {
+        "gameName": "ngerulmud",
+        "realName": "Ngerulmud",
+        "country": "palau",
+        "x": "-646515.8",
+        "y": "53",
+        "z": "-264382.3"
+    },
+    {
         "gameName": "oranjestad",
         "realName": "Oranjestad",
         "country": "oranjestad",
         "x": "155584",
         "y": "65",
         "z": "133214"
+    },
+    {
+        "gameName": "philipsburg",
+        "realName": "Philipsburg",
+        "country": "sint_maarten",
+        "x": "184253.4",
+        "y": "49.69922",
+        "z": "87338.49"
     },
     {
         "gameName": "puntofijo",
@@ -15156,7 +15320,7 @@ country_properties = $.extend(country_properties, country_properties_canada);
 city_properties = $.extend(city_properties, city_properties_canada);
 cities = cities.concat(cities_canada);
 
-//Uncomment the lines below to enable Terra Maps Caribbean
-country_properties = $.extend(country_properties, country_properties_caribbean);
-city_properties = $.extend(city_properties, city_properties_caribbean);
-cities = cities.concat(cities_caribbean);
+//Uncomment the lines below to enable Terra Maps Beyond for ATS
+country_properties = $.extend(country_properties, country_properties_beyond);
+city_properties = $.extend(city_properties, city_properties_beyond);
+cities = cities.concat(cities_beyond);
