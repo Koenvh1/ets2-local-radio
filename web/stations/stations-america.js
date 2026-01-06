@@ -63129,11 +63129,6 @@ var stations = {
             url: "https://rooster101-hurleysmedia.radioca.st/stream"
         },
         {
-            name: "Rooster 101",
-            logo: "stations/images-america/caribbean/george_town/Rooster 101.png",
-            url: "https://rooster101-hurleysmedia.radioca.st/stream"
-        },
-        {
             name: "Bobo 103.1",
             logo: "stations/images-america/caribbean/george_town/Bobo 103.1.png",
             url: "https://ice23.securenetsystems.net/BOBO891"
@@ -64245,8 +64240,8 @@ var stations = {
             url: "https://live2.tensila.com/ch1-a-1.philbro/hls/master.m3u8"
         },
         {
-            name: "PDJ2 102.7",
-            logo: "stations/images-america/caribbean/sint_maarten/PDJ2.png",
+            name: "PJD2 102.7",
+            logo: "stations/images-america/caribbean/sint_maarten/PJD2.png",
             url: "https://pjd2radiofm.radioca.st/;"
         },
         {
@@ -64270,13 +64265,13 @@ var stations = {
             url: "https://live2.tensila.com/ch5-a-1.philbro/hls/master.m3u8"
         },
         {
-            name: "SMX GOV Radio 107.9",
-            logo: "stations/images-america/caribbean/sint_maarten/SMX GOV Radio 107.9.png",
+            name: "SXM GOV Radio 107.9",
+            logo: "stations/images-america/caribbean/sint_maarten/SXM GOV Radio 107.9.png",
             url: "https://s6.reliastream.com/proxy/governme?mp=/stream"
         },
         {
-            name: "PDJ2 1300",
-            logo: "stations/images-america/caribbean/sint_maarten/PDJ2.png",
+            name: "PJD2 1300",
+            logo: "stations/images-america/caribbean/sint_maarten/PJD2.png",
             url: "https://pjd2radioam.radioca.st/;"
         },
     ],
