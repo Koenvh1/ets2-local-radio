@@ -485,12 +485,12 @@ var stations = {
             name: "Իմ Ռադիո 98.3",
             logo: "stations/images-europe/armenia/yerevan/Իմ Ռադիո 98.3.png",
             url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-        },
+        },/*
         {
             name: "Radio Comedy 99.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Comedy 99.7.png",
             url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-        },
+        },*/
         {
             name: "Radio Aurora 100.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
