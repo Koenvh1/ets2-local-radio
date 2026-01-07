@@ -4544,8 +4544,8 @@ var stations = {
             url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
-            name: "MAX 92.5",
-            logo: "stations/images-america/casper/Max 92.5.png",
+            name: "92.5 HANK FM",
+            logo: "stations/images-america/casper/92.5 HANK FM.png",
             url: "https://ice23.securenetsystems.net/KMXW"
         },
         {
@@ -11631,9 +11631,9 @@ var stations = {
             url: "https://platteriverradio.broadcasttool.com/kkpr-aac"
         },
         {
-            name: "All Christmas Station 99.7",
-            logo: "stations/images-america/grand_island/All Christmas Station 99.7.png",
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KRGIHD2"
+            name: "JETT FM 99.7",
+            logo: "stations/images-america/grand_island/JETT FM 99.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KRGIF3"
         },
         {
             name: "KZ 100",
@@ -47010,11 +47010,6 @@ var stations = {
             name: "River 101.3",
             logo: "stations/images-america/c2c/jackson_ms/River 101.3.png",
             url: "http://ice42.securenetsystems.net/WBBV"
-        },
-        {
-            name: "Blues 102.1",
-            logo: "stations/images-america/c2c/jackson_ms/Blues 102.1.png",
-            url: "https://live.amperwave.net/manifest/newsouth-wiinamaac-ibc1"
         },
         {
             name: "WTWZ 102.5",
