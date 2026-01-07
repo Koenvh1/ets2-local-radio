@@ -485,12 +485,12 @@ var stations = {
             name: "Իմ Ռադիո 98.3",
             logo: "stations/images-europe/armenia/yerevan/Իմ Ռադիո 98.3.png",
             url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-        },/*
+        },
         {
             name: "Radio Comedy 99.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Comedy 99.7.png",
-            url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-        },*/
+            url: "https://s6.voscast.com:11537/1fm"
+        },
         {
             name: "Radio Aurora 100.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
@@ -2528,12 +2528,12 @@ var stations = {
             name: "Iskelmä",
             logo: "stations/images-europe/finland/Iskelmä.png",
             url: "https://stream-redirect.bauermedia.fi/iskelma/iskelma_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein"
-        },
+        },/*
         {
             name: "Jouluradio",
             logo: "stations/images-europe/finland/Jouluradio.png",
             url: "https://aud-stream-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8"
-        },
+        },*/
         {
             name: "Järviradio",
             logo: "stations/images-europe/finland/Järviradio.png",
@@ -8224,6 +8224,11 @@ var stations = {
             name: "Smooth",
             logo: "stations/images-europe/scotland/Smooth.png",
             url: "http://icecast.thisisdax.com/SmoothScotland"
+        },
+        {
+            name: "STV Radio",
+            logo: "stations/images-europe/scotland/STV Radio.png",
+            url: "https://stv-dsharp.sharp-stream.com/stv_central.aac"
         },
     ],
     "serbia": [
