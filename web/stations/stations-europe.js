@@ -3118,6 +3118,11 @@ var stations = {
             url: "https://addrad.io/445g5ns"
         },
         {
+            name: "Ella Radio",
+            logo: "stations/images-europe/germany-berlin/Ella Radio.png",
+            url: "https://addrad.io/4454t2w"
+        },
+        {
             name: "FG CHIC. Germany",
             logo: "stations/images-europe/germany-hh/FG CHIC. Germany.png",
             url: "https://stream.rcs.revma.com/8actzfn0742vv"
@@ -3126,11 +3131,6 @@ var stations = {
             name: "JAM FM",
             logo: "stations/images-europe/germany-rbb/JAM FM.png",
             url: "https://stream.jam.fm/jamfm-live/mp3-128/konsole"
-        },
-        {
-            name: "Jazz im Radio",
-            logo: "stations/images-europe/germany-berlin/Jazz im Radio.png",
-            url: "https://addrad.io/4454t2w"
         },
         {
             name: "JazzRadio Berlin",
