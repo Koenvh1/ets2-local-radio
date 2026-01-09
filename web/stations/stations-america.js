@@ -3997,7 +3997,7 @@ var stations = {
         {
             name: "1010 KSIR",
             logo: "stations/images-america/sterling/1010 KSIR.png",
-            url: "http://newerastreaming.com:9016/stream"
+            url: "http://ssl.newerastreaming.com:6016/stream"
         },
         {
             name: "KRDZ 1440",
@@ -14035,6 +14035,11 @@ var stations = {
             url: "http://streaming.live365.com/a71179_2"
         },
         {
+            name: "100.9 The Island",
+            logo: "stations/images-america/joplin/100.9 The Island.png",
+            url: "https://stream.aiir.com/1xqlfhmo6huuv"
+        },
+        {
             name: "SOMO Sports Radio 101.3",
             logo: "stations/images-america/joplin/SOMO Sports Radio.png",
             url: "https://ice7.securenetsystems.net/WMBH"
@@ -14422,7 +14427,7 @@ var stations = {
         {
             name: "KCUR 89.3",
             logo: "stations/images-america/kansas_city/KCUR 89.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCURFM_ADP_SC"
+            url: "https://kcur.streamguys1.com/kcur-website-icy"
         },
         {
             name: "KKFI 90.1",
@@ -15945,8 +15950,8 @@ var stations = {
             url: "https://live.amperwave.net/manifest/adamsradio-kwmlammp3-ibc1"
         },
         {
-            name: "Magic 104.9",
-            logo: "stations/images-america/las_cruces/Magic 104.9.png",
+            name: "ROCK 104.9",
+            logo: "stations/images-america/las_cruces/ROCK 104.9.png",
             url: "https://ice8.securenetsystems.net/KMVRHD1"
         },
         {
@@ -19705,6 +19710,11 @@ var stations = {
             name: "KMIX 106.3",
             logo: "stations/images-america/mojave/KMIX 106.3.png",
             url: "http://84.32.44.251/index.php?u=http://ice10.securenetsystems.net/KGMX"
+        },
+        {
+            name: "106.9 FM",
+            logo: "stations/images-america/mojave/106.9 FM.png",
+            url: "https://ice26.securenetsystems.net/KMVE"
         },/*
         {
             name: "FOX Sports 106.7",
@@ -29330,7 +29340,7 @@ var stations = {
         {
             name: "93.5 K225CF",
             logo: "stations/images-america/sterling/1010 KSIR.png",
-            url: "http://newerastreaming.com:9016//stream"
+            url: "http://ssl.newerastreaming.com:6016//stream"
         },
         {
             name: "93.9 Way FM",
@@ -29400,7 +29410,7 @@ var stations = {
         {
             name: "1010 KSIR",
             logo: "stations/images-america/sterling/1010 KSIR.png",
-            url: "http://newerastreaming.com:9016/stream"
+            url: "http://ssl.newerastreaming.com:6016/stream"
         },
         {
             name: "1230 KSTC",
@@ -33110,7 +33120,7 @@ var stations = {
         {
             name: "1010 KSIR",
             logo: "stations/images-america/sterling/1010 KSIR.png",
-            url: "http://newerastreaming.com:9016/stream"
+            url: "http://ssl.newerastreaming.com:6016/stream"
         },
         {
             name: "KRDZ 1440",
@@ -49780,11 +49790,6 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFLFMAAC_SC"
         },
         {
-            name: "ESPN Radio Greenville 107.5",
-            logo: "stations/images-america/c2c/greenville_nc/ESPN Radio Greenville.png",
-            url: "http://ctcstream.com:8014//type=mp3"
-        },
-        {
             name: "107.9 WNCT",
             logo: "stations/images-america/c2c/greenville_nc/107.9 WNCT.png",
             url: "https://live.innerbanksmedia.com:8080/wnct"
@@ -49793,11 +49798,6 @@ var stations = {
             name: "Pirate Radio 930",
             logo: "stations/images-america/c2c/greenville_nc/Pirate Radio 92.7.png",
             url: "http://streaming.live365.com/a89337"
-        },
-        {
-            name: "ESPN Radio Greenville 1570",
-            logo: "stations/images-america/c2c/greenville_nc/ESPN Radio Greenville.png",
-            url: "http://ctcstream.com:8014/type=mp3"
         },
     ],
     "raleigh": [
