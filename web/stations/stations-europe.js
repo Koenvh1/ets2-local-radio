@@ -3235,11 +3235,6 @@ var stations = {
             url: "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
         },
         {
-            name: "PULS",
-            logo: "stations/images-europe/germany-br/BR Puls.png",
-            url: "https://dispatcher.rndfnk.com/br/puls/live/mp3/mid"
-        },
-        {
             name: "AFN Bavaria",
             logo: "stations/images-europe/germany-br/AFN Bavaria.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAVAAC_SC"
@@ -9254,16 +9249,6 @@ var stations = {
             name: "Spoon Rock Radio",
             logo: "stations/images-europe/switzerland-fr/Spoon Radio.png",
             url: "https://ic2527.c972.fastserv.com/spoonradio_aacp_96"
-        },
-        {
-            name: "Spoon Classic Rock",
-            logo: "stations/images-europe/switzerland-fr/Spoon Radio.png",
-            url: "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac"
-        },
-        {
-            name: "Spoon Rock Ballads",
-            logo: "stations/images-europe/switzerland-fr/Spoon Radio.png",
-            url: "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac"
         },
         {
             name: "Vertical Radio",
