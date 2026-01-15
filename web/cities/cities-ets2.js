@@ -1146,6 +1146,9 @@ var city_properties = {
     "dobrich": {
         relative_radius: 0.7,
     },
+    "domat": {
+        relative_radius: 0.6,
+    },
     "domitz": {
         relative_radius: 0.5,
     },
@@ -1433,6 +1436,9 @@ var city_properties = {
     },
     "kerson": {
         relative_radius: 0.85,
+    },
+    "kesan": {
+        relative_radius: 0.7,
     },
     "kgosh": {
         relative_radius: 0.85,
@@ -2009,6 +2015,9 @@ var city_properties = {
     },
     "surgut_rp": {
         relative_radius: 1.2,
+    },
+    "susten": {
+        relative_radius: 0.6,
     },
     "suwalki": {
         relative_radius: 0.6,
@@ -10311,6 +10320,14 @@ var cities_pm276 = [
         "z": "-39503.85"
     },
     {
+        "gameName": "kesan",
+        "realName": "Keşan",
+        "country": "turkey",
+        "x": "64941.3",
+        "y": "63.01953",
+        "z": "51801.47"
+    },
+    {
         "gameName": "izmail",
         "realName": "Ізмаїл",
         "country": "ukraine",
@@ -10326,6 +10343,49 @@ var cities_pm276 = [
         "y": "86.13281",
         "z": "17721.16"
     }
+];
+
+var cities_pm280 = [
+    {
+        "gameName": "bodmin",
+        "realName": "Bodmin",
+        "country": "uk",
+        "x": "-63758.66",
+        "y": "62.80078",
+        "z": "-9313.863"
+    },
+    {
+        "gameName": "domat",
+        "realName": "Domat/Ems",
+        "country": "switzerland-de",
+        "x": "-4810.898",
+        "y": "102.1953",
+        "z": "21044.8"
+    },
+    {
+        "gameName": "subotica",
+        "realName": "Суботица",
+        "country": "serbia",
+        "x": "34209.18",
+        "y": "65.65625",
+        "z": "27748.21"
+    },
+    {
+        "gameName": "susten",
+        "realName": "Susten",
+        "country": "switzerland-de",
+        "x": "-11173.92",
+        "y": "87.35938",
+        "z": "23683.05"
+    },
+    {
+        "gameName": "tours",
+        "realName": "Tours",
+        "country": "france",
+        "x": "-38188.21",
+        "y": "120",
+        "z": "13624.64"
+    },
 ];
 
 var cities_pm_me = [
@@ -18693,6 +18753,7 @@ cities = cities.concat(cities_pm265); //ProMods 2.65 cities
 cities = cities.concat(cities_pm270); //ProMods 2.70 cities
 cities = cities.concat(cities_pm274); //ProMods 2.74 cities
 cities = cities.concat(cities_pm276); //ProMods 2.76 cities
+cities = cities.concat(cities_pm280); //ProMods 2.80 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
@@ -18713,7 +18774,7 @@ cities = cities.concat(cities_open_spaces); //Northern Open Spaces
 //cities = cities.concat(cities_romania_extended); //Romania Extended
 cities = cities.concat(cities_sibir) // SibirMap
 cities = cities.concat(cities_volga); // Volga Map
-cities = cities.concat(cities_kirov) // Kirov Map Free
+cities = cities.concat(cities_kirov) // Kirov Map
 cities = cities.concat(cities_nnmap) // NNMap
 cities = cities.concat(cities_altai); // Altai Map
 cities = cities.concat(cities_arkhangelsk) // Road to Arkhangelsk

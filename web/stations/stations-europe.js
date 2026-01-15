@@ -9099,6 +9099,11 @@ var stations = {
             url: "https://mp3.radio.ch/radiozuerisee128k"
         },
         {
+            name: "sunshine live",
+            logo: "stations/images-europe/germany/Sunshine live.png",
+            url: "https://stream.sunshine-live.de/schweiz/mp3-192/"
+        },
+        {
             name: "Vintage Radio",
             logo: "stations/images-europe/switzerland-de/Vintage Radio.png",
             url: "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
@@ -9151,9 +9156,19 @@ var stations = {
             url: "https://stream.srg-ssr.ch/m/rr/mp3_128"
         },
         {
+            name: "Global Sport",
+            logo: "stations/images-europe/switzerland-fr/Global Sport.png",
+            url: "https://globalfm.ice.infomaniak.ch/globalfm-high.mp3"
+        },
+        {
             name: "GRRIF",
             logo: "stations/images-europe/switzerland-fr/GRRIF.png",
             url: "http://84.32.44.251/index.php?u=https://grrif.ice.infomaniak.ch/grrif-128.aac"
+        },
+        {
+            name: "HopeRadio",
+            logo: "stations/images-europe/switzerland-fr/HopeRadio.png",
+            url: "https://stream.hoperadio.fr/hoperadio-suisse"
         },
         {
             name: "IP music",
@@ -9161,14 +9176,39 @@ var stations = {
             url: "https://live7.avf.ch/ipmusicaacplus96"
         },
         {
+            name: "Jazz Radio",
+            logo: "stations/images-europe/france/Jazz Radio.png",
+            url: "https://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3"
+        },
+        {
+            name: "Kiss Collector",
+            logo: "stations/images-europe/switzerland-fr/Kiss Collector.png",
+            url: "https://dr2101.ice.infomaniak.ch/dr2101.mp3"
+        },
+        {
+            name: "Latina",
+            logo: "stations/images-europe/france/Latina.png",
+            url: "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3"
+        },
+        {
             name: "LFM",
             logo: "stations/images-europe/switzerland-fr/LFM.png",
             url: "https://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3"
         },
         {
+            name: "LuxRadio",
+            logo: "stations/images-europe/switzerland-fr/LuxRadio.png",
+            url: "https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac"
+        },
+        {
             name: "MaXXima",
             logo: "stations/images-europe/switzerland-fr/MaXXima.png",
             url: "https://maxxima.mine.nu/maxxima.mp3"
+        },
+        {
+            name: "Melody Vintage Radio",
+            logo: "stations/images-europe/france/Melody Vintage Radio.png",
+            url: "https://stream.rcs.revma.com/5a05fstup42vv"
         },
         {
             name: "One FM",
@@ -9236,6 +9276,11 @@ var stations = {
             url: "https://rjb.ice.infomaniak.ch/rjb-128.aac"
         },
         {
+            name: "Rockstar",
+            logo: "stations/images-europe/switzerland-fr/Rockstar.png",
+            url: "https://dr2101.ice.infomaniak.ch/dr2102.mp3"
+        },
+        {
             name: "Rouge FM",
             logo: "stations/images-europe/switzerland-fr/Rouge FM.png",
             url: "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3"
@@ -9246,9 +9291,19 @@ var stations = {
             url: "https://rtn.ice.infomaniak.ch/rtn-128.aac"
         },
         {
+            name: "Skylegend",
+            logo: "stations/images-europe/switzerland-fr/Skylegend.png",
+            url: "https://webradiostream.eu:8200/stream"
+        },
+        {
             name: "Spoon Rock Radio",
             logo: "stations/images-europe/switzerland-fr/Spoon Radio.png",
             url: "https://ic2527.c972.fastserv.com/spoonradio_aacp_96"
+        },
+        {
+            name: "URBN Radio",
+            logo: "stations/images-europe/switzerland-fr/URBN Radio.png",
+            url: "https://dr2101.ice.infomaniak.ch/dr2103.mp3"
         },
         {
             name: "Vertical Radio",
@@ -9259,6 +9314,11 @@ var stations = {
             name: "VIVA FM",
             logo: "stations/images-europe/switzerland-fr/VIVA FM.png",
             url: "https://vivafm.ice.infomaniak.ch/vivafm-96.mp3"
+        },
+        {
+            name: "Yes FM",
+            logo: "stations/images-europe/switzerland-fr/Yes FM.png",
+            url: "https://yesfm.ice.infomaniak.ch/yesfm-high.mp3"
         },
     ],
     "switzerland-it": [
