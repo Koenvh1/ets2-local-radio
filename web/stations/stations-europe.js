@@ -6022,12 +6022,12 @@ var stations = {
         {
             name: "NHK-FM放送",
             logo: "stations/images-europe/japan/NHK-FM放送.png",
-            url: "https://jppx.azurewebsites.net/browse.php?u=https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master.m3u8"
+            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/5/joined/master.m3u8"
         },
         {
             name: "NHK Radio 1",
             logo: "stations/images-europe/japan/NHKラジオ第1放送.png",
-            url: "https://jppx.azurewebsites.net/browse.php?u=https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master.m3u8"
+            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/3/joined/master.m3u8"
         },
     ],*/
     "jordan": [
