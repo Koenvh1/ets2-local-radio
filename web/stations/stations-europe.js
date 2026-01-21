@@ -1004,7 +1004,7 @@ var stations = {
         {
             name: "MENTpop",
             logo: "stations/images-europe/belgium-nl/MENTpop.png",
-            url: "https://s29.myradiostream.com/19742/listen.mp3"
+            url: "https://stream.rcs.revma.com/uus43hh3axcwv"
         },
         {
             name: "Nostalgie",
@@ -2426,9 +2426,9 @@ var stations = {
             url: "https://stream.skymedia.ee/live/RR"
         },
         {
-            name: "Tre Raadio",
-            logo: "stations/images-europe/estonia/Tre Raadio.png",
-            url: "https://cdn.treraadio.ee/pohja-tre"
+            name: "XFM",
+            logo: "stations/images-europe/estonia/XFM.png",
+            url: "https://ice.leviracloud.eu/XFM"
         },
     ],
     "faroe": [
@@ -3093,16 +3093,6 @@ var stations = {
     ],
     "germany-berlin": [
         {
-            name: "88vier",
-            logo: "stations/images-europe/germany-berlin/88vier.png",
-            url: "https://ice.rosebud-media.de:8443/88vier"
-        },
-        {
-            name: "ALEX Radio",
-            logo: "stations/images-europe/germany-berlin/ALEX Radio.png",
-            url: "https://alex-radio.rosebud-media.de:8443/alex-radio"
-        },
-        {
             name: "BBC World Service",
             logo: "stations/images-europe/netherlands/BBC World Service.png",
             url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_world_service.m3u8",
@@ -3126,6 +3116,11 @@ var stations = {
             name: "FG CHIC. Germany",
             logo: "stations/images-europe/germany-hh/FG CHIC. Germany.png",
             url: "https://stream.rcs.revma.com/8actzfn0742vv"
+        },
+        {
+            name: "FR-BB und 24-3",
+            logo: "stations/images-europe/germany-berlin/FR-BB und 24-3.png",
+            url: "https://ice.rosebud-media.de:8443/88vier"
         },
         {
             name: "JAM FM",
@@ -3937,6 +3932,11 @@ var stations = {
             url: "https://stream.spreeradio.de/spree-live/mp3-128/konsole/"
         },
         {
+            name: "ALEX Radio",
+            logo: "stations/images-europe/germany-berlin/ALEX Radio.png",
+            url: "https://alex-radio.rosebud-media.de:8443/alex-radio"
+        },
+        {
             name: "BB Radio",
             logo: "stations/images-europe/germany-rbb/BB Radio.png",
             url: "https://irmedia.streamabc.net/irm-bbradiolive-mp3-192-2174969"
@@ -4323,7 +4323,12 @@ var stations = {
         {
             name: "Kölsch Radio",
             logo: "stations/images-europe/germany-wdr/Kölsch Radio.png",
-            url: "https://frontend.streamonkey.net/kulthitradio-nrw"
+            url: "https://frontend.streamonkey.net/koelschradio-live"
+        },
+        {
+            name: "Metropol FM",
+            logo: "stations/images-europe/germany-berlin/Metropol FM.png",
+            url: "https://metropol-fm.api.radiosphere.io/channels/METROPOLFMNrw/stream.mp3"
         },
         {
             name: "NIUS Radio",
@@ -4486,7 +4491,7 @@ var stations = {
         {
             name: "Cosmos 96.5",
             logo: "stations/images-europe/greece/argostoli/Cosmos 96.5.png",
-            url: "https://sp3.streams.ovh/8064/stream"
+            url: "https://eco.onestreaming.com/proxy/cosmos965/stream"
         },
         {
             name: "Palmos 98.3",
@@ -5531,7 +5536,7 @@ var stations = {
         {
             name: "MNC Trijaya FM",
             logo: "stations/images-europe/indonesia/MNC Trijaya FM.png",
-            url: "https://stream.roov.id:8060/;"
+            url: "http://8.215.42.255:8060/;"
         },
         {
             name: "Pop FM",
@@ -5556,7 +5561,7 @@ var stations = {
         {
             name: "RDI",
             logo: "stations/images-europe/indonesia/RDI.png",
-            url: "https://stream.roov.id:8062/;"
+            url: "http://8.215.42.255:8062/;"
         },
         {
             name: "Smart FM",
@@ -6299,7 +6304,7 @@ var stations = {
         {
             name: "Радио ОК",
             logo: "stations/images-europe/kyrgyzstan/Радио ОК.png",
-            url: "https://stream.okradio.kg:8005/stream"
+            url: "https://stream.teos.media/stream"
         },
         {
             name: "Радио Спутник Кыргызстан",
@@ -6892,12 +6897,12 @@ var stations = {
         {
             name: "Radio D",
             logo: "stations/images-europe/montenegro/Radio D.png",
-            url: "http://tachyon.shoutca.st:8289/xstream"
+            url: "https://radiod.radioca.st/xstream"
         },
         {
             name: "Radio D Plus",
             logo: "stations/images-europe/montenegro/Radio D Plus.png",
-            url: "http://tachyon.shoutca.st:8303/xstream"
+            url: "https://radiodplus.radioca.st/xstream"
         },
         {
             name: "Radio Fatih",
@@ -8219,12 +8224,12 @@ var stations = {
             name: "Smooth",
             logo: "stations/images-europe/scotland/Smooth.png",
             url: "http://icecast.thisisdax.com/SmoothScotland"
-        },
+        },/*
         {
             name: "STV Radio",
             logo: "stations/images-europe/scotland/STV Radio.png",
             url: "https://stv-dsharp.sharp-stream.com/stv_central.aac"
-        },
+        },*/
     ],
     "serbia": [
         {
@@ -8825,7 +8830,7 @@ var stations = {
         {
             name: "La Mega Estacion 98.2",
             logo: "stations/images-europe/spain-madrid/La Mega Estacion 98.2.png",
-            url: "https://eu1.lhdserver.es:9049/stream"
+            url: "https://stream.zeno.fm/b4ct2g5e0chvv"
         },
         {
             name: "La Viña Radio 100.2",
@@ -9580,7 +9585,7 @@ var stations = {
         {
             name: "Alem FM",
             logo: "stations/images-europe/turkey/Alem FM.png",
-            url: "https://turkmedya.radyotvonline.net/alemfmaac"
+            url: "https://alemfm.radyotvonline.net/alemfmaac"
         },
         {
             name: "A Spor Radyo",
@@ -9595,7 +9600,7 @@ var stations = {
         {
             name: "Best FM",
             logo: "stations/images-europe/turkey/Best FM.png",
-            url: "https://bestfm.turkhosted.com/;stream.mp3"
+            url: "https://officialbestfm.radyotvonline.net/bestfmofficial"
         },
         {
             name: "CNN Türk Radyo",
