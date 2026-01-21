@@ -6738,7 +6738,7 @@ var stations = {
         },
         {
             name: "Country Legends and Texas Classics 93.3-HD2",
-            logo: "stations/images-america/0_general_logos/placeholder.png",
+            logo: "stations/images-america/dallas_fort_worth/Country Legends & Texas Classics 93.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC"
         },
         {
@@ -15457,7 +15457,7 @@ var stations = {
         },
         {
             name: "1450 KSIG",
-            logo: "stations/images-america/lafayette_la/Freedom 95.1.png",
+            logo: "stations/images-america/lafayette_la/Sunny 95.1.png",
             url: "https://ice41.securenetsystems.net/KSIG1067"
         },
         {
@@ -20472,12 +20472,12 @@ var stations = {
         {
             name: "Heaven 106.1",
             logo: "stations/images-america/new_orleans/Heaven 106.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
         },
         {
             name: "The Ticket 106.7",
             logo: "stations/images-america/new_orleans/The Ticket 106.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRKNFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKNDFMAAC_SBM"
         },
         {
             name: "107.1 K296HM",
@@ -31195,7 +31195,7 @@ var stations = {
         {
             name: "Mix 96.5",
             logo: "stations/images-america/tulsa/Mix 96.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRAVFMAAC_SC"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/KRAVFMAAC_SC"
         },
         {
             name: "97.1 The Sports Animal",
@@ -35702,7 +35702,7 @@ var stations = {
         {
             name: "La Caliente 97.7",
             logo: "stations/images-america/mexico/sanluisp/La Caliente 97.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSNPFM_SC"
+            url: "https://liveaudio.lamusica.com/MX_XHSMP_icy"
         },
         {
             name: "MIX 98.5",
