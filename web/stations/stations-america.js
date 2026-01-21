@@ -20347,7 +20347,7 @@ var stations = {
         {
             name: "93.9 WSLA",
             logo: "stations/images-america/new_orleans/WSLA.png",
-            url: "https://listen.mixlr.com/10fe4f85e9ed49bbb6db0081cbde76a0"
+            url: "https://edge.mixlr.com/channel/aphvw"
         },
         {
             name: "WTIX 94.3",
