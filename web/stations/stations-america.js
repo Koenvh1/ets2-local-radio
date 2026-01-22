@@ -20542,7 +20542,7 @@ var stations = {
         {
             name: "1560 WSLA",
             logo: "stations/images-america/new_orleans/WSLA.png",
-            url: "http://listen.mixlr.com/10fe4f85e9ed49bbb6db0081cbde76a0"
+            url: "http://edge.mixlr.com/channel/aphvw"
         },
     ],
     "newport": [
@@ -33073,7 +33073,7 @@ var stations = {
         {
             name: "105.7 KRDR",
             logo: "stations/images-america/woodward/105.7 KRDR.png",
-            url: "https://listen.mixlr.com/71a955bc52e499d76d3908d1928f9a2a"
+            url: "https://edge.mixlr.com/channel/ecqkv"
         },
         {
             name: "KSIW 1450",
@@ -33688,12 +33688,12 @@ var stations = {
             name: "La Ranchera de Cuauhtémoc 89.7",
             logo: "stations/images-america/mexico/cd_cuauh/La Ranchera de Cuauhtémoc 89.7.png",
             url: "https://stream.zeno.fm/u1q3a220974tv"
-        },/*
+        },
         {
             name: "XHEPL 91.3",
             logo: "stations/images-america/mexico/cd_cuauh/XHEPL 91.3.png",
-            url: "https://listen.mixlr.com/a6f43531ed20e6277991ad295f53a474"
-        },*/
+            url: "https://edge.mixlr.com/channel/blkkm"
+        },
         {
             name: "Amor 92.9",
             logo: "stations/images-america/mexico/cd_cuauh/Amor 92.9.png",
@@ -63342,7 +63342,7 @@ var stations = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/21b82da3e98c56444901c9841e5f1234"
+            url: "https://edge.mixlr.com/channel/yhlyj"
         },
         {
             name: "Mega Jamz 98 FM",
@@ -63556,7 +63556,7 @@ var stations = {
         {
             name: "KOOL 97 FM",
             logo: "stations/images-america/caribbean/kingston/KOOL 97 FM.png",
-            url: "https://listen.mixlr.com/21b82da3e98c56444901c9841e5f1234"
+            url: "https://edge.mixlr.com/channel/yhlyj"
         },
         {
             name: "Love 101 FM",
@@ -64605,7 +64605,7 @@ var stations = {
         {
             name: "KQHE 92.7",
             logo: "stations/images-america/alaska/fairbanks/KQHE 92.7.png",
-            url: "https://listen.mixlr.com/f7840d90f3e350df21e749ebfb64331a"
+            url: "https://edge.mixlr.com/channel/qammi"
         },
         {
             name: "93.5 Chet FM",
