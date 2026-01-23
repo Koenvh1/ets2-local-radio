@@ -958,6 +958,9 @@ var city_properties = {
     "augustow": {
         relative_radius: 0.5,
     },
+    "bakkebolle": {
+        relative_radius: 0.7,
+    },
     "baiji": {
         relative_radius: 1.3,
     },
@@ -1254,7 +1257,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "gedser": {
-        relative_radius: 0.8,
+        relative_radius: 0.6,
     },
     "geneina": {
         relative_radius: 1.3,
@@ -2641,6 +2644,14 @@ var cities = [
         "z": "-9493.73"
     },
     {
+        "gameName": "bakkebolle",
+        "realName": "Bakkebølle",
+        "country": "denmark",
+        "x": "6687.13",
+        "y": "52.3789",
+        "z": "-24234.5"
+    },
+    {
         "gameName": "baiamare",
         "realName": "Baia Mare",
         "country": "romania",
@@ -3692,9 +3703,9 @@ var cities = [
         "gameName": "gedser",
         "realName": "Gedser",
         "country": "denmark",
-        "x": "6687.13",
-        "y": "52.3789",
-        "z": "-24234.5"
+        "x": "6271.105",
+        "y": "52.37891",
+        "z": "-22000.33"
     },
     {
         "gameName": "geneve",

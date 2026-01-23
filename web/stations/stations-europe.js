@@ -1,4 +1,4 @@
-var stations = {
+var stations = {/*
     "christmas": [
         {
             name: "Christmas Channel",
@@ -100,7 +100,7 @@ var stations = {
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],/*
+    ],
     "halloween": [
         {
             name: "Halloween Radio",
@@ -7969,7 +7969,7 @@ var stations = {
         {
             name: "Comedy Radio",
             logo: "stations/images-europe/russia/Comedy Radio.png",
-            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/202"
+            url: "https://hls-01-gpm.hostingradio.ru/comedyradio495/playlist.m3u8"
         },
         {
             name: "Детское Радио",
