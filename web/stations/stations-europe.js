@@ -1119,11 +1119,6 @@ var stations = {/*
             url: "http://radios.rtbf.be/vivasport-64.aac"
         },
         {
-            name: "1RCF Belgique",
-            logo: "stations/images-europe/france/RCF.png",
-            url: "https://rcf.streamakaci.com/rcfbe.mp3",
-        },
-        {
             name: "Bel RTL",
             logo: "stations/images-europe/belgium-fr/Bel RTL.png",
             url: "https://belrtl.ice.infomaniak.ch/belrtl-mp3-128"
