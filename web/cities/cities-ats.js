@@ -12988,6 +12988,162 @@ var cities_c2c = [
     },
 ];
 
+var country_properties_emmn = {
+    "bowman": {
+        name: "Bowman",
+        name_english: "Bowman",
+        code: "us-nd",
+        relative_radius: 0.35
+    },
+    "devils_nd": {
+        name: "Devils Lake",
+        name_english: "Devils Lake",
+        code: "us-nd",
+        relative_radius: 0.75
+    },
+    "hettinger_nd": {
+        name: "Hettinger",
+        name_english: "Hettinger",
+        code: "us-nd",
+        relative_radius: 0.45
+    },
+    "minotnd": {
+        name: "Minot",
+        name_english: "Minot",
+        code: "us-nd",
+        relative_radius: 0.8
+    },
+    "buffalo_sd": {
+        name: "Buffalo",
+        name_english: "Buffalo",
+        code: "us-sd",
+        relative_radius: 0.8
+    },
+    "kadoka": {
+        name: "Kadoka",
+        name_english: "Kadoka",
+        code: "us-sd",
+        relative_radius: 0.5
+    },
+    "lemmon_sd": {
+        name: "Lemmon",
+        name_english: "Lemmon",
+        code: "us-sd",
+        relative_radius: 0.45
+    },
+    "mobridge": {
+        name: "Mobridge",
+        name_english: "Mobridge",
+        code: "us-sd",
+        relative_radius: 0.8
+    },
+    "watertown_sd": {
+        name: "Watertown",
+        name_english: "Watertown",
+        code: "us-sd",
+        relative_radius: 1.0
+    },
+};
+
+var city_properties_emmn = {
+    "bowman": {
+        relative_whitenoise: 0.85
+    },
+    "devils_nd": {
+        relative_whitenoise: 0.95
+    },
+    "minotnd": {
+        relative_whitenoise: 0.85
+    },
+    "buffalo_sd": {
+        relative_whitenoise: 0.85
+    },
+    "kadoka": {
+        relative_whitenoise: 0.85
+    },
+    "mobridge": {
+        relative_whitenoise: 0.85
+    },
+    "watertown_sd": {
+        relative_whitenoise: 0.85
+    },
+};
+
+var cities_emmn = [
+    {
+        "gameName": "bowman",
+        "realName": "Bowman",
+        "country": "bowman",
+        "x": "-28729.27",
+        "y": "122",
+        "z": "-42021.7"
+    },
+    {
+        "gameName": "devils_nd",
+        "realName": "Devils Lake",
+        "country": "devils_nd",
+        "x": "-9847.07",
+        "y": "105.9609",
+        "z": "-52374.91"
+    },
+    {
+        "gameName": "hettinger_nd",
+        "realName": "Hettinger",
+        "country": "hettinger_nd",
+        "x": "-25844.01",
+        "y": "94.89063",
+        "z": "-40522.3"
+    },
+    {
+        "gameName": "minotnd",
+        "realName": "Minot",
+        "country": "minotnd",
+        "x": "-19725.23",
+        "y": "99.875",
+        "z": "-53470.66"
+    },
+    {
+        "gameName": "buffalo_sd",
+        "realName": "Buffalo",
+        "country": "buffalo_sd",
+        "x": "-30203.7",
+        "y": "95",
+        "z": "-37477.09"
+    },
+    {
+        "gameName": "kadoka",
+        "realName": "Kadoka",
+        "country": "kadoka",
+        "x": "-22189.71",
+        "y": "175.0273",
+        "z": "-27615.18"
+    },
+    {
+        "gameName": "lemmon_sd",
+        "realName": "Lemmon",
+        "country": "lemmon_sd",
+        "x": "-24120.91",
+        "y": "94.89063",
+        "z": "-39942.14"
+    },
+    {
+        "gameName": "mobridge",
+        "realName": "Mobridge",
+        "country": "mobridge",
+        "x": "-17575.44",
+        "y": "50",
+        "z": "-37842.44"
+    },
+    {
+        "gameName": "watertown_sd",
+        "realName": "Watertown",
+        "country": "watertown_sd",
+        "x": "-5825.043",
+        "y": "143.2773",
+        "z": "-33589.82"
+    },
+];
+
 var country_properties_canada = {
     "baiecomeau": {
         name: "Baie-Comeau",
@@ -15314,6 +15470,11 @@ cities = cities.concat(cities_mexico);
 cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
+
+//Uncomment the lines below to enable East Meets Mid-North cities
+country_properties = $.extend(country_properties, country_properties_emmn);
+city_properties = $.extend(city_properties, city_properties_emmn);
+cities = cities.concat(cities_emmn);
 
 //Uncomment the lines below to enable Canadream
 country_properties = $.extend(country_properties, country_properties_canada);
