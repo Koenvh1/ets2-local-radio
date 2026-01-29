@@ -245,6 +245,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.4
     },
+    "blythe": {
+        name: "Blythe",
+        name_english: "Blythe",
+        code: "us-ca",
+        relative_radius: 0.5
+    },
     "boise": {
         name: "Boise",
         name_english: "Boise",
@@ -569,6 +575,12 @@ var country_properties = {
         code: "us-la",
         relative_radius: 0.5
     },
+    "desert_center": {
+        name: "Desert Center",
+        name_english: "Desert Center",
+        code: "us-ca",
+        relative_radius: 0.3
+    },
     "de_queen": {
         name: "De Queen",
         name_english: "De Queen",
@@ -634,12 +646,6 @@ var country_properties = {
         name_english: "Eagle Nest",
         code: "us-nm",
         relative_radius: 0.5
-    },
-    "ehrenberg": {
-        name: "Ehrenberg",
-        name_english: "Ehrenberg",
-        code: "us-az",
-        relative_radius: 0.7
     },
     "el_dorado": {
         name: "El Dorado",
@@ -1151,6 +1157,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.7
     },
+    "kingman_lake_havasu_city": {
+        name: "Kingman/Lake Havasu City",
+        name_english: "Kingman/Lake Havasu City",
+        code: "us-az",
+        relative_radius: 0.9
+    },
     "kirksville": {
         name: "Kirksville",
         name_english: "Kirksville",
@@ -1174,6 +1186,12 @@ var country_properties = {
         name_english: "Lake Charles",
         code: "us-la",
         relative_radius: 0.7
+    },
+    "lake_havasu_city": {
+        name: "Lake Havasu City",
+        name_english: "Lake Havasu City",
+        code: "us-az",
+        relative_radius: 0.9
     },
     "lakeview": {
         name: "Lakeview",
@@ -1515,7 +1533,7 @@ var country_properties = {
         name: "Needles",
         name_english: "Needles",
         code: "us-ca",
-        relative_radius: 0.7
+        relative_radius: 0.9
     },
     "neodesha": {
         name: "Neodesha",
@@ -1737,19 +1755,19 @@ var country_properties = {
         name: "Prescott",
         name_english: "Prescott",
         code: "us-az",
-		relative_radius: 1.0,
+		relative_radius: 0.7,
     },
     "prescott_flagstaff": {
         name: "Prescott",
         name_english: "Prescott",
         code: "us-az",
-		relative_radius: 1.0,
+		relative_radius: 0.7,
     },
     "prescott_phoenix": {
         name: "Phoenix",
         name_english: "Phoenix",
         code: "us-az",
-		relative_radius: 1.0,
+		relative_radius: 0.7,
     },
     "prescott_ar": {
         name: "Prescott",
@@ -1774,6 +1792,12 @@ var country_properties = {
         name_english: "Quad Cities",
         code: "us-ia",
         relative_radius: 0.9
+    },
+    "quartzsite": {
+        name: "Quartzsite",
+        name_english: "Quartzsite",
+        code: "us-az",
+        relative_radius: 0.5
     },
     "quemado": {
         name: "Quemado",
@@ -2569,6 +2593,9 @@ var city_properties = {
     "bluff": {
         relative_whitenoise: 0.95
     },
+    "blythe": {
+        relative_whitenoise: 0.95
+    },
     "boise": {
         relative_whitenoise: 0.85
     },
@@ -2751,6 +2778,9 @@ var city_properties = {
     "deridder": {
         relative_whitenoise: 0.95
     },
+    "desert_center": {
+        relative_whitenoise: 0.95
+    },
     "de_queen": {
         relative_whitenoise: 0.95
     },
@@ -2784,9 +2814,6 @@ var city_properties = {
     },
     "eagle_nest": {
         relative_whitenoise: 0.95
-    },
-    "ehrenberg": {
-        relative_whitenoise: 0.80
     },
     "el_dorado": {
         relative_whitenoise: 0.95
@@ -3079,7 +3106,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "kingman": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
+    },
+    "kingman_lake_havasu_city": {
+        relative_whitenoise: 0.95
     },
     "kirksville": {
         relative_whitenoise: 0.95
@@ -3091,6 +3121,10 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "lake_charles": {
+        relative_whitenoise: 0.95
+    },
+    "lake_havasu_city": {
+        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "lakeview": {
@@ -3270,7 +3304,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "needles": {
-		relative_radius: 0.8,
+		relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "neodesha": {
@@ -3401,7 +3435,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "prescott_flagstaff": {
-        relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "prescott_phoenix": {
@@ -3421,6 +3454,9 @@ var city_properties = {
     },
     "quad_cities_ia": {
         relative_whitenoise: 0.85
+    },
+    "quartzsite": {
+        relative_whitenoise: 0.95
     },
     "quemado": {
         relative_whitenoise: 0.95
@@ -4186,6 +4222,14 @@ var cities = [
         "z": "4884.14"
     },
     {
+        "gameName": "blythe",
+        "realName": "Blythe",
+        "country": "blythe",
+        "x": "-86565.6",
+        "y": "78.1142",
+        "z": "21070.3"
+    },
+    {
         "gameName": "boise",
         "realName": "Boise",
         "country": "boise",
@@ -4714,6 +4758,14 @@ var cities = [
         "z": "44826.5"
     },
     {
+        "gameName": "desert_center",
+        "realName": "Desert Center",
+        "country": "desert_center",
+        "x": "-90026.4",
+        "y": "43.249",
+        "z": "19905.4"
+    },
+    {
         "gameName": "de_queen",
         "realName": "De Queen",
         "country": "de_queen",
@@ -4800,14 +4852,6 @@ var cities = [
         "x": "-42881.7",
         "y": "103.849",
         "z": "11832.4"
-    },
-    {
-        "gameName": "ehrenberg",
-        "realName": "Ehrenberg",
-        "country": "ehrenberg",
-        "x": "-86563.6",
-        "y": "35.4612",
-        "z": "20968.2"
     },
     {
         "gameName": "el_dorado",
@@ -5602,6 +5646,14 @@ var cities = [
         "z": "13606.3"
     },
     {
+        "gameName": "kingman_lake_havasu_city",
+        "realName": "Kingman/Lake Havasu City",
+        "country": "kingman_lake_havasu_city",
+        "x": "-82338",
+        "y": "115.055",
+        "z": "16890.4"
+    },
+    {
         "gameName": "kirksville",
         "realName": "Kirksville",
         "country": "kirksville",
@@ -5632,6 +5684,22 @@ var cities = [
         "x": "13295.4",
         "y": "49.8151",
         "z": "48848.5"
+    },
+    {
+        "gameName": "lake_havasu_city",
+        "realName": "Lake Havasu City",
+        "country": "lake_havasu_city",
+        "x": "-82338",
+        "y": "115.055",
+        "z": "18290.4"
+    },
+    {
+        "gameName": "lake_havasu_city",
+        "realName": "Lake Havasu City",
+        "country": "kingman_lake_havasu_city",
+        "x": "-82338",
+        "y": "115.055",
+        "z": "18290.4"
     },
     {
         "gameName": "lakeview",
@@ -6148,7 +6216,7 @@ var cities = [
     {
         "gameName": "needles",
         "realName": "Needles",
-        "country": "kingman",
+        "country": "kingman_lake_havasu_city",
         "x": "-85257.7",
         "y": "34.4319",
         "z": "14889.6"
@@ -6528,6 +6596,14 @@ var cities = [
         "x": "21354.2",
         "y": "81.375",
         "z": "-15424.5"
+    },
+    {
+        "gameName": "quartzsite",
+        "realName": "Quartzsite",
+        "country": "quartzsite",
+        "x": "-82901.3",
+        "y": "55.9787",
+        "z": "22467.1"
     },
     {
         "gameName": "quemado",
