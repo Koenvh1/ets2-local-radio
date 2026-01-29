@@ -339,35 +339,35 @@ var stations = {/*
             url: "https://live.topgold.al/topgold"
         },
     ],
-    "algier": [
+    "algeria": [
         {
             name: "Chaîne 1",
-            logo: "stations/images-europe/algier/Chaîne 1.png",
+            logo: "stations/images-europe/algeria/Chaîne 1.png",
             url: "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3"
         },
         {
             name: "Chaîne 2",
-            logo: "stations/images-europe/algier/Chaîne 2.png",
+            logo: "stations/images-europe/algeria/Chaîne 2.png",
             url: "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3"
         },
         {
             name: "Chaîne 3",
-            logo: "stations/images-europe/algier/Chaîne 3.png",
+            logo: "stations/images-europe/algeria/Chaîne 3.png",
             url: "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3"
         },
         {
             name: "Jil FM",
-            logo: "stations/images-europe/algier/Jil FM.png",
+            logo: "stations/images-europe/algeria/Jil FM.png",
             url: "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3"
         },
         {
             name: "Radio Algérie Internationale",
-            logo: "stations/images-europe/algier/Radio Algérie Internationale.png",
+            logo: "stations/images-europe/algeria/Radio Algérie Internationale.png",
             url: "https://radiointernationale.ice.infomaniak.ch/internationale.mp3"
         },
         {
             name: "Radio Coran",
-            logo: "stations/images-europe/algier/Radio Coran.png",
+            logo: "stations/images-europe/algeria/Radio Coran.png",
             url: "https://radiocoran.ice.infomaniak.ch/coran.mp3"
         },
     ],
@@ -6834,8 +6834,8 @@ var stations = {/*
         },
         {
             name: "medi1",
-            logo: "stations/images-europe/monaco/medi1.png",
-            url: "https://cdn.live.easybroadcast.io/live/83_medi1radio-afrique_mh786kz/playlist.m3u8"
+            logo: "stations/images-europe/morocco/medi1.png",
+            url: "https://live.medi1.com/medi1"
         },
         {
             name: "Radio Monaco",
@@ -7082,6 +7082,83 @@ var stations = {/*
             name: "Radio RECORD Moldova 107.9",
             logo: "stations/images-europe/moldova/chisinau/Radio RECORD Moldova 107.9.png",
             url: "https://air.radiorecord.md/recordmdhd"
+        },
+    ],
+    "morocco": [/*
+        {
+            name: "الإذاعة الوطنية",
+            logo: "stations/images-europe/morocco/الإذاعة الوطنية.png",
+            url: "https://cdn.live.easybroadcast.io/live/radio_nationale/playlist.m3u8"
+        },
+        {
+            name: "الإذاعة الأمازيغية",
+            logo: "stations/images-europe/morocco/الإذاعة الأمازيغية.png",
+            url: "https://cdn.live.easybroadcast.io/live/radio_amazigh/playlist.m3u8"
+        },
+        {
+            name: "Chaîne Inter",
+            logo: "stations/images-europe/morocco/Chaîne Inter.png",
+            url: "https://cdn.live.easybroadcast.io/live/radio_inter/playlist.m3u8"
+        },
+        {
+            name: "إذاعة محمد السادس للقرآن الكريم",
+            logo: "stations/images-europe/morocco/إذاعة محمد السادس للقرآن الكريم.png",
+            url: "https://cdn.live.easybroadcast.io/live/radio_med_VI/playlist.m3u8"
+        },*/
+        {
+            name: "Atlantic Radio",
+            logo: "stations/images-europe/morocco/Atlantic Radio.png",
+            url: "https://atlantic-sonic.nindohost.net:9300/stream"
+        },
+        {
+            name: "Cap Radio",
+            logo: "stations/images-europe/morocco/Cap Radio.png",
+            url: "https://listen.radioking.com/radio/710810/stream/776366"
+        },
+        {
+            name: "Chada FM",
+            logo: "stations/images-europe/morocco/Chada FM.png",
+            url: "https://stream.bodkas.com/playlist?id=chadafmradio&format=m3u8"
+        },
+        {
+            name: "Hit Radio",
+            logo: "stations/images-europe/morocco/Hit Radio.png",
+            url: "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+        },
+        {
+            name: "medi1",
+            logo: "stations/images-europe/morocco/medi1.png",
+            url: "https://live.medi1.com/medi1"
+        },
+        {
+            name: "Medina FM",
+            logo: "stations/images-europe/morocco/Medina FM.png",
+            url: "https://medinafm.ice.infomaniak.ch/medinafm-128.mp3"
+        },
+        {
+            name: "Medradio",
+            logo: "stations/images-europe/morocco/Medradio.png",
+            url: "https://medradio.ice.infomaniak.ch/medradio-128.mp3"
+        },
+        {
+            name: "MFM Radio",
+            logo: "stations/images-europe/morocco/MFM Radio.png",
+            url: "https://a5.asurahosting.com:7980/radio.mp3"
+        },/*
+        {
+            name: "Radio 2M",
+            logo: "stations/images-europe/morocco/Radio 2M.png",
+            url: "https://cdn-globecast.akamaized.net/live/eds/radio_2m/radio_hls_ts_hy217612tge1f21j83/radio_2m.m3u8"
+        },*/
+        {
+            name: "راديو أصوات",
+            logo: "stations/images-europe/morocco/راديو أصوات.png",
+            url: "https://aswat.ice.infomaniak.ch/aswat-high.mp3"
+        },
+        {
+            name: "Radio Mars",
+            logo: "stations/images-europe/morocco/Radio Mars.png",
+            url: "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3"
         },
     ],
     "netherlands": [
@@ -9509,27 +9586,37 @@ var stations = {/*
             url: "https://lb-media.mcot.net/RegionRadio/Chonburi.stream_aac/playlist.m3u8"
         },
     ],
-    "tunis": [
+    "tunisia": [
         {
-            name: "Mosaïque FM",
-            logo: "stations/images-europe/tunis/Mosaïque FM.png",
-            url: "https://radio.mosaiquefm.net/mosalive"
+            name: "RTT Radio Nationale",
+            logo: "stations/images-europe/tunisia/RTT Radio Nationale.png",
+            url: "https://radio.radiotunisienne.tn/nationale"
         },
         {
             name: "RTT Radio Tunis Chaîne Internationale",
-            logo: "stations/images-europe/tunis/RTT Radio Tunis Chaîne Internationale.jpg",
-            url: "http://rtstream.tanitweb.com/jeunes"
+            logo: "stations/images-europe/tunisia/RTT Radio Tunis Chaîne Internationale.png",
+            url: "https://radio.radiotunisienne.tn/rtci"
         },
         {
-            name: "Radio iFM",
-            logo: "stations/images-europe/tunis/Radio iFM.jpg",
+            name: "RTT Radio Culture",
+            logo: "stations/images-europe/tunisia/RTT Radio Culture.png",
+            url: "https://radio.radiotunisienne.tn/culturelle"
+        },
+        {
+            name: "RTT Radio Jeunes",
+            logo: "stations/images-europe/tunisia/RTT Radio Jeunes.png",
+            url: "https://radio.radiotunisienne.tn/jeunes"
+        },
+        {
+            name: "Mosaïque FM",
+            logo: "stations/images-europe/tunisia/Mosaïque FM.png",
+            url: "https://radio.mosaiquefm.net/mosalive"
+        },
+        {
+            name: "Radio IFM",
+            logo: "stations/images-europe/tunisia/Radio IFM.png",
             url: "https://live.ifm.tn/radio/8000/ifmlive?1585267848"
         },
-        {
-            name: "RTT Radio Nationale",
-            logo: "stations/images-europe/tunis/RTT Radio Nationale.jpg",
-            url: "http://rtstream.tanitweb.com/nationale"
-        }
     ],
     "turkey": [
         {

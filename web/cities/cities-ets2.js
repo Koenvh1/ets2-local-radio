@@ -29,7 +29,7 @@ var country_properties = {
         code: "al",
         relative_radius: 0.6,
     },
-    "algier": {
+    "algeria": {
         name: "الجزائر",
         name_english: "Algeria",
         code: "dz",
@@ -617,6 +617,12 @@ var country_properties = {
         code: "md",
         relative_radius: 0.6,
     },
+    "morocco": {
+        name: "المغرب",
+        name_english: "Morocco",
+        code: "ma",
+        relative_radius: 0.8,
+    },
     "netherlands": {
         name: "Nederland",
         name_english: "Netherlands",
@@ -779,7 +785,7 @@ var country_properties = {
         code: "th",
         relative_radius: 1,
     },
-    "tunis": {
+    "tunisia": {
         name: "تونس",
         name_english: "Tunisia",
         code: "tn",
@@ -871,6 +877,9 @@ var city_properties = {
     },
     "alban": {
         relative_radius: 1.4,
+    },
+    "algeciras": {
+        relative_radius: 0.8,
     },
     "alkhuraybah": {
         relative_radius: 0.7,
@@ -1645,6 +1654,9 @@ var city_properties = {
     },
     "massakory": {
         relative_radius: 2,
+    },
+    "medtangier": {
+        relative_radius: 0.6,
     },
     "melitopol": {
         relative_radius: 0.9,
@@ -11014,6 +11026,97 @@ var cities_pm_me = [
 
 ];
 
+var cities_pm_ma = [
+    {
+        "gameName": "enfidha",
+        "realName": "Enfidha",
+        "country": "tunisia",
+        "x": "-6258.188",
+        "y": "46.21875",
+        "z": "82039.91"
+    },
+    {
+        "gameName": "kenitra",
+        "realName": "Kénitra",
+        "country": "morocco",
+        "x": "-87112.67",
+        "y": "54.79688",
+        "z": "79902.2"
+    },
+    {
+        "gameName": "ksarkbir",
+        "realName": "Ksar El Kbir",
+        "country": "morocco",
+        "x": "-83107.34",
+        "y": "51.67188",
+        "z": "77299.03"
+    },
+    {
+        "gameName": "larache",
+        "realName": "Larache",
+        "country": "morocco",
+        "x": "-84130.38",
+        "y": "59.28125",
+        "z": "75400.34"
+    },
+    {
+        "gameName": "medtangier",
+        "realName": "Port Med Tangier",
+        "country": "morocco",
+        "x": "-78981.56",
+        "y": "52",
+        "z": "72667.91"
+    },
+    {
+        "gameName": "rabat",
+        "realName": "Rabat",
+        "country": "morocco",
+        "x": "-89554.86",
+        "y": "43.47266",
+        "z": "80499.94"
+    },
+    {
+        "gameName": "sale",
+        "realName": "Salé",
+        "country": "morocco",
+        "x": "-88330.73",
+        "y": "54.79688",
+        "z": "80608.2"
+    },
+    {
+        "gameName": "tangier",
+        "realName": "Tangier",
+        "country": "morocco",
+        "x": "-81449.96",
+        "y": "50.56641",
+        "z": "72534.61"
+    },
+    {
+        "gameName": "tetouan",
+        "realName": "Tétouan",
+        "country": "morocco",
+        "x": "-79267.8",
+        "y": "52.12891",
+        "z": "74788.69"
+    },
+    {
+        "gameName": "tunis",
+        "realName": "Tunis",
+        "country": "tunisia",
+        "x": "-4635.66",
+        "y": "34.32813",
+        "z": "77266.98"
+    },
+    {
+        "gameName": "utique",
+        "realName": "Utique",
+        "country": "tunisia",
+        "x": "-6551.695",
+        "y": "45.79688",
+        "z": "76575.57"
+    },
+];
+
 var cities_wip = [
     {
         "gameName": "domitz",
@@ -12449,7 +12552,7 @@ var cities_afromap = [
     {
         "gameName": "algiers",
         "realName": "Algiers",
-        "country": "algier",
+        "country": "algeria",
         "x": "-38215.8",
         "y": "50.1367",
         "z": "76472"
@@ -12457,7 +12560,7 @@ var cities_afromap = [
     {
         "gameName": "annaba",
         "realName": "Annaba",
-        "country": "algier",
+        "country": "algeria",
         "x": "-16670.2",
         "y": "50",
         "z": "75892.2"
@@ -12465,7 +12568,7 @@ var cities_afromap = [
     {
         "gameName": "bizerte",
         "realName": "Bizerte",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-7092.85",
         "y": "42.9297",
         "z": "74232"
@@ -12473,7 +12576,7 @@ var cities_afromap = [
     {
         "gameName": "constantine",
         "realName": "Constantine",
-        "country": "algier",
+        "country": "algeria",
         "x": "-21670.3",
         "y": "50",
         "z": "79061.1"
@@ -12481,7 +12584,7 @@ var cities_afromap = [
     {
         "gameName": "el_alia",
         "realName": "El_Alia",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-6069.74",
         "y": "42.9336",
         "z": "74757"
@@ -12489,7 +12592,7 @@ var cities_afromap = [
     {
         "gameName": "el_kala",
         "realName": "El Kala",
-        "country": "algier",
+        "country": "algeria",
         "x": "-13360.3",
         "y": "49.1172",
         "z": "76308.9"
@@ -12497,7 +12600,7 @@ var cities_afromap = [
     {
         "gameName": "el_kef",
         "realName": "El kef",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-12123",
         "y": "47.6797",
         "z": "79825.3"
@@ -12505,7 +12608,7 @@ var cities_afromap = [
     {
         "gameName": "gabes",
         "realName": "Gabes",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-5781.2",
         "y": "49.6641",
         "z": "91105.4"
@@ -12513,7 +12616,7 @@ var cities_afromap = [
     {
         "gameName": "gafsa",
         "realName": "Gafsa",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-12289.6",
         "y": "50.1602",
         "z": "88399.2"
@@ -12521,7 +12624,7 @@ var cities_afromap = [
     {
         "gameName": "hammamet",
         "realName": "Hammamet",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-3332.37",
         "y": "46.7656",
         "z": "78747.1"
@@ -12529,23 +12632,23 @@ var cities_afromap = [
     {
         "gameName": "houmt_souk",
         "realName": "Houmt Souk",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-2800.36",
         "y": "50.1484",
         "z": "91619.5"
-    },
+    },/*
     {
         "gameName": "kairouan",
         "realName": "Kairouan",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-6364.26",
         "y": "55.8828",
         "z": "82307.5"
-    },
+    },*/
     {
         "gameName": "kasserine",
         "realName": "Kasserine",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-12202.3",
         "y": "48.7656",
         "z": "85063.4"
@@ -12553,7 +12656,7 @@ var cities_afromap = [
     {
         "gameName": "medenine",
         "realName": "Medenine",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-3844.41",
         "y": "44.043",
         "z": "93878.2"
@@ -12561,7 +12664,7 @@ var cities_afromap = [
     {
         "gameName": "naftah",
         "realName": "Naftah",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-16572.2",
         "y": "50",
         "z": "91096.1"
@@ -12569,7 +12672,7 @@ var cities_afromap = [
     {
         "gameName": "qibilt",
         "realName": "Qibilt",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-11888.3",
         "y": "50",
         "z": "91866.5"
@@ -12577,7 +12680,7 @@ var cities_afromap = [
     {
         "gameName": "sfax",
         "realName": "Sfax",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-2305.61",
         "y": "46.8633",
         "z": "86277.7"
@@ -12585,7 +12688,7 @@ var cities_afromap = [
     {
         "gameName": "skikda",
         "realName": "Skikda",
-        "country": "algier",
+        "country": "algeria",
         "x": "-20611.9",
         "y": "50",
         "z": "76010.8"
@@ -12593,7 +12696,7 @@ var cities_afromap = [
     {
         "gameName": "souk_ahras",
         "realName": "Souk ahras",
-        "country": "algier",
+        "country": "algeria",
         "x": "-15639.2",
         "y": "46.5117",
         "z": "79294.3"
@@ -12601,19 +12704,19 @@ var cities_afromap = [
     {
         "gameName": "sousse",
         "realName": "Sousse",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-3402.8",
         "y": "45.6875",
         "z": "81410.8"
-    },
+    }/*,
     {
         "gameName": "tunis",
         "realName": "Tunis",
-        "country": "tunis",
+        "country": "tunisia",
         "x": "-5537.71",
         "y": "42.9297",
         "z": "76705.7"
-    }
+    }*/
 ];
 
 var cities_tsm = [
@@ -19436,13 +19539,14 @@ cities = cities.concat(cities_pm274); //ProMods 2.74 cities
 cities = cities.concat(cities_pm276); //ProMods 2.76 cities
 cities = cities.concat(cities_pm280); //ProMods 2.80 cities
 cities = cities.concat(cities_pm_me); //ProMods Middle East
+cities = cities.concat(cities_pm_ma); //ProMods Maghreb
 cities = cities.concat(cities_wip); //WIP cities
 cities = cities.concat(cities_srm); //Southern Region Map
 cities = cities.concat(cities_fr); //France DLC
 cities = cities.concat(cities_btbs); //Beyond the Baltic Sea DLC
 cities = cities.concat(cities_balkan_e); //Road to the Black Sea DLC
 cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
-cities = cities.concat(cities_kz); //The Great Steppe
+cities = cities.concat(cities_kz); //ProMods The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
 //cities = cities.concat(cities_japan); //Project Japan
 cities = cities.concat(cities_tsm); //TruckSim-Map
