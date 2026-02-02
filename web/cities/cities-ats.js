@@ -12999,7 +12999,7 @@ var country_properties_emmn = {
         name: "Devils Lake",
         name_english: "Devils Lake",
         code: "us-nd",
-        relative_radius: 0.75
+        relative_radius: 0.8
     },
     "hettinger_nd": {
         name: "Hettinger",
@@ -13050,7 +13050,7 @@ var city_properties_emmn = {
         relative_whitenoise: 0.85
     },
     "devils_nd": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "minotnd": {
         relative_whitenoise: 0.85
@@ -13141,6 +13141,284 @@ var cities_emmn = [
         "x": "-5825.043",
         "y": "143.2773",
         "z": "-33589.82"
+    },
+];
+
+var country_properties_dna = {
+    "dover": {
+        name: "Dover",
+        name_english: "Dover",
+        code: "us-de",
+        relative_radius: 0.4
+    },
+    "jackman": {
+        name: "Jackman",
+        name_english: "Jackman",
+        code: "us-me",
+        relative_radius: 0.6
+    },
+    "salisbury": {
+        name: "Salisbury",
+        name_english: "Salisbury",
+        code: "us-md",
+        relative_radius: 0.4
+    },
+    "barnstable": {
+        name: "Barnstable",
+        name_english: "Barnstable",
+        code: "us-ma",
+        relative_radius: 0.5
+    },
+    "escanaba": {
+        name: "Escanaba",
+        name_english: "Escanaba",
+        code: "us-mi",
+        relative_radius: 0.75
+    },
+    "houghton": {
+        name: "Houghton",
+        name_english: "Houghton",
+        code: "us-mi",
+        relative_radius: 0.7
+    },
+    "ironwood": {
+        name: "Ironwood",
+        name_english: "Ironwood",
+        code: "us-mi",
+        relative_radius: 0.7
+    },
+    "marquette": {
+        name: "Marquette",
+        name_english: "Marquette",
+        code: "us-mi",
+        relative_radius: 0.9
+    },
+    "fergus_falls": {
+        name: "Fergus Falls",
+        name_english: "Fergus Falls",
+        code: "us-mn",
+        relative_radius: 0.6
+    },
+    "marshall_mn": {
+        name: "Marshall",
+        name_english: "Marshall",
+        code: "us-mn",
+        relative_radius: 0.5
+    },
+    "willmar": {
+        name: "Willmar",
+        name_english: "Willmar",
+        code: "us-mn",
+        relative_radius: 0.5
+    },
+    "lancaster_nh": {
+        name: "Lancaster",
+        name_english: "Lancaster",
+        code: "us-nh",
+        relative_radius: 0.6
+    },
+    "atlan_city": {
+        name: "Atlantic City",
+        name_english: "Atlantic City",
+        code: "us-nj",
+        relative_radius: 0.4
+    },
+    "toms_river": {
+        name: "Toms River",
+        name_english: "Toms River",
+        code: "us-nj",
+        relative_radius: 0.4
+    },
+    "trenton": {
+        name: "Trenton",
+        name_english: "Trenton",
+        code: "us-nj",
+        relative_radius: 0.35
+    },
+    "aberdeen_sd": {
+        name: "Aberdeen",
+        name_english: "Aberdeen",
+        code: "us-sd",
+        relative_radius: 0.65
+    },
+};
+
+var city_properties_dna = {
+    "dover": {
+        relative_whitenoise: 0.85
+    },
+    "jackman": {
+        relative_whitenoise: 0.85
+    },
+    "salisbury": {
+        relative_whitenoise: 0.85
+    },
+    "barnstable": {
+        relative_whitenoise: 0.85
+    },
+    "escanaba": {
+        relative_whitenoise: 0.85
+    },
+    "houghton": {
+        relative_whitenoise: 0.85
+    },
+    "ironwood": {
+        relative_whitenoise: 0.85
+    },
+    "marquette": {
+        relative_whitenoise: 0.95
+    },
+    "fergus_falls": {
+        relative_whitenoise: 0.85
+    },
+    "marshall_mn": {
+        relative_whitenoise: 0.85
+    },
+    "willmar": {
+        relative_whitenoise: 0.85
+    },
+    "lancaster_nh": {
+        relative_whitenoise: 0.85
+    },
+    "atlan_city": {
+        relative_whitenoise: 0.85
+    },
+    "toms_river": {
+        relative_whitenoise: 0.85
+    },
+    "aberdeen_sd": {
+        relative_whitenoise: 0.85
+    },
+};
+
+var cities_dna = [
+    {
+        "gameName": "dover",
+        "realName": "Dover",
+        "country": "dover",
+        "x": "88636.42",
+        "y": "142.5039",
+        "z": "-11383.08"
+    },
+    {
+        "gameName": "jackman",
+        "realName": "Jackman",
+        "country": "jackman",
+        "x": "100826.1",
+        "y": "71.43359",
+        "z": "-51767.09"
+    },
+    {
+        "gameName": "salisbury",
+        "realName": "Salisbury",
+        "country": "salisbury",
+        "x": "89061.13",
+        "y": "116.4258",
+        "z": "-7149.063"
+    },
+    {
+        "gameName": "barnstable",
+        "realName": "Barnstable",
+        "country": "barnstable",
+        "x": "106633.7",
+        "y": "68.84375",
+        "z": "-30204.71"
+    },
+    {
+        "gameName": "escanaba",
+        "realName": "Escanaba",
+        "country": "escanaba",
+        "x": "35243.32",
+        "y": "140.4258",
+        "z": "-39447.67"
+    },
+    {
+        "gameName": "houghton",
+        "realName": "Houghton",
+        "country": "houghton",
+        "x": "29132.06",
+        "y": "140.6367",
+        "z": "-46501.83"
+    },
+    {
+        "gameName": "ironwood",
+        "realName": "Ironwood",
+        "country": "ironwood",
+        "x": "23262.9",
+        "y": "140.4336",
+        "z": "-42833.85"
+    },
+    {
+        "gameName": "marquette",
+        "realName": "Marquette",
+        "country": "marquette",
+        "x": "33274.54",
+        "y": "140.2227",
+        "z": "-43423.65"
+    },
+    {
+        "gameName": "fergus_falls",
+        "realName": "Fergus Falls",
+        "country": "fergus_falls",
+        "x": "-169.0273",
+        "y": "96.27344",
+        "z": "-41773.66"
+    },
+    {
+        "gameName": "marshall_mn",
+        "realName": "Marshall",
+        "country": "marshall_mn",
+        "x": "819.8281",
+        "y": "144.1172",
+        "z": "-31008.85"
+    },
+    {
+        "gameName": "willmar",
+        "realName": "Willmar",
+        "country": "willmar",
+        "x": "4040.172",
+        "y": "131.918",
+        "z": "-34746.53"
+    },
+    {
+        "gameName": "lancaster_nh",
+        "realName": "Lancaster",
+        "country": "lancaster_nh",
+        "x": "97363.27",
+        "y": "77.03906",
+        "z": "-44323.26"
+    },
+    {
+        "gameName": "atlan_city",
+        "realName": "Atlantic City",
+        "country": "atlan_city",
+        "x": "93145.05",
+        "y": "55.28125",
+        "z": "-13332.07"
+    },
+    {
+        "gameName": "toms_river",
+        "realName": "Toms River",
+        "country": "toms_river",
+        "x": "93259.73",
+        "y": "60.88281",
+        "z": "-16970.62"
+    },
+    {
+        "gameName": "trenton",
+        "realName": "Trenton",
+        "country": "trenton",
+        "x": "90566.84",
+        "y": "94.36328",
+        "z": "-18042.81"
+    },
+    {
+        "gameName": "aberdeen_sd",
+        "realName": "Aberdeen",
+        "country": "aberdeen_sd",
+        "x": "-9965.375",
+        "y": "183.5",
+        "z": "-36847.3"
     },
 ];
 
@@ -15475,6 +15753,11 @@ city_properties = $.extend(city_properties, city_properties_c2c);
 country_properties = $.extend(country_properties, country_properties_emmn);
 city_properties = $.extend(city_properties, city_properties_emmn);
 cities = cities.concat(cities_emmn);
+
+//Uncomment the lines below to enable Discover North America cities
+country_properties = $.extend(country_properties, country_properties_dna);
+city_properties = $.extend(city_properties, city_properties_dna);
+cities = cities.concat(cities_dna);
 
 //Uncomment the lines below to enable Canadream
 country_properties = $.extend(country_properties, country_properties_canada);

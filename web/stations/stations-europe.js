@@ -2102,9 +2102,9 @@ var stations = {
             url: "http://live-icy.gss.dr.dk/A/A22H.mp3"
         },
         {
-            name: "Classic FM",
-            logo: "stations/images-europe/denmark/Classic FM.png",
-            url: "https://netradio.classicfm.dk/cla8d"
+            name: "Classic Pop",
+            logo: "stations/images-europe/denmark/Classic Pop.png",
+            url: "https://netradio.classicpop.dk/classicpoptrekant"
         },
         {
             name: "Classic Rock",
@@ -3119,7 +3119,7 @@ var stations = {
         },
         {
             name: "FG CHIC. Germany",
-            logo: "stations/images-europe/germany-hh/FG CHIC. Germany.png",
+            logo: "stations/images-europe/germany-berlin/FG CHIC. Germany.png",
             url: "https://stream.rcs.revma.com/8actzfn0742vv"
         },
         {
@@ -3461,11 +3461,6 @@ var stations = {
             url: "https://frontend.streamonkey.net/energy-hamburg/stream/mp3"
         },
         {
-            name: "FG CHIC. Germany",
-            logo: "stations/images-europe/germany-hh/FG CHIC. Germany.png",
-            url: "https://stream.rcs.revma.com/8actzfn0742vv"
-        },
-        {
             name: "Freies Sender Kombinat",
             logo: "stations/images-europe/germany-hh/Freies Sender Kombinat.png",
             url: "https://streaming.fueralle.org/fsk.mp3"
@@ -3526,14 +3521,14 @@ var stations = {
             url: "https://radio-teddy.api.radiosphere.io/channels/livestream-hamburg/stream.aac"
         },
         {
+            name: "Radio Wellenrausch",
+            logo: "stations/images-europe/germany-hh/Radio Wellenrausch.png",
+            url: "https://stream.radio-wellenrausch.de/rwrlive/mp3-192/homepage"
+        },
+        {
             name: "STAR FM",
             logo: "stations/images-europe/germany-rbb/STAR FM.png",
             url: "https://stream.starfm.de/national/mp3-192/webseite"
-        },
-        {
-            name: "STARSAT RADIO",
-            logo: "stations/images-europe/germany-hh/STARSAT RADIO.png",
-            url: "https://starsat-live.cast.addradio.de/starsat/live/mp3/high/stream.mp3"
         },
         {
             name: "TIDE 96.0",
