@@ -37858,9 +37858,9 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3459/hls.m3u8"
         },
         {
-            name: "Wild Willie 100.1",
-            logo: "stations/images-america/c2c/panama_city_fl/Wild Willie 100.1.png",
-            url: "https://dash.streamkast.co/proxy/magicbroadcasting3/wwlyfm"
+            name: "Rebel Radio 100.1",
+            logo: "stations/images-america/c2c/panama_city_fl/Rebel Radio 100.1.png",
+            url: "https://ais-sa1.streamon.fm/10476_96k.aac"
         },
         {
             name: "Florida Man Radio 101.1",
