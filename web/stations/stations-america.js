@@ -58853,6 +58853,83 @@ var stations = {
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kwatamaac-ibc4"
         },
     ],
+    "dover": [
+        {
+            name: "The Bridge 88.7",
+            logo: "stations/images-america/dna/dover_de/The Bridge 88.7.png",
+            url: "https://ice66.securenetsystems.net/WKNZ2"
+        },
+        {
+            name: "Delaware Public Media 91.1",
+            logo: "stations/images-america/dna/dover_de/Delaware Public Media 91.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDDEFM_SC"
+        },
+        {
+            name: "WRTX 91.7",
+            logo: "stations/images-america/c2c/philadelphia_pa/WRTI 90.1.png",
+            url: "https://wrti-live.streamguys1.com/classical-mp3"
+        },
+        {
+            name: "92.9 Tom-FM",
+            logo: "stations/images-america/dna/dover_de/92.9 Tom-FM.png",
+            url: "https://stream.revma.ihrhls.com/zc469/hls.m3u8"
+        },
+        {
+            name: "92.9 WRDX-HD2",
+            logo: "stations/images-america/dna/dover_de/FOX Sports Wilmington.png",
+            url: "https://stream.revma.ihrhls.com/zc473/hls.m3u8"
+        },
+        {
+            name: "94.7 WDSD",
+            logo: "stations/images-america/dna/dover_de/94.7 WDSD.png",
+            url: "https://stream.revma.ihrhls.com/zc461/hls.m3u8"
+        },
+        {
+            name: "94.7 WDSD-HD2",
+            logo: "stations/images-america/dna/dover_de/1450 WILM.png",
+            url: "https://stream.revma.ihrhls.com/zc465/hls.m3u8"
+        },
+        {
+            name: "WIHW 96.1",
+            logo: "stations/images-america/dna/dover_de/WIHW 96.1.png",
+            url: "https://ice25.securenetsystems.net/WIHWLP"
+        },
+        {
+            name: "Eagle 97.7",
+            logo: "stations/images-america/dna/dover_de/Eagle 97.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7881_96k.aac"
+        },
+        {
+            name: "The Chicken 101.3",
+            logo: "stations/images-america/dna/dover_de/The Chicken 101.3.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7882_96k.aac"
+        },
+        {
+            name: "K-LOVE 103.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "105.1 W286BS",
+            logo: "stations/images-america/dna/dover_de/1410 WDOV.png",
+            url: "http://stream.revma.ihrhls.com/zc3205/hls.m3u8"
+        },
+        {
+            name: "Reach Gospel Radio 106.7",
+            logo: "stations/images-america/0_general_logos/Reach Gospel Radio.png",
+            url: "https://ice7.securenetsystems.net/WXHL"
+        },
+        {
+            name: "930 WNCL",
+            logo: "stations/images-america/dna/dover_de/Cool 102.1.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7880_96k.aac"
+        },
+        {
+            name: "1410 WDOV",
+            logo: "stations/images-america/dna/dover_de/1410 WDOV.png",
+            url: "https://stream.revma.ihrhls.com/zc3205/hls.m3u8"
+        },
+    ],
     "salisbury": [
         {
             name: "WGBZ 88.3",
@@ -58893,11 +58970,6 @@ var stations = {
             name: "Reach Gospel Radio 91.9",
             logo: "stations/images-america/0_general_logos/Reach Gospel Radio.png",
             url: "https://ice7.securenetsystems.net/WXHL"
-        },
-        {
-            name: "K-LOVE 92.1",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "The Bridge 92.5",
