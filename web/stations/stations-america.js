@@ -29006,12 +29006,12 @@ var stations = {/*
             name: "104.9 KEEH-HD2",
             logo: "stations/images-america/0_general_logos/LifeTalk Radio.png",
             url: "https://ais-sa1.streamon.fm/7013_64k.aac"
-        },
+        },/*
         {
             name: "104.9 KEEH-HD3",
             logo: "stations/images-america/spokane/Glisten.png",
             url: "https://streaming.live365.com/a66291"
-        },
+        },*/
         {
             name: "105.7 NOW FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
@@ -37751,11 +37751,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc717/hls.m3u8"
         },
         {
-            name: "Country Top 30 105.5-HD2",
-            logo: "stations/images-america/0_general_logos/Country Top 30 with Bobby Bones.png",
-            url: "https://stream.revma.ihrhls.com/zc6760/hls.m3u8"
-        },
-        {
             name: "ESPN 106.3",
             logo: "stations/images-america/c2c/port_saint_lucie_fl/ESPN 106.3.png",
             url: "https://live.amperwave.net/direct/goodkarma-wuubfmaac-ibc2"
@@ -43681,11 +43676,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc981/hls.m3u8"
         },
         {
-            name: "iHeart70s 93.1-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart70s.png",
-            url: "https://stream.revma.ihrhls.com/zc6843/hls.m3u8"
-        },
-        {
             name: "93.9 The Ville",
             logo: "stations/images-america/c2c/louisville_ky/93.9 The Ville.png",
             url: "https://live.amperwave.net/manifest/unionbroadcasting-wlclamaac-ibc2"
@@ -45239,11 +45229,6 @@ var stations = {/*
             name: "106.7 WLLZ",
             logo: "stations/images-america/c2c/detroit_mi/106.7 WLLZ.png",
             url: "https://stream.revma.ihrhls.com/zc1137/hls.m3u8"
-        },
-        {
-            name: "WiLD 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/WiLD.png",
-            url: "https://stream.revma.ihrhls.com/zc4722/hls.m3u8"
         },
         {
             name: "HOT 107.5",
@@ -47521,11 +47506,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1421/hls.m3u8"
         },
         {
-            name: "iHeart 10s 102.3-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart10s.png",
-            url: "https://stream.revma.ihrhls.com/zc8478/hls.m3u8"
-        },
-        {
             name: "103.1 WGY",
             logo: "stations/images-america/c2c/albany_ny/103.1 WGY.png",
             url: "https://stream.revma.ihrhls.com/zc1413/hls.m3u8"
@@ -49016,16 +48996,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1549/hls.m3u8"
         },
         {
-            name: "iHeart 80s 94.5-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart80s.png",
-            url: "https://stream.revma.ihrhls.com/zc5060/hls.m3u8"
-        },
-        {
-            name: "The Breeze 94.5-HD3",
-            logo: "stations/images-america/0_general_logos/The Breeze.png",
-            url: "https://stream.revma.ihrhls.com/zc8143/hls.m3u8"
-        },
-        {
             name: "95X",
             logo: "stations/images-america/c2c/syracuse_ny/95X.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAQXFMAAC_SC"
@@ -49096,16 +49066,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1525/hls.m3u8"
         },
         {
-            name: "iHeartCountry 80s 104.7-HD2",
-            logo: "stations/images-america/0_general_logos/iHeartCountry 80s.png",
-            url: "https://stream.revma.ihrhls.com/zc6836/hls.m3u8"
-        },
-        {
-            name: "iHeart New Country 104.7-HD3",
-            logo: "stations/images-america/0_general_logos/iHeart New Country.png",
-            url: "https://stream.revma.ihrhls.com/zc4712/hls.m3u8"
-        },
-        {
             name: "Family Life 105.1",
             logo: "stations/images-america/0_general_logos/Family Life.png",
             url: "http://streaming.live365.com/a45160_2"
@@ -49129,16 +49089,6 @@ var stations = {/*
             name: "HOT 107.9",
             logo: "stations/images-america/c2c/syracuse_ny/HOT 107.9.png",
             url: "https://stream.revma.ihrhls.com/zc1545/hls.m3u8"
-        },
-        {
-            name: "iHeart 90s 107.9-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart90s.png",
-            url: "https://stream.revma.ihrhls.com/zc6834/hls.m3u8"
-        },
-        {
-            name: "iHeart 2000s 107.9-HD3",
-            logo: "stations/images-america/0_general_logos/iHeart2000s.png",
-            url: "https://stream.revma.ihrhls.com/zc6850/hls.m3u8"
         },
         {
             name: "NOAA Weather Radio Syracuse",
@@ -58282,16 +58232,6 @@ var stations = {/*
             name: "FM106.1",
             logo: "stations/images-america/c2c/milwaukee_wi/FM106.1.png",
             url: "https://stream.revma.ihrhls.com/zc2677/hls.m3u8"
-        },
-        {
-            name: "New Country 106.1-HD2",
-            logo: "stations/images-america/0_general_logos/iHeart New Country.png",
-            url: "https://stream.revma.ihrhls.com/zc4712/hls.m3u8"
-        },
-        {
-            name: "ALT2K 106.1-HD3",
-            logo: "stations/images-america/c2c/milwaukee_wi/ALT2K 106.1-HD3.png",
-            url: "https://stream.revma.ihrhls.com/zc7727/hls.m3u8"
         },
         {
             name: "WNOV 106.5",
