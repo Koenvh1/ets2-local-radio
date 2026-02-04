@@ -41518,9 +41518,9 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
         },
         {
-            name: "HPR Classical 91.3",
-            logo: "stations/images-america/0_general_logos/HPR.png",
-            url: "https://khpr-ice.streamguys1.com/kipo2"
+            name: "CSN Radio 91.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
             name: "The Wave@92FM",
@@ -41541,6 +41541,11 @@ var stations = {
             name: "Air1 94.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "HPR Classical 95.7",
+            logo: "stations/images-america/0_general_logos/HPR.png",
+            url: "https://khpr-ice.streamguys1.com/kipo2"
         },
         {
             name: "KAPA 99.1",
@@ -58930,6 +58935,13 @@ var stations = {
             url: "https://stream.revma.ihrhls.com/zc3205/hls.m3u8"
         },
     ],
+    "jackman": [
+        {
+            name: "WTOS 105.1",
+            logo: "stations/images-america/dna/jackman_me/WTOS 105.1.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/blueberry-wtosfmaac-ibc1"
+        },
+    ],
     "salisbury": [
         {
             name: "WGBZ 88.3",
@@ -59105,6 +59117,185 @@ var stations = {
             name: "1470 WJDY",
             logo: "stations/images-america/dna/salisbury_md/1470 WJDY.png",
             url: "https://stream.revma.ihrhls.com/zc3151/hls.m3u8"
+        },
+    ],
+    "barnstable": [
+        {
+            name: "RenewFM 88.3",
+            logo: "stations/images-america/c2c/boston_ma/RenewFM 103.7.png",
+            url: "https://streams.radio.co/s34b0aa3a7/listen"
+        },
+        {
+            name: "WBUH 89.1",
+            logo: "stations/images-america/c2c/boston_ma/90.9 WBUR.png",
+            url: "https://icecast-stream.wbur.org/wbur_www"
+        },
+        {
+            name: "WKKL 90.7",
+            logo: "stations/images-america/dna/barnstable_ma/WKKL 90.7.png",
+            url: "https://streaming.live365.com/a45468"
+        },
+        {
+            name: "WFMR 91.3",
+            logo: "stations/images-america/dna/barnstable_ma/WOMR 92.1.png",
+            url: "https://streaming.live365.com/a45468"
+        },
+        {
+            name: "WFPB 91.9",
+            logo: "stations/images-america/c2c/boston_ma/WUMB 91.9.png",
+            url: "https://wumb.streamguys1.com/wumb919fast"
+        },
+        {
+            name: "93.5 Frank FM",
+            logo: "stations/images-america/dna/barnstable_ma/93.5 Frank FM.png",
+            url: "http://84.32.44.251/index.php?u=https://ice3.securenetsystems.net/WFRQ"
+        },
+        {
+            name: "WZAI 94.3",
+            logo: "stations/images-america/dna/barnstable_ma/CAI.png",
+            url: "https://streams.audio.wgbh.org/wcai-itunes-256k.aac"
+        },
+        {
+            name: "CRB 94.3-HD2",
+            logo: "stations/images-america/c2c/boston_ma/CRB 99.5.png",
+            url: "https://wgbh-live.streamguys1.com/WCRB.mp3"
+        },
+        {
+            name: "Newsradio 95 WXTK",
+            logo: "stations/images-america/dna/barnstable_ma/Newsradio 95 WXTK.png",
+            url: "http://stream.revma.ihrhls.com/zc6675/hls.m3u8"
+        },
+        {
+            name: "WEII 96.3",
+            logo: "stations/images-america/c2c/boston_ma/WEEI 93.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-weeifmaac-imc"
+        },
+        {
+            name: "WJFD 97.3",
+            logo: "stations/images-america/c2c/providence_ri/WJFD 97.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJFDFMAAC_SC"
+        },
+        {
+            name: "Cat Country 98.1",
+            logo: "stations/images-america/c2c/providence_ri/Cat Country 98.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCTKFMAAC_SC"
+        },
+        {
+            name: "98.1 WCTK-HD2",
+            logo: "stations/images-america/c2c/providence_ri/BIG 101.3.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WNBHAMAAC_SC"
+        },
+        {
+            name: "Easy 99.1",
+            logo: "stations/images-america/dna/barnstable_ma/Easy 99.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPLMFMAAC_SC"
+        },
+        {
+            name: "99.9 The Q",
+            logo: "stations/images-america/dna/barnstable_ma/99.9 The Q.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WQRC"
+        },
+        {
+            name: "100.5 W263CU",
+            logo: "stations/images-america/dna/barnstable_ma/Koffee FM 101.5.png",
+            url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/WKFY"
+        },
+        {
+            name: "Y101",
+            logo: "stations/images-america/dna/barnstable_ma/Y101.png",
+            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/WHYA"
+        },
+        {
+            name: "Koffee FM 101.5",
+            logo: "stations/images-america/dna/barnstable_ma/Koffee FM 101.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/WKFY"
+        },
+        {
+            name: "Cool 102",
+            logo: "stations/images-america/dna/barnstable_ma/Cool 102.png",
+            url: "http://stream.revma.ihrhls.com/zc6757/hls.m3u8"
+        },
+        {
+            name: "Pixy 103",
+            logo: "stations/images-america/dna/barnstable_ma/Pixy 103.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WPXC"
+        },
+        {
+            name: "103.5 WPXC-HD2",
+            logo: "stations/images-america/dna/barnstable_ma/93.5 Frank FM.png",
+            url: "http://84.32.44.251/index.php?u=http://ice3.securenetsystems.net/WFRQ"
+        },
+        {
+            name: "103.5 WPXC-HD3",
+            logo: "stations/images-america/dna/barnstable_ma/Koffee FM 101.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/WKFY?"
+        },
+        {
+            name: "Cape Country 104",
+            logo: "stations/images-america/dna/barnstable_ma/Cape Country 104.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WKPE"
+        },/*
+        {
+            name: "Ocean 104.7",
+            logo: "stations/images-america/dna/barnstable_ma/Ocean 104.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WOCN"
+        },*/
+        {
+            name: "106 WCOD",
+            logo: "stations/images-america/dna/barnstable_ma/106 WCOD.png",
+            url: "http://stream.revma.ihrhls.com/zc6756/hls.m3u8"
+        },
+        {
+            name: "Cape Cod's X 106.5",
+            logo: "stations/images-america/dna/barnstable_ma/Cape Cod's X 106.5.png",
+            url: "https://stream.x1023.fm/HD1"
+        },/*
+        {
+            name: "Cape Classical 107.5",
+            logo: "stations/images-america/dna/barnstable_ma/Cape Classical 107.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WFCC"
+        },*/
+        {
+            name: "WRKO AM 680",
+            logo: "stations/images-america/c2c/boston_ma/WRKO AM 680.png",
+            url: "https://stream.revma.ihrhls.com/zc7750/hls.m3u8"
+        },
+        {
+            name: "WBZ NewsRadio 1030",
+            logo: "stations/images-america/c2c/boston_ma/WBZ NewsRadio 1030.png",
+            url: "https://stream.revma.ihrhls.com/zc7729/hls.m3u8"
+        },
+        {
+            name: "WFPB 1170",
+            logo: "stations/images-america/c2c/boston_ma/WUMB 91.9.png",
+            url: "http://wumb.streamguys1.com/wumb919fast"
+        },
+        {
+            name: "1240 WGTX",
+            logo: "stations/images-america/dna/barnstable_ma/Cape Cod's X 106.5.png",
+            url: "http://stream.x1023.fm/HD1"
+        },
+    ],
+    "faith_eagle_butte": [
+        {
+            name: "KIPI 93.5",
+            logo: "stations/images-america/dna/faith_eagle_butte_sd/KIPI 93.5.png",
+            url: "https://streams.kipiradio.com/hd1"
+        },
+        {
+            name: "KIPI 93.5-HD2",
+            logo: "stations/images-america/dna/faith_eagle_butte_sd/KIPI 93.5.png",
+            url: "https://streams.kipiradio.com/hd2"
+        },
+        {
+            name: "SDPB 97.1",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+        },
+        {
+            name: "BIG 81",
+            logo: "stations/images-america/c2c/rapid_city_sd/BIG 81.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
         },
     ],
     "baiecomeau": [
@@ -60878,6 +61069,11 @@ var stations = {
             url: "https://ucbmedia.streamguys1.com/mhat937-icy"
         },
         {
+            name: "Wild 94.5",
+            logo: "stations/images-america/canada/medicinehat/Wild 94.5.png",
+            url: "https://redirect.jpbgdigital.com/CHAT"
+        },
+        {
             name: "my96",
             logo: "stations/images-america/canada/medicinehat/my96.png",
             url: "https://redirect.jpbgdigital.com/CFMY"
@@ -60888,19 +61084,34 @@ var stations = {
             url: "http://ckua.streamon.fm:8000/CKUA-48k.aac"
         },
         {
+            name: "CBC Radio One 98.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBR1FM_CBC_SC"
+        },
+        {
+            name: "ICI Première 100.5",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHFAFM_SRC_SC"
+        },
+        {
             name: "JACK 102.1",
             logo: "stations/images-america/canada/medicinehat/JACK 102.1.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1021.stream/icy"
         },
         {
-            name: "CKUD 104.5",
-            logo: "stations/images-america/canada/medicinehat/Chat 94.5.png",
-            url: "https://redirect.jpbgdigital.com/CHAT"
+            name: "BFBS Radio Canada 104.1",
+            logo: "stations/images-america/canada/medicinehat/BFBS Radio Canada 104.1.png",
+            url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.mp3"
         },
         {
             name: "105.3 ROCK",
             logo: "stations/images-america/canada/medicinehat/105.3 ROCK.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1053.stream/icy"
+        },
+        {
+            name: "CJWE 106.3",
+            logo: "stations/images-america/canada/calgary/CJWE 88.1.png",
+            url: "https://ammsa.leanstream.co/CJWEFM-MP3"
         },
     ],
     "marathon": [
@@ -62679,6 +62890,38 @@ var stations = {
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/squ1071.stream/icy"
         },
     ],
+    "swift": [
+        {
+            name: "Lighthouse FM 91.9",
+            logo: "stations/images-america/canada/Lighthouse FM.png",
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
+        },
+        {
+            name: "Country 94.1",
+            logo: "stations/images-america/canada/swift/Country 94.1.png",
+            url: "https://goldenwest.leanstream.co/CIMGFM"
+        },
+        {
+            name: "CBC Music 95.7",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBXFM_CBC_SC"
+        },
+        {
+            name: "Magic 97.1",
+            logo: "stations/images-america/canada/swift/Magic 97.1.png",
+            url: "https://goldenwest.leanstream.co/CKFIFM"
+        },
+        {
+            name: "101.7 CJME-1-FM",
+            logo: "stations/images-america/canada/regina/980 CJME.png",
+            url: "http://rawlco.leanstream.co/CJMEAM"
+        },
+        {
+            name: "CKSW 570",
+            logo: "stations/images-america/canada/swift/CKSW 570.png",
+            url: "https://goldenwest.leanstream.co/CKSWAM"
+        },
+    ],
     "thunderbay": [
         {
             name: "CBC Radio One 88.3",
@@ -63378,6 +63621,33 @@ var stations = {
             name: "CBC Radio One 990",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFWH_CBC_SC"
+        },
+    ],
+    "weyburn": [
+        {
+            name: "CBC Music 101.5",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBXFM_CBC_SC"
+        },
+        {
+            name: "Magic 103.5",
+            logo: "stations/images-america/canada/weyburn/Magic 103.5.png",
+            url: "https://goldenwest.leanstream.co/CKRCFM"
+        },
+        {
+            name: "Country 106.7",
+            logo: "stations/images-america/canada/weyburn/Country 106.7.png",
+            url: "https://goldenwest.leanstream.co/CHWYFM"
+        },
+        {
+            name: "107.3 CJME-3-FM",
+            logo: "stations/images-america/canada/regina/980 CJME.png",
+            url: "http://rawlco.leanstream.co/CJMEAM"
+        },
+        {
+            name: "1190 CFSL",
+            logo: "stations/images-america/canada/weyburn/1190 CFSL.png",
+            url: "https://goldenwest.leanstream.co/CFSLAM"
         },
     ],
     "whitehorse": [

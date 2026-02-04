@@ -13017,7 +13017,7 @@ var country_properties_emmn = {
         name: "Buffalo",
         name_english: "Buffalo",
         code: "us-sd",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "kadoka": {
         name: "Kadoka",
@@ -13241,6 +13241,12 @@ var country_properties_dna = {
         code: "us-sd",
         relative_radius: 0.65
     },
+    "faith_eagle_butte": {
+        name: "Faith/Eagle Butte",
+        name_english: "Faith/Eagle Butte",
+        code: "us-sd",
+        relative_radius: 0.7
+    },
 };
 
 var city_properties_dna = {
@@ -13289,6 +13295,10 @@ var city_properties_dna = {
     "aberdeen_sd": {
         relative_whitenoise: 0.85
     },
+    "faith_eagle_butte": {
+        relative_whitenoise: 0.85
+    },
+
 };
 
 var cities_dna = [
@@ -13419,6 +13429,14 @@ var cities_dna = [
         "x": "-9965.375",
         "y": "183.5",
         "z": "-36847.3"
+    },
+    {
+        "gameName": "faith_eagle_butte",
+        "realName": "Faith/Eagle Butte",
+        "country": "faith_eagle_butte",
+        "x": "-21940.16",
+        "y": "100",
+        "z": "-35025.98"
     },
 ];
 
@@ -13879,6 +13897,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 0.4
     },
+    "swift": {
+        name: "Swift Current",
+        name_english: "Swift Current",
+        code: "ca-sk",
+        relative_radius: 1.0    
+    },
     "thunderbay": {
         name: "Thunder Bay",
         name_english: "Thunder Bay",
@@ -13932,6 +13956,12 @@ var country_properties_canada = {
         name_english: "Watson Lake",
         code: "ca-yt",
         relative_radius: 1.4
+    },
+    "weyburn": {
+        name: "Weyburn",
+        name_english: "Weyburn",
+        code: "ca-sk",
+        relative_radius: 0.7
     },
     "whistler": {
         name: "Whistler",
@@ -14104,7 +14134,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.85
     },
     "medicinehat": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "marathon": {
         relative_whitenoise: 0.95
@@ -14209,6 +14239,9 @@ var city_properties_canada = {
     "squamish": {
         relative_whitenoise: 0.75
     },
+    "swift": {
+        relative_whitenoise: 0.85
+    },
     "thunderbay": {
         relative_whitenoise: 0.95
     },
@@ -14236,6 +14269,9 @@ var city_properties_canada = {
     },
     "watsonlake": {
         relative_whitenoise: 0.95
+    },
+    "weyburn": {
+        relative_whitenoise: 0.85
     },
     "whitehorse": {
         relative_whitenoise: 0.95
@@ -14602,9 +14638,9 @@ var cities_canada = [
         "gameName": "medicinehat",
         "realName": "Medicine Hat",
         "country": "medicinehat",
-        "x": "-48690.6",
-        "y": "96.9609",
-        "z": "-65890.8"
+        "x": "-53766.63",
+        "y": "69.49219",
+        "z": "-66687.55"
     },
     {
         "gameName": "marathon",
@@ -14879,6 +14915,14 @@ var cities_canada = [
         "z": "-78990.2"
     },
     {
+        "gameName": "swift",
+        "realName": "Swift Current",
+        "country": "swift",
+        "x": "-42865.4",
+        "y": "50",
+        "z": "-66245.86"
+    },
+    {
         "gameName": "thunderbay",
         "realName": "Thunder Bay",
         "country": "thunderbay",
@@ -14949,6 +14993,14 @@ var cities_canada = [
         "x": "-86524.3",
         "y": "129.629",
         "z": "-136995"
+    },
+    {
+        "gameName": "weyburn",
+        "realName": "Weyburn",
+        "country": "weyburn",
+        "x": "-29420.2",
+        "y": "212.0781",
+        "z": "-62241.11"
     },
     {
         "gameName": "whitehorse",
