@@ -22050,8 +22050,8 @@ var stations = {/*
             url: "https://a2.asurahosting.com:6460/radio.mp3"
         },
         {
-            name: "Q99.5",
-            logo: "stations/images-america/san_angelo/Q99.5.png",
+            name: "KQTC 99.5",
+            logo: "stations/images-america/san_angelo/KQTC 99.5.png",
             url: "https://ice42.securenetsystems.net/KQTC"
         },
         {
@@ -23080,8 +23080,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6384/hls.m3u8"
         },
         {
-            name: "WE 102.9",
-            logo: "stations/images-america/portland/WE 102.9.png",
+            name: "102.9 KUFO",
+            logo: "stations/images-america/portland/102.9 KUFO.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kinkhd2aac-ibc4"
         },
         {
@@ -25846,8 +25846,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kelifmaac-ibc3"
         },
         {
-            name: "Q99.5",
-            logo: "stations/images-america/san_angelo/Q99.5.png",
+            name: "KQTC 99.5",
+            logo: "stations/images-america/san_angelo/KQTC 99.5.png",
             url: "https://ice42.securenetsystems.net/KQTC"
         },
         {
