@@ -13235,6 +13235,12 @@ var country_properties_dna = {
         code: "us-nj",
         relative_radius: 0.35
     },
+    "riverhead": {
+        name: "Riverhead",
+        name_english: "Riverhead",
+        code: "us-ny",
+        relative_radius: 0.5
+    },
     "aberdeen_sd": {
         name: "Aberdeen",
         name_english: "Aberdeen",
@@ -13292,13 +13298,15 @@ var city_properties_dna = {
     "toms_river": {
         relative_whitenoise: 0.85
     },
+    "riverhead": {
+        relative_whitenoise: 0.95
+    },
     "aberdeen_sd": {
         relative_whitenoise: 0.85
     },
     "faith_eagle_butte": {
         relative_whitenoise: 0.85
     },
-
 };
 
 var cities_dna = [
@@ -13423,6 +13431,14 @@ var cities_dna = [
         "z": "-18042.81"
     },
     {
+        "gameName": "riverhead",
+        "realName": "Riverhead",
+        "country": "riverhead",
+        "x": "98176.27",
+        "y": "73.64453",
+        "z": "-23526.58"
+    },
+    {
         "gameName": "aberdeen_sd",
         "realName": "Aberdeen",
         "country": "aberdeen_sd",
@@ -13482,6 +13498,18 @@ var country_properties_canada = {
         name_english: "Chapleau",
         code: "ca-on",
         relative_radius: 1.0
+    },
+    "chesterfield_inlet": {
+        name: "Chesterfield Inlet",
+        name_english: "Chesterfield Inlet",
+        code: "ca-nu",
+        relative_radius: 1.2
+    },
+    "coral_harbour": {
+        name: "Coral Harbour",
+        name_english: "Coral Harbour",
+        code: "ca-nu",
+        relative_radius: 0.5
     },
     "cranbrook": {
         name: "Cranbrook",
@@ -13735,6 +13763,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 0.6
     },
+    "naujaat": {
+        name: "Naujaat",
+        name_english: "Naujaat",
+        code: "ca-nu",
+        relative_radius: 1
+    },
     "new_liskeard": {
         name: "New Liskeard",
         name_english: "New Liskeard",
@@ -13819,6 +13853,12 @@ var country_properties_canada = {
         code: "ca-qc",
         relative_radius: 1.2
     },
+    "rankin_inlet": {
+        name: "Rankin Inlet",
+        name_english: "Rankin Inlet",
+        code: "ca-nu",
+        relative_radius: 1.2
+    },
     "rdl": {
         name: "Riviere-du-Loup",
         name_english: "Riviere-du-Loup",
@@ -13871,7 +13911,7 @@ var country_properties_canada = {
         name: "Sept-Iles",
         name_english: "Sept-Iles",
         code: "ca-qc",
-        relative_radius: 1.2
+        relative_radius: 1.3
     },
     "sherbrooke": {
         name: "Sherbrooke",
@@ -13884,6 +13924,12 @@ var country_properties_canada = {
         name_english: "Stewart",
         code: "ca-bc",
         relative_radius: 1.2
+    },
+    "stjohns": {
+        name: "St. John's",
+        name_english: "St. John's",
+        code: "ca-nl",
+        relative_radius: 0.8
     },
     "sudbury": {
         name: "Sudbury",
@@ -13961,6 +14007,12 @@ var country_properties_canada = {
         name: "Weyburn",
         name_english: "Weyburn",
         code: "ca-sk",
+        relative_radius: 0.7
+    },
+    "whale_cove": {
+        name: "Whale Cove",
+        name_english: "Whale Cove",
+        code: "ca-nu",
         relative_radius: 0.7
     },
     "whistler": {
@@ -14200,6 +14252,21 @@ var city_properties_canada = {
     "quebec": {
         relative_whitenoise: 0.95
     },
+    "rc_chester": {
+        relative_whitenoise: 0.85
+    },
+    "rc_coral": {
+        relative_whitenoise: 0.85
+    },
+    "rc_naujaat": {
+        relative_whitenoise: 0.85
+    },
+    "rc_rankin": {
+        relative_whitenoise: 0.85
+    },
+    "rc_whale": {
+        relative_whitenoise: 0.85
+    },
     "rdl": {
         relative_whitenoise: 0.95
     },
@@ -14232,6 +14299,9 @@ var city_properties_canada = {
     },
     "stewart": {
         relative_whitenoise: 0.95
+    },
+    "stjohns": {
+        relative_whitenoise: 0.85
     },
     "sudbury": {
         relative_whitenoise: 0.85
@@ -14811,6 +14881,46 @@ var cities_canada = [
         "z": "-58398.7"
     },
     {
+        "gameName": "rc_chester",
+        "realName": "Chesterfield Inlet",
+        "country": "chesterfield_inlet",
+        "x": "23988.06",
+        "y": "50",
+        "z": "-154841.3"
+    },
+    {
+        "gameName": "rc_coral",
+        "realName": "Coral Harbour",
+        "country": "coral_harbour",
+        "x": "35250.12",
+        "y": "-83.71484",
+        "z": "-149721.2"
+    },
+    {
+        "gameName": "rc_naujaat",
+        "realName": "Naujaat",
+        "country": "naujaat",
+        "x": "25272.45",
+        "y": "53.69922",
+        "z": "-164003.7"
+    },
+    {
+        "gameName": "rc_rankin",
+        "realName": "Rankin Inlet",
+        "country": "rankin_inlet",
+        "x": "12257.04",
+        "y": "62.09375",
+        "z": "-144449.4"
+    },
+    {
+        "gameName": "rc_whale",
+        "realName": "Whale Cove",
+        "country": "whale_cove",
+        "x": "10386.95",
+        "y": "62.09375",
+        "z": "-138879.8"
+    },
+    {
         "gameName": "rdl",
         "realName": "Riviere-du-Loup",
         "country": "rdl",
@@ -14897,6 +15007,14 @@ var cities_canada = [
         "x": "-102241",
         "y": "98.5313",
         "z": "-115701"
+    },
+    {
+        "gameName": "stjohns",
+        "realName": "St. John's",
+        "country": "stjohns",
+        "x": "160053.5",
+        "y": "88.35938",
+        "z": "-86319.89"
     },
     {
         "gameName": "sudbury",

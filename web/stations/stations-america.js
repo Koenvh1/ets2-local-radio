@@ -59152,7 +59152,7 @@ var stations = {
         },
         {
             name: "WZAI 94.3",
-            logo: "stations/images-america/dna/barnstable_ma/CAI.png",
+            logo: "stations/images-america/c2c/boston_ma/CAI.png",
             url: "https://streams.audio.wgbh.org/wcai-itunes-256k.aac"
         },
         {
@@ -59660,6 +59660,20 @@ var stations = {
             name: "JJAM 100.7",
             logo: "stations/images-america/canada/chapleau/JJAM 100.7.png",
             url: "https://securestream.casthost.net:8219/stream"
+        },
+    ],
+    "chesterfield_inlet": [
+        {
+            name: "CBC Radio One 107.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
+        },
+    ],
+    "coral_harbour": [
+        {
+            name: "CBC Radio One 107.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
         },
     ],
     "cranbrook": [
@@ -61099,8 +61113,8 @@ var stations = {
             url: "http://192.99.6.159:3900/index.php?ats=https://rogers-hls.leanstream.co/rogers/med1021.stream/icy"
         },
         {
-            name: "BFBS Radio Canada 104.1",
-            logo: "stations/images-america/canada/medicinehat/BFBS Radio Canada 104.1.png",
+            name: "BFBS Canada 104.1",
+            logo: "stations/images-america/canada/medicinehat/BFBS Canada 104.1.png",
             url: "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.mp3"
         },
         {
@@ -61424,6 +61438,13 @@ var stations = {
             name: "CFNO 107.1",
             logo: "stations/images-america/canada/marathon/CFNO 93.1.png",
             url: "http://cfno.streamon.fm:8000/CFNO-32k.aac"
+        },
+    ],
+    "naujaat": [
+        {
+            name: "CBC Radio One 107.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
         },
     ],
     "new_liskeard": [
@@ -62204,6 +62225,18 @@ var stations = {
             url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CITFFMAAC_SC"
         },
     ],
+    "rankin_inlet": [
+        {
+            name: "Raven Rock 99.9",
+            logo: "stations/images-america/canada/iqaluit/Raven Rock 99.9.png",
+            url: "http://ca7.rcast.net:8020/;"
+        },
+        {
+            name: "CBC Radio One 105.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
+        },
+    ],
     "rdl": [
         {
             name: "ICI Première 89.5",
@@ -62794,6 +62827,78 @@ var stations = {
             name: "CBC Radio One 1450",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBKRFM_CBC_SC"
+        },
+    ],
+    "stjohns": [
+        {
+            name: "CBC Radio One 88.5",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN1_CBC_SC"
+        },
+        {
+            name: "CHMR 93.5",
+            logo: "stations/images-america/canada/stjohns/CHMR 93.5.png",
+            url: "http://192.99.14.49:9005/live128"
+        },
+        {
+            name: "OZ FM 94.7",
+            logo: "stations/images-america/canada/stjohns/OZ FM 94.7.png",
+            url: "https://ozfm.streamb.live/SB00174"
+        },
+        {
+            name: "Lighthouse FM 96.7",
+            logo: "stations/images-america/canada/Lighthouse FM.png",
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
+        },
+        {
+            name: "K-Rock 97.5",
+            logo: "stations/images-america/canada/stjohns/K-Rock 97.5.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://stingray.leanstream.co/VOCMFM"
+        },
+        {
+            name: "HOT 99.1",
+            logo: "stations/images-america/canada/stjohns/HOT 99.1.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://stingray.leanstream.co/CKIXFM"
+        },
+        {
+            name: "Coast 101.1",
+            logo: "stations/images-america/canada/stjohns/Coast 101.1.png",
+            url: "https://coast-broadcasting-limited.streamb.live/SB00357"
+        },
+        {
+            name: "ICI Musique 101.9",
+            logo: "stations/images-america/canada/ICI Musique.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBALFM_SRC_SC"
+        },
+        {
+            name: "ICI Première 105.9",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBAFFM5_SRC_SC"
+        },
+        {
+            name: "CBC Music 106.9",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBH_CBC_SC"
+        },
+        {
+            name: "VOCM 590",
+            logo: "stations/images-america/canada/stjohns/VOCM 590.png",
+            url: "https://stingray.leanstream.co/VOCMAM"
+        },
+        {
+            name: "CBC Radio One 640",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CBN1_CBC_SC"
+        },
+        {
+            name: "VOWR 800",
+            logo: "stations/images-america/canada/stjohns/VOWR 800.png",
+            url: "https://c21.radioboss.fm/stream/193"
+        },
+        {
+            name: "New Country 930",
+            logo: "stations/images-america/canada/stjohns/New Country 930.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://stingray.leanstream.co/CJYQAM"
         },
     ],
     "sudbury": [
@@ -63648,6 +63753,13 @@ var stations = {
             name: "1190 CFSL",
             logo: "stations/images-america/canada/weyburn/1190 CFSL.png",
             url: "https://goldenwest.leanstream.co/CFSLAM"
+        },
+    ],
+    "whale_cove": [
+        {
+            name: "CBC Radio One 106.1",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
         },
     ],
     "whitehorse": [
