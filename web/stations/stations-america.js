@@ -2679,6 +2679,16 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-kismfmaac-ibc1"
         },
         {
+            name: "92.9 KISM-HD2",
+            logo: "stations/images-america/bellingham/790 KGMI.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-kgmiamaac-ibc1"
+        },
+        {
+            name: "92.9 KISM-HD3",
+            logo: "stations/images-america/bellingham/98.9 KBAY.png",
+            url: "http://live.amperwave.net/manifest/saga-kismhd3aac-imc"
+        },
+        {
             name: "KZAX 94.9",
             logo: "stations/images-america/bellingham/KZAX 94.9.png",
             url: "http://199.180.75.2:9395/stream"
@@ -22517,9 +22527,9 @@ var stations = {/*
             url: "http://bonneville.cdnstream1.com/2697_48.aac"
         },
         {
-            name: "99.3 The Fanatic",
-            logo: "stations/images-america/phoenix/99.3 The Fanatic.png",
-            url: "https://ice41.securenetsystems.net/KQFN"
+            name: "99.3 K257CD",
+            logo: "stations/images-america/phoenix/Mega 104.3.png",
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KAJM"
         },
         {
             name: "99.9 KEZ",
