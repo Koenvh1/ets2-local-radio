@@ -29964,11 +29964,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1293/hls.m3u8"
         },
         {
-            name: "TikTok Radio 93.7-HD2",
-            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc8876/hls.m3u8"
-        },
-        {
             name: "KSHE 95",
             logo: "stations/images-america/st_louis/KSHE 95.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSHEFMAAC_SC"
