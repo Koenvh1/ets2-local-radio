@@ -851,6 +851,12 @@ var country_properties = {
         code: "us-az",
         relative_radius: 0.4
     },
+    "grand_coulee": {
+        name: "Grand Coulee",
+        name_english: "Grand Coulee",
+        code: "us-wa",
+        relative_radius: 0.5
+    },
     "grand_island": {
         name: "Grand Island",
         name_english: "Grand Island",
@@ -2933,6 +2939,9 @@ var city_properties = {
     },
     "g_canyon_vlg": {
         relative_whitenoise: 0.85
+    },
+    "grand_coulee": {
+        relative_whitenoise: 0.95
     },
     "grand_island": {
         relative_whitenoise: 0.95
@@ -5180,6 +5189,14 @@ var cities = [
         "x": "-48845.1",
         "y": "93.5559",
         "z": "-5649.02"
+    },
+    {
+        "gameName": "grand_coulee",
+        "realName": "Grand Coulee",
+        "country": "grand_coulee",
+        "x": "-87441",
+        "y": "68.7023",
+        "z": "-61552.8"
     },
     {
         "gameName": "grand_island",

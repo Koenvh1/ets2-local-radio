@@ -11576,6 +11576,38 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFAMAAC.aac"
         },
     ],
+    "grand_coulee": [
+        {
+            name: "KYRS 88.1",
+            logo: "stations/images-america/colville/KYRS 88.1.png",
+            url: "https://stream.pacificaservice.org:9000/kyrs_128"
+        },
+        {
+            name: "91.9 K220DV",
+            logo: "stations/images-america/spokane/Spokane Public Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPBX_FM_SC"
+        },
+        {
+            name: "K-LOVE 98.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "560 KPQ",
+            logo: "stations/images-america/wenatchee/560 KPQ.png",
+            url: "https://live.amperwave.net/direct/townsquare-kpqamaac-ibc3"
+        },
+        {
+            name: "590 KQNT",
+            logo: "stations/images-america/spokane/590 KQNT.png",
+            url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
+        },
+        {
+            name: "700 ESPN",
+            logo: "stations/images-america/spokane/700 ESPN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
+        },
+    ],
     "grand_island": [
         {
             name: "K-LOVE 88.3",
@@ -29023,6 +29055,11 @@ var stations = {/*
             url: "https://streaming.live365.com/a66291"
         },*/
         {
+            name: "105.3 ESPN",
+            logo: "stations/images-america/spokane/700 ESPN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC.aac"
+        },
+        {
             name: "105.7 NOW FM",
             logo: "stations/images-america/spokane/105.7 Now FM.png",
             url: "https://ice6.securenetsystems.net/KZBD"
@@ -29051,6 +29088,11 @@ var stations = {/*
             name: "590 KQNT",
             logo: "stations/images-america/spokane/590 KQNT.png",
             url: "https://stream.revma.ihrhls.com/zc4952/hls.m3u8"
+        },
+        {
+            name: "700 ESPN",
+            logo: "stations/images-america/spokane/700 ESPN.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
         },
         {
             name: "Sacred Heart Radio 970",
