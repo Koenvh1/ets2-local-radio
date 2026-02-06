@@ -18963,7 +18963,7 @@ var stations = {/*
         {
             name: "KRRM 94.7",
             logo: "stations/images-america/medford/KRRM 94.7.png",
-            url: "https://live.amperwave.net/manifest/grantspass-krrmfmaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/grantspass-krrmfmaac-imc2"
         },
         {
             name: "95.1 The Wolf",
@@ -18993,7 +18993,7 @@ var stations = {/*
         {
             name: "98.3 KLDR",
             logo: "stations/images-america/medford/98.3 KLDR.png",
-            url: "https://live.amperwave.net/manifest/grantspass-kldrfmaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/grantspass-kldrfmaac-ibc2"
         },
         {
             name: "HOT 98.9",
@@ -19008,7 +19008,7 @@ var stations = {/*
         {
             name: "KAJO 99.7",
             logo: "stations/images-america/medford/KAJO 99.7.png",
-            url: "https://live.amperwave.net/manifest/grantspass-kajoamaac-ibc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/grantspass-kajoamaac-ibc2"
         },
         {
             name: "Q100.3",
