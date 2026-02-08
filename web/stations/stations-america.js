@@ -11511,7 +11511,7 @@ var stations = {/*
         {
             name: "KGLN 101.3",
             logo: "stations/images-america/glenwood_springs/KGLN 101.3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KNZZ"
         },/*
         {
             name: "KQSE 102.5",
@@ -11829,7 +11829,7 @@ var stations = {/*
         {
             name: "92.7 KNZZ",
             logo: "stations/images-america/grand_junction_montrose/92.7 KNZZ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KNZZ"
         },
         {
             name: "Magic 93.1",
@@ -19511,7 +19511,7 @@ var stations = {/*
         {
             name: "1100 KNZZ",
             logo: "stations/images-america/grand_junction_montrose/92.7 KNZZ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNZZAMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KNZZ"
         },
     ],
     "moab_local": [
@@ -28236,7 +28236,7 @@ var stations = {/*
         {
             name: "Vibe 103.5",
             logo: "stations/images-america/show_low/Vibe 103.5.png",
-            url: "https://s5.radioforge.com:6874/vibe23"
+            url: "https://443-1.autopo.st/227/SL1035-260120"
         },
         {
             name: "105.5 KSNX",
