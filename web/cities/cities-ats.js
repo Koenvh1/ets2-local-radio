@@ -10254,7 +10254,7 @@ var country_properties_c2c = {
         name: "Escanaba",
         name_english: "Escanaba",
         code: "us-mi",
-        relative_radius: 0.75
+        relative_radius: 0.85
     },
     "grand_rapids": {
         name: "grand_rapids",
@@ -10339,6 +10339,12 @@ var country_properties_c2c = {
         name_english: "Fergus Falls",
         code: "us-mn",
         relative_radius: 0.6
+    },
+    "mankato_mn": {
+        name: "Mankato/New Ulm",
+        name_english: "Mankato/New Ulm",
+        code: "us-mn",
+        relative_radius: 0.65
     },
     "marshall_mn": {
         name: "Marshall",
@@ -10441,6 +10447,12 @@ var country_properties_c2c = {
         name_english: "jackson_ms",
         code: "us-ms",
         relative_radius: 0.9
+    },
+    "baker_mt": {
+        name: "Baker",
+        name_english: "Baker",
+        code: "us-mt",
+        relative_radius: 0.6
     },
     "new_hampshire": {
         name: "new_hampshire",
@@ -10896,7 +10908,7 @@ var country_properties_c2c = {
         name: "pierre",
         name_english: "pierre",
         code: "us-sd",
-        relative_radius: 0.7
+        relative_radius: 0.8
     },
     "rapid_city": {
         name: "rapid_city",
@@ -10915,6 +10927,12 @@ var country_properties_c2c = {
         name_english: "Watertown",
         code: "us-sd",
         relative_radius: 1.0
+    },
+    "yankton": {
+        name: "Yankton",
+        name_english: "Yankton",
+        code: "us-sd",
+        relative_radius: 0.55
     },
     "tennessee": {
         name: "tennessee",
@@ -11330,7 +11348,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "escanaba": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "grand_rapids": {
         relative_whitenoise: 0.85
@@ -11370,6 +11388,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "fergus_falls": {
+        relative_whitenoise: 0.85
+    },
+    "mankato_mn": {
         relative_whitenoise: 0.85
     },
     "marshall_mn": {
@@ -11420,6 +11441,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "jackson_ms": {
+        relative_whitenoise: 0.85
+    },
+    "baker_mt": {
         relative_whitenoise: 0.85
     },
     "lancaster_nh": {
@@ -11631,6 +11655,9 @@ var city_properties_c2c = {
     },
     "sioux_falls": {
         relative_whitenoise: 0.95
+    },
+    "yankton": {
+        relative_whitenoise: 0.85
     },
     "chattanooga": {
         relative_whitenoise: 0.85
@@ -12453,6 +12480,14 @@ var cities_c2c = [
         "z": "-41773.66"
     },
     {
+        "gameName": "mankato_mn",
+        "realName": "Mankato/New Ulm",
+        "country": "mankato_mn",
+        "x": "7965.91",
+        "y": "134.4805",
+        "z": "-29795.65"
+    },
+    {
         "gameName": "marshall_mn",
         "realName": "Marshall",
         "country": "marshall_mn",
@@ -12595,6 +12630,14 @@ var cities_c2c = [
         "x": "26945.4",
         "y": "86.5699",
         "z": "36484.4"
+    },
+    {
+        "gameName": "baker_mt",
+        "realName": "Baker",
+        "country": "baker_mt",
+        "x": "-32280.08",
+        "y": "82.24219",
+        "z": "-43383.03"
     },
     {
         "gameName": "lancaster_nh",
@@ -13160,9 +13203,9 @@ var cities_c2c = [
         "gameName": "pierre",
         "realName": "Pierre",
         "country": "pierre",
-        "x": "-17267.9",
+        "x": "-17508.3",
         "y": "256.21",
-        "z": "-28592.6"
+        "z": "-29790.4"
     },
     {
         "gameName": "rapid_city",
@@ -13187,6 +13230,14 @@ var cities_c2c = [
         "x": "-5825.043",
         "y": "143.2773",
         "z": "-33589.82"
+    },
+    {
+        "gameName": "yankton",
+        "realName": "Yankton",
+        "country": "yankton",
+        "x": "-6035.406",
+        "y": "91.38281",
+        "z": "-21946.23"
     },
     {
         "gameName": "chattanooga",
@@ -15900,16 +15951,6 @@ cities = cities.concat(cities_mexico);
 cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
-
-//Uncomment the lines below to enable East Meets Mid-North cities
-country_properties = $.extend(country_properties, country_properties_emmn);
-city_properties = $.extend(city_properties, city_properties_emmn);
-cities = cities.concat(cities_emmn);
-
-//Uncomment the lines below to enable Discover North America cities
-country_properties = $.extend(country_properties, country_properties_dna);
-city_properties = $.extend(city_properties, city_properties_dna);
-cities = cities.concat(cities_dna);
 
 //Uncomment the lines below to enable Canadream
 country_properties = $.extend(country_properties, country_properties_canada);
