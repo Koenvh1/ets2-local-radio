@@ -45758,6 +45758,11 @@ var stations = {
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
+            name: "Strong Tower Radio 90.9",
+            logo: "stations/images-america/0_general_logos/Strong Tower Radio.png",
+            url: "https://strongtowerradio.streamguys1.com/live"
+        },
+        {
             name: "93.5 W228DQ",
             logo: "stations/images-america/c2c/escanaba_mi/NewsTalk 600.png",
             url: "http://ice26.securenetsystems.net/WCHT"
@@ -45953,6 +45958,135 @@ var stations = {
             name: "1230 WTKG",
             logo: "stations/images-america/c2c/grand_rapids_mi/1230 WTKG.png",
             url: "https://stream.revma.ihrhls.com/zc1177/hls.m3u8"
+        },
+    ],
+    "houghton": [
+        {
+            name: "Strong Tower Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Strong Tower Radio.png",
+            url: "https://strongtowerradio.streamguys1.com/live"
+        },
+        {
+            name: "MPR News 91.1",
+            logo: "stations/images-america/0_general_logos/MPR News.png",
+            url: "https://nis.stream.publicradio.org/nis.aac"
+        },
+        {
+            name: "WMTU 91.9",
+            logo: "stations/images-america/c2c/houghton_mi/WMTU 91.9.png",
+            url: "https://stream.wmtu.fm/wmtu-live"
+        },
+        {
+            name: "Mix 93",
+            logo: "stations/images-america/c2c/houghton_mi/Mix 93.png",
+            url: "https://stream.civicmedia.us/WKMJ"
+        },
+        {
+            name: "96.3 Houghton's Breeze",
+            logo: "stations/images-america/c2c/houghton_mi/96.3 Houghton's Breeze.png",
+            url: "https://ice26.securenetsystems.net/WHBS"
+        },
+        {
+            name: "97.7 The Wolf",
+            logo: "stations/images-america/c2c/houghton_mi/97.7 The Wolf.png",
+            url: "https://ice10.securenetsystems.net/WOLV"
+        },
+        {
+            name: "The Rockin' Eagle 98.7",
+            logo: "stations/images-america/c2c/houghton_mi/The Rockin' Eagle 98.7.png",
+            url: "http://stream.up.net/WGLI"
+        },
+        {
+            name: "The Lift 99.3",
+            logo: "stations/images-america/c2c/houghton_mi/The Lift 99.3.png",
+            url: "https://ice24.securenetsystems.net/WCCY"
+        },
+        {
+            name: "WHWL 99.9",
+            logo: "stations/images-america/canada/saultmarie/WHWL 103.3.png",
+            url: "http://audio.pasty.net:8000/whwl"
+        },
+        {
+            name: "K-Bear 102",
+            logo: "stations/images-america/c2c/houghton_mi/K-Bear 102.png",
+            url: "https://ice5.securenetsystems.net/WHKBFM"
+        },
+        {
+            name: "VCY America 104.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "Eagle Country 105.7",
+            logo: "stations/images-america/c2c/houghton_mi/Eagle Country 105.7.png",
+            url: "http://stream.up.net/WCUP"
+        },
+        {
+            name: "107.3 W297CD",
+            logo: "stations/images-america/c2c/houghton_mi/WMPL 920.png",
+            url: "http://stream.civicmedia.us/WMPL"
+        },
+        {
+            name: "WMPL 920",
+            logo: "stations/images-america/c2c/houghton_mi/WMPL 920.png",
+            url: "https://stream.civicmedia.us/WMPL"
+        },
+        {
+            name: "1400 WCCY",
+            logo: "stations/images-america/c2c/houghton_mi/The Lift 99.3.png",
+            url: "http://ice24.securenetsystems.net/WCCY"
+        },
+    ],
+    "ironwood": [
+        {
+            name: "K-LOVE 88.3",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "WHWL 89.3",
+            logo: "stations/images-america/canada/saultmarie/WHWL 103.3.png",
+            url: "http://audio.pasty.net:8000/whwl"
+        },
+        {
+            name: "Strong Tower Radio 91.3",
+            logo: "stations/images-america/0_general_logos/Strong Tower Radio.png",
+            url: "https://strongtowerradio.streamguys1.com/live"
+        },
+        {
+            name: "92.1 WJMS",
+            logo: "stations/images-america/c2c/ironwood_mi/92.1 WJMS.png",
+            url: "https://stream.civicmedia.us/WJMS"
+        },
+        {
+            name: "99.7 WIMI",
+            logo: "stations/images-america/c2c/ironwood_mi/99.7 WIMI.png",
+            url: "https://stream.civicmedia.us/WIMI"
+        },
+        {
+            name: "WXPR 100.9",
+            logo: "stations/images-america/c2c/wausau_wi/WXPR 91.9.png",
+            url: "http://amber.streamguys.com:4370/wxpr2"
+        },
+        {
+            name: "Oldies 102.9",
+            logo: "stations/images-america/c2c/ironwood_mi/Oldies 102.9.png",
+            url: "https://stream-nyc3.azureradio.com/oldies1029"
+        },
+        {
+            name: "Mix 106.9",
+            logo: "stations/images-america/c2c/ironwood_mi/Mix 106.9.png",
+            url: "https://stream-nyc3.azureradio.com/mix1069"
+        },
+        {
+            name: "590 WJMS",
+            logo: "stations/images-america/c2c/ironwood_mi/92.1 WJMS.png",
+            url: "http://stream.civicmedia.us/WJMS"
+        },
+        {
+            name: "1450 WHRY",
+            logo: "stations/images-america/c2c/ironwood_mi/Oldies 102.9.png",
+            url: "https://stream-nyc3.azureradio.com/oldies1029?"
         },
     ],
     "lansing_mi": [
@@ -46501,14 +46635,14 @@ var stations = {
             url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
         },
         {
-            name: "WPR News & Classical 88.5",
-            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
-        },
-        {
-            name: "The Ideas Network 91.3",
+            name: "WPR News 88.5",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
+        },
+        {
+            name: "WPR Music 91.3",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
             name: "Sasquatch 92.1",
@@ -59205,14 +59339,71 @@ var stations = {
             url: "https://us2.maindigitalstream.com/ssl/WMMN?&&"
         },
     ],
-    "eau_claire": [
+    "ashland_wi": [
         {
-            name: "The Ideas Network 88.3",
+            name: "Faith 88.5",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwmedia-ktisam.streamguys1.com/ktis-am"
+        },
+        {
+            name: "WPR News 90.9",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
-            name: "WPR News & Classical 89.7",
+            name: "91.9 WDNW",
+            logo: "stations/images-america/c2c/duluth_mn/Life 97.3.png",
+            url: "https://nwm.streamguys1.com/kdnw/playlist.m3u8"
+        },
+        {
+            name: "Z93",
+            logo: "stations/images-america/c2c/ashland_wi/Z93.png",
+            url: "https://live.amperwave.net/direct/heartlandcom-wbszfmaac-ibc4"
+        },
+        {
+            name: "Relevant Radio 94.3",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "Real Rock J96",
+            logo: "stations/images-america/c2c/ashland_wi/Real Rock J96.png",
+            url: "https://live.amperwave.net/direct/heartlandcom-wjjhfmaac-ibc4"
+        },
+        {
+            name: "Bay Country 101.3",
+            logo: "stations/images-america/c2c/ashland_wi/Bay Country 101.3.png",
+            url: "https://live.amperwave.net/direct/heartlandcom-watwamaac-ibc4"
+        },
+        {
+            name: "WPR Music 104.7",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
+        },
+        {
+            name: "VCY America 105.9",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "107.3 WNXR",
+            logo: "stations/images-america/c2c/ashland_wi/107.3 WNXR.png",
+            url: "https://live.amperwave.net/direct/heartlandcom-wnxrfmaac-ibc4"
+        },
+        {
+            name: "WATW 1400",
+            logo: "stations/images-america/c2c/ashland_wi/Bay Country 101.3.png",
+            url: "https://live.amperwave.net/manifest/heartlandcom-watwamaac-ibc4"
+        },
+    ],
+    "eau_claire": [
+        {
+            name: "WPR News 88.3",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
+        },
+        {
+            name: "WPR Music 89.7",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
@@ -59304,12 +59495,12 @@ var stations = {
     ],
     "green_bay": [
         {
-            name: "The Ideas Network 88.1",
+            name: "WPR News 88.1",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
-            name: "WPR News & Classical 89.3",
+            name: "WPR Music 89.3",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
@@ -59506,12 +59697,12 @@ var stations = {
     ],
     "la_crosse": [
         {
-            name: "WPR News & Classical 88.9",
+            name: "WPR Music 88.9",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
-            name: "The Ideas Network 90.3",
+            name: "WPR News 90.3",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
@@ -59583,9 +59774,9 @@ var stations = {
     ],
     "madison_wi": [
         {
-            name: "WPR News & Classical 88.7",
+            name: "WPR News 88.7",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
+            url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
             name: "WORT 89.9",
@@ -59723,9 +59914,9 @@ var stations = {
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
         },
         {
-            name: "The Ideas Network 107.9",
+            name: "WPR Music 107.9",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
             name: "The Big 1070",
@@ -59760,7 +59951,12 @@ var stations = {
             url: "https://www.tundracast.stream:3040/mount1"
         },
         {
-            name: "The Ideas Network 90.7",
+            name: "WPR Music 90.7",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
+        },
+        {
+            name: "WPR News 90.7-HD2",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
@@ -59937,9 +60133,14 @@ var stations = {
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
         {
-            name: "WPR News & Classical 91.3",
+            name: "WPR Music 91.3",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
+        },
+        {
+            name: "WPR News 91.3-HD2",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
         },
         {
             name: "K92.3",
@@ -59969,14 +60170,14 @@ var stations = {
     ],
     "wausau_wi": [
         {
-            name: "WPR News & Classical 90.9",
-            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
-            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
-        },
-        {
-            name: "The Ideas Network 91.9",
+            name: "WPR News 90.9",
             logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
             url: "http://wpr-ice.streamguys.net:80/wpr-ideas-mp3-64"
+        },
+        {
+            name: "WPR Music 91.9",
+            logo: "stations/images-america/0_general_logos/Wisconsin Public Radio.png",
+            url: "http://wpr-ice.streamguys.net:80/wpr-music-mp3-96"
         },
         {
             name: "WXPR 91.9",

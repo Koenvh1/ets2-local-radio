@@ -11084,6 +11084,12 @@ var country_properties_c2c = {
         code: "us-wv",
         relative_radius: 0.7
     },
+    "ashland_wi": {
+        name: "Ashland",
+        name_english: "Ashland",
+        code: "us-wi",
+        relative_radius: 0.7
+    },
     "eau_claire": {
         name: "eau_claire",
         name_english: "eau_claire",
@@ -11725,6 +11731,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "clarksburg_wv": {
+        relative_whitenoise: 0.85
+    },
+    "ashland_wi": {
         relative_whitenoise: 0.85
     },
     "eau_claire": {
@@ -13430,6 +13439,14 @@ var cities_c2c = [
         "x": "67729.6",
         "y": "31.8618",
         "z": "-5651.21"
+    },
+    {
+        "gameName": "ashland_wi",
+        "realName": "Ashland",
+        "country": "ashland_wi",
+        "x": "20214.48",
+        "y": "140.0391",
+        "z": "-43462.61"
     },
     {
         "gameName": "eau_claire",
