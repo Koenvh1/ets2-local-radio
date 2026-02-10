@@ -10880,6 +10880,12 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.7
     },
+    "huron_sd": {
+        name: "Huron",
+        name_english: "Huron",
+        code: "us-sd",
+        relative_radius: 0.6
+    },
     "kadoka": {
         name: "Kadoka",
         name_english: "Kadoka",
@@ -10920,7 +10926,7 @@ var country_properties_c2c = {
         name: "sioux_falls",
         name_english: "sioux_falls",
         code: "us-sd",
-        relative_radius: 0.6
+        relative_radius: 0.8
     },
     "watertown_sd": {
         name: "Watertown",
@@ -11641,6 +11647,9 @@ var city_properties_c2c = {
     "faith_eagle_butte": {
         relative_whitenoise: 0.85
     },
+    "huron_sd": {
+        relative_whitenoise: 0.85
+    },
     "kadoka": {
         relative_whitenoise: 0.85
     },
@@ -11660,7 +11669,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "sioux_falls": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "yankton": {
         relative_whitenoise: 0.85
@@ -13177,6 +13186,14 @@ var cities_c2c = [
         "z": "-35025.98"
     },
     {
+        "gameName": "huron_sd",
+        "realName": "Huron",
+        "country": "huron_sd",
+        "x": "-8839.707",
+        "y": "140.0508",
+        "z": "-30853.56"
+    },
+    {
         "gameName": "kadoka",
         "realName": "Kadoka",
         "country": "kadoka",
@@ -13236,9 +13253,9 @@ var cities_c2c = [
         "gameName": "watertown_sd",
         "realName": "Watertown",
         "country": "watertown_sd",
-        "x": "-5825.043",
-        "y": "143.2773",
-        "z": "-33589.82"
+        "x": "-4382.473",
+        "y": "135.1563",
+        "z": "-33556.46"
     },
     {
         "gameName": "yankton",
