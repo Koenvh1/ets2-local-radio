@@ -41904,8 +41904,8 @@ var stations = {/*
             url: "https://ice26.securenetsystems.net/WDWSFM"
         },
         {
-            name: "670 The Score",
-            logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
+            name: "670 WSCR",
+            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
@@ -42094,11 +42094,6 @@ var stations = {/*
             name: "104.3 The Score",
             logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
-        },
-        {
-            name: "104.3 WBMX-HD2",
-            logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "Qué Buena 105.1",
