@@ -16210,8 +16210,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRRNFMAAC_SC"
         },
         {
-            name: "93.1 The Mountain",
-            logo: "stations/images-america/las_vegas/93.1 The Mountain.png",
+            name: "Neon 93.1",
+            logo: "stations/images-america/las_vegas/Neon 93.1.png",
             url: "https://stream.revma.ihrhls.com/zc1337/hls.m3u8"
         },
         {
@@ -42091,9 +42091,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
         },
         {
-            name: "104.3 JAMS",
-            logo: "stations/images-america/c2c/chicago_il/104.3 JAMS.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbmxfmaac-imc"
+            name: "104.3 The Score",
+            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "104.3 WBMX-HD2",
@@ -42151,9 +42151,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc9553/hls.m3u8"
         },
         {
-            name: "670 The Score",
-            logo: "stations/images-america/c2c/chicago_il/670 The Score.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+            name: "670 WSCR",
+            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "WGN Radio 720",
