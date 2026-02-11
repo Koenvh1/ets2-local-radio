@@ -57409,7 +57409,7 @@ var stations = {
             url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
         },
         {
-            name: "570 WNAX",
+            name: "96.9 K245DA",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
