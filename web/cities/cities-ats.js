@@ -11473,6 +11473,9 @@ var city_properties_c2c = {
     "toms_river": {
         relative_whitenoise: 0.85
     },
+    "trenton": {
+        relative_whitenoise: 0.95
+    },
     "albany": {
         relative_whitenoise: 0.85
     },
