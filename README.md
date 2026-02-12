@@ -88,7 +88,7 @@ Yes you can. Click the "Clone or download" button above, and then click "Downloa
 ## Troubleshooting:
 ### Can't access it from another device
 Try restarting ATS/ETS2 Local Radio server. Please make sure your firewall is not blocking the connection. If you use a different firewall that Windows Firewall, then please allow incoming connections on port 8330. You can test whether the firewall is the issue by going to [http://localhost:8330](http://localhost:8330), 
-if that works, it is most likely a firewall issue. Add ATS/ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (consult your firewall's manual how to do that), or just use [http://localhost:8330](http://localhost:8330).
+if that works, it is most likely a firewall issue. Add ATS/ETS2 Local Radio server and/or incoming port 8330 (TCP) to the exceptions list (consult your firewall's manual how to do that), or just use [http://localhost:8330](http://localhost:8330). Windows Firewall is picky, and it might work by allowing port 8330 and not by allowing the program. I don't know why either.
 
 If it does not work on localhost either, then please try changing the default port in the `settings.json` file.
 
