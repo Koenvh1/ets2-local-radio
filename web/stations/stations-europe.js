@@ -2852,11 +2852,6 @@ var stations = {
             url: "http://icecast.skyrock.net/s/natio_mp3_128k"
         },
         {
-            name: "Skyrock Klassiks",
-            logo: "stations/images-europe/france/Skyrock Klassiks.png",
-            url: "https://icecast.skyrock.net/s/klassiks_aac_128k"
-        },
-        {
             name: "Sud Radio",
             logo: "stations/images-europe/france/Sud Radio.png",
             url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"
@@ -8897,6 +8892,41 @@ var stations = {
             url: "https://fm02-ice.stream.khz.se/fm02_mp3"
         },
         {
+            name: "Bandit Classic Rock",
+            logo: "stations/custom-europe/sweden/Bandit Classic Rock.png",
+            url: "https://wr11-ice.stream.khz.se/wr11_mp3"
+        },
+        {
+            name: "Dansbandskanalen",
+            logo: "stations/custom-europe/sweden/Dansbandskanalen.png",
+            url: "https://stream.dbmedia.se/dbk96"
+        },
+        {
+            name: "Dansbandskanalen Klassiker",
+            logo: "stations/custom-europe/sweden/Dansbandskanalen Klassiker.png",
+            url: "https://stream.dbmedia.se/dbkjul96"
+        },
+        {
+            name: "Disco 54",
+            logo: "stations/custom-europe/sweden/Disco 54.png",
+            url: "https://wr15-ice.stream.khz.se/wr15_mp3"
+        },
+        {
+            name: "Gamla Favoriter",
+            logo: "stations/custom-europe/sweden/Gamla Favoriter.png",
+            url: "https://wr09-ice.stream.khz.se/wr09_mp3"
+        },
+        {
+            name: "Go Country",
+            logo: "stations/custom-europe/sweden/Go Country.png",
+            url: "https://wr14-ice.stream.khz.se/wr14_mp3"
+        },
+        {
+            name: "HitMix 90's",
+            logo: "stations/custom-europe/sweden/HitMix 90's.png",
+            url: "https://wr19-ice.stream.khz.se/wr19_mp3"
+        },
+        {
             name: "Lugna Favoriter",
             logo: "stations/images-europe/sweden/Lugna Favoriter.png",
             url: "https://fm03-ice.stream.khz.se/fm03_mp3"
@@ -8912,14 +8942,34 @@ var stations = {
             url: "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp"
         },
         {
+            name: "Power Hit Radio",
+            logo: "stations/images-europe/lithuania/Power Hit Radio.png",
+            url: "https://fm04-ice.stream.khz.se/fm04_mp3"
+        },
+        {
             name: "RIX FM",
             logo: "stations/images-europe/sweden/Rix FM.png",
             url: "https://fm01-ice.stream.khz.se/fm01_mp3"
         },
         {
+            name: "RIX FM Fresh",
+            logo: "stations/custom-europe/sweden/RIX FM Fresh.png",
+            url: "https://wr04-ice.stream.khz.se/wr04_mp3"
+        },
+        {
             name: "Rockklassiker",
             logo: "stations/images-europe/sweden/Rockklassiker.png",
             url: "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp"
+        },
+        {
+            name: "Skärgårdsradion",
+            logo: "stations/custom-europe/sweden/Skärgårdsradion.png",
+            url: "https://fm06-ice.stream.khz.se/fm06_mp3"
+        },
+        {
+            name: "Sonic Radio",
+            logo: "stations/custom-europe/sweden/Sonic Radio.png",
+            url: "https://wr10-ice.stream.khz.se/wr10_mp3"
         },
         {
             name: "Star FM",

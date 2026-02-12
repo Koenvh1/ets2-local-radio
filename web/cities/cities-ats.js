@@ -10868,6 +10868,12 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.65
     },
+    "brookings": {
+        name: "Brookings",
+        name_english: "Brookings",
+        code: "us-sd",
+        relative_radius: 0.55
+    },
     "buffalo_sd": {
         name: "Buffalo",
         name_english: "Buffalo",
@@ -11119,6 +11125,12 @@ var country_properties_c2c = {
         name_english: "madison_wi",
         code: "us-wi",
         relative_radius: 0.7
+    },
+    "minocqua": {
+        name: "Minocqua",
+        name_english: "Minocqua",
+        code: "us-wi",
+        relative_radius: 0.65
     },
     "milwaukee": {
         name: "milwaukee",
@@ -11644,6 +11656,9 @@ var city_properties_c2c = {
     "aberdeen_sd": {
         relative_whitenoise: 0.85
     },
+    "brookings": {
+        relative_whitenoise: 0.85
+    },
     "buffalo_sd": {
         relative_whitenoise: 0.85
     },
@@ -11758,6 +11773,9 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "madison_wi": {
+        relative_whitenoise: 0.85
+    },
+    "minocqua": {
         relative_whitenoise: 0.85
     },
     "milwaukee": {
@@ -13173,6 +13191,14 @@ var cities_c2c = [
         "z": "-36847.3"
     },
     {
+        "gameName": "brookings",
+        "realName": "Brookings",
+        "country": "brookings",
+        "x": "-3317.703",
+        "y": "134.8398",
+        "z": "-30229.57"
+    },
+    {
         "gameName": "buffalo_sd",
         "realName": "Buffalo",
         "country": "buffalo_sd",
@@ -13509,6 +13535,14 @@ var cities_c2c = [
         "z": "-24465.1"
     },
     {
+        "gameName": "minocqua",
+        "realName": "Minocqua",
+        "country": "minocqua",
+        "x": "25227.76",
+        "y": "86.82813",
+        "z": "-39518.22"
+    },
+    {
         "gameName": "prairie_du_chien",
         "realName": "Prairie du Chien",
         "country": "prairie_du_chien",
@@ -13569,11 +13603,29 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 1.0
     },
+    "charlottetown": {
+        name: "Charlottetown",
+        name_english: "Charlottetown",
+        code: "ca-pe",
+        relative_radius: 1.1
+    },
     "chesterfield_inlet": {
         name: "Chesterfield Inlet",
         name_english: "Chesterfield Inlet",
         code: "ca-nu",
         relative_radius: 1.2
+    },
+    "chibougamau": {
+        name: "Chibougamau",
+        name_english: "Chibougamau",
+        code: "ca-qc",
+        relative_radius: 1.0
+    },
+    "cornwall": {
+        name: "Cornwall",
+        name_english: "Cornwall",
+        code: "ca-on",
+        relative_radius: 0.6
     },
     "coral_harbour": {
         name: "Coral Harbour",
@@ -13760,6 +13812,12 @@ var country_properties_canada = {
         name_english: "La Tuque",
         code: "ca-qc",
         relative_radius: 1.2
+    },
+    "lsquevill": {
+        name: "Lebel-sur-Quevillion",
+        name_english: "Lebel-sur-Quevillion",
+        code: "ca-qc",
+        relative_radius: 1.0
     },
     "lillooet": {
         name: "Lillooet",
@@ -14043,6 +14101,12 @@ var country_properties_canada = {
         code: "ca-ns",
         relative_radius: 1.2
     },
+    "valdor": {
+        name: "Val-d'Or",
+        name_english: "Val-d'Or",
+        code: "ca-qc",
+        relative_radius: 1.0
+    },
     "vancouver_bc": {
         name: "Vancouver",
         name_english: "Vancouver",
@@ -14151,6 +14215,15 @@ var city_properties_canada = {
     "chapleau": {
         relative_whitenoise: 0.95
     },
+    "charlottetown": {
+        relative_whitenoise: 0.95
+    },
+    "chibougamau": {
+        relative_whitenoise: 0.95
+    },
+    "cornwall": {
+        relative_whitenoise: 0.95
+    },
     "cranbrook": {
         relative_whitenoise: 0.95
     },
@@ -14241,6 +14314,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "latuque": {
+        relative_whitenoise: 0.95
+    },
+    "lsquevill": {
         relative_whitenoise: 0.95
     },
     "lillooet": {
@@ -14394,6 +14470,9 @@ var city_properties_canada = {
     "truro": {
         relative_whitenoise: 0.95
     },
+    "valdor": {
+        relative_whitenoise: 0.85
+    },
     "vancouver_bc": {
         relative_whitenoise: 0.70
     },
@@ -14493,6 +14572,30 @@ var cities_canada = [
         "x": "48197.1",
         "y": "140.434",
         "z": "-53884.2"
+    },
+    {
+        "gameName": "charlottetown",
+        "realName": "Charlottetown",
+        "country": "charlottetown",
+        "x": "124966.4",
+        "y": "43.49609",
+        "z": "-64663.36"
+    },
+    {
+        "gameName": "chibougamau",
+        "realName": "Chibougamau",
+        "country": "chibougamau",
+        "x": "82156.27",
+        "y": "69.10547",
+        "z": "-71345.08"
+    },
+    {
+        "gameName": "cornwall",
+        "realName": "Cornwall",
+        "country": "cornwall",
+        "x": "84210.12",
+        "y": "70.33203",
+        "z": "-44349.36"
     },
     {
         "gameName": "cranbrook",
@@ -14741,6 +14844,14 @@ var cities_canada = [
         "x": "86850.1",
         "y": "85.5508",
         "z": "-58882.9"
+    },
+    {
+        "gameName": "lsquevill",
+        "realName": "Lebel-sur-Quevillion",
+        "country": "lsquevill",
+        "x": "74234.55",
+        "y": "68.78906",
+        "z": "-62342.05"
     },
     {
         "gameName": "lillooet",
@@ -15141,6 +15252,14 @@ var cities_canada = [
         "x": "126436",
         "y": "69.418",
         "z": "-59150.2"
+    },
+    {
+        "gameName": "valdor",
+        "realName": "Val-d'Or/Amos",
+        "country": "valdor",
+        "x": "69050.99",
+        "y": "69.90625",
+        "z": "-58166.40"
     },
     {
         "gameName": "vancouver_bc",
