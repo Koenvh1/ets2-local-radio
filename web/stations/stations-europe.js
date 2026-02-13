@@ -254,7 +254,7 @@ var stations = {/*
         {
             name: "Steel FM",
             logo: "stations/images-europe/aland/Steel FM.png",
-            url: "https://ice6.securenetsystems.net/STEELFM"
+            url: "https://ice31.securenetsystems.net/STEELFM"
         },
     ],
     "albania": [
@@ -445,12 +445,12 @@ var stations = {/*
             name: "KISS FM 88.3",
             logo: "stations/images-europe/armenia/yerevan/KISS FM 88.3.png",
             url: "https://am.radioaurora.am/kiss"
-        },
+        },/*
         {
             name: "POP FM 89.3",
             logo: "stations/images-europe/armenia/yerevan/POP FM 89.3.png",
             url: "https://eu1.stream4cast.com/proxy/pop/stream"
-        },
+        },*/
         {
             name: "Авторадио Ереван 89.7",
             logo: "stations/images-europe/armenia/yerevan/Авторадио Ереван 89.7.png",
@@ -748,12 +748,12 @@ var stations = {/*
         {
             name: "Baku Hit FM",
             logo: "stations/images-europe/azerbaijan/Baku Hit FM.png",
-            url: "http://5.191.241.101:8000/bakuhitfm"
+            url: "https://stream.bakuradioalliance.az/hitfm"
         },
         {
             name: "Baku Retro FM",
             logo: "stations/images-europe/azerbaijan/Baku Retro FM.png",
-            url: "http://5.191.241.101:8000/bakuretrofm"
+            url: "https://stream.bakuradioalliance.az/retrofm"
         },
         {
             name: "İctimai Radio",
@@ -912,7 +912,7 @@ var stations = {/*
         {
             name: "Радио Юмор ФМ",
             logo: "stations/images-europe/belarus/Радио Юмор ФМ.png",
-            url: "http://live.humorfm.by:8000/veseloeradio"
+            url: "https://hls-01-vtv.webcaramba.com/vtv-humorfm/playlist.m3u8"
         },
         {
             name: "Новое Радио",
@@ -922,7 +922,7 @@ var stations = {/*
         {
             name: "Пилот FM",
             logo: "stations/images-europe/belarus/Пилот FM.png",
-            url: "https://stream2.datacenter.by/pilotfm"
+            url: "https://live.pilotfm.com/stream/pilotfm/aac128"
         },
         {
             name: "Цэнтр FM",
@@ -1193,7 +1193,7 @@ var stations = {/*
         {
             name: "Bobar Radio",
             logo: "stations/images-europe/bosnia/Bobar Radio.png",
-            url: "http://94.130.11.28:9010/stream/1/"
+            url: "https://stream.radios.rs:9082/stream"
         },
         {
             name: "Federalni Radio",
@@ -1503,14 +1503,14 @@ var stations = {/*
             url: "https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8"
         },
         {
-            name: "黑龙江爱家广播",
-            logo: "stations/images-europe/china/hlj/黑龙江爱家广播.png",
-            url: "https://stream3.hljtv.com/hljrd97/playlist.m3u8"
+            name: "黑龙江生活广播",
+            logo: "stations/images-europe/china/hlj/黑龙江生活广播.png",
+            url: "https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8"
         },
         {
-            name: "黑龙江私家车广播",
-            logo: "stations/images-europe/china/hlj/黑龙江私家车广播.png",
-            url: "https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8"
+            name: "黑龙江老年少儿广播",
+            logo: "stations/images-europe/china/hlj/黑龙江老年少儿广播.png",
+            url: "http://89.168.75.18/redir/cn/558"
         },
         {
             name: "黑龙江音乐广播",
@@ -6439,12 +6439,12 @@ var stations = {/*
             name: "Radio Delta",
             logo: "stations/images-europe/lebanon/Radio Delta.png",
             url: "http://radiodelta.fm/mp3"
-        },
+        },/*
         {
             name: "Radio Strike",
             logo: "stations/images-europe/lebanon/Radio Strike.png",
             url: "https://stream.zeno.fm/zbm72tcd2d0uv"
-        },
+        },*/
         {
             name: "RFI Moyen Orient",
             logo: "stations/images-europe/lebanon/RFI Moyen Orient.png",
@@ -6522,7 +6522,7 @@ var stations = {/*
         {
             name: "extra FM",
             logo: "stations/images-europe/lithuania/extra FM.png",
-            url: "https://online.extrafm.lt:8443/extrafm.mp3"
+            url: "https://stream.rcs.revma.com/8cwskd80zxcwv"
         },
         {
             name: "Gold FM",
@@ -6572,7 +6572,7 @@ var stations = {/*
         {
             name: "Radio R",
             logo: "stations/images-europe/lithuania/Radio R.png",
-            url: "http://stream1.rusradio.lt/rrb128.mp3"
+            url: "https://stream1.relaxfm.lt/rrb128.mp3"
         },
         {
             name: "Relax FM",
@@ -6924,7 +6924,7 @@ var stations = {/*
         {
             name: "Eco FM",
             logo: "stations/images-europe/moldova/Eco FM.png",
-            url: "https://astreaming.ecofm.md:8443/ecoFM"
+            url: "http://astreaming.ecofm.md:8000/ecoFM"
         },
         {
             name: "HIT FM",
@@ -8228,7 +8228,7 @@ var stations = {/*
         {
             name: "MBC FM",
             logo: "stations/images-europe/saudi/MBC FM.png",
-            url: "https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8"
+            url: "https://radio-mbcfm.mbc.net/radio-mbcfm.m3u8"
         },
         {
             name: "MIX FM",
@@ -8238,7 +8238,7 @@ var stations = {/*
         {
             name: "Panorama FM",
             logo: "stations/images-europe/saudi/Panorama FM.png",
-            url: "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8"
+            url: "https://radio-panoramafm.mbc.net/radio-panoramafm.m3u8"
         },
         {
             name: "Rotana",
@@ -9564,12 +9564,7 @@ var stations = {/*
         {
             name: "اذاعة دمشق",
             logo: "stations/images-europe/syria/اذاعة دمشق.png",
-            url: "http://radiolive.rtv.gov.sy:1935/RDimshq/RDimshqLive/playlist.m3u8"
-        },
-        {
-            name: "صوت الشباب",
-            logo: "stations/images-europe/syria/صوت الشباب.png",
-            url: "http://radiolive.rtv.gov.sy:1935/RShabab/RShababLive/playlist.m3u8"
+            url: "https://radiodamascus.ortas.live/RDimshq/RDimshqAudioLive/playlist.m3u8"
         },
         {
             name: "Ninar FM",
@@ -10388,7 +10383,7 @@ var stations = {/*
         {
             name: "Країна ФМ",
             logo: "stations/images-europe/ukraine/Країна ФМ.png",
-            url: "http://185.65.245.34:8000/kiev"
+            url: "https://live2.radioec.com.ua/kiev_r"
         },
         {
             name: "Мелодія FM",
