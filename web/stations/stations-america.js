@@ -62136,7 +62136,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHFAFM_SRC_SC"
         },
         {
-            name: "98.5 GO FM",
+            name: "95.1 CHRX-FM-1",
             logo: "stations/images-america/canada/dawsoncreek/98.5 GO FM.png",
             url: "https://vistaradio.streamb.live/SB00404"
         },
@@ -62786,6 +62786,23 @@ var stations = {/*
             name: "105.9 Seaside FM",
             logo: "stations/images-america/canada/halifax/105.9 Seaside FM.png",
             url: "https://seasidefm1059.radioca.st/;"
+        },
+    ],
+    "hayriver": [
+        {
+            name: "CBC Radio One 93.7",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFYKFM_CBC_SC"
+        },
+        {
+            name: "100.1 GO FM",
+            logo: "stations/images-america/canada/yellowknife/100.1 GO FM.png",
+            url: "https://vistaradio.streamb.live/SB00088"
+        },
+        {
+            name: "CKLB 101.9",
+            logo: "stations/images-america/canada/fortsimpson/CKLB 101.9.png",
+            url: "https://ais-sa1.streamon.fm/7187_24k.aac"
         },
     ],
     "hearst": [
@@ -66252,6 +66269,28 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFFBAM_CBC_SC"
         },
     ],
+    "whitecourt_foxcreek": [
+        {
+            name: "CBC Radio One 91.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBXAM_CBC_SC"
+        },
+        {
+            name: "boom 96.7",
+            logo: "stations/images-america/canada/whitecourt_foxcreek/boom 96.7.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://stingray.leanstream.co/CFXWFM"
+        },
+        {
+            name: "XM105",
+            logo: "stations/images-america/canada/whitecourt_foxcreek/XM105.png",
+            url: "https://redirect.jpbgdigital.com/CIXM"
+        },
+        {
+            name: "CKUA 107.1",
+            logo: "stations/images-america/canada/CKUA Radio Network.png",
+            url: "http://ckua.streamon.fm:8000/CKUA-48k.aac"
+        },
+    ],
     "whitehorse": [
         {
             name: "CJUC 92.5",
@@ -66551,8 +66590,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CFYKFM_CBC_SC"
         },
         {
-            name: "100.1 True North",
-            logo: "stations/images-america/canada/yellowknife/100.1 True North.png",
+            name: "100.1 GO FM",
+            logo: "stations/images-america/canada/yellowknife/100.1 GO FM.png",
             url: "https://vistaradio.streamb.live/SB00088"
         },
         {

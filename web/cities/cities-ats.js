@@ -1443,7 +1443,7 @@ var country_properties = {
         name: "McDermitt",
         name_english: "McDermitt",
         code: "us-nv",
-        relative_radius: 0.5
+        relative_radius: 0.55
     },
     "medford": {
         name: "Medford",
@@ -10479,7 +10479,7 @@ var country_properties_c2c = {
         name: "Willmar",
         name_english: "Willmar",
         code: "us-mn",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "worthington_mn": {
         name: "worthington_mn",
@@ -11777,7 +11777,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "watertown_sd": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "sioux_falls": {
         relative_whitenoise: 0.85
@@ -13822,6 +13822,12 @@ var country_properties_canada = {
         code: "ca-ns",
         relative_radius: 1.2
     },
+    "hayriver": {
+        name: "Hay River",
+        name_english: "Hay River",
+        code: "ca-nt",
+        relative_radius: 1.0
+    },
     "hearst": {
         name: "Hearst",
         name_english: "Hearst",
@@ -13832,7 +13838,7 @@ var country_properties_canada = {
         name: "High Level",
         name_english: "High Level",
         code: "ca-ab",
-        relative_radius: 1.3
+        relative_radius: 1.35
     },
     "hope": {
         name: "Hope",
@@ -14248,6 +14254,12 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 0.4
     },
+    "whitecourt_foxcreek": {
+        name: "Whitecourt/Fox Creek",
+        name_english: "Whitecourt/Fox Creek",
+        code: "ca-ab",
+        relative_radius: 1.0
+    },
     "whitehorse": {
         name: "Whitehorse",
         name_english: "Whitehorse",
@@ -14364,6 +14376,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "halifax": {
+        relative_whitenoise: 0.95
+    },
+    "hayriver": {
         relative_whitenoise: 0.95
     },
     "hearst": {
@@ -14584,6 +14599,9 @@ var city_properties_canada = {
     },
     "weyburn": {
         relative_whitenoise: 0.85
+    },
+    "whitecourt_foxcreek": {
+        relative_whitenoise: 0.95
     },
     "whitehorse": {
         relative_whitenoise: 0.95
@@ -14817,6 +14835,14 @@ var cities_canada = [
         "x": "126331",
         "y": "73.2773",
         "z": "-54553"
+    },
+    {
+        "gameName": "hayriver",
+        "realName": "Hay River",
+        "country": "hayriver",
+        "x": "-54986.72",
+        "y": "100",
+        "z": "-131289"
     },
     {
         "gameName": "hearst",
@@ -15401,6 +15427,14 @@ var cities_canada = [
         "x": "-29420.2",
         "y": "212.0781",
         "z": "-62241.11"
+    },
+    {
+        "gameName": "whitecourt_foxcreek",
+        "realName": "Whitecourt/Fox Creek",
+        "country": "whitecourt_foxcreek",
+        "x": "-66355.64",
+        "y": "100",
+        "z": "-95864.61"
     },
     {
         "gameName": "whitehorse",
@@ -16201,7 +16235,7 @@ cities = cities.concat(cities_c2c);
 country_properties = $.extend(country_properties, country_properties_c2c);
 city_properties = $.extend(city_properties, city_properties_c2c);
 
-//Uncomment the lines below to enable Canadream
+//Uncomment the lines below to enable CanaMania
 country_properties = $.extend(country_properties, country_properties_canada);
 city_properties = $.extend(city_properties, city_properties_canada);
 cities = cities.concat(cities_canada);
