@@ -2756,6 +2756,28 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWBEAMAAC_SC"
         },
     ],
+    "beatty": [
+        {
+            name: "91.7 K219AV",
+            logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
+        },
+        {
+            name: "92.1 K221BF",
+            logo: "stations/images-america/las_vegas/97.1 The Point.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTFMAAC_SC"
+        },
+        {
+            name: "92.7 K224AR",
+            logo: "stations/images-america/las_vegas/95.5 The Bull.png",
+            url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
+        },
+        {
+            name: "99.5 K258AF",
+            logo: "stations/images-america/las_vegas/96.3 KKLZ.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
+        },
+    ],
     "beaumont": [
         {
             name: "KLBT 88.1",
@@ -3549,6 +3571,11 @@ var stations = {/*
             name: "100.3 The X",
             logo: "stations/images-america/boise/100.3 The X.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQXRFMAAC_SC"
+        },
+        {
+            name: "La Poderosa 100.7",
+            logo: "stations/images-america/boise/La Poderosa 100.7.png",
+            url: "https://ice9.securenetsystems.net/KPDA"
         },
         {
             name: "Wild 101.1",
@@ -7676,6 +7703,13 @@ var stations = {/*
             name: "1230 KOTS",
             logo: "stations/images-america/deming/1230 KOTS.png",
             url: "https://ice41.securenetsystems.net/KOTS"
+        },
+    ],
+    "denio": [
+        {
+            name: "KCFJ 570",
+            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "denver": [
@@ -12188,6 +12222,13 @@ var stations = {/*
             url: "https://streaming.live365.com/a59291"
         },
     ],
+    "grasmere": [
+        {
+            name: "La Poderosa 100.7",
+            logo: "stations/images-america/boise/La Poderosa 100.7.png",
+            url: "https://ice9.securenetsystems.net/KPDA"
+        },
+    ],
     "greatfalls": [
         {
             name: "YPR 89.5",
@@ -15877,9 +15918,19 @@ var stations = {/*
     ],
     "langtry": [
         {
-            name: "No stations in this area",
-            logo: "stations/images-america/mexico/0_general_logos/No stations in this area.png",
-            url: ""
+            name: "KTDR 96.3",
+            logo: "stations/images-america/del_rio/KTDR 96.3.png",
+            url: "http://s01.digitalserver.org:8108/stream"
+        },
+        {
+            name: "KDER 99.3",
+            logo: "stations/images-america/0_general_logos/KHCB.png",
+            url: "https://khcb.streamguys1.com/live-128k-mp3"
+        },
+        {
+            name: "La Poderosa 1570",
+            logo: "stations/images-america/del_rio/La Poderosa 103.9.png",
+            url: "https://s2.mexside.net/8064/stream"
         },
     ],
     "laramie": [
@@ -18156,6 +18207,18 @@ var stations = {/*
             name: "K2 Radio 1030",
             logo: "stations/images-america/casper/K2 Radio.png",
             url: "http://live.amperwave.net/manifest/townsquare-ktwoamaac-ibc3"
+        },
+    ],
+    "madeline": [        
+        {
+            name: "KVIP 96.9",
+            logo: "stations/images-america/burns/KVIP 89.5.png",
+            url: "https://streaming.live365.com/a59959"
+        },
+        {
+            name: "KCFJ 570",
+            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "malta_mt": [
@@ -47801,6 +47864,78 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxssamaac-ibc3"
         },
     ],
+    "thief_river": [
+        {
+            name: "PPB News Classical 88.3",
+            logo: "stations/images-america/0_general_logos/PPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDFMAAC_SC"
+        },
+        {
+            name: "Pioneer 90.1",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/Pioneer 90.1.png",
+            url: "https://amber.streamguys1.com:6095/livehd1.aac"
+        },
+        {
+            name: "Pioneer Polkacast 90.1-HD2",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/Pioneer Polkacast 90.1-HD2.png",
+            url: "https://amber.streamguys1.com:6095/livehd2.aac"
+        },
+        {
+            name: "Neon 90 90.1-HD3",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/Neon 90 90.1-HD3.png",
+            url: "https://amber.streamguys1.com:6095/livehd3.aac"
+        },
+        {
+            name: "The Boat 90.1-HD4",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/The Boat 90.1-HD4.png",
+            url: "https://amber.streamguys1.com:6095/livehd4.aac"
+        },
+        {
+            name: "Classical MPR 91.5",
+            logo: "stations/images-america/0_general_logos/Classical MPR.png",
+            url: "https://cms.stream.publicradio.org/cms.aac"
+        },
+        {
+            name: "93.3 K227DF",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/KTRF 1230.png",
+            url: "http://ice25.securenetsystems.net/KTRFAM"
+        },
+        {
+            name: "94.1 The Falls",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/94.1 The Falls.png",
+            url: "https://ice26.securenetsystems.net/KTRF"
+        },
+        {
+            name: "95.3 The River",
+            logo: "stations/images-america/c2c/bemidji_mn/92.1 The River.png",
+            url: "http://wmisfm.com:8001/wmis.mp3"
+        },
+        {
+            name: "Real Country 98.5",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/Real Country 1460.png",
+            url: "https://ice25.securenetsystems.net/KKAQ"
+        },
+        {
+            name: "North Country 99.3",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/North Country 99.3.png",
+            url: "https://ice25.securenetsystems.net/KKDQ"
+        },
+        {
+            name: "MPR News 102.7",
+            logo: "stations/images-america/0_general_logos/MPR News.png",
+            url: "https://nis.stream.publicradio.org/nis.aac"
+        },
+        {
+            name: "KTRF 1230",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/KTRF 1230.png",
+            url: "https://ice25.securenetsystems.net/KTRFAM"
+        },
+        {
+            name: "Real Country 1460",
+            logo: "stations/images-america/c2c/thief_river_falls_mn/Real Country 1460.png",
+            url: "http://ice25.securenetsystems.net/KKAQ"
+        },
+    ],
     "willmar": [
         {
             name: "MPR News 88.9",
@@ -52588,6 +52723,11 @@ var stations = {/*
             url: "https://ice5.securenetsystems.net/KXDI"
         },
         {
+            name: "Q-Rock 95",
+            logo: "stations/images-america/c2c/dickinson_nd/Q-Rock 95.png",
+            url: "https://ice5.securenetsystems.net/KQLZ"
+        },
+        {
             name: "99.1 KCAD",
             logo: "stations/images-america/c2c/dickinson_nd/99.1 KCAD.png",
             url: "https://stream.revma.ihrhls.com/zc5084/hls.m3u8"
@@ -52807,11 +52947,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCNDHD2AAC_SC"
         },
         {
-            name: "Classical MPR 91.5",
-            logo: "stations/images-america/0_general_logos/Classical MPR.png",
-            url: "https://cms.stream.publicradio.org/cms.aac"
-        },
-        {
             name: "XL93",
             logo: "stations/images-america/c2c/grand_forks_nd/XL93.png",
             url: "https://stream.revma.ihrhls.com/zc1677/hls.m3u8"
@@ -52845,11 +52980,6 @@ var stations = {/*
             name: "100.3 The Cat",
             logo: "stations/images-america/c2c/grand_forks_nd/100.3 The Cat.png",
             url: "https://stream.revma.ihrhls.com/zc1673/hls.m3u8"
-        },
-        {
-            name: "MPR News 102.7",
-            logo: "stations/images-america/0_general_logos/MPR News.png",
-            url: "https://nis.stream.publicradio.org/nis.aac"
         },
         {
             name: "104.3 Cities FM",
@@ -53094,7 +53224,7 @@ var stations = {/*
         },
         {
             name: "91 Country KCJB",
-            logo: "stations/images-america/c2c/minot_nd/91 Country KCJB.png",
+            logo: "stations/images-america/c2c/williston_nd/91 Country KCJB.png",
             url: "https://stream.revma.ihrhls.com/zc5076/hls.m3u8"
         },
         {
@@ -53190,8 +53320,8 @@ var stations = {/*
             url: "https://goldenwest.leanstream.co/CHABAM"
         },
         {
-            name: "91 KCJB",
-            logo: "stations/images-america/c2c/williston_nd/91 KCJB.png",
+            name: "91 Country KCJB",
+            logo: "stations/images-america/c2c/williston_nd/91 Country KCJB.png",
             url: "https://stream.revma.ihrhls.com/zc5076/hls.m3u8"
         },
         {
@@ -66257,8 +66387,8 @@ var stations = {/*
             url: "http://rawlco.leanstream.co/CJMEAM"
         },
         {
-            name: "1190 CFSL",
-            logo: "stations/images-america/canada/weyburn/1190 CFSL.png",
+            name: "AM 1190",
+            logo: "stations/images-america/glasgow/AM 1190.png",
             url: "https://goldenwest.leanstream.co/CFSLAM"
         },
     ],

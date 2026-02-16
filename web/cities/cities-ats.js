@@ -185,6 +185,12 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "beatty": {
+        name: "Beatty",
+        name_english: "Beatty",
+        code: "us-nv",
+        relative_radius: 0.6
+    },
     "beaumont": {
         name: "Beaumont",
         name_english: "Beaumont",
@@ -563,6 +569,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.5
     },
+    "denio": {
+        name: "Denio",
+        name_english: "Denio",
+        code: "us-nv",
+        relative_radius: 0.35
+    },
     "denver": {
         name: "Denver",
         name_english: "Denver",
@@ -892,6 +904,12 @@ var country_properties = {
         name_english: "Granite",
         code: "us-ok",
         relative_radius: 1.0
+    },
+    "grasmere": {
+        name: "Grasmere",
+        name_english: "Grasmere",
+        code: "us-id",
+        relative_radius: 0.5
     },
     "greatfalls": {
         name: "Great Falls",
@@ -1366,6 +1384,12 @@ var country_properties = {
         name_english: "Lusk",
         code: "us-wy",
         relative_radius: 0.6
+    },
+    "madeline": {
+        name: "Madeline",
+        name_english: "Madeline",
+        code: "us-ca",
+        relative_radius: 0.35
     },
     "malta_mt": {
         name: "Malta",
@@ -2567,6 +2591,9 @@ var city_properties = {
         relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
+    "beatty": {
+        relative_whitenoise: 0.85
+    },
     "beaumont": {
         relative_whitenoise: 0.95
     },
@@ -2778,6 +2805,9 @@ var city_properties = {
     "deming": {
         relative_whitenoise: 0.95
     },
+    "denio": {
+        relative_whitenoise: 0.85
+    },
     "denver": {
         relative_whitenoise: 0.85
     },
@@ -2961,6 +2991,9 @@ var city_properties = {
     },
     "granite": {
         relative_whitenoise: 0.95
+    },
+    "grasmere": {
+        relative_whitenoise: 0.85
     },
     "greatfalls": {
         relative_whitenoise: 0.85
@@ -3229,6 +3262,9 @@ var city_properties = {
     },
     "lusk": {
         relative_whitenoise: 0.95
+    },
+    "madeline": {
+        relative_whitenoise: 0.85
     },
     "malta_mt": {
         relative_whitenoise: 0.85
@@ -4135,6 +4171,14 @@ var cities = [
         "z": "-8144.62"
     },
     {
+        "gameName": "beatty",
+        "realName": "Beatty",
+        "country": "beatty",
+        "x": "-92326.26",
+        "y": "100",
+        "z": "2030.6"
+    },
+    {
         "gameName": "beaumont",
         "realName": "Beaumont",
         "country": "beaumont",
@@ -4751,6 +4795,14 @@ var cities = [
         "z": "34248.3"
     },
     {
+        "gameName": "denio",
+        "realName": "Denio",
+        "country": "denio",
+        "x": "-93904.45",
+        "y": "100",
+        "z": "-28452.38"
+    },
+    {
         "gameName": "denver",
         "realName": "Denver",
         "country": "denver",
@@ -5245,6 +5297,14 @@ var cities = [
         "x": "-16042.5",
         "y": "184.33",
         "z": "22340"
+    },
+    {
+        "gameName": "grasmere",
+        "realName": "Grasmere",
+        "country": "grasmere",
+        "x": "-82539.8",
+        "y": "100",
+        "z": "-28212.22"
     },
     {
         "gameName": "greatfalls",
@@ -5957,6 +6017,14 @@ var cities = [
         "x": "-34607.7",
         "y": "55.3956",
         "z": "-23037.9"
+    },
+    {
+        "gameName": "madeline",
+        "realName": "Madeline",
+        "country": "madeline",
+        "x": "-103030.47",
+        "y": "100",
+        "z": "-24892.88"
     },
     {
         "gameName": "malta_mt",
@@ -9939,7 +10007,13 @@ var country_properties_c2c = {
         name: "Dover",
         name_english: "Dover",
         code: "us-de",
-        relative_radius: 0.4
+        relative_radius: 0.5
+    },
+    "wilmington_de": {
+        name: "Wilmington",
+        name_english: "Wilmington",
+        code: "us-de",
+        relative_radius: 0.5
     },
     "florida": {
         name: "florida",
@@ -10305,7 +10379,7 @@ var country_properties_c2c = {
         name: "Salisbury",
         name_english: "Salisbury",
         code: "us-md",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "washington_dc": {
         name: "washington_dc",
@@ -10475,6 +10549,12 @@ var country_properties_c2c = {
         code: "us-mn",
         relative_radius: 0.8
     },
+    "thief_river": {
+        name: "Thief River Falls",
+        name_english: "Thief River Falls",
+        code: "us-mn",
+        relative_radius: 0.7
+    },
     "willmar": {
         name: "Willmar",
         name_english: "Willmar",
@@ -10581,7 +10661,7 @@ var country_properties_c2c = {
         name: "Atlantic City",
         name_english: "Atlantic City",
         code: "us-nj",
-        relative_radius: 0.4
+        relative_radius: 0.45
     },
     "toms_river": {
         name: "Toms River",
@@ -10593,7 +10673,7 @@ var country_properties_c2c = {
         name: "Trenton",
         name_english: "Trenton",
         code: "us-nj",
-        relative_radius: 0.35
+        relative_radius: 0.5
     },
     "albany": {
         name: "albany",
@@ -11272,6 +11352,10 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "dover": {
+        relative_whitenoise: 0.95
+    },
+    "wilmington_de": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "panama_city": {
@@ -11446,7 +11530,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "salisbury": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "washington_dc": {
 		relative_radius: 0.7,
@@ -11573,12 +11657,13 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "atlan_city": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.9
     },
     "toms_river": {
         relative_whitenoise: 0.85
     },
     "trenton": {
+        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "albany": {
@@ -11598,6 +11683,10 @@ var city_properties_c2c = {
     },
     "newyork": {
         relative_whitenoise: 0.85
+    },
+    "newark": {
+        relative_radius: 0.7,
+        relative_whitenoise: 0.9
     },
     "olean_ny": {
         relative_whitenoise: 0.85
@@ -11659,6 +11748,10 @@ var city_properties_c2c = {
     "grand_forks": {
         relative_whitenoise: 0.85
     },
+    "thief_river": {
+        relative_radius: 0.85,
+        relative_whitenoise: 0.85
+    },
     "jamestown_nd": {
         relative_whitenoise: 0.85
     },
@@ -11702,14 +11795,13 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "harrisburg_pa": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "johnstown": {
         relative_whitenoise: 0.85
     },
     "lancaster_pa": {
-        relative_radius: 0.5,
+        relative_radius: 0.85,
         relative_whitenoise: 0.95
     },
     "philadelphia": {
@@ -11962,6 +12054,14 @@ var cities_c2c = [
         "x": "88636.42",
         "y": "142.5039",
         "z": "-11383.08"
+    },
+    {
+        "gameName": "wilmington_de",
+        "realName": "Wilmington",
+        "country": "philadelphia",
+        "x": "87783.61",
+        "y": "100.6758",
+        "z": "-14371.89"
     },
     {
         "gameName": "panama_city",
@@ -12684,6 +12784,22 @@ var cities_c2c = [
         "z": "-39767.2"
     },
     {
+        "gameName": "thief_river",
+        "realName": "Thief River Falls",
+        "country": "thief_river",
+        "x": "-11.85938",
+        "y": "140",
+        "z": "-52463.34"
+    },
+    {
+        "gameName": "thief_river",
+        "realName": "Thief River Falls",
+        "country": "grand_forks",
+        "x": "-11.85938",
+        "y": "140",
+        "z": "-52463.34"
+    },
+    {
         "gameName": "willmar",
         "realName": "Willmar",
         "country": "willmar",
@@ -12820,6 +12936,14 @@ var cities_c2c = [
         "z": "-18042.81"
     },
     {
+        "gameName": "trenton",
+        "realName": "Trenton",
+        "country": "philadelphia",
+        "x": "90566.84",
+        "y": "94.36328",
+        "z": "-18042.81"
+    },
+    {
         "gameName": "albany",
         "realName": "Albany",
         "country": "albany",
@@ -12866,6 +12990,14 @@ var cities_c2c = [
         "x": "94380.8",
         "y": "96.3945",
         "z": "-21379.9"
+    },
+    {
+        "gameName": "newark",
+        "realName": "Newark",
+        "country": "newyork",
+        "x": "92101.53",
+        "y": "86.48438",
+        "z": "-21078.79"
     },
     {
         "gameName": "olean_ny",
@@ -13023,6 +13155,14 @@ var cities_c2c = [
         "gameName": "grand_forks",
         "realName": "Grand Forks",
         "country": "grand_forks",
+        "x": "-3210.07",
+        "y": "201.867",
+        "z": "-51147.3"
+    },
+    {
+        "gameName": "grand_forks",
+        "realName": "Grand Forks",
+        "country": "thief_river",
         "x": "-3210.07",
         "y": "201.867",
         "z": "-51147.3"
@@ -13946,7 +14086,7 @@ var country_properties_canada = {
         name: "Medicine Hat",
         name_english: "Medicine Hat",
         code: "ca-sk",
-        relative_radius: 1.0
+        relative_radius: 1.1
     },
     "marathon": {
         name: "Marathon",
@@ -14174,7 +14314,7 @@ var country_properties_canada = {
         name: "Swift Current",
         name_english: "Swift Current",
         code: "ca-sk",
-        relative_radius: 1.0    
+        relative_radius: 1.1    
     },
     "thunderbay": {
         name: "Thunder Bay",
@@ -14440,7 +14580,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.85
     },
     "medicinehat": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.9
     },
     "marathon": {
         relative_whitenoise: 0.95
@@ -14564,7 +14704,7 @@ var city_properties_canada = {
         relative_whitenoise: 0.75
     },
     "swift": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.9
     },
     "thunderbay": {
         relative_whitenoise: 0.95
