@@ -7108,6 +7108,16 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KGGR"
         },
         {
+            name: "Latino Mix 107.1",
+            logo: "stations/images-america/dallas_fort_worth/Latino Mix 107.9.png",
+            url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/kdxxfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "TUDN Radio 107.1-HD2",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
             name: "La Grande 107.5",
             logo: "stations/images-america/dallas_fort_worth/La Grande 107.5.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kmvkfmaac-imc"
@@ -17940,6 +17950,11 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
         },
         {
+            name: "92.3 The Hub",
+            logo: "stations/images-america/lubbock/92.3 The Hub.png",
+            url: "https://ais-sa1.streamon.fm/7744_96k.aac"
+        },
+        {
             name: "VCY America 92.7",
             logo: "stations/images-america/0_general_logos/VCY America.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
@@ -17995,8 +18010,8 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7001_48k.aac"
         },
         {
-            name: "Oldies 97.7",
-            logo: "stations/images-america/lubbock/Oldies 97.7.png",
+            name: "Sunny 97.7",
+            logo: "stations/images-america/lubbock/Sunny 97.7.png",
             url: "https://ais-sa1.streamon.fm/7197_48k.aac"
         },
         {
@@ -39067,14 +39082,14 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wrtofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "Uforia Rock 98.3-HD2",
-            logo: "stations/images-america/c2c/miami_fl/Uforia Rock.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/uforiarock-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed"
-        },
-        {
-            name: "TUDN Radio 98.3-HD4",
+            name: "TUDN Radio 98.3-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "Uforia Rock 98.3-HD4",
+            logo: "stations/images-america/c2c/miami_fl/Uforia Rock.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/uforiarock-icy?key=553805653f0a519930eabc643243f71416f03a8431bb326debd6af99ef9345ed"
         },
         {
             name: "99 JAMZ",
@@ -50130,9 +50145,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHTTFMAAC_SC"
         },
         {
-            name: "104.7 The Wolf",
-            logo: "stations/images-america/c2c/buffalo_ny/107.7 & 104.7 The Wolf.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
+            name: "104.7 W284AP",
+            logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wgramaac-imc"
         },
         {
             name: "106.5 WYRK",
@@ -50145,9 +50160,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwwsamaac-imc"
         },
         {
-            name: "107.7 The Wolf",
-            logo: "stations/images-america/c2c/buffalo_ny/107.7 & 104.7 The Wolf.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wlkkfmaac-imc"
+            name: "107.7 WLKK",
+            logo: "stations/images-america/c2c/buffalo_ny/WGR 550.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-wgramaac-imc"
         },
         {
             name: "NOAA Weather Radio Buffalo",
