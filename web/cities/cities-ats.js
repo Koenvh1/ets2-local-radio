@@ -10840,7 +10840,7 @@ var country_properties_c2c = {
         name: "Bowman",
         name_english: "Bowman",
         code: "us-nd",
-        relative_radius: 0.35
+        relative_radius: 0.5
     },
     "devils_nd": {
         name: "Devils Lake",
@@ -11774,6 +11774,9 @@ var city_properties_c2c = {
     "grand_forks": {
         relative_whitenoise: 0.85
     },
+    "hettinger_nd": {
+        relative_whitenoise: 0.9
+    },
     "thief_river": {
         relative_radius: 0.85,
         relative_whitenoise: 0.85
@@ -11881,6 +11884,9 @@ var city_properties_c2c = {
     },
     "kadoka": {
         relative_whitenoise: 0.85
+    },
+    "lemmon_sd": {
+        relative_whitenoise: 0.9
     },
     "mitchell_sd": {
         relative_whitenoise: 0.85
