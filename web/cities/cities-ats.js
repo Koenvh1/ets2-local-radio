@@ -359,6 +359,12 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.8
     },
+    "carrizozo": {
+        name: "Carrizozo",
+        name_english: "Carrizozo",
+        code: "us-nm",
+        relative_radius: 0.6
+    },
     "casper": {
         name: "Casper",
         name_english: "Casper",
@@ -2691,6 +2697,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
+    "carrizozo": {
+        relative_whitenoise: 0.95
+    },
     "casper": {
         relative_whitenoise: 0.85
     },
@@ -4457,6 +4466,14 @@ var cities = [
         "x": "-102681",
         "y": "262.479",
         "z": "-13171.5"
+    },
+    {
+        "gameName": "carrizozo",
+        "realName": "Carrizozo",
+        "country": "carrizozo",
+        "x": "-45908.25",
+        "y": "100",
+        "z": "27706.74"
     },
     {
         "gameName": "casper",
@@ -10135,6 +10152,12 @@ var country_properties_c2c = {
         code: "us-ga",
         relative_radius: 0.7
     },
+    "cuthbert_ga": {
+        name: "Cuthbert",
+        name_english: "Cuthbert",
+        code: "us-ga",
+        relative_radius: 0.6
+    },
     "macon": {
         name: "macon",
         name_english: "macon",
@@ -11415,6 +11438,9 @@ var city_properties_c2c = {
     "columbus_ga": {
         relative_whitenoise: 0.85
     },
+    "cuthbert_ga": {
+        relative_whitenoise: 0.85
+    },
     "macon": {
         relative_whitenoise: 0.85
     },
@@ -12230,6 +12256,14 @@ var cities_c2c = [
         "x": "51200.3",
         "y": "18.1238",
         "z": "31099.5"
+    },
+    {
+        "gameName": "cuthbert_ga",
+        "realName": "Cuthbert",
+        "country": "cuthbert_ga",
+        "x": "53757.28",
+        "y": "100",
+        "z": "36798.27"
     },
     {
         "gameName": "macon",
@@ -13812,6 +13846,12 @@ var country_properties_canada = {
         code: "ca-on",
         relative_radius: 0.6
     },
+    "bralorne": {
+        name: "Bralorne",
+        name_english: "Bralorne",
+        code: "ca-bc",
+        relative_radius: 0.3
+    },
     "calgary": {
         name: "Calgary",
         name_english: "Calgary",
@@ -14220,6 +14260,12 @@ var country_properties_canada = {
         code: "ca-qc",
         relative_radius: 1.2
     },
+    "radiumhs": {
+        name: "Radium Hot Springs",
+        name_english: "Radium Hot Springs",
+        code: "ca-bc",
+        relative_radius: 0.7
+    },
     "rankin_inlet": {
         name: "Rankin Inlet",
         name_english: "Rankin Inlet",
@@ -14392,7 +14438,7 @@ var country_properties_canada = {
         name: "Whistler",
         name_english: "Whistler",
         code: "ca-bc",
-        relative_radius: 0.4
+        relative_radius: 0.35
     },
     "whitecourt_foxcreek": {
         name: "Whitecourt/Fox Creek",
@@ -14446,6 +14492,9 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "belleville": {
+        relative_whitenoise: 0.85
+    },
+    "bralorne": {
         relative_whitenoise: 0.85
     },
     "calgary": {
@@ -14646,6 +14695,9 @@ var city_properties_canada = {
     "quebec": {
         relative_whitenoise: 0.95
     },
+    "radiumhs": {
+        relative_whitenoise: 0.95
+    },
     "rc_chester": {
         relative_whitenoise: 0.85
     },
@@ -14747,7 +14799,6 @@ var city_properties_canada = {
         relative_whitenoise: 0.95
     },
     "whistler": {
-		relative_radius: 0.4,
         relative_whitenoise: 0.85
     },
     "whitney": {
@@ -14791,6 +14842,14 @@ var cities_canada = [
         "x": "73964",
         "y": "33.2816",
         "z": "-36945.2"
+    },
+    {
+        "gameName": "bralorne",
+        "realName": "Bralorne",
+        "country": "bralorne",
+        "x": "-96425.97",
+        "y": "148.2773",
+        "z": "-81006.75"
     },
     {
         "gameName": "calgary",
@@ -15319,6 +15378,14 @@ var cities_canada = [
         "x": "93155.4",
         "y": "33.3398",
         "z": "-58398.7"
+    },
+    {
+        "gameName": "radiumhs",
+        "realName": "Radium Hot Springs",
+        "country": "radiumhs",
+        "x": "-73140.25",
+        "y": "98.95313",
+        "z": "-73894.77"
     },
     {
         "gameName": "rc_chester",
