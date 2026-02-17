@@ -8970,37 +8970,37 @@ var stations = {/*
         },
         {
             name: "Bandit Classic Rock",
-            logo: "stations/custom-europe/sweden/Bandit Classic Rock.png",
+            logo: "stations/images-europe/sweden/Bandit Classic Rock.png",
             url: "https://wr11-ice.stream.khz.se/wr11_mp3"
         },
         {
             name: "Dansbandskanalen",
-            logo: "stations/custom-europe/sweden/Dansbandskanalen.png",
+            logo: "stations/images-europe/sweden/Dansbandskanalen.png",
             url: "https://stream.dbmedia.se/dbk96"
         },
         {
             name: "Dansbandskanalen Klassiker",
-            logo: "stations/custom-europe/sweden/Dansbandskanalen Klassiker.png",
+            logo: "stations/images-europe/sweden/Dansbandskanalen Klassiker.png",
             url: "https://stream.dbmedia.se/dbkjul96"
         },
         {
             name: "Disco 54",
-            logo: "stations/custom-europe/sweden/Disco 54.png",
+            logo: "stations/images-europe/sweden/Disco 54.png",
             url: "https://wr15-ice.stream.khz.se/wr15_mp3"
         },
         {
             name: "Gamla Favoriter",
-            logo: "stations/custom-europe/sweden/Gamla Favoriter.png",
+            logo: "stations/images-europe/sweden/Gamla Favoriter.png",
             url: "https://wr09-ice.stream.khz.se/wr09_mp3"
         },
         {
             name: "Go Country",
-            logo: "stations/custom-europe/sweden/Go Country.png",
+            logo: "stations/images-europe/sweden/Go Country.png",
             url: "https://wr14-ice.stream.khz.se/wr14_mp3"
         },
         {
             name: "HitMix 90's",
-            logo: "stations/custom-europe/sweden/HitMix 90's.png",
+            logo: "stations/images-europe/sweden/HitMix 90's.png",
             url: "https://wr19-ice.stream.khz.se/wr19_mp3"
         },
         {
@@ -9030,7 +9030,7 @@ var stations = {/*
         },
         {
             name: "RIX FM Fresh",
-            logo: "stations/custom-europe/sweden/RIX FM Fresh.png",
+            logo: "stations/images-europe/sweden/RIX FM Fresh.png",
             url: "https://wr04-ice.stream.khz.se/wr04_mp3"
         },
         {
@@ -9040,12 +9040,12 @@ var stations = {/*
         },
         {
             name: "Skärgårdsradion",
-            logo: "stations/custom-europe/sweden/Skärgårdsradion.png",
+            logo: "stations/images-europe/sweden/Skärgårdsradion.png",
             url: "https://fm06-ice.stream.khz.se/fm06_mp3"
         },
         {
             name: "Sonic Radio",
-            logo: "stations/custom-europe/sweden/Sonic Radio.png",
+            logo: "stations/images-europe/sweden/Sonic Radio.png",
             url: "https://wr10-ice.stream.khz.se/wr10_mp3"
         },
         {
