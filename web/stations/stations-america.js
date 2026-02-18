@@ -14541,7 +14541,7 @@ var stations = {/*
         },
         {
             name: "Q Country 99.7",
-            logo: "stations/images-america/kalispell/B98.png",
+            logo: "stations/images-america/kalispell/Q Country 99.7.png",
             url: "https://sc9coolradio.maindigitalstream.com/ssl/KQRK"
         },
         {
@@ -38048,6 +38048,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7882_96k.aac"
         },
         {
+            name: "Cool 102.1",
+            logo: "stations/images-america/c2c/dover_de/Cool 102.1.png",
+            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7880_96k.aac"
+        },
+        {
             name: "K-LOVE 103.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
@@ -38065,7 +38070,7 @@ var stations = {/*
         {
             name: "930 WNCL",
             logo: "stations/images-america/c2c/dover_de/Cool 102.1.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7880_96k.aac"
+            url: "http://84.32.44.251/index.php?u=http://ais-sa1.streamon.fm/7880_96k.aac"
         },
         {
             name: "1410 WDOV",
@@ -45647,6 +45652,21 @@ var stations = {/*
             url: "http://stream.revma.ihrhls.com/zc6757/hls.m3u8"
         },
         {
+            name: "Cape Cod's X 102.3",
+            logo: "stations/images-america/c2c/barnstable_ma/Cape Cod's X 106.5.png",
+            url: "https://stream.x1023.fm/HD1?"
+        },
+        {
+            name: "The Whale 102.3-HD2",
+            logo: "stations/images-america/c2c/barnstable_ma/The Whale 102.3-HD2.png",
+            url: "https://stream.x1023.fm/HD2"
+        },
+        {
+            name: "The Memories Station 102.3-HD3",
+            logo: "stations/images-america/c2c/barnstable_ma/The Memories Station 102.3-HD3.png",
+            url: "https://bms.x1023.fm/;stream.mp3"
+        },
+        {
             name: "Pixy 103",
             logo: "stations/images-america/c2c/barnstable_ma/Pixy 103.png",
             url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WPXC"
@@ -47434,12 +47454,12 @@ var stations = {/*
             name: "95.3 K237EX",
             logo: "stations/images-america/0_general_logos/The Current.png",
             url: "http://current.stream.publicradio.org/kcmp.aac"
-        },/*
+        },
         {
             name: "Rock 95",
             logo: "stations/images-america/c2c/mankato_mn/Rock 95.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kmkofmaac-imc4"
-        },*/
+        },
         {
             name: "Hot 96.7",
             logo: "stations/images-america/c2c/mankato_mn/Hot 96.7.png",
@@ -47474,12 +47494,12 @@ var stations = {/*
             name: "101.5 The Emoji",
             logo: "stations/images-america/c2c/mankato_mn/101.5 The Emoji.png",
             url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KEMJ"
-        },/*
+        },
         {
             name: "101.7 K269EC",
             logo: "stations/images-america/c2c/mankato_mn/Rock 95.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kmkofmaac-imc4"
-        },*/
+        },
         {
             name: "102.7 K274AL",
             logo: "stations/images-america/c2c/mankato_mn/Minnesota 100.png",
@@ -56729,12 +56749,12 @@ var stations = {/*
             name: "Live 93.5",
             logo: "stations/images-america/c2c/columbia_sc/Live 93.5.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqfmaac-ibc4"
-        },/*
+        },
         {
-            name: "94.9 The Palm",
-            logo: "stations/images-america/c2c/columbia_sc/94.9 The Palm.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqhd4aac-ibc4"
-        },*/
+            name: "La Raza 94.9",
+            logo: "stations/images-america/c2c/columbia_sc/La Raza 94.9.png",
+            url: "https://stream.zeno.fm/hqmjaredagcuv"
+        },
         {
             name: "96.7 Steve-FM",
             logo: "stations/images-america/c2c/columbia_sc/96.7 Steve-FM.png",
