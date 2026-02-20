@@ -6840,7 +6840,7 @@ var stations = {/*
         {
             name: "Riviera Radio",
             logo: "stations/images-europe/monaco/Riviera Radio.png",
-            url: "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3"
+            url: "https://media-ssl.musicradio.com/RivieraRadio"
         },
     ],
     "montenegro": [
@@ -8286,12 +8286,12 @@ var stations = {/*
             name: "Smooth",
             logo: "stations/images-europe/scotland/Smooth.png",
             url: "http://icecast.thisisdax.com/SmoothScotland"
-        },/*
+        },
         {
             name: "STV Radio",
             logo: "stations/images-europe/scotland/STV Radio.png",
-            url: "https://stv-dsharp.sharp-stream.com/stv_central.aac"
-        },*/
+            url: "https://edge-ads-05-gos2.sharp-stream.com/stv.aac"
+        },
     ],
     "serbia": [
         {
