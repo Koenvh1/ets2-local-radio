@@ -29273,19 +29273,12 @@ var stations = {/*
             name: "Rock 94.5",
             logo: "stations/images-america/spokane/Rock 94.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KHTQFMAAC_SC"
-        },/*
+        },
         {
-<<<<<<< HEAD
             name: "95.3 KPND",
             logo: "stations/images-america/spokane/95.3 KPND.png",
             url: "https://streaming.live365.com/a26367"
         },
-=======
-            name: "KPND 95.3",
-            logo: "stations/images-america/spokane/KPND 95.3 FM.png",
-            url: "https://live.amperwave.net/direct/blueskybroadcasting-kpndfmaac-ibc1"
-        },*/
->>>>>>> a2f0eca057c5269de0c0d28d3d37fe0668f3a0f4
         {
             name: "ALT 96.1",
             logo: "stations/images-america/spokane/ALT 96.1.png",
