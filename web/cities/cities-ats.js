@@ -8943,30 +8943,30 @@ var cities_mexico = [
       "y": "134.258",
       "z": "54741.5"
     },
-    {
-      "gameName": "basas",
-      "realName": "Basaseachi",
-      "country": "basas",
-      "x": "-61744.8",
-      "y": "353.867",
-      "z": "55995.1"
-    },
-    {
-      "gameName": "batopil",
-      "realName": "Batopilas",
-      "country": "batopil",
-      "x": "-60167.8",
-      "y": "-316.84",
-      "z": "63194.3"
-    },
-    {
-      "gameName": "boycona",
-      "realName": "Bocoyna",
-      "country": "basas",
-      "x": "-58843.1",
-      "y": "113.094",
-      "z": "58234.3"
-    },
+    // {
+    //   "gameName": "basas",
+    //   "realName": "Basaseachi",
+    //   "country": "basas",
+    //   "x": "-61744.8",
+    //   "y": "353.867",
+    //   "z": "55995.1"
+    // },
+    // {
+    //   "gameName": "batopil",
+    //   "realName": "Batopilas",
+    //   "country": "batopil",
+    //   "x": "-60167.8",
+    //   "y": "-316.84",
+    //   "z": "63194.3"
+    // },
+    // {
+    //   "gameName": "boycona",
+    //   "realName": "Bocoyna",
+    //   "country": "basas",
+    //   "x": "-58843.1",
+    //   "y": "113.094",
+    //   "z": "58234.3"
+    // },
     {
       "gameName": "buenvent",
       "realName": "San Buenaventura",
@@ -9031,14 +9031,14 @@ var cities_mexico = [
       "y": "65.8984",
       "z": "80756.9"
     },
-    {
-      "gameName": "canelas",
-      "realName": "Canelas",
-      "country": "canelas",
-      "x": "-52549.8",
-      "y": "172.828",
-      "z": "76837.7"
-    },
+    // {
+    //   "gameName": "canelas",
+    //   "realName": "Canelas",
+    //   "country": "canelas",
+    //   "x": "-52549.8",
+    //   "y": "172.828",
+    //   "z": "76837.7"
+    // },
     {
       "gameName": "cd_constit",
       "realName": "Ciudad Constitución",
@@ -9151,22 +9151,22 @@ var cities_mexico = [
       "y": "153.504",
       "z": "82038.7"
     },
-    {
-      "gameName": "cosala",
-      "realName": "Cosalá",
-      "country": "cosala",
-      "x": "-55158",
-      "y": "108.027",
-      "z": "80503.4"
-    },
-    {
-      "gameName": "cuencame",
-      "realName": "Cuencamé",
-      "country": "cuencame",
-      "x": "-39048.1",
-      "y": "53.3906",
-      "z": "79064.4"
-    },
+    // {
+    //   "gameName": "cosala",
+    //   "realName": "Cosalá",
+    //   "country": "cosala",
+    //   "x": "-55158",
+    //   "y": "108.027",
+    //   "z": "80503.4"
+    // },
+    // {
+    //   "gameName": "cuencame",
+    //   "realName": "Cuencamé",
+    //   "country": "cuencame",
+    //   "x": "-39048.1",
+    //   "y": "53.3906",
+    //   "z": "79064.4"
+    // },
     {
       "gameName": "culiacan",
       "realName": "Culiacán",
@@ -9199,14 +9199,14 @@ var cities_mexico = [
       "y": "66.4219",
       "z": "94750.5"
     },
-    {
-      "gameName": "el_rosario",
-      "realName": "El Rosario",
-      "country": "el_rosario",
-      "x": "-96007.1",
-      "y": "50.2383",
-      "z": "40800.4"
-    },
+    // {
+    //   "gameName": "el_rosario",
+    //   "realName": "El Rosario",
+    //   "country": "el_rosario",
+    //   "x": "-96007.1",
+    //   "y": "50.2383",
+    //   "z": "40800.4"
+    // },
     {
       "gameName": "el_salto",
       "realName": "El Salto",
@@ -9255,14 +9255,14 @@ var cities_mexico = [
       "y": "82.9336",
       "z": "75478.9"
     },
-    {
-      "gameName": "gpeical",
-      "realName": "Guadalupe y Calvo",
-      "country": "gpeical",
-      "x": "-55970.1",
-      "y": "137.301",
-      "z": "70551.4"
-    },
+    // {
+    //   "gameName": "gpeical",
+    //   "realName": "Guadalupe y Calvo",
+    //   "country": "gpeical",
+    //   "x": "-55970.1",
+    //   "y": "137.301",
+    //   "z": "70551.4"
+    // },
     {
       "gameName": "gpevictoria",
       "realName": "Guadalupe Victoria",
@@ -9295,14 +9295,14 @@ var cities_mexico = [
       "y": "46.9258",
       "z": "74681"
     },
-    {
-      "gameName": "guanacevi",
-      "realName": "Guanaceví",
-      "country": "guanacevi",
-      "x": "-52316",
-      "y": "130.902",
-      "z": "72506.4"
-    },
+    // {
+    //   "gameName": "guanacevi",
+    //   "realName": "Guanaceví",
+    //   "country": "guanacevi",
+    //   "x": "-52316",
+    //   "y": "130.902",
+    //   "z": "72506.4"
+    // },
     {
       "gameName": "guasave",
       "realName": "Guasave",
@@ -9319,14 +9319,14 @@ var cities_mexico = [
       "y": "52.6367",
       "z": "72909.2"
     },
-    {
-      "gameName": "guaymas",
-      "realName": "Guaymas",
-      "country": "guaymas",
-      "x": "-75161.3",
-      "y": "57.918",
-      "z": "56623.3"
-    },
+    // {
+    //   "gameName": "guaymas",
+    //   "realName": "Guaymas",
+    //   "country": "guaymas",
+    //   "x": "-75161.3",
+    //   "y": "57.918",
+    //   "z": "56623.3"
+    // },
     {
       "gameName": "guerrero_ne",
       "realName": "Guerrero Negro",
@@ -9343,22 +9343,22 @@ var cities_mexico = [
       "y": "49.9297",
       "z": "50492.1"
     },
-    {
-      "gameName": "huazamota",
-      "realName": "Huazamota",
-      "country": "huazamota",
-      "x": "-45749",
-      "y": "-16.3438",
-      "z": "91863.7"
-    },
-    {
-      "gameName": "huejuq",
-      "realName": "Huejuquilla",
-      "country": "huejuq",
-      "x": "-41910.4",
-      "y": "100",
-      "z": "91370.9"
-    },
+    // {
+    //   "gameName": "huazamota",
+    //   "realName": "Huazamota",
+    //   "country": "huazamota",
+    //   "x": "-45749",
+    //   "y": "-16.3438",
+    //   "z": "91863.7"
+    // },
+    // {
+    //   "gameName": "huejuq",
+    //   "realName": "Huejuquilla",
+    //   "country": "huejuq",
+    //   "x": "-41910.4",
+    //   "y": "100",
+    //   "z": "91370.9"
+    // },
     {
       "gameName": "h_nogales",
       "realName": "Heróica Nogales",
@@ -9399,14 +9399,14 @@ var cities_mexico = [
       "y": "124.91",
       "z": "93193.4"
     },
-    {
-      "gameName": "jesusma",
-      "realName": "Jesús María",
-      "country": "jesusma",
-      "x": "-45786.7",
-      "y": "8.98438",
-      "z": "93429.3"
-    },
+    // {
+    //   "gameName": "jesusma",
+    //   "realName": "Jesús María",
+    //   "country": "jesusma",
+    //   "x": "-45786.7",
+    //   "y": "8.98438",
+    //   "z": "93429.3"
+    // },
     {
       "gameName": "jimenez",
       "realName": "Ciudad Jiménez",
@@ -9495,14 +9495,14 @@ var cities_mexico = [
       "y": "123",
       "z": "95666.4"
     },
-    {
-      "gameName": "mapimi",
-      "realName": "Mapimí",
-      "country": "mapimi",
-      "x": "-41951.6",
-      "y": "70",
-      "z": "73071.1"
-    },
+    // {
+    //   "gameName": "mapimi",
+    //   "realName": "Mapimí",
+    //   "country": "mapimi",
+    //   "x": "-41951.6",
+    //   "y": "70",
+    //   "z": "73071.1"
+    // },
     {
       "gameName": "matehuala",
       "realName": "Matehuala",
@@ -9671,14 +9671,14 @@ var cities_mexico = [
       "y": "56.8164",
       "z": "74430"
     },
-    {
-      "gameName": "rcatorce",
-      "realName": "Real de Catorce",
-      "country": "rcatorce",
-      "x": "-26718.7",
-      "y": "159.316",
-      "z": "87304"
-    },
+    // {
+    //   "gameName": "rcatorce",
+    //   "realName": "Real de Catorce",
+    //   "country": "rcatorce",
+    //   "x": "-26718.7",
+    //   "y": "159.316",
+    //   "z": "87304"
+    // },
     {
       "gameName": "riogrande",
       "realName": "Río Grande",
@@ -9767,14 +9767,14 @@ var cities_mexico = [
       "y": "55.8047",
       "z": "77940.5"
     },
-    {
-      "gameName": "san_felipe",
-      "realName": "San Felípe",
-      "country": "san_felipe",
-      "x": "-90542.5",
-      "y": "50.4297",
-      "z": "36321.8"
-    },
+    // {
+    //   "gameName": "san_felipe",
+    //   "realName": "San Felípe",
+    //   "country": "san_felipe",
+    //   "x": "-90542.5",
+    //   "y": "50.4297",
+    //   "z": "36321.8"
+    // },
     {
       "gameName": "sombre",
       "realName": "Sombrerete",
@@ -9791,14 +9791,14 @@ var cities_mexico = [
       "y": "95.7148",
       "z": "32482.3"
     },
-    {
-      "gameName": "stamaoro",
-      "realName": "Santa María del Oro",
-      "country": "stamaoro",
-      "x": "-47788",
-      "y": "130",
-      "z": "71899.9"
-    },
+    // {
+    //   "gameName": "stamaoro",
+    //   "realName": "Santa María del Oro",
+    //   "country": "stamaoro",
+    //   "x": "-47788",
+    //   "y": "130",
+    //   "z": "71899.9"
+    // },
     {
       "gameName": "stamariar",
       "realName": "Santa María del Rio",
@@ -9863,14 +9863,14 @@ var cities_mexico = [
       "y": "41.9922",
       "z": "75795.1"
     },
-    {
-      "gameName": "urique",
-      "realName": "Urique",
-      "country": "urique",
-      "x": "-62632.4",
-      "y": "-549.055",
-      "z": "62993.2"
-    },
+    // {
+    //   "gameName": "urique",
+    //   "realName": "Urique",
+    //   "country": "urique",
+    //   "x": "-62632.4",
+    //   "y": "-549.055",
+    //   "z": "62993.2"
+    // },
     {
       "gameName": "valles",
       "realName": "Ciudad Valles",
@@ -16276,14 +16276,14 @@ var city_properties_alaska = {
 };
 
 var cities_alaska = [
-    {
-      "gameName": "alcan",
-      "realName": "Alcan",
-      "country": "alcan",
-      "x": "-123196",
-      "y": "23.3242",
-      "z": "-165269"
-    },
+    // {
+    //   "gameName": "alcan",
+    //   "realName": "Alcan",
+    //   "country": "alcan",
+    //   "x": "-123196",
+    //   "y": "23.3242",
+    //   "z": "-165269"
+    // },
     {
       "gameName": "anchorage",
       "realName": "Anchorage",
@@ -16292,14 +16292,14 @@ var cities_alaska = [
       "y": "134.223",
       "z": "-172013"
     },
-    {
-      "gameName": "cantwell",
-      "realName": "Cantwell",
-      "country": "cantwell",
-      "x": "-139272",
-      "y": "141.266",
-      "z": "-182233"
-    },
+    // {
+    //   "gameName": "cantwell",
+    //   "realName": "Cantwell",
+    //   "country": "cantwell",
+    //   "x": "-139272",
+    //   "y": "141.266",
+    //   "z": "-182233"
+    // },
     {
       "gameName": "clam_gulch",
       "realName": "Clam Gulch",
@@ -16308,14 +16308,14 @@ var cities_alaska = [
       "y": "98.9219",
       "z": "-170927"
     },
-    {
-      "gameName": "coldfoot",
-      "realName": "Coldfoot",
-      "country": "coldfoot",
-      "x": "-126644",
-      "y": "153.715",
-      "z": "-207671"
-    },
+    // {
+    //   "gameName": "coldfoot",
+    //   "realName": "Coldfoot",
+    //   "country": "coldfoot",
+    //   "x": "-126644",
+    //   "y": "153.715",
+    //   "z": "-207671"
+    // },
     {
       "gameName": "cooper",
       "realName": "Cooper Landing",
@@ -16348,14 +16348,14 @@ var cities_alaska = [
       "y": "146.902",
       "z": "-188155"
     },
-    {
-      "gameName": "fox_river",
-      "realName": "Fox River",
-      "country": "fox_river",
-      "x": "-156705",
-      "y": "60.5352",
-      "z": "-166057"
-    },
+    // {
+    //   "gameName": "fox_river",
+    //   "realName": "Fox River",
+    //   "country": "fox_river",
+    //   "x": "-156705",
+    //   "y": "60.5352",
+    //   "z": "-166057"
+    // },
     {
       "gameName": "glennallen",
       "realName": "Glennallen",
@@ -16396,14 +16396,14 @@ var cities_alaska = [
       "y": "153.656",
       "z": "-224276"
     },
-    {
-      "gameName": "tok",
-      "realName": "Tok",
-      "country": "alcan",
-      "x": "-125423",
-      "y": "57.6289",
-      "z": "-172368"
-    },
+    // {
+    //   "gameName": "tok",
+    //   "realName": "Tok",
+    //   "country": "alcan",
+    //   "x": "-125423",
+    //   "y": "57.6289",
+    //   "z": "-172368"
+    // },
     {
       "gameName": "valdez",
       "realName": "Valdez",
