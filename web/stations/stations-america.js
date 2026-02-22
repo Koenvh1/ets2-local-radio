@@ -1506,7 +1506,7 @@ var stations = {/*
         {
             name: "KCPB 90.9",
             logo: "stations/images-america/astoria/KCPB 90.9.png",
-            url: "https://kmun.org/kcpb/ - silent since 01/10/2025"
+            url: "https://kmun.org/kcpb/ - silent since 01/10/2025 until April or Oct 2026"
         },*/
         {
             name: "KMUN 91.9",
@@ -1557,12 +1557,12 @@ var stations = {/*
             name: "Eagle Country 103.9",
             logo: "stations/images-america/astoria/Eagle Country 103.9.png",
             url: "https://cast.streamkast.co/kvas"
-        },/*
+        },
         {
             name: "ESPN 106.3",
             logo: "stations/images-america/astoria/ESPN 106.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC_SC"
-        },*/
+            url: "https://cast.streamkast.co/kkor"
+        },
         {
             name: "KSWB 840",
             logo: "stations/images-america/astoria/KSWB.png",
@@ -1572,12 +1572,12 @@ var stations = {/*
             name: "AM 860 The Answer",
             logo: "stations/images-america/oregon/AM 860 The Answer.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
-        },/*
+        },
         {
             name: "KKOR 1230",
             logo: "stations/images-america/astoria/ESPN 106.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKORFMAAC.aac"
-        },*/
+            url: "https://cast.streamkast.co/kkor"
+        },
         {
             name: "KAST 1370",
             logo: "stations/images-america/astoria/KAST.png",
@@ -2258,7 +2258,7 @@ var stations = {/*
         {
             name: "The Highway Country 107.3",
             logo: "stations/images-america/barstow/The Highway Country.png",
-            url: "https://a4.asurahosting.com:7010/radio.mp3"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "AM 590 The Answer",
@@ -9650,8 +9650,8 @@ var stations = {/*
             url: "https://thegospelstation.streamguys1.com/live"
         },
         {
-            name: "My 95.7",
-            logo: "stations/images-america/enid/My 95.7.png",
+            name: "mix 95.7",
+            logo: "stations/images-america/enid/Mix 95.7.png",
             url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KXLS?mobileStreamSessionId=1BA672E5-0957-462E-82C6-57C02FBC9236"
         },
         {
@@ -16490,7 +16490,7 @@ var stations = {/*
         {
             name: "ViBE 99.7",
             logo: "stations/images-america/las_vegas/ViBE.png",
-            url: "https://a8.asurahosting.com:7440/radio.mp3"
+            url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "99.7 KHYZ-HD2",
@@ -18144,7 +18144,7 @@ var stations = {/*
         {
             name: "The Highway Country 101.5",
             logo: "stations/images-america/barstow/The Highway Country.png",
-            url: "https://a4.asurahosting.com:7010/radio.mp3"
+            url: "https://a8.asurahosting.com:7440/radio.mp3"
         },
         {
             name: "102.5 The Duck",
