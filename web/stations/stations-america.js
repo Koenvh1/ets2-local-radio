@@ -41465,12 +41465,12 @@ var stations = {/*
             name: "97.3 KISS FM",
             logo: "stations/images-america/c2c/savannah_ga/97.3 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc809/hls.m3u8"
-        },
+        },/*
         {
             name: "Magic 98.1",
             logo: "stations/images-america/c2c/statesboro_ga/Magic 98.1.png",
             url: "http://84.32.44.251/index.php?u=https://ice64.securenetsystems.net/WEDB"
-        },
+        },*/
         {
             name: "Hashtag 99.7",
             logo: "stations/images-america/c2c/statesboro_ga/Hashtag 99.7.png",
@@ -41485,12 +41485,12 @@ var stations = {/*
             name: "The LifeFM 102.9",
             logo: "stations/images-america/0_general_logos/The LifeFM.png",
             url: "https://ice41.securenetsystems.net/WHQA"
-        },
+        },/*
         {
             name: "103.7 The Boomer",
             logo: "stations/images-america/c2c/statesboro_ga/103.7 The Boomer.png",
             url: "https://ice64.securenetsystems.net/WBMZ"
-        },
+        },*/
         {
             name: "106.5 The Boro",
             logo: "stations/images-america/c2c/statesboro_ga/106.5 The Boro.png",
@@ -43984,12 +43984,12 @@ var stations = {/*
             name: "D93",
             logo: "stations/images-america/c2c/bowling_green_ky/D93.png",
             url: "http://ice5.securenetsystems.net/WDNS"
-        },
+        },/*
         {
             name: "Goober 95.1",
             logo: "stations/images-america/c2c/bowling_green_ky/Goober 95.1.png",
-            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WGGC"
-        },
+            url: "http://84.32.44.251/securenet.php?id=WGGC"
+        },*/
         {
             name: "Bigfoot Legends 96.7",
             logo: "stations/images-america/c2c/bowling_green_ky/Bigfoot Legends 96.7.png",
@@ -58957,12 +58957,12 @@ var stations = {/*
             name: "Family Radio 93.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
-        },
+        },/*
         {
             name: "Hippie Radio 94.5",
             logo: "stations/images-america/c2c/nashville_tn/Hippie Radio 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/WHPYFM"
-        },
+            url: "http://84.32.44.251/securenet.php?id=WHPYFM"
+        },*/
         {
             name: "ESPN 94.9",
             logo: "stations/images-america/c2c/nashville_tn/ESPN 94.9.png",
@@ -59177,12 +59177,12 @@ var stations = {/*
             name: "Activa 1240",
             logo: "stations/images-america/c2c/nashville_tn/Activa 105.1.png",
             url: "http://ice66.securenetsystems.net/WNVL"
-        },
+        },/*
         {
             name: "WYGI 1430",
             logo: "stations/images-america/c2c/nashville_tn/Hippie Radio 94.5.png",
             url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/WHPYFM"
-        },
+        },*/
         {
             name: "WVOL 1470",
             logo: "stations/images-america/c2c/nashville_tn/WVOL 1470.png",
