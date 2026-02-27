@@ -4387,12 +4387,12 @@ var stations = {/*
             name: "Mix 96.5",
             logo: "stations/images-america/cape_girardeau/Mix 96.5.png",
             url: "https://ice.wbcengineering.com:8107/stream"
-        },/*
+        },
         {
             name: "FOX Sports 97.3",
             logo: "stations/images-america/cape_girardeau/FOX Sports 97.3.png",
             url: "https://ice.wbcengineering.com:8116/stream"
-        },*/
+        },
         {
             name: "Freedom 97.9",
             logo: "stations/images-america/cape_girardeau/Freedom 97.9.png",
@@ -10153,12 +10153,12 @@ var stations = {/*
             name: "FOX Sports 93.9",
             logo: "stations/images-america/farmington/Fox Sports 93.9.png",
             url: "https://stream.revma.ihrhls.com/zc5306/hls.m3u8"
-        },/*
+        },
         {
             name: "KWYK 94.9",
             logo: "stations/images-america/farmington/KWYK 94.9.png",
             url: "https://ice41.securenetsystems.net/KWYKFM"
-        },*/
+        },
         {
             name: "KPCL 95.7",
             logo: "stations/images-america/farmington/KPCL 95.7.png",
@@ -10300,12 +10300,12 @@ var stations = {/*
             name: "98.3 KKEG",
             logo: "stations/images-america/fayetteville_ar/98.3 KKEG.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKEGFMAAC_SC"
-        },/*
+        },
         {
             name: "KDIV 98.7",
             logo: "stations/images-america/fayetteville_ar/KDIV 98.7.png",
             url: "https://ice41.securenetsystems.net/KDIVLP"
-        },*/
+        },
         {
             name: "ESPN 99.5",
             logo: "stations/images-america/fayetteville_ar/ESPN 99.5.png",
@@ -11507,11 +11507,6 @@ var stations = {/*
             name: "104.5 BOB FM",
             logo: "stations/images-america/gillette/104.5 BOB FM.png",
             url: "https://ice25.securenetsystems.net/KWBB"
-        },
-        {
-            name: "KIML 107.5",
-            logo: "stations/images-america/gillette/KIML 107.5.png",
-            url: "https://ice23.securenetsystems.net/KIML"
         },*/
     ],
     "glasgow": [
@@ -27290,12 +27285,12 @@ var stations = {/*
             name: "106.7 KTPO",
             logo: "stations/images-america/spokane/95.3 KPND.png",
             url: "https://streaming.live365.com/a26367"
-        },/*
+        },
         {
             name: "1400 KSPT",
             logo: "stations/images-america/sandpoint/1400 KSPT.png",
             url: "https://live.amperwave.net/manifest/blueskybroadcasting-ksptamaac-ibc1"
-        },*/
+        },
     ],
     "san_francisco": [
         {
@@ -34762,12 +34757,12 @@ var stations = {/*
             name: "exa 104.1",
             logo: "stations/images-america/mexico/ensenada/exa 104.1.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC_SC"
-        },/*
+        },
         {
             name: "Grupo Radioasta 107.9",
             logo: "stations/images-america/mexico/ensenada/Grupo Radioasta 107.9.png",
             url: "https://radios.yanapak.org/gruporadioasta"
-        },*/
+        },
     ],
     "fresnillo": [
         {
@@ -44564,12 +44559,12 @@ var stations = {/*
             name: "92 Moose",
             logo: "stations/images-america/c2c/augusta_me/92 Moose.png",
             url: "https://live.amperwave.net/manifest/townsquare-wmmefmaac-ibc3"
-        },/*
+        },
         {
-            name: "Capital 95.9",
-            logo: "stations/images-america/c2c/augusta_me/Capital 95.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wjznamaac-ibc3"
-        },*/
+            name: "95.9 W240DH",
+            logo: "stations/images-america/c2c/portland_me/94.3 WCYY.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wcyyfmaac-ibc3"
+        },
         {
             name: "96.3 The Big JAB",
             logo: "stations/images-america/c2c/portland_me/96.3 The Big JAB.png",
@@ -45126,6 +45121,11 @@ var stations = {/*
             name: "93.5 The Beach",
             logo: "stations/images-america/c2c/salisbury_md/93.5 The Beach.png",
             url: "https://stream.aiir.com/7b6oz6qgloktv"
+        },
+        {
+            name: "94.5 KHI",
+            logo: "stations/images-america/c2c/salisbury_md/94.5 KHI.png",
+            url: "https://ice66.securenetsystems.net/WKHI"
         },
         {
             name: "Máxima 95.3",
@@ -46783,12 +46783,12 @@ var stations = {/*
             name: "97.1 GLQ",
             logo: "stations/images-america/c2c/escanaba_mi/97.1 GLQ.png",
             url: "https://ice9.securenetsystems.net/WGLQ"
-        },
+        },/*
         {
             name: "GTO.FM 97.5",
             logo: "stations/images-america/c2c/marquette_mi/GTO.FM 97.5.png",
             url: "https://s7.yesstreaming.net:8026/stream.mp4"
-        },/*
+        },
         {
             name: "WRUP 98.3",
             logo: "stations/images-america/c2c/marquette_mi/WRUP 98.3.png",
@@ -67073,12 +67073,12 @@ var stations = {/*
             url: "https://radiostreams.streamcomedia.com:8008/zns1540am"
         },
     ],
-    "george_town": [/*
+    "george_town": [
         {
             name: "Radio Cayman 1 89.9",
             logo: "stations/images-america/caribbean/george_town/Radio Cayman 1 89.9.png",
-            url: "https://live-sa.streann.tech/radiocayman/radiocayman/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3Njc1Nzg4NzYsInJpZCI6IjU2YmI0NDk5ZTRiMDFkYjQwMWQxYjA3OSIsImtleSI6ImtleTEiLCJjaWQiOiI2OTU0MjU1MThmMDg3NDMwZmM3OGRkMWMifQ.w0LCrQ_REj-xq33EACKMrGMA9BhSYv-XqsNMYp--8Jo"
-        },*/
+            url: "https://ott.streann.com/loadbalancer/services/public/radios-secure/695425518f087430fc78dd1c/playlist.m3u8"
+        },
         {
             name: "Magic 91.5",
             logo: "stations/images-america/caribbean/george_town/Magic 91.5.png",
@@ -67138,12 +67138,12 @@ var stations = {/*
             name: "Hot 104.1",
             logo: "stations/images-america/caribbean/george_town/Hot 104.1.png",
             url: "https://ice23.securenetsystems.net/HOT1041"
-        },/*
+        },
         {
             name: "Breeze FM 105.3",
             logo: "stations/images-america/caribbean/george_town/Breeze FM 105.3.png",
-            url: "https://live-sa.streann.tech/breeze/breeze/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3Njc1ODE1MDcsInJpZCI6IjU2YmI0NDk5ZTRiMDFkYjQwMWQxYjA3OSIsImtleSI6ImtleTEiLCJjaWQiOiI2OTU0MjY1OThmMDg3NDMwZmM3OGRkMjIifQ.kcsKwk5g2RSg81ZC5iyBMEcAN53o6VgjSMb4YXO0JIE"
-        },*/
+            url: "https://ott.streann.com/loadbalancer/services/public/radios-secure/695426598f087430fc78dd22/playlist.m3u8"
+        },
         {
             name: "106.1 KISS FM",
             logo: "stations/images-america/caribbean/george_town/106.1 KISS FM.png",
