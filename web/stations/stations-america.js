@@ -19027,8 +19027,8 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7245_48k.aac"
         },
         {
-            name: "The Zone 93.9",
-            logo: "stations/images-america/mccook/The Zone 93.9.png",
+            name: "93.9 JETT FM",
+            logo: "stations/images-america/mccook/93.9 JETT FM.png",
             url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KSWN"
         },
         {
@@ -43334,11 +43334,6 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/adamsradio-wxkefmaac-ibc1"
         },
         {
-            name: "B96.9",
-            logo: "stations/images-america/c2c/fort_wayne_in/B96.9.png",
-            url: "https://live.amperwave.net/manifest/adamsradio-wjfxhd3aac-ibc1"
-        },
-        {
             name: "97.3 WMEE",
             logo: "stations/images-america/c2c/fort_wayne_in/97.3 WMEE.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEEFMAAC_SC"
@@ -43427,11 +43422,6 @@ var stations = {/*
             name: "107.9 WJFX-HD2",
             logo: "stations/images-america/c2c/fort_wayne_in/LOUD 103.3.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wjfxhd2aac-hlsc1.m3u8"
-        },
-        {
-            name: "107.9 WJFX-HD3",
-            logo: "stations/images-america/c2c/fort_wayne_in/B96.9.png",
-            url: "https://live.amperwave.net/manifest/adamsradio-wjfxhd3aac-hlsc1.m3u8"
         },
         {
             name: "Bott Radio 1090",
