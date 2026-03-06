@@ -9319,7 +9319,7 @@ var stations = {/*
         },
         {
             name: "IP music slow",
-            logo: "stations/images-europe/switzerland-fr/IP music Slow.png",
+            logo: "stations/images-europe/switzerland-fr/IP music slow.png",
             url: "https://live9.avf.ch/ipmusicslowaacp96"
         },
         {
