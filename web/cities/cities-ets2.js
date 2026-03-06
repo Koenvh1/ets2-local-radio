@@ -567,7 +567,7 @@ var country_properties = {
         name: "Liechtenstein",
         name_english: "Liechtenstein",
         code: "li",
-        relative_radius: 0.2,
+        relative_radius: 0.8,
     },
     "lithuania": {
         name: "Lietuva",
@@ -2218,6 +2218,7 @@ var city_properties = {
         relative_radius: 0.6,
     },
     "vaduz": {
+        relative_radius: 0.25,
         relative_whitenoise: 0.7,
     },
     "valenciennes": {
@@ -6251,6 +6252,14 @@ var cities = [
         "gameName": "vaduz",
         "realName": "Vaduz",
         "country": "liecht",
+        "x": "-3865.21",
+        "y": "93.3555",
+        "z": "18906.6"
+    },
+    {
+        "gameName": "vaduz",
+        "realName": "Vaduz",
+        "country": "switzerland-de",
         "x": "-3865.21",
         "y": "93.3555",
         "z": "18906.6"
