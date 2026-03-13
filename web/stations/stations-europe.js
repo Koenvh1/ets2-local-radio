@@ -3481,6 +3481,11 @@ var stations = {/*
             url: "https://stream.ffn.de/radiobollerwagen/mp3-192"
         },
         {
+            name: "Radio Deck 1",
+            logo: "stations/images-europe/germany-hh/Radio Deck 1.png",
+            url: "https://fra-pioneer08.dedicateware.com/radiodeck1"
+        },
+        {
             name: "Radio Hamburg",
             logo: "stations/images-europe/germany-hh/Radio Hamburg.png",
             url: "https://frontend.streamonkey.net/rhh-1036"
@@ -3519,11 +3524,6 @@ var stations = {/*
             name: "The Wolf",
             logo: "stations/images-europe/germany-nds/The Wolf.png",
             url: "https://streams.radio21.de/thewolf-hamburg/mp3-192/konsoleplayer"
-        },
-        {
-            name: "Trigger.FM",
-            logo: "stations/images-europe/germany-hh/Trigger.FM.png",
-            url: "https://hd-radio.triggerfm.de/"
         },
     ],
     "germany-hr": [
@@ -3797,11 +3797,6 @@ var stations = {/*
             logo: "stations/images-europe/germany-ndr/delta radio.png",
             url: "http://streams.deltaradio.de/delta-live/mp3-192/streams.deltaradio.de/"
         },
-        {
-            name: "NORDSEEWELLE",
-            logo: "stations/images-europe/germany-ndr/NORDSEEWELLE.png",
-            url: "https://stream.radio-nordseewelle.de/live/mp3-192/radioplayer"
-        },
     ],
     "germany-nds": [
         {
@@ -3843,6 +3838,11 @@ var stations = {/*
             name: "NIUS Radio",
             logo: "stations/images-europe/germany/NIUS Radio.png",
             url: "https://radio.nius.de/live/mp3-192"
+        },
+        {
+            name: "NORDSEEWELLE",
+            logo: "stations/images-europe/germany-ndr/NORDSEEWELLE.png",
+            url: "https://stream.radio-nordseewelle.de/live/mp3-192/radioplayer"
         },
         {
             name: "RADIO 21",
@@ -7408,8 +7408,8 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC_SC"
         },
         {
-            name: "Radio Veronica Goud van Oud",
-            logo: "stations/images-europe/netherlands/Radio Veronica Goud van Oud.png",
+            name: "Radio Veronica De Beste 80s",
+            logo: "stations/images-europe/netherlands/Radio Veronica De Beste 80s.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/DAB01_AAC_SC"
         },
         {
