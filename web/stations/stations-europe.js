@@ -3630,6 +3630,11 @@ var stations = {/*
             url: "https://addrad.io/444z7kb"
         },
         {
+            name: "Radio MusicStar",
+            logo: "stations/images-europe/germany-koeln/Radio MusicStar.png",
+            url: "https://s13.streamingcloud.online:34138/digitalradio.mp3"
+        },
+        {
             name: "Radio Neandertal",
             logo: "stations/images-europe/germany-koeln/Radio Neandertal.png",
             url: "https://addrad.io/444z66t"

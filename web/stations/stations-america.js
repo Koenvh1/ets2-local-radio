@@ -7981,6 +7981,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc7784/hls.m3u8"
         },
         {
+            name: "TikTok Radio 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+        },
+        {
             name: "FLO 107.1",
             logo: "stations/images-america/denver/FLO 107.1.png",
             url: "https://pillar.streamguys1.com/KNDM"
@@ -17716,9 +17721,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc173/hls.m3u8"
         },
         {
-            name: "Pride Radio 104.3-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+            name: "104.3 KBIG-HD2",
+            logo: "stations/images-america/los_angeles/570 LA Sports.png",
+            url: "https://stream.revma.ihrhls.com/zc189"
         },
         {
             name: "Go Country 105",
@@ -26026,9 +26031,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2397/hls.m3u8"
         },
         {
-            name: "ALT 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/ALT Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc4447/hls.m3u8"
+            name: "TikTok Radio 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "La Ley 107.1",
@@ -26340,9 +26345,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2357/hls.m3u8"
         },
         {
-            name: "Today's Mix 96.1-HD2",
-            logo: "stations/images-america/0_general_logos/Today's Mix.png",
-            url: "https://stream.revma.ihrhls.com/zc4409/hls.m3u8"
+            name: "TikTok Radio 96.1-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Classic Hits 96.9",
@@ -47933,6 +47938,11 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-wjonamaac-ibc3"
         },
         {
+            name: "95.7 W239CU",
+            logo: "stations/images-america/c2c/st_cloud_mn/660 WBHR.png",
+            url: "https://ice25.securenetsystems.net/WBHR"
+        },
+        {
             name: "96.7 The River",
             logo: "stations/images-america/c2c/st_cloud_mn/96.7 The River.png",
             url: "https://live.amperwave.net/manifest/townsquare-kzrvfmaac-ibc3"
@@ -47968,9 +47978,19 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIKVFMAAC_SC"
         },
         {
+            name: "101.1 W266DT",
+            logo: "stations/images-america/c2c/st_cloud_mn/Uptown 1010.png",
+            url: "https://ice5.securenetsystems.net/WMIN"
+        },
+        {
             name: "Rockin' 101",
             logo: "stations/images-america/c2c/st_cloud_mn/Rockin' 101.png",
             url: "https://ice5.securenetsystems.net/WHMH"
+        },
+        {
+            name: "102.3 W272EG",
+            logo: "stations/images-america/c2c/st_cloud_mn/Minnesota's Country Legend 800.png",
+            url: "https://ice5.securenetsystems.net/WVAL"
         },
         {
             name: "ZRock 103.3",
@@ -48006,6 +48026,21 @@ var stations = {/*
             name: "540 The Goat",
             logo: "stations/images-america/c2c/st_cloud_mn/540 The Goat.png",
             url: "https://ice5.securenetsystems.net/WXYG"
+        },
+        {
+            name: "660 WBHR",
+            logo: "stations/images-america/c2c/st_cloud_mn/660 WBHR.png",
+            url: "http://ice25.securenetsystems.net/WBHR"
+        },
+        {
+            name: "Minnesota's Country Legend 800",
+            logo: "stations/images-america/c2c/st_cloud_mn/Minnesota's Country Legend 800.png",
+            url: "http://ice5.securenetsystems.net/WVAL"
+        },
+        {
+            name: "Uptown 1010",
+            logo: "stations/images-america/c2c/st_cloud_mn/Uptown 1010.png",
+            url: "http://ice5.securenetsystems.net/WMIN"
         },
         {
             name: "1150 KASM",
@@ -54007,6 +54042,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1757/hls.m3u8"
         },
         {
+            name: "TikTok Radio 92.3-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+        },
+        {
             name: "WCRS 92.7",
             logo: "stations/images-america/c2c/columbus_oh/WCRS 92.7.png",
             url: "https://archive.radio614.org:8001/wcrs_backup"
@@ -59996,6 +60036,11 @@ var stations = {/*
             name: "105.3 The Breeze",
             logo: "stations/images-america/c2c/norfolk_va/105.3 The Breeze.png",
             url: "https://stream.revma.ihrhls.com/zc4900/hls.m3u8"
+        },
+        {
+            name: "TikTok Radio 105.3-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "US 106.1",
