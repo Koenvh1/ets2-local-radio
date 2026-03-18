@@ -11812,7 +11812,7 @@ var stations = {/*
         },
         {
             name: "96.5 KGRI-HD3",
-            logo: "stations/images-america/grand_island/Thunder 97.7.png",
+            logo: "stations/images-america/grand_island/97.7 The Zone.png",
             url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/KMTY"
         },
         {
@@ -11826,8 +11826,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KRGY"
         },
         {
-            name: "Thunder 97.7",
-            logo: "stations/images-america/grand_island/Thunder 97.7.png",
+            name: "97.7 The Zone",
+            logo: "stations/images-america/grand_island/97.7 The Zone.png",
             url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KMTY"
         },
         {
@@ -48289,8 +48289,8 @@ var stations = {/*
             url: "https://stream.surfernetwork.com/rq8wsozwlgzuv"
         },
         {
-            name: "K101",
-            logo: "stations/images-america/c2c/worthington_mn/K101.png",
+            name: "Rock Farm 101.1",
+            logo: "stations/images-america/c2c/worthington_mn/Rock Farm 101.1.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
         },
         {
@@ -56771,8 +56771,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC_SC"
         },
         {
-            name: "Live 93.5",
-            logo: "stations/images-america/c2c/columbia_sc/Live 93.5.png",
+            name: "93.5 The Bubble",
+            logo: "stations/images-america/c2c/columbia_sc/93.5 The Bubble.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-warqfmaac-ibc4"
         },
         {
@@ -57871,8 +57871,8 @@ var stations = {/*
             url: "http://live.amperwave.net/manifest/townsquare-kiknfmaac-ibc3"
         },
         {
-            name: "K101",
-            logo: "stations/images-america/c2c/worthington_mn/K101.png",
+            name: "Rock Farm 101.1",
+            logo: "stations/images-america/c2c/worthington_mn/Rock Farm 101.1.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
         },
         {
@@ -57941,9 +57941,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
-            name: "AM 800 KQAD",
-            logo: "stations/images-america/c2c/sioux_falls_sd/AM 800 KQAD.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kqadamaac-ibc2"
+            name: "800 KDWC",
+            logo: "stations/images-america/c2c/sioux_falls_sd/KDWC.png",
+            url: "https://stream.surfernetwork.com/wzjqbqxp4lxuv"
         },
         {
             name: "1000 KSOO",
@@ -59316,11 +59316,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDEVFMAAC_SC"
         },
         {
-            name: "96.3 WVMT",
-            logo: "stations/images-america/c2c/burlington_vt/96.3 WVMT.png",
-            url: "https://ais-sa1.streamon.fm/7790_96k.aac"
-        },
-        {
             name: "96.7 MeTV FM",
             logo: "stations/images-america/c2c/burlington_vt/96.7 MeTV FM.png",
             url: "https://ais-sa1.streamon.fm/7795_96k.aac"
@@ -59356,9 +59351,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVTFMAAC_SC"
         },
         {
-            name: "101.3 The Wolf",
-            logo: "stations/images-america/c2c/burlington_vt/101.3 The Wolf.png",
-            url: "https://live.amperwave.net/direct/vox-wcpvfmaac-imc"
+            name: "WVMT 101.3",
+            logo: "stations/images-america/c2c/burlington_vt/WVMT.png",
+            url: "http://live.amperwave.net/direct/vox-wvmtamaac-ibc"
         },
         {
             name: "Mud Radio 101.5",
@@ -59424,6 +59419,11 @@ var stations = {/*
             name: "BBC World Service 107.9-HD3",
             logo: "stations/images-america/0_general_logos/BBC World Service.png",
             url: "https://vprbbc.streamguys1.com/vprbbc24.mp3"
+        },
+        {
+            name: "WVMT 620",
+            logo: "stations/images-america/c2c/burlington_vt/WVMT.png",
+            url: "https://live.amperwave.net/direct/vox-wvmtamaac-ibc"
         },
     ],
     "hagerstown_md": [
@@ -60717,8 +60717,8 @@ var stations = {/*
             url: "https://wvpublic.streamguys1.com/wvpb256k.aac"
         },
         {
-            name: "Lite Rock 93R",
-            logo: "stations/images-america/c2c/parkersburg_wv/Lite Rock 93R.png",
+            name: "93R",
+            logo: "stations/images-america/c2c/parkersburg_wv/93R.png",
             url: "http://ice3.securenetsystems.net/WRRR"
         },
         {
