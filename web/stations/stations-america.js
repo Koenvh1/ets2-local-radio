@@ -4784,7 +4784,7 @@ var stations = {/*
         {
             name: "95.1 Smart FM",
             logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
+            url: "https://stream.aiir.com/zzwmt6hx9davv"
         },
         {
             name: "Sports Radio 95.7",
@@ -4804,22 +4804,22 @@ var stations = {/*
         {
             name: "102.3 ESPN",
             logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+            url: "https://stream.aiir.com/oziogm3evamtv"
         },
         {
             name: "102.9 KZIA-HD2",
             logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
-            url: "http://live.amperwave.net/manifest/kziainc-kziahd2aac-ibc2"
+            url: "http://stream.aiir.com/zzwmt6hx9davv"
         },
         {
             name: "102.9 KZIA-HD3",
             logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
-            url: "https:///live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+            url: "https:///stream.aiir.com/oziogm3evamtv"
         },
         {
             name: "102.9 KZIA-HD4",
             logo: "stations/images-america/cedar_rapids/X107.5.png",
-            url: "http://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
+            url: "http://stream.aiir.com/w5gqqmqf9crtv"
         },
         {
             name: "K-LOVE 103.9",
@@ -4839,7 +4839,7 @@ var stations = {/*
         {
             name: "X107.5",
             logo: "stations/images-america/cedar_rapids/X107.5.png",
-            url: "https://live.amperwave.net/manifest/kziainc-sportsplusaac-ibc2"
+            url: "https://stream.aiir.com/w5gqqmqf9crtv"
         },
         {
             name: "IPR News 910",
@@ -4864,7 +4864,7 @@ var stations = {/*
         {
             name: "1600 ESPN",
             logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
-            url: "http://live.amperwave.net/manifest/kziainc-kgymamaac-ibc2"
+            url: "http://stream.aiir.com/oziogm3evamtv"
         },
     ],
     "cedar_valley": [
@@ -4911,7 +4911,7 @@ var stations = {/*
         {
             name: "Z102.9",
             logo: "stations/images-america/cedar_valley/Z102.9.png",
-            url: "https://live.amperwave.net/manifest/kziainc-kziafmaac-ibc2"
+            url: "https://stream.aiir.com/xik7zl1gxcstv"
         },
         {
             name: "104.5 KDAT",
@@ -6870,7 +6870,7 @@ var stations = {/*
         {
             name: "Country Legends and Texas Classics 93.3-HD2",
             logo: "stations/images-america/dallas_fort_worth/Country Legends & Texas Classics 93.3-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLIFFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPHD2AAC_SC"
         },
         {
             name: "La Raza 93.7",
@@ -7073,9 +7073,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-krldamaac-imc"
         },
         {
-            name: "Infinity Sports Network 105.3-HD3",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            name: "Westwood One Sports 105.3-HD3",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWODEN1AAC_SC"
         },
         {
             name: "Smooth R&B 105.7",
@@ -12927,17 +12927,17 @@ var stations = {/*
         {
             name: "96.7 The Rocket",
             logo: "stations/images-america/hot_springs/96.7 The Rocket.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.surfernetwork.com/yrrctoscxlivv"
+            url: "https://stream.surfernetwork.com/yrrctoscxlivv"
         },
         {
             name: "US 97",
             logo: "stations/images-america/hot_springs/US 97.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.surfernetwork.com/xspqoyfrjfftv"
+            url: "https://stream.surfernetwork.com/xspqoyfrjfftv"
         },
         {
             name: "KOOL 101.5",
             logo: "stations/images-america/hot_springs/KOOL 101.5.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.surfernetwork.com/sqgkmksxrpytv"
+            url: "https://stream.surfernetwork.com/sqgkmksxrpytv"
         },
         {
             name: "Radio Amistad 101.9",
@@ -12952,7 +12952,7 @@ var stations = {/*
         {
             name: "105.9 KLAZ",
             logo: "stations/images-america/hot_springs/105.9 KLAZ.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.surfernetwork.com/ezmojyjph8yuv"
+            url: "https://stream.surfernetwork.com/ezmojyjph8yuv"
         },
     ],
     "houston": [
@@ -13019,7 +13019,12 @@ var stations = {/*
         {
             name: "La Ley 92.1",
             logo: "stations/images-america/houston/La Ley 92.1.png",
-            url: "https://mdstrm.com/audio/6765d11e777e099d5e15fdd8/icecast.audio"
+            url: "https://liveaudio.lamusica.com/HOU_KROI_icy"
+        },
+        {
+            name: "La Privada 92.1-HD2",
+            logo: "stations/images-america/0_general_logos/La Privada.png",
+            url: "https://liveaudio.lamusica.com/LA_KLAXHD2_icy"
         },
         {
             name: "93Q",
@@ -13312,12 +13317,12 @@ var stations = {/*
             name: "Radio Aleluya 89.7",
             logo: "stations/images-america/0_general_logos/Radio Aleluya.png",
             url: "https://radio.aleluya.cloud/radio/8000/stream"
-        },/*
+        },
         {
             name: "90.5 The Kat",
             logo: "stations/images-america/huntsville/90.5 The Kat.png",
             url: "https://kshu.streamguys1.com/live-aac"
-        }, 
+        }, /*
         {
             name: "90.5-HD2 El Gato",
             logo: "stations/images-america/huntsville/90.5-HD2 El Gato.png",
@@ -21451,8 +21456,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKWDFMAAC_SC"
         },
         {
-            name: "Infinity Sports Network 105.3",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
+            name: "Westwood One Sports 105.3",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
             url: "https://stream.surfernetwork.com/y1wacmco9kutv"
         },
         {
@@ -25242,8 +25247,8 @@ var stations = {/*
             url: "https://bonneville.cdnstream1.com/2614_48.aac"
         },
         {
-            name: "Pulse 100.5-HD2",
-            logo: "stations/images-america/sacramento/Pulse 100.5-HD2.png",
+            name: "Energy 100.5-HD2",
+            logo: "stations/images-america/sacramento/Energy 100.5-HD2.png",
             url: "https://bonneville.cdnstream1.com/2613_48.aac"
         },
         {
@@ -28566,7 +28571,7 @@ var stations = {/*
         {
             name: "ALT 100.9-HD2",
             logo: "stations/images-america/show_low/ALT 100.9-HD2.png",
-            url: "https://s5.radioforge.com:6874/alt"
+            url: "https://443-1.autopo.st/227/alt"
         },
         {
             name: "Majik 101.7",
@@ -30401,9 +30406,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kftkfmaac-imc"
         },
         {
-            name: "Infinity Sports Network 97.1-HD2",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            name: "Westwood One Sports 97.1-HD2",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWODEN1AAC_SC"
         },
         {
             name: "Y98",
@@ -31731,6 +31736,11 @@ var stations = {/*
             name: "The Bull 98.5",
             logo: "stations/images-america/tulsa/The Bull 98.5.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/griffin-kvoofmaac-imc2"
+        },
+        {
+            name: "98.5 KVOO-HD2",
+            logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https:///live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "Heart and Soul 99.1",
@@ -39888,9 +39898,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-woclfmaac-imc"
         },
         {
-            name: "Infinity Sports Network 105.9-HD2",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            name: "Westwood One Sports 105.9-HD2",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWODEN1AAC_SC"
         },
         {
             name: "GPraise 106.3",
@@ -44053,7 +44063,7 @@ var stations = {/*
         {
             name: "610 WRUS",
             logo: "stations/images-america/c2c/bowling_green_ky/610 WRUS.png",
-            url: "http://ice24.securenetsystems.net/WRUSAM"
+            url: "http://84.32.44.251/index.php?u=http://ice24.securenetsystems.net/WRUSAM"
         },
     ],
     "lexington_ky": [
@@ -50711,9 +50721,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfanamaac-imc"
         },
         {
-            name: "Infinity Sports Network 101.9-HD2",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            name: "Westwood One Sports 101.9-HD2",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWODEN1AAC_SC"
         },
         {
             name: "The Bet 101.9-HD3",
@@ -50744,11 +50754,6 @@ var stations = {/*
             name: "103.5 WKTU-HD2",
             logo: "stations/images-america/c2c/nyc/710 WOR.png",
             url: "http://stream.revma.ihrhls.com/zc5874/hls.m3u8"
-        },
-        {
-            name: "Caribstar Radio 103.5-HD3",
-            logo: "stations/images-america/c2c/nyc/Caribstar Radio 103.5-HD3.png",
-            url: "https://aud1.sjamz.com/caribstar/stream"
         },
         {
             name: "VCY America 103.9",
@@ -53850,9 +53855,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wkrkfmaac-imc"
         },
         {
-            name: "Infinity Sports Network 92.3-HD2",
-            logo: "stations/images-america/0_general_logos/Infinity Sports Network.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/audacy-infinitysportsnetworkaac-imc"
+            name: "Westwood One Sports 92.3-HD2",
+            logo: "stations/images-america/0_general_logos/Westwood One Sports.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWODEN1AAC_SC"
         },
         {
             name: "93.1 WZAK",
@@ -55807,11 +55812,6 @@ var stations = {/*
             name: "Q102",
             logo: "stations/images-america/c2c/philadelphia_pa/Q102.png",
             url: "https://stream.revma.ihrhls.com/zc1997/hls.m3u8"
-        },
-        {
-            name: "RUSA FM 102.1-HD2",
-            logo: "stations/images-america/0_general_logos/RUSA FM.png",
-            url: "https://ott.streann.com/loadbalancer/services/public/radios-secure/62bf4e58e4b04173733c5f25/playlist.m3u8"
         },
         {
             name: "Pride Radio 102.1-HD3",
