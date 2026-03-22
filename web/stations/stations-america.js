@@ -6814,7 +6814,7 @@ var stations = {/*
         },
         {
             name: "89.7 Way FM",
-            logo: "stations/images-america/0_general_logos/89.7 Way FM.png",
+            logo: "stations/images-america/dallas_fort_worth/89.7 Way FM.png",
             url: "https://ais-sa8.cdnstream1.com/3144_64.aac"
         },
         {
@@ -17421,12 +17421,12 @@ var stations = {/*
         {
             name: "100.7 KLOG",
             logo: "stations/images-america/longview/100.7 KLOG.png",
-            url: "http://www.streamcontrol.net:11050/live"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/9eugyvtfyy6tv"
         },
         {
             name: "101.5 The Blitz",
             logo: "stations/images-america/longview/101.5 The Blitz.png",
-            url: "http://www.streamcontrol.net:11070/live"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/vqccb5bo7miuv"
         },
         {
             name: "KMNT Country 104.3",
@@ -17441,7 +17441,7 @@ var stations = {/*
         {
             name: "105.5 KUKN",
             logo: "stations/images-america/longview/105.5 KUKN.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.aiir.com/fdawgrc0ygduv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/fdawgrc0ygduv"
         },
         {
             name: "Rocket 107",
