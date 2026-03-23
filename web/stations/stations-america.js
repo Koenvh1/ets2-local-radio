@@ -11817,7 +11817,7 @@ var stations = {/*
         },
         {
             name: "96.5 KGRI-HD4",
-            logo: "stations/images-america/grand_island/103.5 The Legend.png",
+            logo: "stations/images-america/grand_island/MIX 103.5.png",
             url: "http://84.32.44.251/index.php?u=http://ice23.securenetsystems.net/KRGIF4"
         },
         {
@@ -11861,13 +11861,13 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRNYFMAAC_SC"
         },
         {
-            name: "2Day FM 103.1",
-            logo: "stations/images-america/grand_island/2Day FM 103.1.png",
+            name: "103.1 KJ Country",
+            logo: "stations/images-america/grand_island/103.1 KJ Country.png",
             url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/KKJK"
         },
         {
-            name: "103.5 The Legend",
-            logo: "stations/images-america/grand_island/103.5 The Legend.png",
+            name: "MIX 103.5",
+            logo: "stations/images-america/grand_island/MIX 103.5.png",
             url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KRGIF4"
         },
         {
@@ -63114,8 +63114,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBH_CBC_SC"
         },
         {
-            name: "Hot Country 103.5",
-            logo: "stations/images-america/canada/halifax/Hot Country 103.5.png",
+            name: "Country 103.5",
+            logo: "stations/images-america/canada/halifax/Country 103.5.png",
             url: "https://ais-sa1.streamon.fm/7738_128k.aac"
         },
         {
