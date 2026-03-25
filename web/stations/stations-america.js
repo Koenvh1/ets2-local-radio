@@ -825,7 +825,7 @@ var stations = {/*
         {
             name: "KANW-2 107.5",
             logo: "stations/images-america/albuquerque/KANW-2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KANWHD2.mp3"
         },
         {
             name: "Big I 107.9",
@@ -10466,7 +10466,7 @@ var stations = {/*
         {
             name: "92.9 KAFF Country",
             logo: "stations/images-america/flagstaff/92.9 KAFF.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAFFFMAAC_SC"
+            url: "https://ice25.securenetsystems.net/KAFF"
         },
         {
             name: "The Legend 93.5",
@@ -10491,7 +10491,7 @@ var stations = {/*
         {
             name: "97.9 K250BI",
             logo: "stations/images-america/prescott/Magic 99.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTMGFMAAC_SC"
+            url: "https://ice26.securenetsystems.net/KTMG"
         },
         {
             name: "Peak 100.1",
@@ -23612,7 +23612,7 @@ var stations = {/*
         {
             name: "Magic 99.1",
             logo: "stations/images-america/prescott/Magic 99.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KTMGFMAAC_SC"
+            url: "https://ice26.securenetsystems.net/KTMG"
         },
         {
             name: "100.3 K234CF",
@@ -64958,7 +64958,7 @@ var stations = {/*
         {
             name: "FM93",
             logo: "stations/images-america/canada/quebec/FM93.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CJMFFMAAC_SC"
         },
         {
             name: "CBC Music 93.5",
@@ -65099,7 +65099,7 @@ var stations = {/*
         {
             name: "95.7 KYK",
             logo: "stations/images-america/canada/saguenay/95.7 KYK.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC_SC"
         },
         {
             name: "96.9 Rouge",
@@ -65309,7 +65309,7 @@ var stations = {/*
         {
             name: "95.7 KYK",
             logo: "stations/images-america/canada/saguenay/95.7 KYK.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKYKFMAAC_SC"
         },
         {
             name: "96.9 Rouge",
