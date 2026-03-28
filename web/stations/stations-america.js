@@ -10476,7 +10476,7 @@ var stations = {/*
         {
             name: "93.9 The Mountain",
             logo: "stations/images-america/flagstaff/93.9 The Mountain.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGNFMAAC_SC"
+            url: "https://ice26.securenetsystems.net/KMGN"
         },
         {
             name: "96.7 The Wolf",
@@ -10531,7 +10531,7 @@ var stations = {/*
         {
             name: "Hits 106",
             logo: "stations/images-america/flagstaff/Hits 106.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFSZFMAAC_SC"
+            url: "https://ice25.securenetsystems.net/KFSZ"
         },
         {
             name: "107.5 KOLT",
@@ -10541,7 +10541,7 @@ var stations = {/*
         {
             name: "Arizona Hope 107.9",
             logo: "stations/images-america/flagstaff/Arizona Hope 107.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNOTAMAAC_SC"
+            url: "https://ice26.securenetsystems.net/KTMGHD2"
         },
         {
             name: "600 KVNA",
@@ -40476,9 +40476,9 @@ var stations = {/*
             url: "https://cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac"
         },
         {
-            name: "102.9 The Beat",
-            logo: "stations/images-america/c2c/tampa_fl/106.5 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc669"
+            name: "102.9 W275AZ",
+            logo: "stations/images-america/c2c/tampa_fl/95.3 WDAE.png",
+            url: "http://stream.revma.ihrhls.com/zc673/hls.m3u8"
         },
         {
             name: "US 103.5",
@@ -40508,7 +40508,7 @@ var stations = {/*
         {
             name: "106.5 The Beat",
             logo: "stations/images-america/c2c/tampa_fl/106.5 The Beat.png",
-            url: "https://stream.revma.ihrhls.com/zc669/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc633/hls.m3u8"
         },
         {
             name: "106.9 Playa",
@@ -43690,7 +43690,7 @@ var stations = {/*
         {
             name: "101.7 The Hammer",
             logo: "stations/images-america/c2c/lafayette_in/101.7 The Hammer.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WASKAMAAC_SC"
+            url: "https://live.amperwave.net/manifest/saga-waskamaac-imc"
         },
         {
             name: "B102.9",
@@ -48234,7 +48234,7 @@ var stations = {/*
         {
             name: "KARP 106.9",
             logo: "stations/images-america/c2c/willmar_mn/KARP 106.9.png",
-            url: "https://ice25.securenetsystems.net/KARP"
+            url: "https://cast.streamkast.co/karpfm"
         },
         {
             name: "KWLM 1340",
@@ -64211,7 +64211,7 @@ var stations = {/*
         {
             name: "Radio Circulation 730",
             logo: "stations/images-america/canada/montreal/Radio Circulation 730.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC"
         },
         {
             name: "CJAD 800",
@@ -65612,7 +65612,7 @@ var stations = {/*
         {
             name: "107.7",
             logo: "stations/images-america/canada/sherbrooke/107.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOYFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKOYFMAAC_SC"
         },
         {
             name: "TSN 690",
@@ -65622,7 +65622,7 @@ var stations = {/*
         {
             name: "Radio Circulation 730",
             logo: "stations/images-america/canada/montreal/Radio Circulation 730.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKACAMAAC_SC"
         },
         {
             name: "CJAD 800",
