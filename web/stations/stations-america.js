@@ -1840,7 +1840,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Pride Radio 102.3-HD3",
@@ -2206,9 +2206,9 @@ var stations = {/*
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
-            name: "Ondas de Vida 89.1",
-            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://app0103.sonicpanelradio.com/8140/stream"
+            name: "Fuzión 89.1",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionSoCal-website"
         },
         {
             name: "KNLB 90.9",
@@ -6674,9 +6674,9 @@ var stations = {/*
             url: "https://ice6.securenetsystems.net/EFXAAC"
         },
         {
-            name: "Ondas de Vida 90.3",
-            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://app0103.sonicpanelradio.com/8140/stream"
+            name: "Fuzión 90.3",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionSoCal-website"
         },
         {
             name: "JPR Classics & News 91.1",
@@ -6855,7 +6855,7 @@ var stations = {/*
         {
             name: "TikTok Radio 92.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "La Mejor 92.9",
@@ -7983,7 +7983,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "FLO 107.1",
@@ -16348,9 +16348,9 @@ var stations = {/*
             url: "https://ais-sa15.cdnstream1.com/4862_128.mp3"
         },
         {
-            name: "Ondas de Vida 90.9",
-            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://app0103.sonicpanelradio.com/8140/stream"
+            name: "Fuzión 90.9",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionLAS-website"
         },
         {
             name: "91.5 Jazz & More",
@@ -17638,7 +17638,7 @@ var stations = {/*
         {
             name: "TikTok Radio 98.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "99.1 K256CX",
@@ -19012,7 +19012,7 @@ var stations = {/*
         {
             name: "La Caliente 101.3",
             logo: "stations/images-america/midland_odessa/La Caliente 101.3.png",
-            url: "https://servers58.com/proxy/lacaliente1013/stream"
+            url: "https://sonic01.instainternet.com/8360/stream"
         },
         {
             name: "550 KCRS",
@@ -19405,7 +19405,7 @@ var stations = {/*
         {
             name: "La Caliente 101.3",
             logo: "stations/images-america/midland_odessa/La Caliente 101.3.png",
-            url: "https://servers58.com/proxy/lacaliente1013/stream"
+            url: "https://sonic01.instainternet.com/8360/stream"
         },
         {
             name: "102.1 The Eagle",
@@ -20800,7 +20800,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Magic 101.9",
@@ -22851,7 +22851,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "102.9 KDIF-LP",
@@ -25259,7 +25259,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Fuego 101.9",
@@ -26038,7 +26038,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "La Ley 107.1",
@@ -26352,7 +26352,7 @@ var stations = {/*
         {
             name: "TikTok Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Classic Hits 96.9",
@@ -27172,7 +27172,7 @@ var stations = {/*
         {
             name: "TikTok Radio 105.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Qué Buena 106.5",
@@ -27561,7 +27561,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Mix 106.5",
@@ -28054,7 +28054,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Channel Q 103.3",
@@ -28365,7 +28365,7 @@ var stations = {/*
         {
             name: "Life 96.5",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "KIWA 100.7",
@@ -28929,7 +28929,7 @@ var stations = {/*
         {
             name: "93.7 K229BK",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "KSCJ 94.9",
@@ -29170,7 +29170,7 @@ var stations = {/*
         {
             name: "91.9 K220HY",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "93.5 Rewind FM",
@@ -30005,9 +30005,9 @@ var stations = {/*
             url: "https://stream.radio.dixie.edu/kxds.mp3"
         },*/
         {
-            name: "Ondas de Vida 91.7",
-            logo: "stations/images-america/0_general_logos/Ondas de Vida.png",
-            url: "https://app0103.sonicpanelradio.com/8140/stream"
+            name: "Fuzión 91.7",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionSoCal-website"
         },
         {
             name: "B92.1",
@@ -30353,7 +30353,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "KSHE 95",
@@ -34145,7 +34145,7 @@ var stations = {/*
         {
             name: "Cabo Mil 96.3",
             logo: "stations/images-america/mexico/cabo_sanluc/Cabo Mil 96.3.png",
-            url: "https://streamingcwsradio30.com:7070/stream"
+            url: "https://s2.radio.co/s77395f3d5/listen"
         },
         {
             name: "La Radio de Sudcalifornia 99.1",
@@ -34167,7 +34167,7 @@ var stations = {/*
         {
             name: "Cabo Mil 96.3",
             logo: "stations/images-america/mexico/cabo_sanluc/Cabo Mil 96.3.png",
-            url: "https://streamingcwsradio30.com:7070/stream"
+            url: "https://s2.radio.co/s77395f3d5/listen"
         },
         {
             name: "La Radio de Sudcalifornia 99.1",
@@ -39059,7 +39059,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "93.9 WMIA-HD3",
@@ -40747,7 +40747,7 @@ var stations = {/*
         {
             name: "TikTok Radio 94.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "95.5 WSB",
@@ -42717,7 +42717,7 @@ var stations = {/*
         {
             name: "TikTok Radio 107.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "La Ley 107.9",
@@ -44998,7 +44998,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },/*
         {
             name: "93.5 WTTZ",
@@ -46220,7 +46220,7 @@ var stations = {/*
         {
             name: "TikTok Radio 100.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "100.7 Cool FM",
@@ -47257,8 +47257,8 @@ var stations = {/*
             url: "https://nwm.streamguys1.com/kdnw/playlist.m3u8"
         },
         {
-            name: "HOT 98.1",
-            logo: "stations/images-america/c2c/duluth_mn/HOT 98.1.png",
+            name: "98X",
+            logo: "stations/images-america/c2c/duluth_mn/98X.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDULAMAAC_SC"
         },
         {
@@ -47580,7 +47580,7 @@ var stations = {/*
         {
             name: "89.9 KRGM",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "praisefm 90.3",
@@ -47727,7 +47727,7 @@ var stations = {/*
         {
             name: "TikTok Radio 97.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "98.5 KTIS",
@@ -48291,7 +48291,7 @@ var stations = {/*
         {
             name: "Life 96.5",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "KISD 98.7",
@@ -49599,7 +49599,7 @@ var stations = {/*
         {
             name: "Radio Zindagi 101.5-HD3",
             logo: "stations/images-america/c2c/philadelphia_pa/Radio Zindagi 101.5-HD3.png",
-            url: "http://64.131.95.13:7349/stream"
+            url: "http://us9.maindigitalstream.com/stream/rznynjct"
         },
         {
             name: "WPRB 103.3",
@@ -49691,7 +49691,7 @@ var stations = {/*
         {
             name: "Radio Zindagi 101.5-HD3",
             logo: "stations/images-america/c2c/philadelphia_pa/Radio Zindagi 101.5-HD3.png",
-            url: "http://64.131.95.13:7349/stream"
+            url: "http://us9.maindigitalstream.com/stream/rznynjct"
         },
         {
             name: "WPRB 103.3",
@@ -50768,7 +50768,7 @@ var stations = {/*
         {
             name: "TikTok Radio 104.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Freedom FM 104.7",
@@ -53917,7 +53917,7 @@ var stations = {/*
         {
             name: "TikTok Radio 99.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "100.7 WMMS",
@@ -54049,7 +54049,7 @@ var stations = {/*
         {
             name: "TikTok Radio 92.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "WCRS 92.7",
@@ -55766,7 +55766,7 @@ var stations = {/*
         {
             name: "TikTok Radio 98.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "VCY America 99.5",
@@ -55806,7 +55806,7 @@ var stations = {/*
         {
             name: "Radio Zindagi 101.5-HD3",
             logo: "stations/images-america/c2c/philadelphia_pa/Radio Zindagi 101.5-HD3.png",
-            url: "http://64.131.95.13:7349/stream"
+            url: "http://us9.maindigitalstream.com/stream/rznynjct"
         },
         {
             name: "Q102",
@@ -56100,7 +56100,7 @@ var stations = {/*
         {
             name: "TikTok Radio 94.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "The Beaver 95.7",
@@ -56514,7 +56514,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "Poder 102.1",
@@ -57378,7 +57378,7 @@ var stations = {/*
         {
             name: "105.5 K288EV",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "107.1 The Hawk",
@@ -57838,7 +57838,7 @@ var stations = {/*
         {
             name: "Life 96.5",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "97.3 KKRC",
@@ -58010,7 +58010,7 @@ var stations = {/*
         {
             name: "91.9 K220IT",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "New Country KS93",
@@ -58117,7 +58117,7 @@ var stations = {/*
         {
             name: "Life 96.5",
             logo: "stations/images-america/c2c/sioux_falls_sd/Life 96.5.png",
-            url: "https://nwmedia-knwcfm.streamguys1.com/knwc-fm"
+            url: "https://nwm.streamguys1.com/knwc-aac"
         },
         {
             name: "96.9 K245DA",
@@ -58351,7 +58351,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "102.9 The Buzz",
@@ -59116,7 +59116,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "WXNA 101.5",
@@ -60040,7 +60040,7 @@ var stations = {/*
         {
             name: "TikTok Radio 105.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "US 106.1",
@@ -61648,7 +61648,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
         },
         {
             name: "WNOV 106.5",
@@ -64625,7 +64625,7 @@ var stations = {/*
         {
             name: "104.7 Outaouais",
             logo: "stations/images-america/canada/ottawa/104.7 Outaouais.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CKOFFMAAC_SC"
         },
         {
             name: "KiSS 105.3",
