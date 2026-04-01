@@ -1215,7 +1215,7 @@ var stations = {/*
         {
             name: "Worship 24-7 102.3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/K272EM"
         },
         {
             name: "102.9 The Rattler",
@@ -2979,7 +2979,7 @@ var stations = {/*
         {
             name: "Worship 24-7 93.7",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/KURT"
         },
         {
             name: "Power 94",
@@ -6825,7 +6825,7 @@ var stations = {/*
         {
             name: "Worship 24-7 89.7-HD3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/KAWA"
         },
         {
             name: "KERA 90.1",
@@ -7431,7 +7431,7 @@ var stations = {/*
         {
             name: "107.1 K296GZ",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "http://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp3"
         },
         {
             name: "Vintage Radio 107.7",
@@ -7924,6 +7924,11 @@ var stations = {/*
             name: "101.9 KXWA-HD2",
             logo: "stations/images-america/0_general_logos/Vida Unida.png",
             url: "https://ais-sa8.cdnstream1.com/3336_64.aac"
+        },
+        {
+            name: "101.9 KXWA-HD3",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "https://hmg-live-a.edge.audiocdn.com/10580/KXWA"
         },
         {
             name: "Indie 102.3",
@@ -13009,7 +13014,7 @@ var stations = {/*
         {
             name: "Worship 24-7 91.3",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/K217GB"
         },
         {
             name: "Vida Unida 91.7",
@@ -14649,7 +14654,7 @@ var stations = {/*
         {
             name: "Life 88.5",
             logo: "stations/images-america/kansas_city/Life 88.5.png",
-            url: "https://nwmedia-kjnwfm.streamguys1.com/kjnwfm"
+            url: "https://nwm.streamguys1.com/kjnw/playlist.m3u8"
         },
         {
             name: "Faith Radio 88.5-HD2",
@@ -15645,9 +15650,9 @@ var stations = {/*
             url: "http://ice7.securenetsystems.net/KYMK"
         },
         {
-            name: "Planet Radio 106.7",
-            logo: "stations/images-america/lafayette_la/Planet Radio 106.7.png",
-            url: "https://streaming.live365.com/a47924"
+            name: "Cool 106.7",
+            logo: "stations/images-america/lafayette_la/Cool 106.7.png",
+            url: "https://ice25.securenetsystems.net/COOL"
         },
         {
             name: "Mustang 107.1",
@@ -17397,6 +17402,11 @@ var stations = {/*
             name: "94.5 KLYK",
             logo: "stations/images-america/longview/94.5 KLYK.png",
             url: "https://us9.maindigitalstream.com/ssl/KLYK"
+        },
+        {
+            name: "Worship 24-7 94.9",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "https://hmg-live-a.edge.audiocdn.com/K235CU"
         },
         {
             name: "NWPB News 97.5",
@@ -22103,58 +22113,53 @@ var stations = {/*
             url: "https://classical-stream.iowapublicradio.org/Classical.mp3"
         },
         {
-            name: "Radio By Grace 91.5",
-            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            name: "Worship 24-7 91.5",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "https://hmg-live-a.edge.audiocdn.com/K218EA"
         },
         {
             name: "92.7 KTWA",
-            logo: "stations/images-america/c2c/ottumwa_ia/92.7 KTWA.png",
+            logo: "stations/images-america/ottumwa/92.7 KTWA.png",
             url: "https://stream.surfernetwork.com/bci01hfsmmwtv"
         },
         {
-            name: "Classic 96",
-            logo: "stations/images-america/c2c/ottumwa_ia/Classic 96.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-kkfdfmaac-ibc2"
-        },
-        {
             name: "96.7 KIIC",
-            logo: "stations/images-america/c2c/ottumwa_ia/96.7 KIIC.png",
+            logo: "stations/images-america/ottumwa/96.7 KIIC.png",
             url: "https://ice6.securenetsystems.net/KIIC"
         },
         {
             name: "KICK Country 96.7-HD2",
-            logo: "stations/images-america/c2c/ottumwa_ia/KICK Country 96.7-HD2.png",
+            logo: "stations/images-america/ottumwa/KICK Country 96.7-HD2.png",
             url: "https://ice7.securenetsystems.net/KIIC2"
         },
         {
             name: "El Puente 96.7-HD3",
-            logo: "stations/images-america/c2c/ottumwa_ia/El Puente 96.7-HD3.png",
+            logo: "stations/images-america/ottumwa/El Puente 96.7-HD3.png",
             url: "https://ice7.securenetsystems.net/KIIC3"
         },
         {
             name: "97.7 TOM FM",
-            logo: "stations/images-america/c2c/ottumwa_ia/97.7 TOM FM.png",
+            logo: "stations/images-america/ottumwa/97.7 TOM FM.png",
             url: "https://stream.surfernetwork.com/x1y8uttghtwvv"
         },
         {
             name: "101.5 KISS FM",
-            logo: "stations/images-america/c2c/ottumwa_ia/101.5 KISS FM.png",
+            logo: "stations/images-america/ottumwa/101.5 KISS FM.png",
             url: "https://stream.surfernetwork.com/bnerqlh4apavv"
         },
         {
             name: "102.7 KBIZ",
-            logo: "stations/images-america/c2c/ottumwa_ia/KBIZ.png",
+            logo: "stations/images-america/ottumwa/KBIZ.png",
             url: "https://stream.surfernetwork.com/tna4ecl2mvruv"
         },
         {
             name: "104.3 KRKN",
-            logo: "stations/images-america/c2c/ottumwa_ia/104.3 KRKN.png",
+            logo: "stations/images-america/ottumwa/104.3 KRKN.png",
             url: "https://stream.surfernetwork.com/1qj6offti02uv"
         },
         {
             name: "KBOE 104.9",
-            logo: "stations/images-america/c2c/ottumwa_ia/KBOE 104.9.png",
+            logo: "stations/images-america/ottumwa/KBOE 104.9.png",
             url: "https://ice7.securenetsystems.net/KBOE"
         },
         {
@@ -22169,22 +22174,22 @@ var stations = {/*
         },
         {
             name: "107.7 KLEE",
-            logo: "stations/images-america/c2c/ottumwa_ia/KLEE.png",
+            logo: "stations/images-america/ottumwa/KLEE.png",
             url: "https://stream.surfernetwork.com/mhxg6dk09i2tv"
         },
         {
             name: "KMZN 740",
-            logo: "stations/images-america/c2c/ottumwa_ia/KMZN.png",
+            logo: "stations/images-america/ottumwa/KMZN.png",
             url: "https://ice9.securenetsystems.net/KMZN"
         },
         {
             name: "1240 KBIZ",
-            logo: "stations/images-america/c2c/ottumwa_ia/KBIZ.png",
+            logo: "stations/images-america/ottumwa/KBIZ.png",
             url: "http://stream.surfernetwork.com/tna4ecl2mvruv"
         },
         {
             name: "1480 KLEE",
-            logo: "stations/images-america/c2c/ottumwa_ia/KLEE.png",
+            logo: "stations/images-america/ottumwa/KLEE.png",
             url: "http://stream.surfernetwork.com/mhxg6dk09i2tv"
         },
     ],
@@ -27884,7 +27889,7 @@ var stations = {/*
         {
             name: "90.7 KSER",
             logo: "stations/images-america/seattle/90.7 KSER.png",
-            url: "http://jade.streamguys1.com:4050/live"
+            url: "http://kser.streamguys1.com/live"
         },
         {
             name: "NWPB Classical 90.9",
@@ -28074,7 +28079,7 @@ var stations = {/*
         {
             name: "Worship 24-7 104.9",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/10579_64.aac"
         },
         {
             name: "Spirit 105.3",
@@ -28942,9 +28947,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc933/hls.m3u8"
         },
         {
-            name: "Radio By Grace 95.9",
-            logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            name: "Worship 24-7 95.9",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "https://hmg-live-a.edge.audiocdn.com/K240DE"
         },
         {
             name: "Fiesta 97.1",
@@ -29298,6 +29303,11 @@ var stations = {/*
             name: "95.3 KPND",
             logo: "stations/images-america/spokane/95.3 KPND.png",
             url: "https://streaming.live365.com/a26367"
+        },
+        {
+            name: "Worship 24-7 95.7",
+            logo: "stations/images-america/0_general_logos/Worship 24-7.png",
+            url: "https://hmg-live-a.edge.audiocdn.com/K239CL"
         },
         {
             name: "ALT 96.1",
@@ -30199,7 +30209,7 @@ var stations = {/*
         {
             name: "91.1 KSJI",
             logo: "stations/images-america/kansas_city/Life 88.5.png",
-            url: "https://nwmedia-kjnwfm.streamguys1.com/kjnwfm"
+            url: "https://nwm.streamguys1.com/kjnw/playlist.m3u8"
         },
         {
             name: "Air1 91.9",
@@ -43269,7 +43279,7 @@ var stations = {/*
         {
             name: "Worship 24-7 100.1",
             logo: "stations/images-america/0_general_logos/Worship 24-7.png",
-            url: "https://ice26.securenetsystems.net/W247"
+            url: "https://hmg-live-a.edge.audiocdn.com/W261CW"
         },
         {
             name: "103GBF",
@@ -48301,7 +48311,7 @@ var stations = {/*
         {
             name: "Rock Farm 101.1",
             logo: "stations/images-america/c2c/worthington_mn/Rock Farm 101.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
+            url: "https://stream.surfernetwork.com/lkcfsnxchfttv"
         },
         {
             name: "Q102",
@@ -53663,7 +53673,7 @@ var stations = {/*
         {
             name: "1590 WAKR",
             logo: "stations/images-america/c2c/canton_oh/1590 WAKR.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WAKRAMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/10587_96k.mp3"
         },
     ],
     "cincinnati": [
@@ -57873,7 +57883,7 @@ var stations = {/*
         {
             name: "Rock Farm 101.1",
             logo: "stations/images-america/c2c/worthington_mn/Rock Farm 101.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/alphamidwest-klqlfmaac-ibc2"
+            url: "https://stream.surfernetwork.com/lkcfsnxchfttv"
         },
         {
             name: "Sioux Ritmo 101.5",
@@ -59918,9 +59928,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://stationwhro.whro.org/128"
         },
         {
-            name: "1920s Radio Network 90.3-HD2",
-            logo: "stations/images-america/c2c/norfolk_va/1920s Radio Network 90.3-HD2.png",
-            url: "http://tess.fast-serv.com:8570/;"
+            name: "Time Machine Radio 90.3-HD2",
+            logo: "stations/images-america/c2c/norfolk_va/Time Machine Radio.png",
+            url: "https://stationwfos.whro.org/128.mp3"
         },
         {
             name: "Blazin' Hot 91",
@@ -59986,6 +59996,11 @@ var stations = {/*
             name: "97.3 The Eagle",
             logo: "stations/images-america/c2c/norfolk_va/97.3 The Eagle.png",
             url: "https://ais-sa1.streamon.fm/7849_128k.aac"
+        },
+        {
+            name: "Time Machine Radio 99.3",
+            logo: "stations/images-america/c2c/norfolk_va/Time Machine Radio.png",
+            url: "http://stationwfos.whro.org/128.mp3"
         },
         {
             name: "FM99",
