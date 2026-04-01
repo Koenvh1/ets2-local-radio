@@ -62292,12 +62292,12 @@ var stations = {/*
         {
             name: "Max 93.1",
             logo: "stations/images-america/canada/charlottetown/Max 93.1.png",
-            url: "https://mbsradio-ais.leanstream.co/CHLQFM-MP3"
+            url: "https://mbsradio.leanstream.co/CHLQFM"
         },
         {
             name: "95.1 CFCY",
             logo: "stations/images-america/canada/charlottetown/95.1 CFCY.png",
-            url: "https://mbsradio-ais.leanstream.co/CFCYFM-MP3"
+            url: "https://mbsradio.leanstream.co/CFCYFM"
         },
         {
             name: "CBC Radio One 96.1",
@@ -62312,7 +62312,7 @@ var stations = {/*
         {
             name: "SPUD 102",
             logo: "stations/images-america/canada/charlottetown/SPUD 102.png",
-            url: "https://mbsradio-ais.leanstream.co/CJRWFM-MP3"
+            url: "https://mbsradio.leanstream.co/CJRWFM"
         },
         {
             name: "CBC Music 104.7",
@@ -62876,7 +62876,7 @@ var stations = {/*
         {
             name: "KOOL 98",
             logo: "stations/images-america/canada/fredericton/KOOL 98.png",
-            url: "http://mbsradio.leanstream.co/CJYCFM-MP3"
+            url: "http://mbsradio.leanstream.co/CJYCFM"
         },
         {
             name: "CBC Radio One 99.5",
@@ -62886,7 +62886,7 @@ var stations = {/*
         {
             name: "K100",
             logo: "stations/images-america/canada/fredericton/K100.png",
-            url: "https://mbsradio.leanstream.co/CIOKFM-MP3"
+            url: "https://mbsradio.leanstream.co/CIOKFM"
         },
         {
             name: "CBC Music 101.5",
@@ -62962,7 +62962,7 @@ var stations = {/*
         {
             name: "93.5 The Wave",
             logo: "stations/images-america/canada/grandfalls/93.5 The Wave.png",
-            url: "https://mbsradio-ais.leanstream.co/CIKXFM-MP3"
+            url: "https://mbsradio.leanstream.co/CIKXFM"
         },
         {
             name: "OZFM 95.9",
@@ -63046,7 +63046,7 @@ var stations = {/*
         {
             name: "89.9 The Wave",
             logo: "stations/images-america/canada/halifax/89.9 The Wave.png",
-            url: "http://mbsradio.leanstream.co/CHNSFM-MP3"
+            url: "https://mbsradio.leanstream.co/CHNSFM"
         },
         {
             name: "CBC Radio One 90.5",
@@ -63061,7 +63061,7 @@ var stations = {/*
         {
             name: "ICI Première 92.3",
             logo: "stations/images-america/canada/ICI Première.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHFAFM_SRC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBAFFM5_SRC_SC"
         },
         {
             name: "JACK 92.9",
@@ -63106,7 +63106,7 @@ var stations = {/*
         {
             name: "FX101.9",
             logo: "stations/images-america/canada/halifax/FX 101.9.png",
-            url: "http://mbsradio.leanstream.co/CHFXFM-MP3"
+            url: "https://mbsradio.leanstream.co/CHFXFM"
         },
         {
             name: "CBC Music 102.7",
@@ -64044,7 +64044,7 @@ var stations = {/*
         {
             name: "K94.5",
             logo: "stations/images-america/canada/moncton/K94.5.png",
-            url: "http://mbsradio.leanstream.co/CKCWFM-MP3"
+            url: "https://mbsradio.leanstream.co/CKCWFM"
         },
         {
             name: "New Country 96.9",
@@ -64059,7 +64059,7 @@ var stations = {/*
         {
             name: "Choix 99",
             logo: "stations/images-america/canada/moncton/Choix 99.png",
-            url: "http://mbsradio.leanstream.co/CHOYFM-MP3"
+            url: "https://mbsradio.leanstream.co/CHOYFM"
         },
         {
             name: "Q103",
@@ -64069,7 +64069,7 @@ var stations = {/*
         {
             name: "103.9 MAX FM",
             logo: "stations/images-america/canada/moncton/103.9 Max FM.png",
-            url: "http://mbsradio.leanstream.co/CFQMFM-MP3"
+            url: "https://mbsradio.leanstream.co/CFQMFM"
         },
         {
             name: "Inspire.FM 105.1",
@@ -66200,12 +66200,12 @@ var stations = {/*
         {
             name: "Cat Country 99.5",
             logo: "stations/images-america/canada/truro/Cat Country 99.5.png",
-            url: "https://mbsradio-ais.leanstream.co/CKTYFM-MP3"
+            url: "https://mbsradio.leanstream.co/CKTYFM"
         },
         {
             name: "100.9 The Wave",
             logo: "stations/images-america/canada/truro/100.9 The Wave.png",
-            url: "https://mbsradio-ais.leanstream.co/CKTOFM-MP3"
+            url: "https://mbsradio.leanstream.co/CKTOFM"
         },
         {
             name: "Hope 106.3",
