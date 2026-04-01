@@ -601,7 +601,7 @@ var stations = {/*
         {
             name: "Life Radio",
             logo: "stations/images-europe/austria/Life Radio.png",
-            url: "https://liferadio.streamabc.net/lfr-lr-mp3-128-9299368"
+            url: "https://stream.liferadio.at/liferadio/mp3-192/"
         },
         {
             name: "LoungeFM",
@@ -1795,7 +1795,7 @@ var stations = {/*
         {
             name: "Ράδιο Πρώτο",
             logo: "stations/images-europe/cyprus/Ράδιο Πρώτο.png",
-            url: "https://live3.istoikona.net:18191/stream"
+            url: "https://live3.istoikona.net/proxy/radioproto/stream"
         },
         {
             name: "sfera",
@@ -1917,7 +1917,7 @@ var stations = {/*
         {
             name: "DAB PLUS TOP 40",
             logo: "stations/images-europe/czech/DAB PLUS TOP 40.png",
-            url: "https://icecast6.play.cz/dabplus-top40.mp3"
+            url: "https://ice3.radia.cz/dabtop40.mp3"
         },
         {
             name: "Evropa 2",
@@ -2339,6 +2339,11 @@ var stations = {/*
             name: "Duo Softmix",
             logo: "stations/images-europe/estonia/Duo Softmix.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DS_softmix.aac"
+        },
+        {
+            name: "Радио Эхо",
+            logo: "stations/images-europe/estonia/Радио Эхо.png",
+            url: "https://edifchqufozvbegw.global.ssl.fastly.net/audio_echofm/stream"
         },
         {
             name: "Raadio Elmar",
@@ -3694,11 +3699,6 @@ var stations = {/*
             url: "https://icecast.ndr.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3"
         },
         {
-            name: "80s80s MV",
-            logo: "stations/images-europe/germany/80s80s.png",
-            url: "https://streams.80s80s.de/80s80sMV/mp3-192/homepage/"
-        },
-        {
             name: "Ostseewelle",
             logo: "stations/images-europe/germany-mv/Ostseewelle.png",
             url: "https://addrad.io/4454pjf"
@@ -3707,6 +3707,11 @@ var stations = {/*
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
             url: "https://irmedia.streamabc.net/irm-rtlive-mp3-128-6306268"
+        },
+        {
+            name: "Schlager Radio",
+            logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
+            url: "https://radiob2-regionalmv.cast.addradio.de/radiob2/regionalmv/mp3/high/stream.mp3"
         },
     ],
     "germany-muenchen": [
@@ -3989,7 +3994,7 @@ var stations = {/*
         {
             name: "Schlager Radio",
             logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
-            url: "https://addrad.io/4454r8d"
+            url: "https://radiob2-regional.cast.addradio.de/radiob2/regional/mp3/high/stream.mp3"
         },
         {
             name: "STAR FM",
@@ -4079,6 +4084,11 @@ var stations = {/*
             name: "R.SA",
             logo: "stations/images-europe/germany-sachsen/R.SA.png",
             url: "https://streams.rsa-sachsen.de/rsa-live/mp3-192/homepage/?context=fHA6LTE="
+        },
+        {
+            name: "Rundfunk-Kombinat Sachsen",
+            logo: "stations/images-europe/germany-sachsen/Rundfunk-Kombinat Sachsen.png",
+            url: "https://streaming.fueralle.org/rfk"
         },
         {
             name: "Schlager Radio",
@@ -4251,7 +4261,7 @@ var stations = {/*
         {
             name: "Schlager Radio",
             logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
-            url: "https://addrad.io/4454r8d"
+            url: "https://radiob2-thueringen.cast.addradio.de/radiob2/thueringen/mp3/high"
         },
     ],
     "germany-wdr": [
@@ -4368,7 +4378,7 @@ var stations = {/*
         {
             name: "Schlager Radio",
             logo: "stations/images-europe/germany-rbb/Schlager Radio.png",
-            url: "https://addrad.io/4454r8d"
+            url: "https://radiob2-nrw.cast.addradio.de/radiob2/nrw/mp3/high"
         },
         {
             name: "STAR FM",
@@ -5541,7 +5551,7 @@ var stations = {/*
         {
             name: "Radio Rodja",
             logo: "stations/images-europe/indonesia/Radio Rodja.png",
-            url: "https://live2.radiorodja.com/rodja.mp3"
+            url: "https://radioislamindonesia.com/rodja.mp3"
         },
         {
             name: "Radio Sonora FM",
@@ -6813,7 +6823,7 @@ var stations = {/*
         {
             name: "Smash Radio 104.6FM",
             logo: "stations/images-europe/malta/Smash Radio 104.6FM.png",
-            url: "http://195.158.70.69:1046/stream"
+            url: "https://headend.smashmalta.com/smashradio1046fm"
         },
     ],
     "monaco": [
@@ -6882,7 +6892,7 @@ var stations = {/*
         {
             name: "Play",
             logo: "stations/images-europe/montenegro/Play radio.png",
-            url: "https://stream.playradio.me:8443/play-me.aac"
+            url: "https://stream.playradio.rs:8443/play-me.aac"
         },
         {
             name: "Radio D",
@@ -6964,7 +6974,7 @@ var stations = {/*
         {
             name: "Radio Micul Samaritean",
             logo: "stations/images-europe/moldova/Radio Micul Samaritean.png",
-            url: "https://s5.radio.co/sfff7b7e97/listen"
+            url: "https://online.miculsamaritean.com:8000/radio.mp3"
         },
         {
             name: "Radio Noroc",
@@ -7009,9 +7019,9 @@ var stations = {/*
             url: "http://live.aquarellefm.md:8000/Aquarellefm.aac"
         },
         {
-            name: "Radio ZUM 2 91.1",
-            logo: "stations/images-europe/moldova/chisinau/Radio ZUM 2 91.1.png",
-            url: "https://streams.radiozum.md/listen/zum2/ZUM2"
+            name: "Radio ZUM 91.1",
+            logo: "stations/images-europe/moldova/chisinau/Radio ZUM 91.1.png",
+            url: "https://streams.radiozum.md/listen/zum1/ZUM1"
         },
         {
             name: "Ai Noștri 92.1",
@@ -7027,6 +7037,11 @@ var stations = {/*
             name: "Radio ROKS 96.7",
             logo: "stations/images-europe/moldova/chisinau/Radio ROKS 96.7.png",
             url: "https://stream.dixi.md:9443/Roks"
+        },
+        {
+            name: "Radio Moldova Muzical 97.7",
+            logo: "stations/images-europe/moldova/chisinau/Radio Moldova Muzical 97.7.png",
+            url: "http://radiolive.trm.md:8000/RM-muzical-256"
         },
         {
             name: "realitatea FM 98.6",
@@ -7047,6 +7062,11 @@ var stations = {/*
             name: "dance FM 101.3",
             logo: "stations/images-europe/moldova/chisinau/dance FM 101.3.png",
             url: "https://stream.mmgmoldova.md:8443/dancefm"
+        },
+        {
+            name: "Vocea Basarabiei 102.3",
+            logo: "stations/images-europe/moldova/chisinau/Vocea Basarabiei 102.3.png",
+            url: "https://stream.noroc.tv/radiovb_aac"
         },
         {
             name: "Radio 21 102.7",
