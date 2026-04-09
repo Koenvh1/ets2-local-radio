@@ -2050,7 +2050,7 @@ var stations = {/*
         },
         {
             name: "KERN Radio 96.1",
-            logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
+            logo: "stations/images-america/bakersfield/KERN Radio.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kernamaac-ibc3"
         },
         {
@@ -2094,8 +2094,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkbbfmaac-ibc4"
         },
         {
-            name: "ESPN Bakersfield 101.1",
-            logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
+            name: "KGEO 101.1",
+            logo: "stations/images-america/bakersfield/KGEO.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kgeoamaac-ibc3"
         },
         {
@@ -2174,14 +2174,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4273/hls.m3u8"
         },
         {
-            name: "KERN Radio 1180",
-            logo: "stations/images-america/bakersfield/KERN Radio 96.1.png",
+            name: "KERN Radio 1230",
+            logo: "stations/images-america/bakersfield/KERN Radio.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//agmedia28-kernamaac-ibc3"
-        },
-        {
-            name: "ESPN Bakersfield 1230",
-            logo: "stations/images-america/bakersfield/ESPN Bakersfield 101.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//agmedia28-kgeoamaac-ibc3"
         },
         {
             name: "1270 KVMI",
@@ -30120,8 +30115,8 @@ var stations = {/*
             url: "http://live.amperwave.net/manifest/townsquare-kdxufmhd3aac-ibc3"
         },
         {
-            name: "102.3 Real Country",
-            logo: "stations/images-america/st_george/102.3 Real Country.png",
+            name: "102.3 ZION Country",
+            logo: "stations/images-america/st_george/102.3 ZION Country.png",
             url: "http://ice10.securenetsystems.net/KUTQ"
         },
         {
@@ -30140,8 +30135,8 @@ var stations = {/*
             url: "https://live.amperwave.net/direct/townsquare-kcinfmaac-ibc3"
         },
         {
-            name: "104.1 ZION FM",
-            logo: "stations/images-america/st_george/104.1 ZION FM.png",
+            name: "104.1 Jack FM",
+            logo: "stations/images-america/st_george/104.1 Jack FM.png",
             url: "http://ice24.securenetsystems.net/KZYN"
         },
         {
@@ -46619,13 +46614,13 @@ var stations = {/*
             url: "http://stream.up.net/WCUP"
         },
         {
-            name: "107.3 W297CD",
-            logo: "stations/images-america/c2c/houghton_mi/WMPL 920.png",
+            name: "Yooper 107.3",
+            logo: "stations/images-america/c2c/houghton_mi/Yooper 107.3.png",
             url: "http://stream.civicmedia.us/WMPL"
         },
         {
-            name: "WMPL 920",
-            logo: "stations/images-america/c2c/houghton_mi/WMPL 920.png",
+            name: "920 WMPL",
+            logo: "stations/images-america/c2c/houghton_mi/Yooper 107.3.png",
             url: "https://stream.civicmedia.us/WMPL"
         },
         {
@@ -52714,8 +52709,8 @@ var stations = {/*
             url: "http://amber.streamguys.com:5275/wtjz"
         },
         {
-            name: "La Candela 105.5",
-            logo: "stations/images-america/c2c/wilmington_nc/La Candela 105.5.png",
+            name: "ROCK 105.5",
+            logo: "stations/images-america/c2c/wilmington_nc/ROCK 105.5.png",
             url: "https://dbc.streamguys1.com/wxqr-fm.aac"
         },
         {
@@ -59508,8 +59503,8 @@ var stations = {/*
             url: "http://live.amperwave.net/direct/manningbroadcasting-wweghd3aac-ibc2"
         },
         {
-            name: "FOX Sports 100.9",
-            logo: "stations/images-america/c2c/hagerstown_md/FOX Sports Hagerstown.png",
+            name: "100.9 NEXT FM",
+            logo: "stations/images-america/c2c/hagerstown_md/100.9 NEXT FM.png",
             url: "https://hjv.streamguys1.com/wikg.mp3"
         },
         {
@@ -59564,7 +59559,7 @@ var stations = {/*
         },
         {
             name: "FOX Sports 1380",
-            logo: "stations/images-america/c2c/hagerstown_md/FOX Sports Hagerstown.png",
+            logo: "stations/images-america/c2c/hagerstown_md/100.9 NEXT FM.png",
             url: "http://hjv.streamguys1.com/wikg.mp3"
         },
     ],
