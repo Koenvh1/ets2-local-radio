@@ -1840,7 +1840,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Pride Radio 102.3-HD3",
@@ -6850,7 +6850,7 @@ var stations = {/*
         {
             name: "TikTok Radio 92.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "La Mejor 92.9",
@@ -7983,7 +7983,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "FLO 107.1",
@@ -17643,7 +17643,7 @@ var stations = {/*
         {
             name: "TikTok Radio 98.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "99.1 K256CX",
@@ -20805,7 +20805,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Magic 101.9",
@@ -22851,7 +22851,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "102.9 KDIF-LP",
@@ -25259,7 +25259,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Fuego 101.9",
@@ -26038,7 +26038,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "La Ley 107.1",
@@ -26352,7 +26352,7 @@ var stations = {/*
         {
             name: "TikTok Radio 96.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Classic Hits 96.9",
@@ -26687,11 +26687,6 @@ var stations = {/*
             name: "100.3 La Ley",
             logo: "stations/images-america/santa_maria/100.3 La Ley.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-krqkfmaac-ibc3"
-        },
-        {
-            name: "Eclectic24 101.3",
-            logo: "stations/images-america/0_general_logos/Eclectic24.png",
-            url: "https://streams.kcrw.com/e24_mp3"
         },
         {
             name: "Sunny Country 102.5",
@@ -27172,7 +27167,7 @@ var stations = {/*
         {
             name: "TikTok Radio 105.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Qué Buena 106.5",
@@ -27561,7 +27556,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Mix 106.5",
@@ -28054,7 +28049,7 @@ var stations = {/*
         {
             name: "TikTok Radio 102.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Channel Q 103.3",
@@ -30358,7 +30353,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.7-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "KSHE 95",
@@ -39064,7 +39059,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "93.9 WMIA-HD3",
@@ -40752,7 +40747,7 @@ var stations = {/*
         {
             name: "TikTok Radio 94.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "95.5 WSB",
@@ -42722,7 +42717,7 @@ var stations = {/*
         {
             name: "TikTok Radio 107.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "La Ley 107.9",
@@ -45003,7 +44998,7 @@ var stations = {/*
         {
             name: "TikTok Radio 93.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },/*
         {
             name: "93.5 WTTZ",
@@ -46225,7 +46220,7 @@ var stations = {/*
         {
             name: "TikTok Radio 100.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "100.7 Cool FM",
@@ -47732,7 +47727,7 @@ var stations = {/*
         {
             name: "TikTok Radio 97.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "98.5 KTIS",
@@ -50773,7 +50768,7 @@ var stations = {/*
         {
             name: "TikTok Radio 104.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Freedom FM 104.7",
@@ -53583,7 +53578,7 @@ var stations = {/*
         {
             name: "94.9 WQMX",
             logo: "stations/images-america/c2c/cleveland_oh/94.9 WQMX.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQMXFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/10588_96k.aac"
         },
         {
             name: "K-LOVE 95.9",
@@ -53872,7 +53867,7 @@ var stations = {/*
         {
             name: "94.9 WQMX",
             logo: "stations/images-america/c2c/cleveland_oh/94.9 WQMX.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQMXFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/10588_96k.aac"
         },
         {
             name: "K-LOVE 95.5",
@@ -53922,7 +53917,7 @@ var stations = {/*
         {
             name: "TikTok Radio 99.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "100.7 WMMS",
@@ -54054,7 +54049,7 @@ var stations = {/*
         {
             name: "TikTok Radio 92.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "WCRS 92.7",
@@ -55771,7 +55766,7 @@ var stations = {/*
         {
             name: "TikTok Radio 98.9-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "VCY America 99.5",
@@ -56105,7 +56100,7 @@ var stations = {/*
         {
             name: "TikTok Radio 94.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "The Beaver 95.7",
@@ -56519,7 +56514,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.5-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "Poder 102.1",
@@ -58356,7 +58351,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "102.9 The Buzz",
@@ -59121,7 +59116,7 @@ var stations = {/*
         {
             name: "TikTok Radio 101.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "WXNA 101.5",
@@ -60050,7 +60045,7 @@ var stations = {/*
         {
             name: "TikTok Radio 105.3-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "US 106.1",
@@ -61658,7 +61653,7 @@ var stations = {/*
         {
             name: "TikTok Radio 106.1-HD2",
             logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://stream.revma.ihrhls.com/zc11325/hls.m3u8"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
         },
         {
             name: "WNOV 106.5",
