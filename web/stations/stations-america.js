@@ -2061,7 +2061,7 @@ var stations = {/*
         {
             name: "96.5 KPSL-HD2",
             logo: "stations/images-america/bakersfield/Radio Lobo 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIFMAAC.aac"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIFMAAC.aac"
         },
         {
             name: "96.9 La Caliente",
@@ -2106,7 +2106,7 @@ var stations = {/*
         {
             name: "Radio Lobo 102.9",
             logo: "stations/images-america/bakersfield/Radio Lobo 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIFMAAC_SC"
         },
         {
             name: "KRUZ 103.3",
@@ -16450,7 +16450,7 @@ var stations = {/*
         {
             name: "97.1 KXPT-HD2",
             logo: "stations/images-america/las_vegas/98.9 HANK FM.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
         },
         {
             name: "Hot 97.5",
@@ -16480,7 +16480,7 @@ var stations = {/*
         {
             name: "98.9 HANK FM",
             logo: "stations/images-america/las_vegas/98.9 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXPTHD2AAC_SC"
         },
         {
             name: "Latino Beats 99.3",
@@ -67987,7 +67987,7 @@ var stations = {/*
 		{
             name: "RNV Informativo 89.5",
             logo: "stations/images-america/caribbean/puntofijo/RNV Informativo 89.5.png",
-            url: "http://rnv.lorini.net:29100/RNVINFORMATIVO"
+            url: "http://guri.tepuyserver.net/8048/stream"
         },
 		{
             name: "La Romántica 90.3",
