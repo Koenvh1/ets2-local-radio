@@ -9369,6 +9369,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEM_FMAAC_SC"
         },
         {
+            name: "KY 104.3",
+            logo: "stations/images-america/el_paso/KY 104.3.png",
+            url: "https://sg.centrocibernetico.com/audiorama-xhto"
+        },
+        {
             name: "Switch 105.9",
             logo: "stations/images-america/el_paso/Switch 105.9.png",
             url: "https://stream.zeno.fm/xgb5q6s71rhvv"
@@ -19853,9 +19858,9 @@ var stations = {/*
             url: "http://174.87.104.13:8002/;"
         },
         {
-            name: "93.9 KBBU",
-            logo: "stations/images-america/modesto/Radio Lazer 94.3.png",
-            url: "https://stream.zeno.fm/p94mr8cujmtvv"
+            name: "Radio Lazer 93.9",
+            logo: "stations/images-america/modesto/Radio Lazer 93.9.png",
+            url: "https://cast.streamkast.co:9225/kbbu"
         },
         {
             name: "94.7 K234CV",
@@ -24262,7 +24267,7 @@ var stations = {/*
         {
             name: "100.1 HANK FM",
             logo: "stations/images-america/reno/100.1 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KXZZFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXZZFMAAC_SC"
         },
         {
             name: "FUN 101",
@@ -25174,7 +25179,7 @@ var stations = {/*
         {
             name: "Radio Lazer 94.3",
             logo: "stations/images-america/sacramento/Radio Lazer.png",
-            url: "https://stream.zeno.fm/p94mr8cujmtvv"
+            url: "https://cast.streamkast.co:9225/kbbu"
         },
         {
             name: "ALT 94.7",
@@ -25274,7 +25279,7 @@ var stations = {/*
         {
             name: "Radio Lazer 103.3",
             logo: "stations/images-america/sacramento/Radio Lazer.png",
-            url: "http://stream.zeno.fm/p94mr8cujmtvv"
+            url: "http://cast.streamkast.co:9225/kbbu"
         },
         {
             name: "Real Country 103.5",
@@ -38401,7 +38406,7 @@ var stations = {/*
         {
             name: "GHQ 95.3",
             logo: "stations/images-america/c2c/gainesville_fl/GHQ 95.3.png",
-            url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7269_48k.aac"
+            url: "https://ais-sa1.streamon.fm/7269_48k.aac"
         },
         {
             name: "HOT 95.9",
@@ -40326,19 +40331,19 @@ var stations = {/*
             url: "https://stream.wmnf.org/wmnf_high_quality"
         },
         {
-            name: "New Sounds 88.5-HD2",
-            logo: "stations/images-america/c2c/tampa_fl/New Sounds 88.5-HD2.png",
-            url: "https://stream.wmnf.org:4443/wmnf_hd2"
+            name: "Urban Café 88.5-HD2",
+            logo: "stations/images-america/c2c/tampa_fl/Urban Café 88.5-HD2.png",
+            url: "https://stream.wmnf.org/wmnf_hd2"
         },
         {
             name: "The Source 88.5-HD3",
             logo: "stations/images-america/c2c/tampa_fl/The Source 88.5-HD3.png",
-            url: "https://stream.wmnf.org:4443/wmnf_hd3"
+            url: "https://stream.wmnf.org/wmnf_hd3"
         },
         {
-            name: "Soul School 88.5-HD4",
-            logo: "stations/images-america/c2c/tampa_fl/Soul School 88.5-HD4.png",
-            url: "https://stream.wmnf.org:4443/wmnf_hd4"
+            name: "Radio Collective 88.5-HD4",
+            logo: "stations/images-america/c2c/tampa_fl/88.5 WMNF.png",
+            url: "https://stream.wmnf.org/wmnf_hd4"
         },
         {
             name: "WUSF 89.7",
