@@ -16914,9 +16914,9 @@ var stations = {/*
             url: "http://64.131.95.13:7803/stream"
         },
         {
-            name: "HITS 104.7",
-            logo: "stations/images-america/lewiston/HITS 104.7.png",
-            url: "http://64.131.95.13:7805/stream"
+            name: "104.7 Jack FM",
+            logo: "stations/images-america/lewiston/104.7 Jack FM.png",
+            url: "http://us9.maindigitalstream.com:7805/stream"
         },
         {
             name: "The River 105.1",
