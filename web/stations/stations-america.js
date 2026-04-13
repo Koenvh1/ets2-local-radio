@@ -25103,7 +25103,7 @@ var stations = {/*
         },
         {
             name: "dot.bible Українська 88.1-HD4",
-            logo: "stations/images-america/0_general_logos/dot.bible Українська.png",
+            logo: "stations/images-america/sacramento/dot.bible Українська 88.1-HD4.png",
             url: "https://streaming.radio.co/sb28e65291/listen"
         },
         {
