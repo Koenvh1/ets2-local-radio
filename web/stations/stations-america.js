@@ -25097,9 +25097,14 @@ var stations = {/*
             url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
         },
         {
-            name: "VCY America 88.1-HD2",
+            name: "VCY America 88.1-HD3",
             logo: "stations/images-america/0_general_logos/VCY America.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "dot.bible Українська 88.1-HD4",
+            logo: "stations/images-america/0_general_logos/dot.bible Українська.png",
+            url: "https://streaming.radio.co/sb28e65291/listen"
         },
         {
             name: "CapRadio Music 88.9",
