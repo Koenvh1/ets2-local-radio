@@ -2044,8 +2044,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kisvfmaac-ibc3"
         },
         {
-            name: "Live 95.3",
-            logo: "stations/images-america/bakersfield/Live 95.3.png",
+            name: "Kelly 95.3",
+            logo: "stations/images-america/bakersfield/Kelly 95.3.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kllyfmaac-ibc4"
         },
         {
@@ -43680,7 +43680,7 @@ var stations = {/*
         {
             name: "98.7 WASK",
             logo: "stations/images-america/c2c/lafayette_in/98.7 WASK.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WASKFMAAC_SC"
+            url: "https://live.amperwave.net/manifest/saga-waskfmaac-imc"
         },
         {
             name: "Shine.fm 99.7",
@@ -55193,7 +55193,7 @@ var stations = {/*
         {
             name: "Money Radio 1450",
             logo: "stations/images-america/c2c/erie_pa/Money Radio 107.1.png",
-            url: "http://radio.bd.psu.edu:8501/wpse"
+            url: "https:///radio.bd.psu.edu:8501/wpse"
         },
         {
             name: "Talk Erie 1530",
