@@ -4779,7 +4779,7 @@ var stations = {/*
         {
             name: "95.1 Smart FM",
             logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
-            url: "https://stream.aiir.com/zzwmt6hx9davv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/zzwmt6hx9davv"
         },
         {
             name: "Sports Radio 95.7",
@@ -4804,17 +4804,17 @@ var stations = {/*
         {
             name: "102.9 KZIA-HD2",
             logo: "stations/images-america/cedar_rapids/95.1 Smart FM.png",
-            url: "http://stream.aiir.com/zzwmt6hx9davv"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://stream.aiir.com/zzwmt6hx9davv"
         },
         {
             name: "102.9 KZIA-HD3",
             logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
-            url: "https:///stream.aiir.com/oziogm3evamtv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https:///stream.aiir.com/oziogm3evamtv"
         },
         {
             name: "102.9 KZIA-HD4",
             logo: "stations/images-america/cedar_rapids/X107.5.png",
-            url: "http://stream.aiir.com/w5gqqmqf9crtv"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://stream.aiir.com/w5gqqmqf9crtv"
         },
         {
             name: "K-LOVE 103.9",
@@ -4834,7 +4834,7 @@ var stations = {/*
         {
             name: "X107.5",
             logo: "stations/images-america/cedar_rapids/X107.5.png",
-            url: "https://stream.aiir.com/w5gqqmqf9crtv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/w5gqqmqf9crtv"
         },
         {
             name: "IPR News 910",
@@ -4906,7 +4906,7 @@ var stations = {/*
         {
             name: "Z102.9",
             logo: "stations/images-america/cedar_valley/Z102.9.png",
-            url: "https://stream.aiir.com/xik7zl1gxcstv"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/xik7zl1gxcstv"
         },
         {
             name: "104.5 KDAT",
@@ -9874,7 +9874,7 @@ var stations = {/*
         {
             name: "KEED 1450",
             logo: "stations/images-america/eugene/KEED 1450.png",
-            url: "http://207.244.126.86:7439/stream"
+            url: "http://us2.maindigitalstream.com/stream/keed"
         },
     ],
     "eureka": [
@@ -53992,7 +53992,7 @@ var stations = {/*
         {
             name: "107.3 Alternative Cleveland",
             logo: "stations/images-america/c2c/cleveland_oh/107.3 Alternative Cleveland.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNWVFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/10586_96k.aac"
         },/*
         {
             name: "Rumba 107.3-HD2",
@@ -64166,7 +64166,7 @@ var stations = {/*
         {
             name: "98.5",
             logo: "stations/images-america/canada/montreal/98.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC_SC"
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC_SC"
         },
         {
             name: "99.5 Montréal",
