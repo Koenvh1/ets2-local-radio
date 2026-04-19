@@ -1316,6 +1316,9 @@ var city_properties = {
     "grong": {
         relative_radius: 0.9,
     },
+    "groningen": {
+        relative_radius: 1.1,
+    },
     "guamka": {
         relative_radius: 0.5,
     },
@@ -1622,6 +1625,9 @@ var city_properties = {
     "lerwick": {
         relative_radius: 0.5,
     },
+    "libramont": {
+        relative_radius: 0.75,
+    },
     "liege": {
         relative_radius: 1.2,
     },
@@ -1663,6 +1669,9 @@ var city_properties = {
     },
     "maan": {
         relative_radius: 1.1,
+    },
+    "maastricht": {
+        relative_radius: 0.5,
     },
     "mahon": {
         relative_radius: 0.5,
@@ -2442,6 +2451,10 @@ var city_properties = {
     "zvolen": {
         relative_radius: 0.85,
     },
+    "zwolle": {
+        relative_radius: 1.2,
+        relative_whitenoise: 0.9,
+    },
 };
 
 
@@ -2611,9 +2624,9 @@ var cities = [
         "gameName": "antwerp",
         "realName": "Antwerpen",
         "country": "belgium-nl",
-        "x": "-21215.1",
-        "y": "82",
-        "z": "-5293.52"
+        "x": "-21700.68",
+        "y": "97.15625",
+        "z": "-5680.766"
     },
     {
         "gameName": "arad",
@@ -3096,20 +3109,28 @@ var cities = [
         "z": "-59401.6"
     },
     {
+        "gameName": "brugge",
+        "realName": "Brugge",
+        "country": "belgium-nl",
+        "x": "-26592.49",
+        "y": "100",
+        "z": "-5502.55"
+    },
+    {
         "gameName": "brussel",
         "realName": "Brussel",
         "country": "belgium-nl",
-        "x": "-21853.1",
-        "y": "99.3594",
-        "z": "-2960.22"
+        "x": "-22100.25",
+        "y": "85.05859",
+        "z": "-2415.148"
     },
     {
         "gameName": "brussel",
         "realName": "Brussel",
         "country": "belgium-fr",
-        "x": "-21853.1",
-        "y": "99.3594",
-        "z": "-2960.22"
+        "x": "-22100.25",
+        "y": "85.05859",
+        "z": "-2415.148"
     },
     {
         "gameName": "bucuresti",
@@ -3899,9 +3920,9 @@ var cities = [
         "gameName": "groningen",
         "realName": "Groningen",
         "country": "netherlands",
-        "x": "-12437.6",
-        "y": "68.8711",
-        "z": "-15468.7"
+        "x": "-12662.06",
+        "y": "72.34766",
+        "z": "-15700.68"
     },
     {
         "gameName": "grudziadz",
@@ -4832,12 +4853,20 @@ var cities = [
         "z": "-3384.61"
     },
     {
+        "gameName": "libramont",
+        "realName": "Libramont-Chevigny",
+        "country": "belgium-fr",
+        "x": "-19318.04",
+        "y": "100",
+        "z": "1442.6846"
+    },
+    {
         "gameName": "liege",
         "realName": "Liège",
         "country": "belgium-fr",
-        "x": "-17181.5",
-        "y": "108.012",
-        "z": "-1231.25"
+        "x": "-17144.41",
+        "y": "144.9766",
+        "z": "-844.0664"
     },
     {
         "gameName": "liepaja",
@@ -4987,9 +5016,9 @@ var cities = [
         "gameName": "luxembourg",
         "realName": "Luxembourg",
         "country": "luxembourg",
-        "x": "-16134.2",
-        "y": "152.621",
-        "z": "4382.97"
+        "x": "-16345.31",
+        "y": "115.0234",
+        "z": "3665.301"
     },
     {
         "gameName": "lyon",
@@ -4998,6 +5027,14 @@ var cities = [
         "x": "-23869.8",
         "y": "139.359",
         "z": "25892.3"
+    },
+    {
+        "gameName": "maastricht",
+        "realName": "Maastricht",
+        "country": "netherlands",
+        "x": "-16694.99",
+        "y": "100",
+        "z": "-3208.71"
     },
     {
         "gameName": "magdeburg",

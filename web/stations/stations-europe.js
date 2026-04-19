@@ -7438,8 +7438,8 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/DAB01_AAC_SC"
         },
         {
-            name: "Radio Veronica Non-Stop",
-            logo: "stations/images-europe/netherlands/Radio Veronica Non-Stop.png",
+            name: "Radio Veronica De Beste 90s",
+            logo: "stations/images-europe/netherlands/Radio Veronica De Beste 90s.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/DAB02_AAC_SC"
         },
         {
