@@ -3372,6 +3372,158 @@ var stations = {/*
             url: "https://streaming.live365.com/a16395_2"
         },
     ],
+    "bloomington": [
+        {
+            name: "WESN 88.1",
+            logo: "stations/images-america/bloomington/WESN 88.1.png",
+            url: "https://streams.radiomast.io/9446a7ef-e0a9-43b2-b34c-6e8a6bea9d58"
+        },
+        {
+            name: "WGLT 89.1",
+            logo: "stations/images-america/bloomington/WGLT 89.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLT_NIAAC_SC"
+        },
+        {
+            name: "Great News Radio 90.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
+            name: "Illinois Classical 90.9",
+            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
+            url: "https://icecast.will.illinois.edu/WILLFM-48"
+        },
+        {
+            name: "92.1 The Bull",
+            logo: "stations/images-america/bloomington/107.7 The Bull.png",
+            url: "http://84.32.44.251/index.php?u=http://ice23.securenetsystems.net/WIBL"
+        },
+        {
+            name: "Catholic Spirit Radio 92.1",
+            logo: "stations/images-america/0_general_logos/Catholic Spirit Radio.png",
+            url: "https://ice23.securenetsystems.net/WSPI"
+        },
+        {
+            name: "Cities 92.9",
+            logo: "stations/images-america/bloomington/Cities 92.9.png",
+            url: "https://ice23.securenetsystems.net/WRPW"
+        },
+        {
+            name: "WXRJ 94.9",
+            logo: "stations/images-america/bloomington/WXRJ 94.9.png",
+            url: "http://uk19freenew.listen2myradio.com:4191/;"
+        },
+        {
+            name: "K-LOVE 96.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "97.9 BOB FM",
+            logo: "stations/images-america/bloomington/97.9 BOB FM.png",
+            url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/WBBE"
+        },
+        {
+            name: "98.9 W255AI",
+            logo: "stations/images-america/c2c/peoria_il/WCIC.png",
+            url: "https://nwm.streamguys1.com/WCIC-AAC"
+        },
+        {
+            name: "Magic 99.5",
+            logo: "stations/images-america/bloomington/Magic 99.5.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WZIM"
+        },
+        {
+            name: "100.1 W261BK",
+            logo: "stations/images-america/c2c/peoria_il/WBNH 88.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNHFM_SC"
+        },
+        {
+            name: "Faith 100.7",
+            logo: "stations/images-america/0_general_logos/Faith Radio.png",
+            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+        },
+        {
+            name: "101.5 WBNQ",
+            logo: "stations/images-america/bloomington/101.5 WBNQ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNQFMAAC_SC"
+        },
+        {
+            name: "102.1 W271DC",
+            logo: "stations/images-america/bloomington/WJBC.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
+        },
+        {
+            name: "103.3 WZND",
+            logo: "stations/images-america/bloomington/103.3 WZND.png",
+            url: "https://ice25.securenetsystems.net/WZNDLP"
+        },
+        {
+            name: "B104",
+            logo: "stations/images-america/bloomington/B104.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBWNFMAAC_SC"
+        },
+        {
+            name: "104.7 W284BT",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
+            name: "106.5 W293DJ",
+            logo: "stations/images-america/bloomington/WHOW.png",
+            url: "http://84.32.44.251/index.php?u=http://ice7.securenetsystems.net/WHOW"
+        },
+        {
+            name: "107.7 The Bull",
+            logo: "stations/images-america/bloomington/107.7 The Bull.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WIBL"
+        },
+        {
+            name: "WILL 580",
+            logo: "stations/images-america/0_general_logos/WILL AM.png",
+            url: "https://icecast.will.illinois.edu/WILL-mp3-48"
+        },
+        {
+            name: "670 WSCR",
+            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "WGN Radio 720",
+            logo: "stations/images-america/c2c/chicago_il/WGN Radio 720.png",
+            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
+        },
+        {
+            name: "WLS 890",
+            logo: "stations/images-america/c2c/chicago_il/WLS 890.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "1020 WPEO",
+            logo: "stations/images-america/c2c/peoria_il/The Word.png",
+            url: "https://ice64.securenetsystems.net/WPEO"
+        },
+        {
+            name: "WVEL 1140",
+            logo: "stations/images-america/c2c/peoria_il/WVEL 1140.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVELAMAAC_SC"
+        },
+        {
+            name: "WJBC AM 1230",
+            logo: "stations/images-america/bloomington/WJBC.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
+        },
+        {
+            name: "1470 WMBD",
+            logo: "stations/images-america/c2c/peoria_il/WMBD.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
+        },
+        {
+            name: "The BIG 1520",
+            logo: "stations/images-america/bloomington/WHOW.png",
+            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WHOW"
+        },
+    ],
     "bluff": [
         {
             name: "KSJD 90.5",
@@ -42204,108 +42356,6 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7936_96k.aac"
         },
     ],
-    "bloomington_il": [
-        {
-            name: "WESN 88.1",
-            logo: "stations/images-america/c2c/bloomington_il/WESN 88.1.png",
-            url: "https://streams.radiomast.io/9446a7ef-e0a9-43b2-b34c-6e8a6bea9d58"
-        },
-        {
-            name: "WGLT 89.1",
-            logo: "stations/images-america/c2c/bloomington_il/WGLT 89.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLT_NIAAC_SC"
-        },
-        {
-            name: "Great News Radio 90.3",
-            logo: "stations/images-america/0_general_logos/Great News Radio.png",
-            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
-        },
-        {
-            name: "WILL 90.9",
-            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
-            url: "https://icecast.will.illinois.edu/WILLFM-48"
-        },
-        {
-            name: "Cities 92.9",
-            logo: "stations/images-america/c2c/bloomington_il/Cities 92.9.png",
-            url: "https://ice23.securenetsystems.net/WRPW"
-        },
-        {
-            name: "93.3 The Drive",
-            logo: "stations/images-america/c2c/bloomington_il/93.3 The Drive.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFMAAC_SC"
-        },
-        {
-            name: "WXRJ 94.9",
-            logo: "stations/images-america/c2c/bloomington_il/WXRJ 94.9.png",
-            url: "http://uk19freenew.listen2myradio.com:4191/;"
-        },
-        {
-            name: "K-LOVE 96.7",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "97.9 BOB FM",
-            logo: "stations/images-america/c2c/bloomington_il/97.9 BOB FM.png",
-            url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/WBBE"
-        },
-        {
-            name: "Magic 99.5",
-            logo: "stations/images-america/c2c/bloomington_il/Magic 99.5.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WZIM"
-        },
-        {
-            name: "Faith 100.7",
-            logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
-        },
-        {
-            name: "101.5 WBNQ",
-            logo: "stations/images-america/c2c/bloomington_il/101.5 WBNQ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNQFMAAC_SC"
-        },
-        {
-            name: "103.3 WZND",
-            logo: "stations/images-america/c2c/bloomington_il/103.3 WZND.png",
-            url: "https://ice25.securenetsystems.net/WZNDLP"
-        },
-        {
-            name: "B104",
-            logo: "stations/images-america/c2c/bloomington_il/B104.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBWNFMAAC_SC"
-        },
-        {
-            name: "Great News Radio 104.7",
-            logo: "stations/images-america/0_general_logos/Great News Radio.png",
-            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
-        },
-        {
-            name: "105.7 The X",
-            logo: "stations/images-america/c2c/bloomington_il/105.7 The X.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXOFMAAC_SC"
-        },
-        {
-            name: "Mix 106.9",
-            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
-        },
-        {
-            name: "107.7 The Bull",
-            logo: "stations/images-america/c2c/bloomington_il/107.7 The Bull.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WIBL"
-        },
-        {
-            name: "WJBC AM 1230",
-            logo: "stations/images-america/c2c/bloomington_il/WJBC AM 1230.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
-        },
-        {
-            name: "1520 WHOW",
-            logo: "stations/images-america/c2c/bloomington_il/1520 WHOW.png",
-            url: "http://84.32.44.251/index.php?u=https://ice7.securenetsystems.net/WHOW"
-        },
-    ],
     "champaign_il": [
         {
             name: "Air1 88.3",
@@ -42329,7 +42379,7 @@ var stations = {/*
         },
         {
             name: "WILL 90.9",
-            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
+            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
             url: "https://icecast.will.illinois.edu/WILLFM-48"
         },
         {
@@ -42384,7 +42434,7 @@ var stations = {/*
         },
         {
             name: "101.1 W266AF",
-            logo: "stations/images-america/c2c/bloomington_il/WILL 90.9.png",
+            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
             url: "https://icecast.will.illinois.edu/WILL-mp3-48"
         },
         {
@@ -42444,7 +42494,7 @@ var stations = {/*
         },
         {
             name: "WJBC AM 1230",
-            logo: "stations/images-america/c2c/bloomington_il/WJBC AM 1230.png",
+            logo: "stations/images-america/bloomington/WJBC AM 1230.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
         },
         {
@@ -42947,7 +42997,7 @@ var stations = {/*
         },
         {
             name: "WCIC 91.5",
-            logo: "stations/images-america/c2c/peoria_il/WCIC 91.5.png",
+            logo: "stations/images-america/c2c/peoria_il/WCIC.png",
             url: "https://nwm.streamguys1.com/WCIC-AAC"
         },
         {
@@ -42992,7 +43042,7 @@ var stations = {/*
         },
         {
             name: "100.3 WMBD",
-            logo: "stations/images-america/c2c/peoria_il/100.3 WMBD.png",
+            logo: "stations/images-america/c2c/peoria_il/WMBD.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
         },
         {
@@ -43032,7 +43082,7 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/bloomington_il/Mix 106.9.png",
+            logo: "stations/images-america/bloomington/Mix 106.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
         },
         {

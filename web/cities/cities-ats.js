@@ -245,6 +245,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.8
     },
+    "bloomington": {
+        name: "Bloomington",
+        name_english: "Bloomington",
+        code: "us-il",
+        relative_radius: 0.7
+    },
     "bluff": {
         name: "Bluff",
         name_english: "Bluff",
@@ -2629,6 +2635,9 @@ var city_properties = {
     "billings": {
         relative_whitenoise: 0.95
     },
+    "bloomington": {
+        relative_whitenoise: 0.95
+    },
     "bluff": {
         relative_whitenoise: 0.95
     },
@@ -4266,6 +4275,14 @@ var cities = [
         "x": "-97447.9",
         "y": "192.806",
         "z": "-835.484"
+    },
+    {
+        "gameName": "bloomington",
+        "realName": "Bloomington",
+        "country": "bloomington",
+        "x": "30066.2",
+        "y": "9.52509",
+        "z": "-9248.75"
     },
     {
         "gameName": "bluff",
@@ -10218,12 +10235,6 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 1.0
     },
-    "bloomington_il": {
-        name: "Bloomington",
-        name_english: "Bloomington",
-        code: "us-il",
-        relative_radius: 0.7
-    },
     "champaign_il": {
         name: "Champaign",
         name_english: "Champaign",
@@ -11468,9 +11479,6 @@ var city_properties_c2c = {
     "naalehu": {
         relative_whitenoise: 0.85
     },
-    "bloomington_il": {
-        relative_whitenoise: 0.95
-    },
     "champaign_il": {
         relative_whitenoise: 0.95
     },
@@ -12342,14 +12350,6 @@ var cities_c2c = [
         "x": "-302175",
         "y": "85.836",
         "z": "48855.6"
-    },
-    {
-        "gameName": "bloomington_il",
-        "realName": "Bloomington",
-        "country": "bloomington_il",
-        "x": "30066.2",
-        "y": "9.52509",
-        "z": "-9248.75"
     },
     {
         "gameName": "champaign_il",
