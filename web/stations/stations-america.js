@@ -3485,17 +3485,17 @@ var stations = {/*
         },
         {
             name: "670 WSCR",
-            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
         },
         {
             name: "WGN Radio 720",
-            logo: "stations/images-america/c2c/chicago_il/WGN Radio 720.png",
+            logo: "stations/images-america/chicago/WGN Radio 720.png",
             url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
         },
         {
             name: "WLS 890",
-            logo: "stations/images-america/c2c/chicago_il/WLS 890.png",
+            logo: "stations/images-america/chicago/WLS 890.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
         },
         {
@@ -4602,7 +4602,7 @@ var stations = {/*
         },
         {
             name: "106.9 K295FB",
-            logo: "stations/images-america/c2c/champaign_il/WBGL 91.7.png",
+            logo: "stations/images-america/champaign/WBGL 91.7.png",
             url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
         },
         {
@@ -5163,6 +5163,158 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7325_48k.aac"
         },
     ],
+    "champaign": [
+        {
+            name: "Air1 88.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "88.7 WPCD FM",
+            logo: "stations/images-america/champaign/88.7 WPCD FM.png",
+            url: "https://ice24.securenetsystems.net/WPCD"
+        },
+        {
+            name: "Great News Radio 89.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
+            name: "WEFT 90.1 fm",
+            logo: "stations/images-america/champaign/WEFT 90.1 fm.png",
+            url: "https://weft.broadcasttool.stream/stream"
+        },
+        {
+            name: "Illinois Classical 90.9",
+            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
+            url: "https://icecast.will.illinois.edu/WILLFM-48"
+        },
+        {
+            name: "90.9 WILL-HD3",
+            logo: "stations/images-america/0_general_logos/WILL AM.png",
+            url: "https:///icecast.will.illinois.edu/WILL-mp3-48"
+        },
+        {
+            name: "WBGL 91.7",
+            logo: "stations/images-america/champaign/WBGL 91.7.png",
+            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+        },
+        {
+            name: "Rewind 92.5",
+            logo: "stations/images-america/champaign/Rewind 92.5.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wreefmaac-ibc1"
+        },
+        {
+            name: "ESPN 93.5",
+            logo: "stations/images-america/champaign/ESPN 93.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSJKFMAAC_SC"
+        },
+        {
+            name: "WDWS Newstalk 93.9",
+            logo: "stations/images-america/champaign/WDWS Newstalk 1400.png",
+            url: "https://ice25.securenetsystems.net/WDWS"
+        },
+        {
+            name: "Mix 94.5",
+            logo: "stations/images-america/champaign/Mix 94.5.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlrwfmaac-ibc1"
+        },
+        {
+            name: "94.5 WLRW-HD2",
+            logo: "stations/images-america/champaign/97.9 The Vibe.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/saga-wlrwhd2aac-imc"
+        },
+        {
+            name: "eXtra 96.9",
+            logo: "stations/images-america/champaign/eXtra 96.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd2aac-imc"
+        },
+        {
+            name: "WHMS 97.5",
+            logo: "stations/images-america/champaign/WHMS 97.5.png",
+            url: "https://ice25.securenetsystems.net/WHMS"
+        },
+        {
+            name: "97.9 The Vibe",
+            logo: "stations/images-america/champaign/97.9 The Vibe.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/saga-wlrwhd2aac-imc"
+        },
+        {
+            name: "WYXY Classic 99.1",
+            logo: "stations/images-america/champaign/WYXY Classic 99.1.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wyxyfmaac-ibc1"
+        },
+        {
+            name: "EZ 99.7",
+            logo: "stations/images-america/champaign/EZ 99.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd3aac-imc"
+        },
+        {
+            name: "WIXY 100.3",
+            logo: "stations/images-america/champaign/WIXY 100.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyfmaac-ibc1"
+        },
+        {
+            name: "101.1 W266AF",
+            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
+            url: "https:///icecast.will.illinois.edu/WILLFM-48"
+        },
+        {
+            name: "WGNN 103.9",
+            logo: "stations/images-america/champaign/WGNN 103.9.png",
+            url: "https://ais-sa1.streamon.fm/7667_48k.aac"
+        },
+        {
+            name: "Radio Free Urbana 104.5",
+            logo: "stations/images-america/champaign/Radio Free Urbana 104.5.png",
+            url: "http://stream.wrfu.net:8000/airtime_ogg320"
+        },
+        {
+            name: "WKIO 105.5",
+            logo: "stations/images-america/champaign/WKIO 105.5.png",
+            url: "https://ice25.securenetsystems.net/WKIO"
+        },
+        {
+            name: "106.5 W293DB",
+            logo: "stations/images-america/champaign/Radio Variedades.png",
+            url: "https://us2.maindigitalstream.com/ssl/WKJR"
+        },
+        {
+            name: "WPGU 107.1",
+            logo: "stations/images-america/champaign/WPGU 107.1.png",
+            url: "https://ice64.securenetsystems.net/WPGUFM"
+        },
+        {
+            name: "107.9 The Rooster",
+            logo: "stations/images-america/champaign/107.9 The Rooster.png",
+            url: "https://ice26.securenetsystems.net/WDWSFM"
+        },
+        {
+            name: "WILL 580",
+            logo: "stations/images-america/0_general_logos/WILL AM.png",
+            url: "https://icecast.will.illinois.edu/WILL-mp3-48"
+        },
+        {
+            name: "670 WSCR",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "ESPN 1000",
+            logo: "stations/images-america/chicago/ESPN 1000.png",
+            url: "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
+        },
+        {
+            name: "WDWS Newstalk 1400",
+            logo: "stations/images-america/champaign/WDWS Newstalk 1400.png",
+            url: "http://ice25.securenetsystems.net/WDWS"
+        },
+        {
+            name: "Radio Variedades 1460",
+            logo: "stations/images-america/champaign/Radio Variedades.png",
+            url: "https:///us2.maindigitalstream.com/ssl/WKJR"
+        },
+    ],
     "cheyenne": [
         {
             name: "WPR 91.5",
@@ -5253,6 +5405,438 @@ var stations = {/*
             name: "1480 KRAE",
             logo: "stations/images-america/cheyenne/1480 KRAE.png",
             url: "http://ice7.securenetsystems.net/KYOYFM"
+        },
+    ],
+    "chicago": [
+        {
+            name: "87.7 MeTV FM",
+            logo: "stations/images-america/chicago/87.7 MeTV FM.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
+        },
+        {
+            name: "WZRD 88.3",
+            logo: "stations/images-america/chicago/WZRD 88.3.png",
+            url: "https://wzrd.streamguys1.com/live"
+        },
+        {
+            name: "WHPK 88.5",
+            logo: "stations/images-america/chicago/WHPK 88.5.png",
+            url: "https://whpk-stream.uchicago.edu/stream"
+        },
+        {
+            name: "WLUW 88.7",
+            logo: "stations/images-america/chicago/WLUW 88.7.png",
+            url: "https://ice26.securenetsystems.net/WLUW"
+        },
+        {
+            name: "WIIT 88.9",
+            logo: "stations/images-america/chicago/WIIT 88.9.png",
+            url: "https://icecast.iit.edu/WIITstream"
+        },
+        {
+            name: "WKKC 89.3",
+            logo: "stations/images-america/chicago/WKKC 89.3.png",
+            url: "https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1"
+        },
+        {
+            name: "Moody Radio 90.1",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBIFMAAC_SC"
+        },
+        {
+            name: "90.9 WDCB",
+            logo: "stations/images-america/chicago/90.9 WDCB.png",
+            url: "https://wdcb-ice.streamguys1.com/wdcb128"
+        },
+        {
+            name: "Vocalo 91.1",
+            logo: "stations/images-america/chicago/Vocalo 91.1.png",
+            url: "https://stream.wbez.org/vocalo128"
+        },
+        {
+            name: "WBEZ 91.5",
+            logo: "stations/images-america/chicago/WBEZ 91.5.png",
+            url: "https://stream.wbez.org/wbez64-web.aac"
+        },
+        {
+            name: "Power 92",
+            logo: "stations/images-america/chicago/Power 92.png",
+            url: "https://ais-sa8.cdnstream1.com/pptsa5hdbog/cjo5jxmng7u"
+        },
+        {
+            name: "92.3 WPWX-HD2",
+            logo: "stations/images-america/chicago/Rejoice 102.png",
+            url: "https://ais-sa8.cdnstream1.com/pphmw4xd6g4/cq0clv82v6o"
+        },
+        {
+            name: "93XRT",
+            logo: "stations/images-america/chicago/93XRT.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxrtfmaac-imc"
+        },
+        {
+            name: "93.5 Latino Mix",
+            logo: "stations/images-america/chicago/93.5 Latino Mix.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wvivfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "93.9 LITE FM",
+            logo: "stations/images-america/chicago/93.9 LITE FM.png",
+            url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
+        },
+        {
+            name: "Air1 94.3",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE Eras 94.3-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+        },
+        {
+            name: "94.7 WLS",
+            logo: "stations/images-america/chicago/94.7 WLS.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC"
+        },
+        {
+            name: "94.7 WLS-HD2",
+            logo: "stations/images-america/chicago/WLS 890.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "Streetz 95.1",
+            logo: "stations/images-america/chicago/Streetz 95.1.png",
+            url: "http://104.6.216.93:8000/chitown"
+        },
+        {
+            name: "ROCK 95.5",
+            logo: "stations/images-america/chicago/ROCK 95.5.png",
+            url: "https://stream.revma.ihrhls.com/zc857/hls.m3u8"
+        },
+        {
+            name: "BIG 95.5-HD2",
+            logo: "stations/images-america/chicago/BIG 95.5-HD2.png",
+            url: "https://stream.revma.ihrhls.com/zc8731/hls.m3u8"
+        },
+        {
+            name: "B96",
+            logo: "stations/images-america/chicago/B96.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmfmaac-imc"
+        },
+        {
+            name: "Channel Q 96.3-HD2",
+            logo: "stations/images-america/0_general_logos/Channel Q.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
+        },
+        {
+            name: "97.1 The Drive",
+            logo: "stations/images-america/chicago/97.1 The Drive.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDRVFMAAC_SC"
+        },
+        {
+            name: "BOOST 97.5",
+            logo: "stations/images-america/0_general_logos/Boost Radio.png",
+            url: "https://gateway.cdnstream1.com/boost-live"
+        },
+        {
+            name: "K-LOVE 97.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "97.9 WCKL-HD2",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "97.9 WCKL-HD3",
+            logo: "stations/images-america/0_general_logos/Boost Radio.png",
+            url: "http://gateway.cdnstream1.com/boost-live"
+        },
+        {
+            name: "98.3 W252AW",
+            logo: "stations/images-america/chicago/WRLL 1450.png",
+            url: "https://streaming.live365.com/a96396_2"
+        },
+        {
+            name: "98.7 WFMT",
+            logo: "stations/images-america/chicago/98.7 WFMT.png",
+            url: "http://stream.wfmt.com/main"
+        },
+        {
+            name: "WZQC 99.1",
+            logo: "stations/images-america/chicago/WZQC 99.1.png",
+            url: "https://c7.radioboss.fm:18118/stream"
+        },
+        {
+            name: "US 99",
+            logo: "stations/images-america/chicago/US 99.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
+        },
+        {
+            name: "BBN 99.9",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "Throwback 100.3",
+            logo: "stations/images-america/chicago/Throwback 100.3.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTBCFMAAC_SC"
+        },
+        {
+            name: "100.3 WTBC-HD2",
+            logo: "stations/images-america/chicago/ESPN 1000.png",
+            url: "http://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
+        },
+        {
+            name: "Calvary Radio Network 100.7",
+            logo: "stations/images-america/c2c/fort_wayne_in/Calvary Radio Network 102.9.png",
+            url: "https://lunar.citrus3.com:8030/stream"
+        },
+        {
+            name: "Q101",
+            logo: "stations/images-america/chicago/Q101.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC_SC"
+        },
+        {
+            name: "The Loop 101.1-HD2",
+            logo: "stations/images-america/chicago/The Loop 101.1-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFMAAC_SC"
+        },
+        {
+            name: "Radio Nueva Vida 101.5",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://ice10.securenetsystems.net/KMRO"
+        },
+        {
+            name: "101.9 THE MIX",
+            logo: "stations/images-america/chicago/101.9 THE MIX.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTMXFMAAC_SC"
+        },
+        {
+            name: "102.3 W272DQ",
+            logo: "stations/images-america/chicago/WCKG.png",
+            url: "http://ice7.securenetsystems.net/WCKG"
+        },
+        {
+            name: "V103",
+            logo: "stations/images-america/chicago/V103.png",
+            url: "https://stream.revma.ihrhls.com/zc865/hls.m3u8"
+        },
+        {
+            name: "102.7 WVAZ-HD2",
+            logo: "stations/images-america/chicago/BIN 640.png",
+            url: "https://stream.revma.ihrhls.com/zc9553"
+        },
+        {
+            name: "WPNA 103.1",
+            logo: "stations/images-america/chicago/WPNA 103.1.png",
+            url: "https://mercury.reliastream.com/proxy/wpnafmad?mp=/stream"
+        },
+        {
+            name: "103.5 KISS FM",
+            logo: "stations/images-america/chicago/103.5 KISS FM.png",
+            url: "https://stream.revma.ihrhls.com/zc849/hls.m3u8"
+        },
+        {
+            name: "Pride Radio 103.5-HD2",
+            logo: "stations/images-america/0_general_logos/Pride Radio.png",
+            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
+        },
+        {
+            name: "104.3 The Score",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "The Bet 104.3-HD2",
+            logo: "stations/images-america/chicago/The Bet 104.3-HD2.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wfanhd2aac-imc"
+        },
+        {
+            name: "Polskie Radio 104.7",
+            logo: "stations/images-america/chicago/Polskie Radio 104.7.png",
+            url: "https://secure1.reliastream.com/polskieradio/stream"
+        },
+        {
+            name: "Qué Buena 105.1",
+            logo: "stations/images-america/chicago/Qué Buena 105.1.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wojofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "105.1 WOJO-HD2",
+            logo: "stations/images-america/chicago/Streetz 95.1.png",
+            url: "http:///104.6.216.93:8000/chitown"
+        },
+        {
+            name: "Lumpen Radio 105.5",
+            logo: "stations/images-america/chicago/Lumpen Radio 105.5.png",
+            url: "https://radio.mensajito.mx/lumpenradio"
+        },
+        {
+            name: "WBBM 105.9",
+            logo: "stations/images-america/chicago/WBBM 105.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmamaac-imc"
+        },
+        {
+            name: "The Bet 105.9-HD2",
+            logo: "stations/images-america/chicago/The Bet 105.9-HD2.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcfshd2aac-imc"
+        },
+        {
+            name: "106.3 WSRB",
+            logo: "stations/images-america/chicago/106.3 WSRB.png",
+            url: "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx"
+        },
+        {
+            name: "Amor 106.7",
+            logo: "stations/images-america/chicago/Amor 106.7.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wppnfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "TUDN Radio 106.7-HD2",
+            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
+            name: "107.5 WGCI",
+            logo: "stations/images-america/chicago/107.5 WGCI.png",
+            url: "https://stream.revma.ihrhls.com/zc841/hls.m3u8"
+        },
+        {
+            name: "TikTok Radio 107.5-HD2",
+            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
+        },
+        {
+            name: "La Ley 107.9",
+            logo: "stations/images-america/chicago/La Ley 107.9.png",
+            url: "https://liveaudio.lamusica.com/CHI_WLEY_icy"
+        },
+        {
+            name: "La Privada 107.9-HD2",
+            logo: "stations/images-america/0_general_logos/La Privada.png",
+            url: "https://liveaudio.lamusica.com/LA_KLAXHD2_icy"
+        },
+        {
+            name: "107.9 WLEY-HD3",
+            logo: "stations/images-america/c2c/nyc/Mega 97.9.png",
+            url: "https://liveaudio.lamusica.com/NY_WSKQ_icy"
+        },
+        {
+            name: "AM 560 The Answer",
+            logo: "stations/images-america/chicago/AM 560 The Answer.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
+        },
+        {
+            name: "BIN 640",
+            logo: "stations/images-america/chicago/BIN 640.png",
+            url: "https://stream.revma.ihrhls.com/zc9553/hls.m3u8"
+        },
+        {
+            name: "670 WSCR",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "WGN Radio 720",
+            logo: "stations/images-america/chicago/WGN Radio 720.png",
+            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
+        },
+        {
+            name: "WBBM 780",
+            logo: "stations/images-america/chicago/WBBM 105.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wbbmamaac-imc"
+        },
+        {
+            name: "WCPT 820",
+            logo: "stations/images-america/chicago/WCPT 820.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM_SC"
+        },
+        {
+            name: "WLS 890",
+            logo: "stations/images-america/chicago/WLS 890.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "Relevant Radio 930",
+            logo: "stations/images-america/0_general_logos/Relevant Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+        },
+        {
+            name: "ESPN 1000",
+            logo: "stations/images-america/chicago/ESPN 1000.png",
+            url: "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
+        },
+        {
+            name: "Polskie Radio 1030",
+            logo: "stations/images-america/chicago/Polskie Radio 104.7.png",
+            url: "http://secure1.reliastream.com/polskieradio/stream"
+        },
+        {
+            name: "WNWI 1080",
+            logo: "stations/images-america/chicago/WNWI 1080.png",
+            url: "https://stream.zeno.fm/m43hhrvywz1tv"
+        },
+        {
+            name: "ESNE Radio 1110",
+            logo: "stations/images-america/chicago/ESNE Radio 1110.png",
+            url: "https://s9.voscast.com:9349/xstream"
+        },
+        {
+            name: "1160 WYLL",
+            logo: "stations/images-america/chicago/1160 WYLL.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WYLLAMAAC_SC"
+        },
+        {
+            name: "TUDN Radio 1200",
+            logo: "stations/images-america/chicago/TUDN Radio 1200.png",
+            url: "https://lmn.streamguys1.com/wrtoam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "WJOB 1230",
+            logo: "stations/images-america/chicago/WJOB 1230.png",
+            url: "https://streaming.live365.com/a48145"
+        },
+        {
+            name: "Polskie Radio 1300",
+            logo: "stations/images-america/chicago/Polskie Radio 104.7.png",
+            url: "https:///secure1.reliastream.com/polskieradio/stream"
+        },
+        {
+            name: "1340 WJOL",
+            logo: "stations/images-america/chicago/1340 WJOL.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wjolamaac-ibc2"
+        },
+        {
+            name: "Inspiration 1390",
+            logo: "stations/images-america/chicago/Inspiration 1390.png",
+            url: "https://stream.revma.ihrhls.com/zc845/hls.m3u8"
+        },
+        {
+            name: "WRLL 1450",
+            logo: "stations/images-america/chicago/WRLL 1450.png",
+            url: "https:///streaming.live365.com/a96396_2"
+        },
+        {
+            name: "1490 AM Radio Chicago",
+            logo: "stations/images-america/chicago/1490 AM Radio Chicago.png",
+            url: "https://usa19.fastcast4u.com:3870/;"
+        },
+        {
+            name: "1530 WCKG",
+            logo: "stations/images-america/chicago/WCKG.png",
+            url: "https://ice7.securenetsystems.net/WCKG"
+        },
+        {
+            name: "WCGO 1590",
+            logo: "stations/images-america/chicago/WCGO 1590.png",
+            url: "https://ice23.securenetsystems.net/WCGO"
+        },
+        {
+            name: "WVON 1690",
+            logo: "stations/images-america/chicago/WVON 1690.png",
+            url: "https://stream.revma.ihrhls.com/zc5304/hls.m3u8"
         },
     ],
     "childress": [
@@ -30454,7 +31038,7 @@ var stations = {/*
         },
         {
             name: "89.7 WCBW",
-            logo: "stations/images-america/c2c/champaign_il/WBGL 91.7.png",
+            logo: "stations/images-america/champaign/WBGL 91.7.png",
             url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
         },
         {
@@ -42356,485 +42940,6 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7936_96k.aac"
         },
     ],
-    "champaign_il": [
-        {
-            name: "Air1 88.3",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "88.7 WPCD FM",
-            logo: "stations/images-america/c2c/champaign_il/88.7 WPCD FM.png",
-            url: "https://ice24.securenetsystems.net/WPCD"
-        },
-        {
-            name: "Great News Radio 89.3",
-            logo: "stations/images-america/0_general_logos/Great News Radio.png",
-            url: "https://ais-sa1.streamon.fm/7668_48k.aac"
-        },
-        {
-            name: "WEFT 90.1 fm",
-            logo: "stations/images-america/c2c/champaign_il/WEFT 90.1 fm.png",
-            url: "https://weft.broadcasttool.stream/stream"
-        },
-        {
-            name: "WILL 90.9",
-            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
-            url: "https://icecast.will.illinois.edu/WILLFM-48"
-        },
-        {
-            name: "WBGL 91.7",
-            logo: "stations/images-america/c2c/champaign_il/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
-        },
-        {
-            name: "Rewind 92.5",
-            logo: "stations/images-america/c2c/champaign_il/Rewind 92.5.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wreefmaac-ibc1"
-        },
-        {
-            name: "ESPN 93.5",
-            logo: "stations/images-america/c2c/champaign_il/ESPN 93.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSJKFMAAC_SC"
-        },
-        {
-            name: "WDWS Newstalk 93.9",
-            logo: "stations/images-america/c2c/champaign_il/WDWS Newstalk 1400.png",
-            url: "https://ice25.securenetsystems.net/WDWS"
-        },
-        {
-            name: "Mix 94.5",
-            logo: "stations/images-america/c2c/champaign_il/Mix 94.5.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlrwfmaac-ibc1"
-        },
-        {
-            name: "eXtra 96.9",
-            logo: "stations/images-america/c2c/champaign_il/eXtra 96.9.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd2aac-imc"
-        },
-        {
-            name: "WHMS 97.5",
-            logo: "stations/images-america/c2c/champaign_il/WHMS 97.5.png",
-            url: "https://ice25.securenetsystems.net/WHMS"
-        },	
-        {
-            name: "WYXY Classic 99.1",
-            logo: "stations/images-america/c2c/champaign_il/WYXY Classic 99.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wyxyfmaac-ibc1"
-        },
-        {
-            name: "EZ 99.7",
-            logo: "stations/images-america/c2c/champaign_il/EZ 99.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyhd3aac-imc"
-        },
-        {
-            name: "WIXY 100.3",
-            logo: "stations/images-america/c2c/champaign_il/WIXY 100.3.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wixyfmaac-ibc1"
-        },
-        {
-            name: "101.1 W266AF",
-            logo: "stations/images-america/0_general_logos/Illinois Classical 90.9.png",
-            url: "https://icecast.will.illinois.edu/WILL-mp3-48"
-        },
-        {
-            name: "D102",
-            logo: "stations/images-america/c2c/champaign_il/D102.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDNLFMAAC_SC"
-        },
-        {
-            name: "WGNN 103.9",
-            logo: "stations/images-america/c2c/champaign_il/WGNN 103.9.png",
-            url: "https://ais-sa1.streamon.fm/7667_48k.aac"
-        },
-        {
-            name: "Radio Free Urbana 104.5",
-            logo: "stations/images-america/c2c/champaign_il/Radio Free Urbana 104.5.png",
-            url: "http://stream.wrfu.net:8000/airtime_ogg320"
-        },
-        {
-            name: "WKIO 105.5",
-            logo: "stations/images-america/c2c/champaign_il/WKIO 105.5.png",
-            url: "https://ice25.securenetsystems.net/WKIO"
-        },
-        {
-            name: "106.5 W293DB",
-            logo: "stations/images-america/c2c/champaign_il/Radio Variedades.png",
-            url: "https://us2.maindigitalstream.com/ssl/WKJR"
-        },
-        {
-            name: "WPGU 107.1",
-            logo: "stations/images-america/c2c/champaign_il/WPGU 107.1.png",
-            url: "https://ice64.securenetsystems.net/WPGUFM"
-        },
-        {
-            name: "107.9 The Rooster",
-            logo: "stations/images-america/c2c/champaign_il/107.9 The Rooster.png",
-            url: "https://ice26.securenetsystems.net/WDWSFM"
-        },
-        {
-            name: "670 WSCR",
-            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
-        },
-        {
-            name: "WGN Radio 720",
-            logo: "stations/images-america/c2c/chicago_il/WGN Radio 720.png",
-            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
-        },
-        {
-            name: "WLS 890",
-            logo: "stations/images-america/c2c/chicago_il/WLS 890.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
-        },
-        {
-            name: "ESPN 1000",
-            logo: "stations/images-america/c2c/chicago_il/ESPN 1000.png",
-            url: "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
-        },
-        {
-            name: "WJBC AM 1230",
-            logo: "stations/images-america/bloomington/WJBC AM 1230.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WJBCAMAAC_SC"
-        },
-        {
-            name: "WDWS Newstalk 1400",
-            logo: "stations/images-america/c2c/champaign_il/WDWS Newstalk 1400.png",
-            url: "http://ice25.securenetsystems.net/WDWS"
-        },
-        {
-            name: "Radio Variedades 1460",
-            logo: "stations/images-america/c2c/champaign_il/Radio Variedades.png",
-            url: "https:///us2.maindigitalstream.com/ssl/WKJR"
-        },
-    ],
-    "chicago": [
-        {
-            name: "87.7 MeTV FM",
-            logo: "stations/images-america/c2c/chicago_il/87.7 MeTV FM.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wmyxhd2aac-imc"
-        },
-        {
-            name: "WCRX 88.1",
-            logo: "stations/images-america/c2c/chicago_il/WCRX 88.1.png",
-            url: "http://wcrx.streamguys1.com/live"
-        },
-        {
-            name: "WHPK 88.5",
-            logo: "stations/images-america/c2c/chicago_il/WHPK 88.5.png",
-            url: "http://205.208.30.113:8000/stream"
-        },
-        {
-            name: "WLUW 88.7",
-            logo: "stations/images-america/c2c/chicago_il/WLUW 88.7.png",
-            url: "https://ice26.securenetsystems.net/WLUW"
-        },
-        {
-            name: "WIIT 88.9",
-            logo: "stations/images-america/c2c/chicago_il/WIIT 88.9.png",
-            url: "http://216.47.133.68:8000/WIITstream"
-        },
-        {
-            name: "WKKC 89.3",
-            logo: "stations/images-america/c2c/chicago_il/WKKC 89.3.png",
-            url: "https://ico-1.streamhoster.com/lv_wkkcfm1--broadcast1"
-        },
-        {
-            name: "Moody Radio 90.1",
-            logo: "stations/images-america/0_general_logos/Moody Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBIFMAAC_SC"
-        },
-        {
-            name: "90.9 WDCB",
-            logo: "stations/images-america/c2c/chicago_il/90.9 WDCB.png",
-            url: "https://wdcb-ice.streamguys1.com/wdcb128"
-        },
-        {
-            name: "Vocalo 91.1",
-            logo: "stations/images-america/c2c/chicago_il/Vocalo 91.1.png",
-            url: "https://stream.wbez.org/vocalo128"
-        },
-        {
-            name: "WBEZ 91.5",
-            logo: "stations/images-america/c2c/chicago_il/WBEZ 91.5.png",
-            url: "https://stream.wbez.org/wbez64-web.aac"
-        },
-        {
-            name: "Power 92",
-            logo: "stations/images-america/c2c/chicago_il/Power 92.png",
-            url: "https://ais-sa8.cdnstream1.com/pptsa5hdbog/cjo5jxmng7u"
-        },
-        {
-            name: "93XRT",
-            logo: "stations/images-america/c2c/chicago_il/93XRT.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wxrtfmaac-imc"
-        },
-        {
-            name: "93.5 Latino Mix",
-            logo: "stations/images-america/c2c/chicago_il/93.5 Latino Mix.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wvivfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
-            name: "93.9 LITE FM",
-            logo: "stations/images-america/c2c/chicago_il/93.9 LITE FM.png",
-            url: "https://stream.revma.ihrhls.com/zc853/hls.m3u8"
-        },
-        {
-            name: "Air1 94.3",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "94.7 WLS",
-            logo: "stations/images-america/c2c/chicago_il/94.7 WLS.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSFMAAC_SC"
-        },
-        {
-            name: "Streetz 95.1",
-            logo: "stations/images-america/c2c/chicago_il/Streetz 95.1.png",
-            url: "http://104.6.216.93:8000/chitown"
-        },
-        {
-            name: "ROCK 95.5",
-            logo: "stations/images-america/c2c/chicago_il/ROCK 95.5.png",
-            url: "https://stream.revma.ihrhls.com/zc857/hls.m3u8"
-        },
-        {
-            name: "BIG 95.5-HD2",
-            logo: "stations/images-america/c2c/chicago_il/BIG 95.5-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc8731/hls.m3u8"
-        },
-        {
-            name: "B96",
-            logo: "stations/images-america/c2c/chicago_il/B96.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmfmaac-imc"
-        },
-        {
-            name: "Channel Q 96.3-HD2",
-            logo: "stations/images-america/0_general_logos/Channel Q.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxhd2aac-imc"
-        },
-        {
-            name: "97.1 The Drive",
-            logo: "stations/images-america/c2c/chicago_il/97.1 The Drive.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WDRVFMAAC_SC"
-        },
-        {
-            name: "BOOST 97.5",
-            logo: "stations/images-america/0_general_logos/Boost Radio.png",
-            url: "https://gateway.cdnstream1.com/boost-live"
-        },
-        {
-            name: "K-LOVE 97.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "97.9 WCKL-HD2",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "97.9 WCKL-HD3",
-            logo: "stations/images-america/0_general_logos/Boost Radio.png",
-            url: "http://gateway.cdnstream1.com/boost-live"
-        },
-        {
-            name: "97.9 WCKL-HD4",
-            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "http://ice10.securenetsystems.net/KMRO"
-        },
-        {
-            name: "98.3 W252AW",
-            logo: "stations/images-america/c2c/chicago_il/WVON 1690.png",
-            url: "http://stream.revma.ihrhls.com/zc5304/hls.m3u8"
-        },
-        {
-            name: "98.7 WFMT",
-            logo: "stations/images-america/c2c/chicago_il/98.7 WFMT.png",
-            url: "http://stream.wfmt.com/main"
-        },
-        {
-            name: "J99 Jams",
-            logo: "stations/images-america/c2c/chicago_il/J99 Jams.png",
-            url: "https://c7.radioboss.fm:18118/stream"
-        },
-        {
-            name: "US 99",
-            logo: "stations/images-america/c2c/chicago_il/US 99.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wusnfmaac-imc"
-        },
-        {
-            name: "Throwback 100.3",
-            logo: "stations/images-america/c2c/chicago_il/Throwback 100.3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTBCFMAAC_SC"
-        },
-        {
-            name: "100.3 WTBC-HD2",
-            logo: "stations/images-america/c2c/chicago_il/ESPN 1000.png",
-            url: "http://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
-        },
-        {
-            name: "Calvary Radio Network 100.7",
-            logo: "stations/images-america/c2c/fort_wayne_in/Calvary Radio Network 102.9.png",
-            url: "https://lunar.citrus3.com:8030/stream"
-        },
-        {
-            name: "Q101",
-            logo: "stations/images-america/c2c/chicago_il/Q101.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKQXFMAAC_SC"
-        },
-        {
-            name: "The Loop 101.1-HD2",
-            logo: "stations/images-america/c2c/chicago_il/The Loop 101.1-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLUPFMAAC_SC"
-        },
-        {
-            name: "Radio Nueva Vida 101.5",
-            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
-        },
-        {
-            name: "101.9 THE MIX",
-            logo: "stations/images-america/c2c/chicago_il/101.9 THE MIX.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WTMXFMAAC_SC"
-        },
-        {
-            name: "V103",
-            logo: "stations/images-america/c2c/chicago_il/V103.png",
-            url: "https://stream.revma.ihrhls.com/zc865/hls.m3u8"
-        },
-        {
-            name: "102.7 WVAZ-HD2",
-            logo: "stations/images-america/c2c/chicago_il/BIN 640.png",
-            url: "https://stream.revma.ihrhls.com/zc9553"
-        },
-        {
-            name: "WPNA 103.1",
-            logo: "stations/images-america/c2c/chicago_il/WPNA 103.1.png",
-            url: "https://mercury.reliastream.com/proxy/wpnafmad?mp=/stream"
-        },
-        {
-            name: "103.5 KISS FM",
-            logo: "stations/images-america/c2c/chicago_il/103.5 KISS FM.png",
-            url: "https://stream.revma.ihrhls.com/zc849/hls.m3u8"
-        },
-        {
-            name: "Pride Radio 103.5-HD2",
-            logo: "stations/images-america/0_general_logos/Pride Radio.png",
-            url: "https://stream.revma.ihrhls.com/zc3949/hls.m3u8"
-        },
-        {
-            name: "104.3 The Score",
-            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
-        },
-        {
-            name: "Polskie Radio 104.7",
-            logo: "stations/images-america/c2c/chicago_il/Polskie Radio 104.7.png",
-            url: "https://secure1.reliastream.com/polskieradio/stream"
-        },
-        {
-            name: "Qué Buena 105.1",
-            logo: "stations/images-america/c2c/chicago_il/Qué Buena 105.1.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wojofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
-            name: "Lumpen Radio 105.5",
-            logo: "stations/images-america/c2c/chicago_il/Lumpen Radio 105.5.png",
-            url: "http://lumpenradio.com/wp-content/themes/lumpen/lumpen.mp3"
-        },
-        {
-            name: "WBBM 105.9",
-            logo: "stations/images-america/c2c/chicago_il/WBBM 105.9.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbbmamaac-imc"
-        },
-        {
-            name: "The Bet 105.9-HD2",
-            logo: "stations/images-america/c2c/chicago_il/The Bet 105.9-HD2.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcfshd2aac-imc"
-        },
-        {
-            name: "106.3 WSRB",
-            logo: "stations/images-america/c2c/chicago_il/106.3 WSRB.png",
-            url: "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx"
-        },
-        {
-            name: "Amor 106.7",
-            logo: "stations/images-america/c2c/chicago_il/Amor 106.7.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/wppnfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
-            name: "TUDN Radio 106.7-HD2",
-            logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
-        },
-        {
-            name: "107.5 WGCI",
-            logo: "stations/images-america/c2c/chicago_il/107.5 WGCI.png",
-            url: "https://stream.revma.ihrhls.com/zc841/hls.m3u8"
-        },
-        {
-            name: "TikTok Radio 107.5-HD2",
-            logo: "stations/images-america/0_general_logos/TikTok Radio.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.revma.ihrhls.com/zc11325"
-        },
-        {
-            name: "La Ley 107.9",
-            logo: "stations/images-america/c2c/chicago_il/La Ley 107.9.png",
-            url: "https://liveaudio.lamusica.com/CHI_WLEY_icy"
-        },
-        {
-            name: "AM 560 The Answer",
-            logo: "stations/images-america/c2c/chicago_il/AM 560 The Answer.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
-        },
-        {
-            name: "BIN 640",
-            logo: "stations/images-america/c2c/chicago_il/BIN 640.png",
-            url: "https://stream.revma.ihrhls.com/zc9553/hls.m3u8"
-        },
-        {
-            name: "670 WSCR",
-            logo: "stations/images-america/c2c/chicago_il/104.3 The Score.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
-        },
-        {
-            name: "WGN Radio 720",
-            logo: "stations/images-america/c2c/chicago_il/WGN Radio 720.png",
-            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
-        },
-        {
-            name: "WCPT 820",
-            logo: "stations/images-america/c2c/chicago_il/WCPT 820.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPTAM_SC"
-        },
-        {
-            name: "WLS 890",
-            logo: "stations/images-america/c2c/chicago_il/WLS 890.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
-        },
-        {
-            name: "ESPN 1000",
-            logo: "stations/images-america/c2c/chicago_il/ESPN 1000.png",
-            url: "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
-        },
-        {
-            name: "WNWI 1080",
-            logo: "stations/images-america/c2c/chicago_il/WNWI 1080.png",
-            url: "http://wnwi.birach.com:9002/stream"
-        },
-        {
-            name: "Inspiration 1390",
-            logo: "stations/images-america/c2c/chicago_il/Inspiration 1390.png",
-            url: "https://stream.revma.ihrhls.com/zc845/hls.m3u8"
-        },
-        {
-            name: "WVON 1690",
-            logo: "stations/images-america/c2c/chicago_il/WVON 1690.png",
-            url: "https://stream.revma.ihrhls.com/zc5304/hls.m3u8"
-        },
-    ],
     "lasalle": [
         {
             name: "WNIJ 91.3",
@@ -43082,7 +43187,7 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/bloomington/Mix 106.9.png",
+            logo: "stations/images-america/c2c/peoria_il/Mix 106.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
         },
         {

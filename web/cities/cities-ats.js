@@ -407,11 +407,23 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "champaign": {
+        name: "Champaign",
+        name_english: "Champaign",
+        code: "us-il",
+        relative_radius: 0.5
+    },
     "cheyenne": {
         name: "Cheyenne",
         name_english: "Cheyenne",
         code: "us-wy",
         relative_radius: 0.7
+    },
+    "chicago": {
+        name: "Chicago",
+        name_english: "Chicago",
+        code: "us-il",
+        relative_radius: 0.8
     },
     "childress": {
         name: "Childress",
@@ -2730,8 +2742,14 @@ var city_properties = {
     "chadron": {
         relative_whitenoise: 0.95
     },
+    "champaign": {
+        relative_whitenoise: 0.95
+    },
     "cheyenne": {
         relative_whitenoise: 0.85
+    },
+    "chicago": {
+        relative_whitenoise: 0.95
     },
     "childress": {
         relative_radius: 0.7,
@@ -4549,12 +4567,28 @@ var cities = [
         "z": "-22955.2"
     },
     {
+        "gameName": "champaign",
+        "realName": "Champaign",
+        "country": "champaign",
+        "x": "33836.7",
+        "y": "12.3264",
+        "z": "-7500.1"
+    },
+    {
         "gameName": "cheyenne",
         "realName": "Cheyenne",
         "country": "cheyenne",
         "x": "-36591.9",
         "y": "655.961",
         "z": "-14475.8"
+    },
+    {
+        "gameName": "chicago",
+        "realName": "Chicago",
+        "country": "chicago",
+        "x": "34826.7",
+        "y": "59.5403",
+        "z": "-17855.9"
     },
     {
         "gameName": "childress",
@@ -10235,18 +10269,6 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 1.0
     },
-    "champaign_il": {
-        name: "Champaign",
-        name_english: "Champaign",
-        code: "us-il",
-        relative_radius: 0.5
-    },
-    "chicago": {
-        name: "chicago",
-        name_english: "chicago",
-        code: "us-il",
-        relative_radius: 0.8
-    },
     "lasalle": {
         name: "lasalle",
         name_english: "lasalle",
@@ -11479,12 +11501,6 @@ var city_properties_c2c = {
     "naalehu": {
         relative_whitenoise: 0.85
     },
-    "champaign_il": {
-        relative_whitenoise: 0.95
-    },
-    "chicago": {
-        relative_whitenoise: 0.75
-    },
     "lasalle": {
         relative_whitenoise: 0.75
     },
@@ -12350,22 +12366,6 @@ var cities_c2c = [
         "x": "-302175",
         "y": "85.836",
         "z": "48855.6"
-    },
-    {
-        "gameName": "champaign_il",
-        "realName": "Champaign",
-        "country": "champaign_il",
-        "x": "33836.7",
-        "y": "12.3264",
-        "z": "-7500.1"
-    },
-    {
-        "gameName": "chicago",
-        "realName": "Chicago",
-        "country": "chicago",
-        "x": "34826.7",
-        "y": "59.5403",
-        "z": "-17855.9"
     },
     {
         "gameName": "lasalle",
