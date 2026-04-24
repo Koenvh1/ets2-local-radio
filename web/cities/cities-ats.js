@@ -671,17 +671,23 @@ var country_properties = {
         code: "us-ok",
         relative_radius: 0.5
     },
+    "eagle_nest": {
+        name: "Eagle Nest",
+        name_english: "Eagle Nest",
+        code: "us-nm",
+        relative_radius: 0.5
+    },
     "eagle_pass": {
         name: "Eagle Pass/Piedras Negras",
         name_english: "Eagle Pass/Piedras Negras",
         code: "us-tx",
         relative_radius: 0.6
     },
-    "eagle_nest": {
-        name: "Eagle Nest",
-        name_english: "Eagle Nest",
-        code: "us-nm",
-        relative_radius: 0.5
+    "effingham": {
+        name: "Effingham",
+        name_english: "Effingham",
+        code: "us-il",
+        relative_radius: 0.6
     },
     "el_dorado": {
         name: "El Dorado",
@@ -2881,10 +2887,13 @@ var city_properties = {
     "durant": {
         relative_whitenoise: 0.95
     },
+    "eagle_nest": {
+        relative_whitenoise: 0.95
+    },
     "eagle_pass": {
         relative_whitenoise: 0.95
     },
-    "eagle_nest": {
+    "effingham": {
         relative_whitenoise: 0.95
     },
     "el_dorado": {
@@ -4967,14 +4976,6 @@ var cities = [
         "z": "26513.8"
     },
     {
-        "gameName": "eagle_pass",
-        "realName": "Eagle Pass/Piedras Negras",
-        "country": "eagle_pass",
-        "x": "-22270.2",
-        "y": "58.2648",
-        "z": "57994.2"
-    },
-    {
         "gameName": "eagle_nest",
         "realName": "Eagle Nest",
         "country": "eagle_nest",
@@ -4982,6 +4983,22 @@ var cities = [
         "y": "103.849",
         "z": "11832.4"
     },
+    {
+        "gameName": "eagle_pass",
+        "realName": "Eagle Pass/Piedras Negras",
+        "country": "eagle_pass",
+        "x": "-22270.2",
+        "y": "58.2648",
+        "z": "57994.2"
+    },/*
+    {
+        "gameName": "effingham",
+        "realName": "Effingham",
+        "country": "effingham",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "el_dorado",
         "realName": "El Dorado",
