@@ -454,7 +454,7 @@ var stations = {/*
         {
             name: "Авторадио Ереван 89.7",
             logo: "stations/images-europe/armenia/yerevan/Авторадио Ереван 89.7.png",
-            url: "https://srv11.gpmradio.ru:8443/stream/air/aac/64/100"
+            url: "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8"
         },
         {
             name: "Радио Шансон FM 90.1",
@@ -504,7 +504,7 @@ var stations = {/*
         {
             name: "Radio Van 103.1",
             logo: "stations/images-europe/armenia/yerevan/Radio Van 103.1.png",
-            url: "https://stream.radiovan.fm:8000/96_stereo"
+            url: "https://radiovan.webcaramba.com/radiovan160.aacp"
         },
         {
             name: "Radio Marshall 103.5",
@@ -902,7 +902,7 @@ var stations = {/*
         {
             name: "Unistar",
             logo: "stations/images-europe/belarus/Unistar.png",
-            url: "https://stream.unistar.by/unistar_main_internal/unistar_main/playlist.m3u8"
+            url: "https://stream.usp.unistar.by/hls/unistar_main/master.m3u8"
         },
         {
             name: "Радио РОКС",
@@ -1367,7 +1367,7 @@ var stations = {/*
         {
             name: "Radio Balafon",
             logo: "stations/images-europe/cameroon/Radio Balafon.png",
-            url: "https://stream.pacificaservice.org:9000/kkfi_128"
+            url: "https://broadcasting-channels.com:9043/listen.mp3"
         },
         {
             name: "Radio Bonne Nouvelle",
@@ -1735,7 +1735,7 @@ var stations = {/*
         {
             name: "Deejay Radio",
             logo: "stations/images-europe/cyprus/Deejay Radio.png",
-            url: "https://eradio.networksolutions.com.cy:1943/DeeJay/DeeJay.stream/playlist.m3u8"
+            url: "https://live3.istoikona.net/proxy/radiodeejay/stream"
         },
         {
             name: "Δίεση",
@@ -2124,7 +2124,7 @@ var stations = {/*
         {
             name: "PodRadio",
             logo: "stations/images-europe/denmark/PodRadio.png",
-            url: "https://stream.rcs.revma.com/czgf2408w33vv"
+            url: "https://uksoutha.streaming.broadcast.radio/tvrmedia"
         },
         {
             name: "Pop FM",
@@ -2155,11 +2155,6 @@ var stations = {/*
             name: "Radio ALFA",
             logo: "stations/images-europe/denmark/Radio ALFA.png",
             url: "https://radioserver.dk/alfamidt"
-        },
-        {
-            name: "Radio Mars",
-            logo: "stations/images-europe/denmark/Radio Mars.png",
-            url: "https://radio2.digidi.net/listen/mars/radio_mid.mp3"
         },
         {
             name: "Radio Soft",
@@ -4434,7 +4429,7 @@ var stations = {/*
         {
             name: "DeeJay",
             logo: "stations/images-europe/greece/DeeJay.png",
-            url: "https://a6.asurahosting.com:7030/radio.mp3"
+            url: "https://netradio.live24.gr/deejay957"
         },
         {
             name: "Χρώμα FM",
@@ -5556,7 +5551,7 @@ var stations = {/*
         {
             name: "Radio Sonora FM",
             logo: "stations/images-europe/indonesia/Radio Sonora FM.png",
-            url: "https://cast1.my-control-panel.com/proxy/radioso1/stream"
+            url: "https://sonora-radio.arenastreaming.com/8130/stream"
         },
         {
             name: "RDI",
@@ -6351,7 +6346,7 @@ var stations = {/*
         {
             name: "LR5 Pieci.lv",
             logo: "stations/images-europe/latvia/Latvijas Radio 5.png",
-            url: "https://muste.latvijasradio.lv/pieci/mp4:k2/playlist.m3u8"
+            url: "https://muste.latvijasradio.lv/pieci/smil:k2.smil/playlist.m3u8"
         },
         {
             name: "NABA",
@@ -8071,7 +8066,7 @@ var stations = {/*
         {
             name: "Авторадио",
             logo: "stations/images-europe/russia/Авторадио - Avtoradio.png",
-            url: "https://pub0202.101.ru:8443/stream/air/aac/64/100"
+            url: "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8"
         },
         {
             name: "Comedy Radio",
@@ -8081,7 +8076,7 @@ var stations = {/*
         {
             name: "Детское Радио",
             logo: "stations/images-europe/russia/Детское Радио - Detskoe Radio.png",
-            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/199"
+            url: "https://hls-01-gpm.hostingradio.ru/detifm7/playlist.m3u8"
         },
         {
             name: "DFM",
@@ -8101,7 +8096,7 @@ var stations = {/*
         {
             name: "ЭНЕРДЖИ",
             logo: "stations/images-europe/russia/ЭНЕРДЖИ.png",
-            url: "http://ic6.101.ru:8000/stream/air/aac/64/99"
+            url: "https://hls-01-gpm.hostingradio.ru/energyfm7/playlist.m3u8"
         },
         {
             name: "Хит FM",
@@ -8111,12 +8106,12 @@ var stations = {/*
         {
             name: "Юмор FM",
             logo: "stations/images-europe/russia/Юмор FM - Humor FM.png",
-            url: "https://pub0202.101.ru:8443/stream/reg/mp3/128/region_humor_6"
+            url: "https://hls-01-gpm.hostingradio.ru/humorfm7/playlist.m3u8"
         },
         {
             name: "Like FM",
             logo: "stations/images-europe/russia/Like FM.png",
-            url: "https://srv21.gpmradio.ru:8443/stream/air/aac/64/219"
+            url: "https://hls-01-gpm.hostingradio.ru/likefm7/playlist.m3u8"
         },
         {
             name: "Love Radio",
@@ -9812,7 +9807,7 @@ var stations = {/*
         {
             name: "Kafa Radyo",
             logo: "stations/images-europe/turkey/Kafa Radyo.png",
-            url: "https://live.kafaradyo.com/radyoland/kafaradyo.stream/playlist.m3u8"
+            url: "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8"
         },
         {
             name: "Kalp FM",
