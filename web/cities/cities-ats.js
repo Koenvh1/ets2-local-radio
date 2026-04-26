@@ -1445,6 +1445,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.75
     },
+    "marion": {
+        name: "Marion",
+        name_english: "Marion",
+        code: "us-tx",
+        relative_radius: 0.95
+    },
     "maryville": {
         name: "Maryville",
         name_english: "Maryville",
@@ -3322,6 +3328,9 @@ var city_properties = {
     },
     "marfa": {
 		relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "marion": {
         relative_whitenoise: 0.95
     },
     "maryville": {
@@ -6150,6 +6159,14 @@ var cities = [
         "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
+    },
+    {
+        "gameName": "marion",
+        "realName": "Marion",
+        "country": "marion",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "maryville",
@@ -10292,12 +10309,6 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 0.65
     },
-    "mt_vernon": {
-        name: "mt_vernon",
-        name_english: "mt_vernon",
-        code: "us-il",
-        relative_radius: 0.6
-    },
     "peoria_il": {
         name: "Peoria",
         name_english: "Peoria",
@@ -11521,9 +11532,6 @@ var city_properties_c2c = {
     "lasalle": {
         relative_whitenoise: 0.75
     },
-    "mt_vernon": {
-        relative_whitenoise: 0.95
-    },
     "peoria_il": {
         relative_whitenoise: 0.85
     },
@@ -12391,14 +12399,6 @@ var cities_c2c = [
         "x": "28595.5",
         "y": "15.2193",
         "z": "-14477.3"
-    },
-    {
-        "gameName": "mt_vernon",
-        "realName": "Mt. Vernon",
-        "country": "mt_vernon",
-        "x": "32140.6",
-        "y": "23.1445",
-        "z": "2314.56"
     },
     {
         "gameName": "peoria_il",

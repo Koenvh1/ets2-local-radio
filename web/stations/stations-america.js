@@ -4502,7 +4502,7 @@ var stations = {/*
         },
         {
             name: "WSIU 91.9",
-            logo: "stations/images-america/c2c/mt_vernon_il/WSIU 88.9.png",
+            logo: "stations/images-america/0_general_logos/WSIU.png",
             url: "http://peridot.streamguys.com:5230/wsiu-hd1"
         },
         {
@@ -4519,11 +4519,6 @@ var stations = {/*
             name: "Covenant Network 94.3",
             logo: "stations/images-america/0_general_logos/Covenant Network.png",
             url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
-        },
-        {
-            name: "95.1 Steve FM",
-            logo: "stations/images-america/cape_girardeau/95.1 Steve FM.png",
-            url: "https://ice23.securenetsystems.net/WUEZ"
         },
         {
             name: "KAPE Radio 95.7",
@@ -4566,11 +4561,6 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8106/stream"
         },
         {
-            name: "101.5 CIL-FM",
-            logo: "stations/images-america/cape_girardeau/101.5 CIL-FM.png",
-            url: "https://ice23.securenetsystems.net/WCIL"
-        },
-        {
             name: "101.9 The Block",
             logo: "stations/images-america/cape_girardeau/101.9 The Block.png",
             url: "https://ice.wbcengineering.com:8133/stream"
@@ -4591,11 +4581,6 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8114/stream"
         },
         {
-            name: "TAO Rock 105",
-            logo: "stations/images-america/cape_girardeau/TAO Rock 105.png",
-            url: "https://ice103.wbcstreaming.com:8010/aac"
-        },
-        {
             name: "C106",
             logo: "stations/images-america/cape_girardeau/C106.png",
             url: "https://ice24.securenetsystems.net/KWKZ"
@@ -4609,11 +4594,6 @@ var stations = {/*
             name: "ROCK 107",
             logo: "stations/images-america/cape_girardeau/ROCK 107.png",
             url: "https://ice.wbcengineering.com:8112/stream"
-        },
-        {
-            name: "107.3 W3D",
-            logo: "stations/images-america/c2c/mt_vernon_il/107.3 W3D.png",
-            url: "https://ice103.wbcstreaming.com:8000/aac"
         },
         {
             name: "107.9 KHIS",
@@ -4652,7 +4632,7 @@ var stations = {/*
         },
         {
             name: "WJPF 1020",
-            logo: "stations/images-america/cape_girardeau/WJPF.png",
+            logo: "stations/images-america/marion/WJPF.png",
             url: "https://ice23.securenetsystems.net/WJPF"
         },
         {
@@ -9827,7 +9807,7 @@ var stations = {/*
         },
         {
             name: "90.3 WUSI",
-            logo: "stations/images-america/effingham/WSIU.png",
+            logo: "stations/images-america/0_general_logos/WSIU.png",
             url: "https://peridot.streamguys1.com:5235/wsiu-hd1"
         },
         {
@@ -9952,8 +9932,8 @@ var stations = {/*
         },
         {
             name: "WMIX 94",
-            logo: "stations/images-america/c2c/mt_vernon_il/WMIX 94.png",
-            url: "https://ice.wbcengineering.com:8124/stream"
+            logo: "stations/images-america/marion/WMIX 94.png",
+            url: "https://ice103.wbcstreaming.com:8090/aac"
         },
         {
             name: "FOX Sports 1050",
@@ -19292,6 +19272,118 @@ var stations = {/*
             name: "KVLF 1240",
             logo: "stations/images-america/marfa/KVLF 1240.png",
             url: "https://stream.surfernetwork.com/hur0qxqmxuduv"
+        },
+    ],
+    "marion": [
+        {
+            name: "3ABN 88.7",
+            logo: "stations/images-america/0_general_logos/3ABN.png",
+            url: "http://war.str3am.com:7180/live"
+        },
+        {
+            name: "afr Talk 90.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "91.9 WSIU",
+            logo: "stations/images-america/0_general_logos/WSIU.png",
+            url: "https://peridot.streamguys1.com:5235/wsiu-hd1"
+        },
+        {
+            name: "92.7 ALT 2K",
+            logo: "stations/images-america/marion/92.7 ALT 2K.png",
+            url: "https://ice102.wbcstreaming.com/listen/wvza/aac"
+        },
+        {
+            name: "95.1 Steve FM",
+            logo: "stations/images-america/marion/95.1 Steve FM.png",
+            url: "https://ice23.securenetsystems.net/WUEZ"
+        },
+        {
+            name: "95.5 The Fan",
+            logo: "stations/images-america/marion/95.5 The Fan.png",
+            url: "https://ice.wbcengineering.com:8102/stream"
+        },
+        {
+            name: "US 97.7",
+            logo: "stations/images-america/marion/US 97.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://ice102.wbcstreaming.com/listen/whet/aac"
+        },
+        {
+            name: "WGGH 98.1",
+            logo: "stations/images-america/marion/WGGH.png",
+            url: "https://ice23.securenetsystems.net/WGGH"
+        },
+        {
+            name: "Z100",
+            logo: "stations/images-america/marion/Z100.png",
+            url: "https://ice23.securenetsystems.net/WOOZ"
+        },
+        {
+            name: "101.5 CIL-FM",
+            logo: "stations/images-america/marion/101.5 CIL-FM.png",
+            url: "https://ice23.securenetsystems.net/WCIL"
+        },
+        {
+            name: "103.5 ESPN",
+            logo: "stations/images-america/marion/103.5 ESPN.png",
+            url: "https://ice23.securenetsystems.net/WXLT"
+        },
+        {
+            name: "104.5 WBVN",
+            logo: "stations/images-america/marion/104.5 WBVN.png",
+            url: "https://streaming.live365.com/a10768"
+        },
+        {
+            name: "TAO Rock 105",
+            logo: "stations/images-america/marion/TAO Rock 105.png",
+            url: "https://ice103.wbcstreaming.com:8010/aac"
+        },
+        {
+            name: "Q106.3",
+            logo: "stations/images-america/marion/Q106.3.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://ice102.wbcstreaming.com/listen/wqrl/aac"
+        },
+        {
+            name: "107.3 W3D",
+            logo: "stations/images-america/marion/107.3 W3D.png",
+            url: "https://ice103.wbcstreaming.com:8000/aac"
+        },
+        {
+            name: "570 WKYX",
+            logo: "stations/images-america/c2c/paducah_ky/102.5 The Beat.png",
+            url: "https://us2.maindigitalstream.com/ssl/WBMP"
+        },
+        {
+            name: "WMIX 94",
+            logo: "stations/images-america/marion/WMIX 94.png",
+            url: "https://ice103.wbcstreaming.com:8090/aac"
+        },
+        {
+            name: "WJPF 1020",
+            logo: "stations/images-america/marion/WJPF.png",
+            url: "https://ice23.securenetsystems.net/WJPF"
+        },
+        {
+            name: "1060 WMCL",
+            logo: "stations/images-america/marion/WMCL.png",
+            url: "https://ice103.wbcstreaming.com:8040/aac"
+        },
+        {
+            name: "WGGH 1150",
+            logo: "stations/images-america/marion/WGGH.png",
+            url: "http://ice23.securenetsystems.net/WGGH"
+        },
+        {
+            name: "1330 The Fan",
+            logo: "stations/images-america/marion/95.5 The Fan.png",
+            url: "https:///ice.wbcengineering.com:8102/stream"
+        },
+        {
+            name: "WJPF 1340",
+            logo: "stations/images-america/marion/WJPF.png",
+            url: "http://ice23.securenetsystems.net/WJPF"
         },
     ],
     "maryville": [
@@ -43154,98 +43246,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYYSFMAAC_SC"
         },
     ],
-    "mt_vernon": [
-        {
-            name: "CSN Radio 88.5",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
-        },
-        {
-            name: "WSIU 88.9",
-            logo: "stations/images-america/c2c/mt_vernon_il/WSIU 88.9.png",
-            url: "http://peridot.streamguys.com:5230/wsiu-hd1"
-        },
-        {
-            name: "WBGL 89.7",
-            logo: "stations/images-america/c2c/mt_vernon_il/WBGL 89.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
-        },
-        {
-            name: "afr Talk 90.5",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
-        },
-        {
-            name: "90.9 The Vine",
-            logo: "stations/images-america/c2c/mt_vernon_il/90.9 The Vine.png",
-            url: "https://ais-sa1.streamon.fm/7804_96k.aac"
-        },
-        {
-            name: "93.1 W226BW",
-            logo: "stations/images-america/c2c/mt_vernon_il/WJLY.png",
-            url: "https://ice26.securenetsystems.net/WJLY"
-        },
-        {
-            name: "WMIX 94",
-            logo: "stations/images-america/c2c/mt_vernon_il/WMIX 94.png",
-            url: "https://ice.wbcengineering.com:8124/stream"
-        },
-        {
-            name: "94.5 W233CY",
-            logo: "stations/images-america/c2c/mt_vernon_il/WMCL.png",
-            url: "https://ice103.wbcstreaming.com:8040/aac"
-        },
-        {
-            name: "X95",
-            logo: "stations/images-america/c2c/mt_vernon_il/X95.png",
-            url: "https://ice.wbcengineering.com:8127/stream"
-        },
-        {
-            name: "WRUL 97.3",
-            logo: "stations/images-america/c2c/mt_vernon_il/WRUL 97.3.png",
-            url: "https://tocstreams.com:8030/stream"
-        },
-        {
-            name: "WISH 98.9",
-            logo: "stations/images-america/c2c/mt_vernon_il/WISH 98.9.png",
-            url: "https://ice.wbcengineering.com:8130/stream"
-        },
-        {
-            name: "Z100",
-            logo: "stations/images-america/c2c/mt_vernon_il/Z100.png",
-            url: "https://ice23.securenetsystems.net/WOOZ"
-        },
-        {
-            name: "Covenant Network 102.9",
-            logo: "stations/images-america/0_general_logos/Covenant Network.png",
-            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
-        },
-        {
-            name: "103.5 ESPN",
-            logo: "stations/images-america/c2c/mt_vernon_il/103.5 ESPN.png",
-            url: "https://ice23.securenetsystems.net/WXLT"
-        },
-        {
-            name: "V104.7",
-            logo: "stations/images-america/c2c/mt_vernon_il/V104.7.png",
-            url: "https://ice.wbcengineering.com:8125/stream"
-        },
-        {
-            name: "Q106.3",
-            logo: "stations/images-america/c2c/mt_vernon_il/Q106.3.png",
-            url: "https://ice.wbcengineering.com:8126/stream"
-        },
-        {
-            name: "106.9 WDML",
-            logo: "stations/images-america/c2c/mt_vernon_il/106.9 WDML.png",
-            url: "https://ice103.wbcstreaming.com:8020/aac"
-        },
-        {
-            name: "107.3 W3D",
-            logo: "stations/images-america/c2c/mt_vernon_il/107.3 W3D.png",
-            url: "https://ice103.wbcstreaming.com:8000/aac"
-        },
-    ],
     "peoria_il": [
         {
             name: "WBNH 88.5",
@@ -44185,7 +44185,7 @@ var stations = {/*
     "terre_haute": [
         {
             name: "WBGL 88.5",
-            logo: "stations/images-america/c2c/mt_vernon_il/WBGL 89.7.png",
+            logo: "stations/images-america/champaign/WBGL 91.7.png",
             url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
         },
         {
