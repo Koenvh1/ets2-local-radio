@@ -43713,7 +43713,7 @@ var stations = {/*
     "lasalle": [
         {
             name: "WNIJ 91.3",
-            logo: "stations/images-america/rockford/89.5 WNIJ.png",
+            logo: "stations/images-america/rockford/WNIJ 89.5.png",
             url: "https://northernpr.streamguys1.com/WNIJ"
         },
         {
