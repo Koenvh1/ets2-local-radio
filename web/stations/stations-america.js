@@ -3425,7 +3425,7 @@ var stations = {/*
         },
         {
             name: "98.9 W255AI",
-            logo: "stations/images-america/c2c/peoria_il/WCIC.png",
+            logo: "stations/images-america/peoria/WCIC.png",
             url: "https://nwm.streamguys1.com/WCIC-AAC"
         },
         {
@@ -3435,7 +3435,7 @@ var stations = {/*
         },
         {
             name: "100.1 W261BK",
-            logo: "stations/images-america/c2c/peoria_il/WBNH 88.5.png",
+            logo: "stations/images-america/peoria/WBNH 88.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNHFM_SC"
         },
         {
@@ -3500,12 +3500,12 @@ var stations = {/*
         },
         {
             name: "1020 WPEO",
-            logo: "stations/images-america/c2c/peoria_il/The Word.png",
+            logo: "stations/images-america/peoria/The Word.png",
             url: "https://ice64.securenetsystems.net/WPEO"
         },
         {
             name: "WVEL 1140",
-            logo: "stations/images-america/c2c/peoria_il/WVEL 1140.png",
+            logo: "stations/images-america/peoria/WVEL 1140.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVELAMAAC_SC"
         },
         {
@@ -3515,7 +3515,7 @@ var stations = {/*
         },
         {
             name: "1470 WMBD",
-            logo: "stations/images-america/c2c/peoria_il/WMBD.png",
+            logo: "stations/images-america/peoria/WMBD.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
         },
         {
@@ -4647,7 +4647,7 @@ var stations = {/*
         },
         {
             name: "1150 WGGH",
-            logo: "stations/images-america/cape_girardeau/WGGH.png",
+            logo: "stations/images-america/marion/WGGH.png",
             url: "https://ice23.securenetsystems.net/WGGH"
         },
         {
@@ -9832,7 +9832,7 @@ var stations = {/*
         },
         {
             name: "95Q",
-            logo: "stations/images-america/effingham/95Q.png",
+            logo: "stations/images-america/springfield_il/95Q.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZQFMAAC_SC"
         },
         {
@@ -9937,7 +9937,7 @@ var stations = {/*
         },
         {
             name: "FOX Sports 1050",
-            logo: "stations/images-america/effingham/FOX Sports 1050.png",
+            logo: "stations/images-america/springfield_il/FOX Sports 1050.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZAMAAC_SC"
         },
         {
@@ -23605,6 +23605,183 @@ var stations = {/*
             url: "https://stream.surfernetwork.com/os1kj4psc1iuv"
         },
     ],
+    "peoria": [
+        {
+            name: "WBNH 88.5",
+            logo: "stations/images-america/peoria/WBNH 88.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNHFM_SC"
+        },
+        {
+            name: "WCBU 89.9",
+            logo: "stations/images-america/peoria/WCBU 89.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFMAAC_SC"
+        },
+        {
+            name: "WCBU Classical 89.9-HD2",
+            logo: "stations/images-america/peoria/WCBU Classical 89.9-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFM_CLASSICALAAC_SC"
+        },
+        {
+            name: "Strictly Hip Hop 90.7",
+            logo: "stations/images-america/peoria/Strictly Hip Hop 90.7.png",
+            url: "http://rfcm.streamguys1.com/hiphopsk-mp3"
+        },
+        {
+            name: "WCIC 91.5",
+            logo: "stations/images-america/peoria/WCIC.png",
+            url: "https://nwm.streamguys1.com/WCIC-AAC"
+        },
+        {
+            name: "Z92.3",
+            logo: "stations/images-america/peoria/Z92.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZPWFMAAC_SC"
+        },
+        {
+            name: "92.9 The Vibe",
+            logo: "stations/images-america/peoria/The Vibe.png",
+            url: "https://ice26.securenetsystems.net/WVBP"
+        },
+        {
+            name: "93.3 The Drive",
+            logo: "stations/images-america/peoria/93.3 The Drive.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFMAAC_SC"
+        },
+        {
+            name: "Covenant Network 94.3",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
+        },
+        {
+            name: "95.5 GLO",
+            logo: "stations/images-america/peoria/95.5 GLO.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC_SC"
+        },
+        {
+            name: "Freedom 95.9",
+            logo: "stations/images-america/peoria/Freedom 95.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGHD3AAC_SC"
+        },
+        {
+            name: "Shuffle Radio 96.5",
+            logo: "stations/images-america/peoria/Shuffle Radio.png",
+            url: "https://ice25.securenetsystems.net/WHPI"
+        },
+        {
+            name: "97.3 River Country",
+            logo: "stations/images-america/peoria/97.3 River Country.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFYRFMAAC_SC"
+        },
+        {
+            name: "The Word 97.7",
+            logo: "stations/images-america/peoria/The Word.png",
+            url: "https://ice64.securenetsystems.net/WPEO"
+        },
+        {
+            name: "98.5 KISS FM",
+            logo: "stations/images-america/peoria/98.5 KISS FM.png",
+            url: "https://ice24.securenetsystems.net/WPIA"
+        },
+        {
+            name: "CT 99.9",
+            logo: "stations/images-america/peoria/CT 99.9.png",
+            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/WWCT"
+        },
+        {
+            name: "100.3 WMBD",
+            logo: "stations/images-america/peoria/WMBD.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
+        },
+        {
+            name: "101.1 Sports Radio",
+            logo: "stations/images-america/peoria/101.1 Sports Radio.png",
+            url: "https://ice24.securenetsystems.net/WZPN"
+        },
+        {
+            name: "KZ102.3",
+            logo: "stations/images-america/peoria/KZ102.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKZFFMAAC_SC"
+        },
+        {
+            name: "102.7 Super Hits",
+            logo: "stations/images-america/peoria/102.7 Super Hits.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRLAMAAC_SC"
+        },
+        {
+            name: "103.5 W278AE",
+            logo: "stations/images-america/peoria/WCBU Classical 89.9-HD2.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFM_CLASSICALAAC.aac"
+        },
+        {
+            name: "The Word 103.9",
+            logo: "stations/images-america/peoria/The Word.png",
+            url: "http://ice64.securenetsystems.net/WPEO"
+        },
+        {
+            name: "Shuffle Radio 104.3",
+            logo: "stations/images-america/peoria/Shuffle Radio.png",
+            url: "http://ice25.securenetsystems.net/WHPI"
+        },
+        {
+            name: "104.9 The Wolf",
+            logo: "stations/images-america/peoria/104.9 The Wolf.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXCLFMAAC_SC"
+        },
+        {
+            name: "105.7 The X",
+            logo: "stations/images-america/peoria/105.7 The X.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXOFMAAC_SC"
+        },
+        {
+            name: "WPNV 106.3",
+            logo: "stations/images-america/peoria/WPNV 106.3.png",
+            url: "http://uk6freenew.listen2myradio.com:31874/;"
+        },
+        {
+            name: "Mix 106.9",
+            logo: "stations/images-america/peoria/Mix 106.9.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
+        },
+        {
+            name: "107.5 The Vibe",
+            logo: "stations/images-america/peoria/The Vibe.png",
+            url: "http://ice26.securenetsystems.net/WVBP"
+        },
+        {
+            name: "Air1 107.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "K-LOVE 107.9-HD2",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "K-LOVE Eras 107.9-HD3",
+            logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+        },
+        {
+            name: "The Word 1020",
+            logo: "stations/images-america/peoria/The Word.png",
+            url: "http:///ice64.securenetsystems.net/WPEO"
+        },
+        {
+            name: "WVEL 1140",
+            logo: "stations/images-america/peoria/WVEL 1140.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVELAMAAC_SC"
+        },
+        {
+            name: "1350 WVBP",
+            logo: "stations/images-america/peoria/The Vibe.png",
+            url: "http:///ice26.securenetsystems.net/WVBP"
+        },
+        {
+            name: "1470 WMBD",
+            logo: "stations/images-america/peoria/WMBD.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
+        },
+    ],
     "phillipsburg": [
         {
             name: "NPM 88.7",
@@ -25763,6 +25940,193 @@ var stations = {/*
             name: "1360 KRKK",
             logo: "stations/images-america/rock_springs/1360 KRKK.png",
             url: "https://ice10.securenetsystems.net/KRKK"
+        },
+    ],
+    "rockford": [
+        {
+            name: "WFEN 88.3",
+            logo: "stations/images-america/rockford/WFEN 88.3.png",
+            url: "https://www.streamcontrol.net:8444/s/15080"
+        },
+        {
+            name: "WNIJ 89.5",
+            logo: "stations/images-america/rockford/WNIJ 89.5.png",
+            url: "https://northernpr.streamguys1.com/WNIJ"
+        },
+        {
+            name: "89.5 WNIJ-HD2",
+            logo: "stations/images-america/rockford/WNIU 90.5.png",
+            url: "http://northernpr.streamguys1.com/WNIU"
+        },
+        {
+            name: "NIRIS 89.5-HD3",
+            logo: "stations/images-america/rockford/NIRIS 89.5-HD3.png",
+            url: "https://northernpr.streamguys1.com/NIRIS"
+        },
+        {
+            name: "WNIU 90.5",
+            logo: "stations/images-america/rockford/WNIU 90.5.png",
+            url: "https://northernpr.streamguys1.com/WNIU"
+        },
+        {
+            name: "K-LOVE 91.1",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "WHJG 93.3",
+            logo: "stations/images-america/rockford/WHJG 93.3.png",
+            url: "https://ais-sa1.streamon.fm/7112_24k.aac"
+        },
+        {
+            name: "Catholic Spirit Radio 94.5",
+            logo: "stations/images-america/0_general_logos/Catholic Spirit Radio.png",
+            url: "https://ice23.securenetsystems.net/WSPI"
+        },
+        {
+            name: "95.3 The Bull",
+            logo: "stations/images-america/rockford/95.3 The Bull.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRTBFMAAC_SC"
+        },
+        {
+            name: "WROK 96.1",
+            logo: "stations/images-america/rockford/WROK.png",
+            url: "http://live.amperwave.net/manifest/townsquare-wrokamaac-ibc3"
+        },
+        {
+            name: "96.7 The Eagle",
+            logo: "stations/images-america/rockford/96.7 The Eagle.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wkglfmaac-ibc3"
+        },
+        {
+            name: "97.1 W246DW",
+            logo: "stations/images-america/rockford/Sportsfan Radio 1330.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTAAMAAC.aac"
+        },
+        {
+            name: "97 ZOK",
+            logo: "stations/images-america/rockford/97 ZOK.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wzokfmaac-ibc3"
+        },
+        {
+            name: "Q98.5",
+            logo: "stations/images-america/rockford/Q98.5.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wxxqfmaac-ibc3"
+        },
+        {
+            name: "WTPB-LP 99.3",
+            logo: "stations/images-america/rockford/WTPB-LP 99.3.png",
+            url: "https://ice24.securenetsystems.net/WTPBLP"
+        },
+        {
+            name: "100FM",
+            logo: "stations/images-america/rockford/100FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRXHD2AAC.aac"
+        },
+        {
+            name: "Air1 100.9",
+            logo: "stations/images-america/0_general_logos/Air1.png",
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+        },
+        {
+            name: "B103",
+            logo: "stations/images-america/rockford/B103.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGFBFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 103.5",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "104.9 The X",
+            logo: "stations/images-america/rockford/104.9 The X.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRXFMAAC_SC"
+        },
+        {
+            name: "104.9 WXRX-HD2",
+            logo: "stations/images-america/rockford/100FM.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRXHD2AAC_SC"
+        },
+        {
+            name: "104.9 WXRX-HD3",
+            logo: "stations/images-america/rockford/Sportsfan Radio 1330.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WNTAAMAAC_SC"
+        },
+        {
+            name: "VCY America 105.3",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "105.7 W289AB",
+            logo: "stations/images-america/rockford/WNIU 90.5.png",
+            url: "https:///northernpr.streamguys1.com/WNIU"
+        },
+        {
+            name: "Power 106.3",
+            logo: "stations/images-america/rockford/Power 106.3.png",
+            url: "https://ais-sa8.cdnstream1.com/p0zbr98vu6z/ct0ziwywwym"
+        },
+        {
+            name: "106.3 WYRB-HD2",
+            logo: "stations/images-america/chicago/106.3 WSRB.png",
+            url: "https://ais-sa8.cdnstream1.com/phvh2qaosfo/c2ebyqqdqjx"
+        },
+        {
+            name: "106.3 WYRB-HD3",
+            logo: "stations/images-america/chicago/Rejoice 102.png",
+            url: "https://ais-sa8.cdnstream1.com/pphmw4xd6g4/cq0clv82v6o"
+        },
+        {
+            name: "620 WTMJ",
+            logo: "stations/images-america/c2c/milwaukee_wi/620 WTMJ.png",
+            url: "https://live.amperwave.net/manifest/goodkarma-wtmjamaac-hlsc.m3u8"
+        },
+        {
+            name: "670 WSCR",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "WGN Radio 720",
+            logo: "stations/images-america/chicago/WGN Radio 720.png",
+            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
+        },
+        {
+            name: "WBBM 780",
+            logo: "stations/images-america/chicago/WBBM 105.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wbbmamaac-imc"
+        },
+        {
+            name: "WLS 890",
+            logo: "stations/images-america/chicago/WLS 890.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "Sportsfan Radio 1330",
+            logo: "stations/images-america/rockford/Sportsfan Radio 1330.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTAAMAAC_SC"
+        },
+        {
+            name: "1380 WBEL",
+            logo: "stations/images-america/rockford/The Beat.png",
+            url: "https://stream.aiir.com/zyx6zluefxtvv"
+        },
+        {
+            name: "WROK 1440",
+            logo: "stations/images-america/rockford/WROK.png",
+            url: "https://live.amperwave.net/manifest/townsquare-wrokamaac-ibc3"
+        },
+        {
+            name: "Iron Country 1490",
+            logo: "stations/images-america/rockford/Iron Country 1490.png",
+            url: "https://ice9.securenetsystems.net/WGEZAM"
+        },
+        {
+            name: "VCY America 1520",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
         },
     ],
     "rolla": [
@@ -30453,6 +30817,153 @@ var stations = {/*
             name: "1230 KSBN",
             logo: "stations/images-america/spokane/1230 KSBN.png",
             url: "https://streaming.live365.com/a47252"
+        },
+    ],
+    "springfield_il": [
+        {
+            name: "LifeTalk Radio 88.3",
+            logo: "stations/images-america/0_general_logos/LifeTalk Radio.png",
+            url: "https://ais-sa1.streamon.fm/7013_64k.aac"
+        },
+        {
+            name: "Covenant Network 88.9",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
+        },
+        {
+            name: "WLUJ 89.7",
+            logo: "stations/images-america/springfield_il/WLUJ.png",
+            url: "https://ais-sa1.streamon.fm/7086_24k.aac"
+        },
+        {
+            name: "90.5 WSCT",
+            logo: "stations/images-america/peoria/WCIC.png",
+            url: "https://nwm.streamguys1.com/WCIC-AAC"
+        },
+        {
+            name: "91.9 UIS",
+            logo: "stations/images-america/springfield_il/91.9 UIS.png",
+            url: "https://war.streamguys1.com:7785/wuis.mp3"
+        },
+        {
+            name: "Classic 91.9-HD2",
+            logo: "stations/images-america/springfield_il/Classic 91.9-HD2.png",
+            url: "https://war.streamguys1.com:7785/WUISRIS-2"
+        },
+        {
+            name: "The X 91.9-HD3",
+            logo: "stations/images-america/springfield_il/The X 91.9-HD3.png",
+            url: "https://war.streamguys1.com:7785/WUISRIS-3"
+        },
+        {
+            name: "Sports Radio 92.3",
+            logo: "stations/images-america/springfield_il/Sports Radio 92.3.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
+        },
+        {
+            name: "92.7 WQLZ",
+            logo: "stations/images-america/springfield_il/92.7 WQLZ.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLZFMAAC_SC"
+        },
+        {
+            name: "Rewind 93.5",
+            logo: "stations/images-america/springfield_il/Rewind 93.5.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrhd4aac-ibc1"
+        },
+        {
+            name: "93.9 WTAX",
+            logo: "stations/images-america/springfield_il/WTAX.png",
+            url: "http://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
+        },
+        {
+            name: "95Q",
+            logo: "stations/images-america/springfield_il/95Q.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZQFMAAC_SC"
+        },
+        {
+            name: "K-LOVE 96.7",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "97.7 WMAY",
+            logo: "stations/images-america/springfield_il/WMAY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
+        },
+        {
+            name: "98.7 WNNS",
+            logo: "stations/images-america/springfield_il/98.7 WNNS.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFMAAC_SC"
+        },
+        {
+            name: "99.7 CVS",
+            logo: "stations/images-america/springfield_il/99.7 CVS.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVS_FMAAC_SC"
+        },
+        {
+            name: "100.5 WYMG",
+            logo: "stations/images-america/springfield_il/100.5 WYMG.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wymgfmaac-ibc1"
+        },
+        {
+            name: "101.1 The Outlaw",
+            logo: "stations/images-america/springfield_il/101.1 The Outlaw.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrhd2aac-imc"
+        },
+        {
+            name: "101.9 The Wolf",
+            logo: "stations/images-america/springfield_il/101.9 The Wolf.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlfzfmaac-ibc1"
+        },
+        {
+            name: "103.7 WDBR",
+            logo: "stations/images-america/springfield_il/103.7 WDBR.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrfmaac-ibc1"
+        },
+        {
+            name: "104.5 WFMB",
+            logo: "stations/images-america/springfield_il/104.5 WFMB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC_SC"
+        },
+        {
+            name: "Great News Radio 105.3",
+            logo: "stations/images-america/0_general_logos/Great News Radio.png",
+            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
+        },
+        {
+            name: "Pure Oldies 107.5",
+            logo: "stations/images-america/springfield_il/Pure Oldies 107.5.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrhd3aac-imc"
+        },
+        {
+            name: "970 WMAY",
+            logo: "stations/images-america/springfield_il/WMAY.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
+        },
+        {
+            name: "FOX Sports 1050",
+            logo: "stations/images-america/springfield_il/FOX Sports 1050.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZAMAAC_SC"
+        },
+        {
+            name: "1120 KMOX",
+            logo: "stations/images-america/st_louis/KMOX.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kmoxamaac-imc"
+        },
+        {
+            name: "WLDS 1180",
+            logo: "stations/images-america/springfield_il/WLDS 1180.png",
+            url: "http://trappist.shoutca.st:8027/;"
+        },
+        {
+            name: "1240 WTAX",
+            logo: "stations/images-america/springfield_il/WTAX.png",
+            url: "https://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
+        },
+        {
+            name: "Sports Radio 1450",
+            logo: "stations/images-america/springfield_il/Sports Radio 92.3.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
         },
     ],
     "springfield_mo": [
@@ -43202,7 +43713,7 @@ var stations = {/*
     "lasalle": [
         {
             name: "WNIJ 91.3",
-            logo: "stations/images-america/c2c/rockford_il/89.5 WNIJ.png",
+            logo: "stations/images-america/rockford/89.5 WNIJ.png",
             url: "https://northernpr.streamguys1.com/WNIJ"
         },
         {
@@ -43244,297 +43755,6 @@ var stations = {/*
             name: "Classic Hits 106",
             logo: "stations/images-america/c2c/lasalle_il/Classic Hits 106.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WYYSFMAAC_SC"
-        },
-    ],
-    "peoria_il": [
-        {
-            name: "WBNH 88.5",
-            logo: "stations/images-america/c2c/peoria_il/WBNH 88.5.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNHFM_SC"
-        },
-        {
-            name: "WCBU 89.9",
-            logo: "stations/images-america/c2c/peoria_il/WCBU 89.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFMAAC_SC"
-        },
-        {
-            name: "WCBU Classical 89.9-HD2",
-            logo: "stations/images-america/c2c/peoria_il/WCBU Classical 89.9-HD2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFM_CLASSICALAAC_SC"
-        },
-        {
-            name: "Strictly Hip Hop 90.7",
-            logo: "stations/images-america/c2c/peoria_il/Strictly Hip Hop 90.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBNHFMAAC_SC"
-        },
-        {
-            name: "WCIC 91.5",
-            logo: "stations/images-america/c2c/peoria_il/WCIC.png",
-            url: "https://nwm.streamguys1.com/WCIC-AAC"
-        },
-        {
-            name: "Z92.3",
-            logo: "stations/images-america/c2c/peoria_il/Z92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WZPWFMAAC_SC"
-        },
-        {
-            name: "92.9 The Vibe",
-            logo: "stations/images-america/c2c/peoria_il/The Vibe.png",
-            url: "https://ice26.securenetsystems.net/WVBP"
-        },
-        {
-            name: "93.3 The Drive",
-            logo: "stations/images-america/c2c/peoria_il/93.3 The Drive.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WPBGFMAAC_SC"
-        },
-        {
-            name: "95.5 GLO",
-            logo: "stations/images-america/c2c/peoria_il/95.5 GLO.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGLOFMAAC_SC"
-        },
-        {
-            name: "Shuffle Radio 96.5",
-            logo: "stations/images-america/c2c/peoria_il/Shuffle Radio.png",
-            url: "https://ice25.securenetsystems.net/WHPI"
-        },
-        {
-            name: "97.3 River Country",
-            logo: "stations/images-america/c2c/peoria_il/97.3 River Country.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFYRFMAAC_SC"
-        },
-        {
-            name: "98.5 KISS FM",
-            logo: "stations/images-america/c2c/peoria_il/98.5 KISS FM.png",
-            url: "https://ice24.securenetsystems.net/WPIA"
-        },
-        {
-            name: "CT 99.9",
-            logo: "stations/images-america/c2c/peoria_il/CT 99.9.png",
-            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/WWCT"
-        },
-        {
-            name: "100.3 WMBD",
-            logo: "stations/images-america/c2c/peoria_il/WMBD.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMBDAMAAC_SC"
-        },
-        {
-            name: "101.1 Sports Radio",
-            logo: "stations/images-america/c2c/peoria_il/101.1 Sports Radio.png",
-            url: "https://ice24.securenetsystems.net/WZPN"
-        },
-        {
-            name: "KZ102.3",
-            logo: "stations/images-america/c2c/peoria_il/KZ102.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKZFFMAAC_SC"
-        },
-        {
-            name: "102.7 Super Hits",
-            logo: "stations/images-america/c2c/peoria_il/102.7 Super Hits.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIRLAMAAC_SC"
-        },
-        {
-            name: "Shuffle Radio 104.3",
-            logo: "stations/images-america/c2c/peoria_il/Shuffle Radio.png",
-            url: "http://ice25.securenetsystems.net/WHPI"
-        },
-        {
-            name: "104.9 The Wolf",
-            logo: "stations/images-america/c2c/peoria_il/104.9 The Wolf.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXCLFMAAC_SC"
-        },
-        {
-            name: "105.7 The X",
-            logo: "stations/images-america/c2c/peoria_il/105.7 The X.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIXOFMAAC_SC"
-        },
-        {
-            name: "WPNV 106.3",
-            logo: "stations/images-america/c2c/peoria_il/WPNV 106.3.png",
-            url: "http://uk6freenew.listen2myradio.com:31874/;"
-        },
-        {
-            name: "Mix 106.9",
-            logo: "stations/images-america/c2c/peoria_il/Mix 106.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WSWTFMAAC_SC"
-        },
-        {
-            name: "107.5 The Vibe",
-            logo: "stations/images-america/c2c/peoria_il/The Vibe.png",
-            url: "http://ice26.securenetsystems.net/WVBP"
-        },
-        {
-            name: "Air1 107.9",
-            logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
-        },
-        {
-            name: "K-LOVE 107.9-HD2",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "K-LOVE Eras 107.9-HD3",
-            logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
-        },
-    ],
-    "rockford_il": [
-        {
-            name: "89.5 WNIJ",
-            logo: "stations/images-america/c2c/rockford_il/89.5 WNIJ.png",
-            url: "https://northernpr.streamguys1.com/WNIJ"
-        },
-        {
-            name: "WNIU 90.5",
-            logo: "stations/images-america/c2c/rockford_il/WNIU 90.5.png",
-            url: "https://northernpr.streamguys1.com/WNIU"
-        },
-        {
-            name: "95.3 The Bull",
-            logo: "stations/images-america/c2c/rockford_il/95.3 The Bull.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WRTBFMAAC_SC"
-        },
-        {
-            name: "96.7 The Eagle",
-            logo: "stations/images-america/c2c/rockford_il/96.7 The Eagle.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wkglfmaac-ibc3"
-        },
-        {
-            name: "97ZOK",
-            logo: "stations/images-america/c2c/rockford_il/97ZOK.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wzokfmaac-ibc3"
-        },
-        {
-            name: "Q98.5",
-            logo: "stations/images-america/c2c/rockford_il/Q98.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wxxqfmaac-ibc3"
-        },
-        {
-            name: "WTPB 99.3",
-            logo: "stations/images-america/c2c/rockford_il/WTPB 99.3.png",
-            url: "https://ice24.securenetsystems.net/WTPBLP"
-        },
-        {
-            name: "100 FM",
-            logo: "stations/images-america/c2c/rockford_il/100 FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRXHD2AAC_SC"
-        },
-        {
-            name: "B103",
-            logo: "stations/images-america/c2c/rockford_il/B103.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WGFBFMAAC_SC"
-        },
-        {
-            name: "104.9 The X",
-            logo: "stations/images-america/c2c/rockford_il/104.9 The X.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXRXFMAAC_SC"
-        },
-        {
-            name: "Power 106.3",
-            logo: "stations/images-america/c2c/rockford_il/Power 106.3.png",
-            url: "https://ais-sa8.cdnstream1.com/p0zbr98vu6z/ct0ziwywwym"
-        },
-        {
-            name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1"
-        },
-        {
-            name: "Sportsfan Radio 1330",
-            logo: "stations/images-america/c2c/rockford_il/Sportsfan Radio 1330.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNTAAMAAC_SC"
-        },
-        {
-            name: "1440 WROK",
-            logo: "stations/images-america/c2c/rockford_il/1440 WROK.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wrokamaac-ibc3"
-        },
-    ],
-    "springfield_il": [
-        {
-            name: "91.9 UIS",
-            logo: "stations/images-america/c2c/springfield_il/91.9 UIS.png",
-            url: "https://war.streamguys1.com:7785/wuis.mp3"
-        },
-        {
-            name: "Classic 91.9-HD2",
-            logo: "stations/images-america/c2c/springfield_il/Classic 91.9-HD2.png",
-            url: "https://war.streamguys1.com:7785/WUISRIS-2"
-        },
-        {
-            name: "The X 91.9-HD3",
-            logo: "stations/images-america/c2c/springfield_il/The X 91.9-HD3.png",
-            url: "https://war.streamguys1.com:7785/WUISRIS-3"
-        },
-        {
-            name: "Sports Radio 92.3",
-            logo: "stations/images-america/c2c/springfield_il/Sports Radio 92.3.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBAMAAC_SC"
-        },
-        {
-            name: "92.7 WMAY",
-            logo: "stations/images-america/c2c/springfield_il/92.7 WMAY.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
-        },
-        {
-            name: "Rewind 93.5",
-            logo: "stations/images-america/c2c/springfield_il/Rewind 93.5.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrhd4aac-ibc1"
-        },
-        {
-            name: "WTAX 93.9",
-            logo: "stations/images-america/c2c/springfield_il/WTAX 93.9.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
-        },
-        {
-            name: "96.7 BOB FM",
-            logo: "stations/images-america/c2c/springfield_il/96.7 BOB FM.png",
-            url: "https://bcradio-live-a.edge.audiocdn.com/10005_64k.aac"
-        },
-        {
-            name: "97.7 QLZ",
-            logo: "stations/images-america/c2c/springfield_il/97.7 QLZ.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WQLZFMAAC_SC"
-        },
-        {
-            name: "98.7 WNNS",
-            logo: "stations/images-america/c2c/springfield_il/98.7 WNNS.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFMAAC_SC"
-        },
-        {
-            name: "99.7 CVS",
-            logo: "stations/images-america/c2c/springfield_il/99.7 CVS.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WCVS_FMAAC_SC"
-        },
-        {
-            name: "100.5 WYMG",
-            logo: "stations/images-america/c2c/springfield_il/100.5 WYMG.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wymgfmaac-ibc1"
-        },
-        {
-            name: "101.9 The Wolf",
-            logo: "stations/images-america/c2c/springfield_il/101.9 The Wolf.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wlfzfmaac-ibc1"
-        },
-        {
-            name: "102.5 W273DR",
-            logo: "stations/images-america/c2c/springfield_il/WMAY.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC_SC"
-        },
-        {
-            name: "WDBR 103.7",
-            logo: "stations/images-america/c2c/springfield_il/WDBR 103.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wdbrfmaac-ibc1"
-        },
-        {
-            name: "104.5 WFMB",
-            logo: "stations/images-america/c2c/springfield_il/104.5 WFMB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC_SC"
-        },
-        {
-            name: "Great News Radio 105.3",
-            logo: "stations/images-america/0_general_logos/Great News Radio.png",
-            url: "http://ais-sa1.streamon.fm/7668_48k.aac"
         },
     ],
     "evansville_in": [

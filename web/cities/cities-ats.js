@@ -1448,7 +1448,7 @@ var country_properties = {
     "marion": {
         name: "Marion",
         name_english: "Marion",
-        code: "us-tx",
+        code: "us-il",
         relative_radius: 0.95
     },
     "maryville": {
@@ -1745,6 +1745,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.6
     },
+    "peoria": {
+        name: "Peoria",
+        name_english: "Peoria",
+        code: "us-il",
+        relative_radius: 0.5
+    },
     "phillipsburg": {
         name: "Phillipsburg",
         name_english: "Phillipsburg",
@@ -1948,6 +1954,12 @@ var country_properties = {
         name_english: "Rock Springs",
         code: "us-wy",
         relative_radius: 0.7
+    },
+    "rockford": {
+        name: "Rockford",
+        name_english: "Rockford",
+        code: "us-il",
+        relative_radius: 0.6
     },
     "rolla": {
         name: "Rolla",
@@ -2230,6 +2242,12 @@ var country_properties = {
         name_english: "Spokane",
         code: "us-wa",
         relative_radius: 0.8
+    },
+    "springfield_il": {
+        name: "Springfield",
+        name_english: "Springfield",
+        code: "us-il",
+        relative_radius: 0.6
     },
     "springfield_mo": {
         name: "Springfield",
@@ -3489,6 +3507,9 @@ var city_properties = {
         relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
+    "peoria": {
+        relative_whitenoise: 0.95
+    },
     "phillipsburg": {
         relative_whitenoise: 0.95
     },
@@ -3600,6 +3621,9 @@ var city_properties = {
     },
     "rock_springs": {
         relative_whitenoise: 0.85
+    },
+    "rockford": {
+        relative_whitenoise: 0.95
     },
     "rolla": {
         relative_whitenoise: 0.95
@@ -3753,6 +3777,9 @@ var city_properties = {
     },
     "spokane": {
         relative_whitenoise: 0.85
+    },
+    "springfield_il": {
+        relative_whitenoise: 0.95
     },
     "springfield_mo": {
 		relative_radius: 0.9,
@@ -6617,6 +6644,14 @@ var cities = [
         "z": "-47812.9"
     },
     {
+        "gameName": "peoria",
+        "realName": "Peoria",
+        "country": "peoria",
+        "x": "25361.1",
+        "y": "42.8892",
+        "z": "-10042.6"
+    },
+    {
         "gameName": "phillipsburg",
         "realName": "Phillipsburg",
         "country": "phillipsburg",
@@ -6911,6 +6946,14 @@ var cities = [
         "x": "-53904.7",
         "y": "152.172",
         "z": "-18853.2"
+    },
+    {
+        "gameName": "rockford",
+        "realName": "Rockford",
+        "country": "rockford",
+        "x": "29326.7",
+        "y": "35.5893",
+        "z": "-19394.9"
     },
     {
         "gameName": "rolla",
@@ -7311,6 +7354,14 @@ var cities = [
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
+    },
+    {
+        "gameName": "springfield_il",
+        "realName": "Springfield",
+        "country": "springfield_il",
+        "x": "27536.2",
+        "y": "90.6132",
+        "z": "-4769.32"
     },
     {
         "gameName": "springfield_mo",
@@ -10309,29 +10360,11 @@ var country_properties_c2c = {
         code: "us-il",
         relative_radius: 0.65
     },
-    "peoria_il": {
-        name: "Peoria",
-        name_english: "Peoria",
-        code: "us-il",
-        relative_radius: 0.5
-    },
     "quincy_il": {
         name: "Quincy",
         name_english: "Quincy",
         code: "us-il",
         relative_radius: 0.7
-    },
-    "rockford_il": {
-        name: "Rockford",
-        name_english: "Rockford",
-        code: "us-il",
-        relative_radius: 0.65
-    },
-    "springfield_il": {
-        name: "springfield_il",
-        name_english: "springfield_il",
-        code: "us-il",
-        relative_radius: 0.6
     },
     "evansville_in": {
         name: "evansville_in",
@@ -11532,17 +11565,8 @@ var city_properties_c2c = {
     "lasalle": {
         relative_whitenoise: 0.75
     },
-    "peoria_il": {
-        relative_whitenoise: 0.85
-    },
     "quincy_il": {
         relative_radius: 0.8,
-        relative_whitenoise: 0.95
-    },
-    "rockford_il": {
-        relative_whitenoise: 0.75
-    },
-    "springfield_il": {
         relative_whitenoise: 0.95
     },
     "evansville_in": {
@@ -12401,36 +12425,12 @@ var cities_c2c = [
         "z": "-14477.3"
     },
     {
-        "gameName": "peoria_il",
-        "realName": "Peoria",
-        "country": "peoria_il",
-        "x": "25361.1",
-        "y": "42.8892",
-        "z": "-10042.6"
-    },
-    {
         "gameName": "quincy_il",
         "realName": "Quincy",
         "country": "hannibal_quincy",
         "x": "21377.1",
         "y": "24.2412",
         "z": "-5253.58"
-    },
-    {
-        "gameName": "rockford_il",
-        "realName": "Rockford",
-        "country": "rockford_il",
-        "x": "29326.7",
-        "y": "35.5893",
-        "z": "-19394.9"
-    },
-    {
-        "gameName": "springfield_il",
-        "realName": "Springfield",
-        "country": "springfield_il",
-        "x": "27536.2",
-        "y": "90.6132",
-        "z": "-4769.32"
     },
     {
         "gameName": "indianapolis",
