@@ -1607,7 +1607,7 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.5
     },
-    "mont_vernon": {
+    "mount_vernon": {
         name: "Mount Vernon",
         name_english: "Mount Vernon",
         code: "us-il",
@@ -5481,7 +5481,7 @@ var cities = [
         "x": "-82539.8",
         "y": "100",
         "z": "-28212.22"
-    },
+    },/*
     {
         "gameName": "grayville",
         "realName": "Grayville",
@@ -5489,7 +5489,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "greatfalls",
         "realName": "Great Falls",
@@ -6209,7 +6209,7 @@ var cities = [
         "x": "-34607.7",
         "y": "55.3956",
         "z": "-23037.9"
-    },
+    },/*
     {
         "gameName": "macomb",
         "realName": "Macomb",
@@ -6217,7 +6217,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "madeline",
         "realName": "Madeline",
@@ -6265,7 +6265,7 @@ var cities = [
         "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
-    },
+    },/*
     {
         "gameName": "marion",
         "realName": "Marion",
@@ -6273,7 +6273,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "maryville",
         "realName": "Maryville",
@@ -6433,7 +6433,7 @@ var cities = [
         "x": "-101533",
         "y": "56.8314",
         "z": "10744.1"
-    },
+    },/*
     {
         "gameName": "monmouth",
         "realName": "Monmouth",
@@ -6441,7 +6441,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "monroe",
         "realName": "Monroe",
@@ -6481,7 +6481,7 @@ var cities = [
         "x": "-62548.9",
         "y": "170.788",
         "z": "-23269.8"
-    },
+    },/*
     {
         "gameName": "mount_vernon",
         "realName": "Mount Vernon",
@@ -6489,7 +6489,7 @@ var cities = [
         "x": "",
         "y": "",
         "z": ""
-    },
+    },*/
     {
         "gameName": "mountain_home",
         "realName": "Mountain Home",

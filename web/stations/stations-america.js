@@ -13169,11 +13169,6 @@ var stations = {/*
             url: "https://tocstreams.com:8030/stream"
         },
         {
-            name: "WRAY Country 98.1",
-            logo: "stations/images-america/grayville/WRAY Country 98.1.png",
-            url: "https://tocstreams.com:8030/stream"
-        },
-        {
             name: "99.5 WKDQ",
             logo: "stations/images-america/c2c/evansville_in/99.5 WKDQ.png",
             url: "https://live.amperwave.net/manifest/townsquare-wkdqfmaac-ibc3"
@@ -21647,7 +21642,7 @@ var stations = {/*
         },
         {
             name: "90.9 the vine",
-            logo: "stations/images-america/mount_vernon/The Vine.png",
+            logo: "stations/images-america/mount_vernon/the vine.png",
             url: "https://ais-sa1.streamon.fm/7804_96k.aac"
         },
         {
