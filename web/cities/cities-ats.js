@@ -941,6 +941,12 @@ var country_properties = {
         code: "us-id",
         relative_radius: 0.5
     },
+    "grayville": {
+        name: "Grayville",
+        name_english: "Grayville",
+        code: "us-il",
+        relative_radius: 0.5
+    },
     "greatfalls": {
         name: "Great Falls",
         name_english: "Great Falls",
@@ -1229,6 +1235,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "la_salle": {
+        name: "La Salle",
+        name_english: "La Salle",
+        code: "us-il",
+        relative_radius: 0.65
+    },
     "lafayette_la": {
         name: "Lafayette",
         name_english: "Lafayette",
@@ -1415,6 +1427,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.6
     },
+    "macomb": {
+        name: "Macomb",
+        name_english: "Macomb",
+        code: "us-il",
+        relative_radius: 0.6
+    },
     "madeline": {
         name: "Madeline",
         name_english: "Madeline",
@@ -1559,6 +1577,12 @@ var country_properties = {
         code: "us-ca",
 		relative_radius: 0.7
     },
+    "monmouth": {
+        name: "Monmouth",
+        name_english: "Monmouth",
+        code: "us-il",
+		relative_radius: 0.6
+    },
     "monroe": {
         name: "Monroe",
         name_english: "Monroe",
@@ -1582,6 +1606,12 @@ var country_properties = {
         name_english: "Montpelier",
         code: "us-id",
         relative_radius: 0.5
+    },
+    "mont_vernon": {
+        name: "Mount Vernon",
+        name_english: "Mount Vernon",
+        code: "us-il",
+        relative_radius: 0.6
     },
     "mountain_home": {
         name: "Mountain Home",
@@ -1876,6 +1906,12 @@ var country_properties = {
         name_english: "Quemado",
         code: "us-nm",
         relative_radius: 0.6
+    },
+    "quincy_il": {
+        name: "Quincy",
+        name_english: "Quincy",
+        code: "us-il",
+        relative_radius: 0.7
     },
     "rachel": {
         name: "Rachel",
@@ -3064,6 +3100,9 @@ var city_properties = {
     "grasmere": {
         relative_whitenoise: 0.85
     },
+    "grayville": {
+        relative_whitenoise: 0.95
+    },
     "greatfalls": {
         relative_whitenoise: 0.85
     },
@@ -3228,6 +3267,9 @@ var city_properties = {
     "klamath_f": {
         relative_whitenoise: 0.85
     },
+    "la_salle": {
+        relative_whitenoise: 0.95
+    },
     "lafayette_la": {
         relative_whitenoise: 0.85
     },
@@ -3332,6 +3374,9 @@ var city_properties = {
     "lusk": {
         relative_whitenoise: 0.95
     },
+    "macomb": {
+        relative_whitenoise: 0.95
+    },
     "madeline": {
         relative_whitenoise: 0.85
     },
@@ -3407,11 +3452,17 @@ var city_properties = {
     "mojave": {
         relative_whitenoise: 0.95
     },
+    "monmouth": {
+        relative_whitenoise: 0.95
+    },
     "monroe": {
         relative_whitenoise: 0.95
     },
     "montpelier": {
         relative_whitenoise: 0.85
+    },
+    "mount_vernon": {
+        relative_whitenoise: 0.95
     },
     "mountain_home": {
         relative_whitenoise: 0.95
@@ -3579,6 +3630,10 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "quemado": {
+        relative_whitenoise: 0.95
+    },
+    "quincy_il": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "rachel": {
@@ -5428,6 +5483,14 @@ var cities = [
         "z": "-28212.22"
     },
     {
+        "gameName": "grayville",
+        "realName": "Grayville",
+        "country": "grayville",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "greatfalls",
         "realName": "Great Falls",
         "country": "greatfalls",
@@ -5868,6 +5931,14 @@ var cities = [
         "z": "-34541.4"
     },
     {
+        "gameName": "la_salle",
+        "realName": "La Salle",
+        "country": "la_salle",
+        "x": "28595.5",
+        "y": "15.2193",
+        "z": "-14477.3"
+    },
+    {
         "gameName": "lafayette_la",
         "realName": "Lafayette",
         "country": "lafayette_la",
@@ -6140,6 +6211,14 @@ var cities = [
         "z": "-23037.9"
     },
     {
+        "gameName": "macomb",
+        "realName": "Macomb",
+        "country": "macomb",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "madeline",
         "realName": "Madeline",
         "country": "madeline",
@@ -6356,6 +6435,14 @@ var cities = [
         "z": "10744.1"
     },
     {
+        "gameName": "monmouth",
+        "realName": "Monmouth",
+        "country": "monmouth",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "monroe",
         "realName": "Monroe",
         "country": "monroe",
@@ -6394,6 +6481,14 @@ var cities = [
         "x": "-62548.9",
         "y": "170.788",
         "z": "-23269.8"
+    },
+    {
+        "gameName": "mount_vernon",
+        "realName": "Mount Vernon",
+        "country": "mount_vernon",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "mountain_home",
@@ -6834,6 +6929,14 @@ var cities = [
         "x": "-57853",
         "y": "107.368",
         "z": "22342.4"
+    },
+    {
+        "gameName": "quincy_il",
+        "realName": "Quincy",
+        "country": "hannibal_quincy",
+        "x": "21377.1",
+        "y": "24.2412",
+        "z": "-5253.58"
     },
     {
         "gameName": "rachel",
@@ -10348,24 +10451,6 @@ var country_properties_c2c = {
         code: "us-hi",
         relative_radius: 0.8
     },
-    "illinois": {
-        name: "illinois",
-        name_english: "illinois",
-        code: "us-il",
-        relative_radius: 1.0
-    },
-    "lasalle": {
-        name: "lasalle",
-        name_english: "lasalle",
-        code: "us-il",
-        relative_radius: 0.65
-    },
-    "quincy_il": {
-        name: "Quincy",
-        name_english: "Quincy",
-        code: "us-il",
-        relative_radius: 0.7
-    },
     "evansville_in": {
         name: "evansville_in",
         name_english: "evansville_in",
@@ -11562,13 +11647,6 @@ var city_properties_c2c = {
     "naalehu": {
         relative_whitenoise: 0.85
     },
-    "lasalle": {
-        relative_whitenoise: 0.75
-    },
-    "quincy_il": {
-        relative_radius: 0.8,
-        relative_whitenoise: 0.95
-    },
     "evansville_in": {
         relative_whitenoise: 0.85
     },
@@ -12415,22 +12493,6 @@ var cities_c2c = [
         "x": "-302175",
         "y": "85.836",
         "z": "48855.6"
-    },
-    {
-        "gameName": "lasalle",
-        "realName": "LaSalle",
-        "country": "lasalle",
-        "x": "28595.5",
-        "y": "15.2193",
-        "z": "-14477.3"
-    },
-    {
-        "gameName": "quincy_il",
-        "realName": "Quincy",
-        "country": "hannibal_quincy",
-        "x": "21377.1",
-        "y": "24.2412",
-        "z": "-5253.58"
     },
     {
         "gameName": "indianapolis",
