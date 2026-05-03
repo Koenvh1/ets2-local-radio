@@ -1163,6 +1163,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.85
     },
+    "kankakee": {
+        name: "Kankakee",
+        name_english: "Kankakee",
+        code: "us-il",
+        relative_radius: 0.7
+    },
     "kanab": {
         name: "Kanab",
         name_english: "Kanab",
@@ -2008,6 +2014,12 @@ var country_properties = {
         name_english: "Roswell",
         code: "us-nm",
         relative_radius: 0.8
+    },
+    "rushville": {
+        name: "Rushville",
+        name_english: "Rushville",
+        code: "us-il",
+        relative_radius: 0.5
     },
     "russelville": {
         name: "Russelville",
@@ -3228,6 +3240,9 @@ var city_properties = {
     "kalispell": {
         relative_whitenoise: 0.85
     },
+    "kankakee": {
+        relative_whitenoise: 0.95
+    },
     "kanab": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
@@ -3684,6 +3699,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "roswell": {
+        relative_whitenoise: 0.95
+    },
+    "rushville": {
         relative_whitenoise: 0.95
     },
     "russelville": {
@@ -5843,6 +5861,14 @@ var cities = [
         "z": "3938.74"
     },
     {
+        "gameName": "kankakee",
+        "realName": "Kankakee",
+        "country": "kankakee",
+        "x": "",
+        "y": "",
+        "z": ""
+    },
+    {
         "gameName": "katl",
         "realName": "770 KATL",
         "country": "katl",
@@ -7081,7 +7107,15 @@ var cities = [
         "x": "-39713.4",
         "y": "106.012",
         "z": "29859.5"
-    },
+    },/*
+    {
+        "gameName": "rushville",
+        "realName": "Rushville",
+        "country": "rushville",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "russelville",
         "realName": "Russelville",

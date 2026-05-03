@@ -15585,6 +15585,118 @@ var stations = {/*
             url: "https:///sc9coolradio.maindigitalstream.com/ssl/KQDE"
         },
     ],
+    "kankakee": [
+        {
+            name: "SonLife Radio 88.3",
+            logo: "stations/images-america/0_general_logos/SonLife Radio.png",
+            url: "https://watch.sardius.media/channels/Ea867F3e1F56B06/site_5F46D0A41C/live.m3u8"
+        },
+        {
+            name: "brilla.fm 88.7",
+            logo: "stations/images-america/kankakee/brilla.fm 88.7.png",
+            url: "https://mist.olivet.edu/brilla128"
+        },
+        {
+            name: "Shine.FM 89.7",
+            logo: "stations/images-america/kankakee/Shine.FM 89.7.png",
+            url: "https://mist.olivet.edu/shine128"
+        },
+        {
+            name: "CSN Radio 90.3",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "91.1 WBEK",
+            logo: "stations/images-america/chicago/WBEZ 91.5.png",
+            url: "https://stream.wbez.org/wbez64-web.aac"
+        },
+        {
+            name: "Family Radio 91.9",
+            logo: "stations/images-america/0_general_logos/Family Radio.png",
+            url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
+        },
+        {
+            name: "WVLI 92.7",
+            logo: "stations/images-america/kankakee/WVLI 92.7.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WVLIFMAAC_SC"
+        },
+        {
+            name: "94.1 WGFA",
+            logo: "stations/images-america/kankakee/94.1 WGFA.png",
+            url: "https://ice64.securenetsystems.net/WGFA"
+        },
+        {
+            name: "WFAV 95.1",
+            logo: "stations/images-america/kankakee/WFAV 95.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WFAVFMAAC_SC"
+        },
+        {
+            name: "BBN 99.9",
+            logo: "stations/images-america/0_general_logos/BBN.png",
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+        },
+        {
+            name: "WKAN 101.3",
+            logo: "stations/images-america/kankakee/WKAN.png",
+            url: "http://ice23.securenetsystems.net/WKAN"
+        },
+        {
+            name: "WIVR 103.7",
+            logo: "stations/images-america/kankakee/WIVR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIVRFMAAC_SC"
+        },
+        {
+            name: "106.5 WXNU",
+            logo: "stations/images-america/kankakee/106.5 WXNU.png",
+            url: "https://ice41.securenetsystems.net/WXNU"
+        },
+        {
+            name: "AM 560 The Answer",
+            logo: "stations/images-america/chicago/AM 560 The Answer.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WINDAMAAC_SC"
+        },
+        {
+            name: "BIN 640",
+            logo: "stations/images-america/chicago/BIN 640.png",
+            url: "https://stream.revma.ihrhls.com/zc9553/hls.m3u8"
+        },
+        {
+            name: "670 WSCR",
+            logo: "stations/images-america/chicago/104.3 The Score.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wscramaac-imc"
+        },
+        {
+            name: "WGN Radio 720",
+            logo: "stations/images-america/chicago/WGN Radio 720.png",
+            url: "https://live.amperwave.net/manifest/wgnam-wgnamaac-ibc2"
+        },
+        {
+            name: "WBBM 780",
+            logo: "stations/images-america/chicago/WBBM 105.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-wbbmamaac-imc"
+        },
+        {
+            name: "WLS 890",
+            logo: "stations/images-america/chicago/WLS 890.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLSAMAAC_SC"
+        },
+        {
+            name: "ESPN 1000",
+            logo: "stations/images-america/chicago/ESPN 1000.png",
+            url: "https://live.amperwave.net/manifest/goodkarma-wmvpamaac-ibc1"
+        },
+        {
+            name: "1160 WYLL",
+            logo: "stations/images-america/chicago/1160 WYLL.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://playerservices.streamtheworld.com/api/livestream-redirect/WYLLAMAAC_SC"
+        },
+        {
+            name: "WKAN 1320",
+            logo: "stations/images-america/kankakee/WKAN.png",
+            url: "https://ice23.securenetsystems.net/WKAN"
+        },
+    ],
     "kansas_city": [
         {
             name: "Life 88.5",
@@ -26581,6 +26693,38 @@ var stations = {/*
             name: "106.5 Roswell's Talk FM",
             logo: "stations/images-america/roswell/106.5 Roswell's Talk FM.png",
             url: "https://ice23.securenetsystems.net/KEND"
+        },
+    ],
+    "rushville": [
+        {
+            name: "89.3 WIPA",
+            logo: "stations/images-america/springfield_il/91.9 UIS.png",
+            url: "https://war.streamguys1.com:7785/wuis.mp3"
+        },
+        {
+            name: "TSPR 91.3",
+            logo: "stations/images-america/0_general_logos/TSPR.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIUMFM_SC"
+        },
+        {
+            name: "WKXQ 92.5",
+            logo: "stations/images-america/rushville/WKXQ 92.5.png",
+            url: "https://ice23.securenetsystems.net/WKXQ"
+        },
+        {
+            name: "WRMS 94.3",
+            logo: "stations/images-america/rushville/WRMS 94.3.png",
+            url: "https://ice3.securenetsystems.net/WRMS"
+        },
+        {
+            name: "WVIL 101.3",
+            logo: "stations/images-america/rushville/WVIL 101.3.png",
+            url: "https://ice3.securenetsystems.net/WVIL"
+        },
+        {
+            name: "Covenant Network 790",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
         },
     ],
     "russelville": [/*
