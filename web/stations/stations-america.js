@@ -3039,7 +3039,7 @@ var stations = {/*
         {
             name: "Gold 107.7",
             logo: "stations/images-america/bend/Gold 107.7.png",
-            url: "https://ice5.securenetsystems.net/KWXS"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KWXS"
         },
         {
             name: "The Ticket 690",
@@ -5359,7 +5359,7 @@ var stations = {/*
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/9uutlfqo2levv"
         },
         {
             name: "104.9 KRRR",
@@ -17161,14 +17161,14 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kcgyfmaac-ibc3"
         },
         {
-            name: "New Country 96.7",
-            logo: "stations/images-america/laramie/New Country 96.7.png",
-            url: "http://streaming.radiowyo.com:1010/KHAT"
+            name: "True Country 96.7",
+            logo: "stations/images-america/laramie/True Country 96.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/pbubz8xh2rxvv"
         },
         {
             name: "98.7 Vintage Vinyl",
             logo: "stations/images-america/laramie/98.7 Vintage Vinyl.png",
-            url: "http://nebcoradio.com:1010/KRQU"
+            url: "https://stream.aiir.com/9gyupbhtssuuv"
         },
         {
             name: "Power 102.9",
@@ -17183,7 +17183,7 @@ var stations = {/*
         {
             name: "iMix 104.5",
             logo: "stations/images-america/cheyenne/iMix 104.5.png",
-            url: "http://nebcoradio.com:1010/KIMX"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/9uutlfqo2levv"
         },
         {
             name: "Hits 106",
@@ -47112,8 +47112,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6955/hls.m3u8"
         },
         {
-            name: "Country 95.9",
-            logo: "stations/images-america/c2c/detroit_mi/Country 95.9.png",
+            name: "BIG Country 95.9",
+            logo: "stations/images-america/c2c/detroit_mi/BIG Country 95.9.png",
             url: "https://live.leanstream.co/CJWFFM"
         },
         {
@@ -59303,8 +59303,8 @@ var stations = {/*
             url: "https://stonecomradio.streamguys1.com/hwy111country"
         },
         {
-            name: "98.5 KISS FM",
-            logo: "stations/images-america/c2c/cookeville_tn/98.5 KISS FM.png",
+            name: "Classic Rock 98.5",
+            logo: "stations/images-america/c2c/cookeville_tn/Classic Rock 98.5.png",
             url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/WKSWFM"
         },
         {
