@@ -905,7 +905,7 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD3_SC"
         },
         {
-            name: "RRR Alt Red River 90.7-HD3",
+            name: "RRR Alt Red River 90.7-HD4",
             logo: "stations/images-america/0_general_logos/Red River Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDAQHD4_SC"
         },
@@ -11212,11 +11212,11 @@ var stations = {/*
         {
             name: "Ozarks 100",
             logo: "stations/images-america/fayetteville_ar/Ozarks 100.png",
-            url: "https://ice6.securenetsystems.net/KFFK"
+            url: "http://84.32.44.251/securenet.php?id=KFFK"
         },*/
         {
-            name: "101.5 The Vibe",
-            logo: "stations/images-america/fayetteville_ar/101.5 The Vibe.png",
+            name: "Freedom FM 101.5",
+            logo: "stations/images-america/fayetteville_ar/Freedom FM 101.5.png",
             url: "https://ice41.securenetsystems.net/KXVB"
         },
         {
@@ -19181,7 +19181,7 @@ var stations = {/*
         {
             name: "Walk by Faith Radio 98.7",
             logo: "stations/images-america/lubbock/Walk by Faith Radio.png",
-            url: "https://streaming.live365.com/a90376"
+            url: "https://stream.aiir.com/tqrqjjoy7ewvv"
         },
         {
             name: "99.1 Chap Radio",
@@ -19281,7 +19281,7 @@ var stations = {/*
         {
             name: "Walk by Faith Radio 1420",
             logo: "stations/images-america/lubbock/Walk by Faith Radio.png",
-            url: "http://streaming.live365.com/a90376"
+            url: "http://stream.aiir.com/tqrqjjoy7ewvv"
         },
         {
             name: "TUDN Radio 1460",
@@ -28771,11 +28771,6 @@ var stations = {/*
             name: "Jazz 88.3",
             logo: "stations/images-america/san_diego/Jazz 88.3.png",
             url: "https://ksds-ice.streamguys1.com/ksds.mp3"
-        },
-        {
-            name: "SDS Radio 88.3-HD2",
-            logo: "stations/images-america/san_diego/SDS Radio 88.3-HD2.png",
-            url: "http://ksds-ice.streamguys.com/sds.mp3"
         },/*
         {
             name: "Radio Tecnológico 88.7",
@@ -29852,7 +29847,7 @@ var stations = {/*
         {
             name: "101.5 HANK FM",
             logo: "stations/images-america/seattle/101.5 HANK FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLZFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPLZFMAAC_SC"
         },
         {
             name: "Northwest Newsradio 101.5-HD2",
@@ -31333,6 +31328,11 @@ var stations = {/*
             name: "93.9 WTAX",
             logo: "stations/images-america/springfield_il/WTAX.png",
             url: "http://live.amperwave.net/direct/saga-wtaxamaac-ibc1"
+        },
+        {
+            name: "94.7 W234CC",
+            logo: "stations/images-america/springfield_il/99.7 CVS.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WCVS_FMAAC_SC"
         },
         {
             name: "95Q",
@@ -46119,7 +46119,7 @@ var stations = {/*
         {
             name: "93.5 The Beach",
             logo: "stations/images-america/c2c/salisbury_md/93.5 The Beach.png",
-            url: "https://stream.aiir.com/7b6oz6qgloktv"
+            url: "https://ais-sa1.streamon.fm/11205_96k.aac"
         },
         {
             name: "94.5 KHI",
