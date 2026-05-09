@@ -2994,12 +2994,12 @@ var stations = {/*
         {
             name: "98.3 The Twins",
             logo: "stations/images-america/bend/98.3 The Twins.png",
-            url: "https://ice5.securenetsystems.net/KTWS"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KTWS"
         },
         {
             name: "99.7 The Bull",
             logo: "stations/images-america/bend/99.7 The Bull.png",
-            url: "https://ice5.securenetsystems.net/KMTK"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KMTK"
         },
         {
             name: "100.1 KBND",
@@ -3014,7 +3014,7 @@ var stations = {/*
         {
             name: "101.7",
             logo: "stations/images-america/bend/101.7.png",
-            url: "https://ice5.securenetsystems.net/KLRR"
+            url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KLRR"
         },
         {
             name: "KSJJ 102.9",
@@ -5270,6 +5270,11 @@ var stations = {/*
             url: "https://ice26.securenetsystems.net/WDWSFM"
         },
         {
+            name: "NOAA Weather Radio Champaign",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/35658"
+        },
+        {
             name: "WILL 580",
             logo: "stations/images-america/0_general_logos/WILL AM.png",
             url: "https://icecast.will.illinois.edu/WILL-mp3-48"
@@ -5702,6 +5707,11 @@ var stations = {/*
             name: "107.9 WLEY-HD3",
             logo: "stations/images-america/c2c/nyc/Mega 97.9.png",
             url: "https://liveaudio.lamusica.com/NY_WSKQ_icy"
+        },
+        {
+            name: "NOAA Weather Radio Lockport",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/46216"
         },
         {
             name: "AM 560 The Answer",
@@ -11569,8 +11579,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-ktrrfmaac-ibc3"
         },
         {
-            name: "Power 102.9",
-            logo: "stations/images-america/fort_collins/Power 102.9.png",
+            name: "102.9 The Fan",
+            logo: "stations/images-america/fort_collins/102.9 The Fan.png",
             url: "https://live.amperwave.net/manifest/townsquare-karsfmaac-ibc3"
         },
         {
@@ -17171,8 +17181,8 @@ var stations = {/*
             url: "https://stream.aiir.com/9gyupbhtssuuv"
         },
         {
-            name: "Power 102.9",
-            logo: "stations/images-america/fort_collins/Power 102.9.png",
+            name: "102.9 The Fan",
+            logo: "stations/images-america/fort_collins/102.9 The Fan.png",
             url: "https://live.amperwave.net/manifest/townsquare-karsfmaac-ibc3"
         },
         {
@@ -24187,6 +24197,11 @@ var stations = {/*
             name: "K-LOVE Eras 107.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+        },
+        {
+            name: "NOAA Weather Radio Peoria",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/25174"
         },
         {
             name: "The Word 1020",
@@ -32534,6 +32549,11 @@ var stations = {/*
             name: "Pride Radio 107.7-HD2",
             logo: "stations/images-america/0_general_logos/Pride Radio.png",
             url: "https://stream.revma.ihrhls.com/zc7188/hls.m3u8"
+        },
+        {
+            name: "NOAA Weather Radio St. Louis",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://broadcastify.cdnstream1.com/27479"
         },
         {
             name: "550 KTRS",
