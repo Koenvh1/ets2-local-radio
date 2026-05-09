@@ -44836,27 +44836,47 @@ var stations = {/*
     ],
     "terre_haute": [
         {
-            name: "WBGL 88.5",
+            name: "88.5 WCRT",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
             url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
         },
         {
-            name: "WISU 89.7",
-            logo: "stations/images-america/c2c/terre_haute_in/WISU 89.7.png",
+            name: "Calvary Radio Network 88.9",
+            logo: "stations/images-america/c2c/fort_wayne_in/Calvary Radio Network 102.9.png",
+            url: "https://lunar.citrus3.com:8030/stream"
+        },
+        {
+            name: "89.7 WISU",
+            logo: "stations/images-america/c2c/indianapolis_in/90.1 WFYI.png",
             url: "https://wfyi-iad.streamguys1.com/live"
         },
         {
-            name: "Z90.7",
-            logo: "stations/images-america/c2c/terre_haute_in/Z90.7.png",
+            name: "CSN Radio 90.1",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "WZIS 90.7",
+            logo: "stations/images-america/c2c/terre_haute_in/WZIS 90.7.png",
             url: "http://icecast.indstate.edu:8000/coolwisu"
+        },
+        {
+            name: "Covenant Network 91.9",
+            logo: "stations/images-america/0_general_logos/Covenant Network.png",
+            url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
         },
         {
             name: "92.7 The Rock",
             logo: "stations/images-america/c2c/terre_haute_in/92.7 The Rock.png",
-            url: "https://live.amperwave.net/manifest/dlcmedia-wfnbfmaac-ibc4"
+            url: "https://live.amperwave.net/manifest/jdl-wfnffmaac-ibc"
         },
         {
-            name: "WFIU 95.1",
+            name: "WEHP 93.7",
+            logo: "stations/images-america/c2c/terre_haute_in/WEHP 93.7.png",
+            url: "https://ice26.securenetsystems.net/WEHP"
+        },
+        {
+            name: "95.1 W236AE",
             logo: "stations/images-america/c2c/terre_haute_in/WFIU 95.1.png",
             url: "https://ipm.streamguys1.com/wfiu1-mp3"
         },
@@ -44864,6 +44884,11 @@ var stations = {/*
             name: "K-LOVE 95.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "Bott Radio 96.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
         },
         {
             name: "Super Hits 97.9",
@@ -44876,9 +44901,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWVRFMAAC_SC"
         },
         {
-            name: "WAMB 99.5",
-            logo: "stations/images-america/c2c/terre_haute_in/WAMB 99.5.png",
-            url: "https://live.amperwave.net/manifest/dlcmedia-wambamaac-ibc4"
+            name: "The Fanbase 99.5",
+            logo: "stations/images-america/c2c/terre_haute_in/The Fanbase.png",
+            url: "https://live.amperwave.net/manifest/jdl-wfnbamaac-ibc"
         },
         {
             name: "HI 99",
@@ -44886,14 +44911,14 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WTHIFMAAC_SC"
         },
         {
+            name: "99.9 WTHI-HD2",
+            logo: "stations/images-america/c2c/terre_haute_in/Super Hits 97.9.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WTHIHD2AAC_SC"
+        },
+        {
             name: "100.7 Mix FM",
             logo: "stations/images-america/c2c/terre_haute_in/100.7 Mix FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGIFMAAC_SC"
-        },
-        {
-            name: "102.7 WBOW",
-            logo: "stations/images-america/c2c/terre_haute_in/102.7 WBOW.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOWFMAAC_SC"
         },
         {
             name: "104.3 The Party",
@@ -44902,13 +44927,38 @@ var stations = {/*
         },
         {
             name: "104.9 WAXI",
-            logo: "stations/images-america/c2c/terre_haute_in/104.9 WAXI.png",
-            url: "https://streaming.live365.com/a08019"
+            logo: "stations/images-america/effingham/Giant FM.png",
+            url: "https://streaming.live365.com/a02567"
         },
         {
             name: "105.5 The Legend",
             logo: "stations/images-america/c2c/terre_haute_in/105.5 The Legend.png",
             url: "https://live.amperwave.net/manifest/jdl-wvigfmaac-ibc"
+        },
+        {
+            name: "WPFR 106.3",
+            logo: "stations/images-america/c2c/terre_haute_in/WPFR 106.3.png",
+            url: "https://ice25.securenetsystems.net/WPFR"
+        },
+        {
+            name: "WYLJ 107.5",
+            logo: "stations/images-america/c2c/terre_haute_in/WYLJ 107.5.png",
+            url: "https://3abn.streamguys1.com/abr/english/playlist.m3u8"
+        },
+        {
+            name: "WILL 580",
+            logo: "stations/images-america/0_general_logos/WILL AM.png",
+            url: "https://icecast.will.illinois.edu/WILL-mp3-48"
+        },
+        {
+            name: "The Fanbase 1130",
+            logo: "stations/images-america/c2c/terre_haute_in/The Fanbase.png",
+            url: "http://live.amperwave.net/manifest/jdl-wfnbamaac-ibc"
+        },
+        {
+            name: "1480 WPFR",
+            logo: "stations/images-america/c2c/terre_haute_in/WPFR 106.3.png",
+            url: "http://ice25.securenetsystems.net/WPFR"
         },
     ],
     "liberal_ks": [
