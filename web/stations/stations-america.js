@@ -2236,9 +2236,9 @@ var stations = {/*
             url: "https://s6.autopo.st/proxy/ggjdvxin?mp=/stream"
         },
         {
-            name: "ViBE 98.1",
-            logo: "stations/images-america/barstow/ViBE 98.1.png",
-            url: "https://a8.asurahosting.com:8190/radio.mp3"
+            name: "98.1 KRXV",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "Radio Bilingüe 99.5",
@@ -2256,9 +2256,9 @@ var stations = {/*
             url: "https://usa13.fastcast4u.com/proxy/radiozot?mp=/1"
         },
         {
-            name: "The Highway Country 107.3",
-            logo: "stations/images-america/barstow/The Highway Country.png",
-            url: "https://a8.asurahosting.com:7440/radio.mp3"
+            name: "107.3 KIXW",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "http://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "AM 590 The Answer",
@@ -17652,8 +17652,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/krgtfm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
         },
         {
-            name: "ViBE 99.7",
-            logo: "stations/images-america/las_vegas/ViBE.png",
+            name: "Revolution 99.7",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
             url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
@@ -19306,14 +19306,14 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWAVEFMAAC_SC"
         },
         {
-            name: "ViBE 98.1",
-            logo: "stations/images-america/barstow/ViBE 98.1.png",
-            url: "https://a8.asurahosting.com:8190/radio.mp3"
+            name: "98.1 KRXV",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
-            name: "The Highway Country 101.5",
-            logo: "stations/images-america/barstow/The Highway Country.png",
-            url: "https://a8.asurahosting.com:7440/radio.mp3"
+            name: "101.5 KIXF",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "http://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "102.5 The Duck",
@@ -22007,8 +22007,8 @@ var stations = {/*
         },
         {
             name: "98.9 KHWY",
-            logo: "stations/images-america/barstow/ViBE 98.1.png",
-            url: "https://a8.asurahosting.com:8190/radio.mp3"
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "103.9 Jack FM",
@@ -31251,12 +31251,12 @@ var stations = {/*
             name: "Sacred Heart Radio 106.1",
             logo: "stations/images-america/0_general_logos/Sacred Heart Radio.png",
             url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
-        },/*
+        },
         {
-            name: "KOOL 107.1",
-            logo: "stations/images-america/spokane/KOOL 107.1.png",
-            url: "https://streaming.live365.com/a21180"
-        },*/
+            name: "107.1 KBNW",
+            logo: "stations/images-america/spokane/KBNW.png",
+            url: "https://live.amperwave.net/manifest/horizonbroadcasting-kbnwfmaac-imc"
+        },
         {
             name: "Moody Radio 107.9",
             logo: "stations/images-america/0_general_logos/Moody Radio.png",
@@ -31283,9 +31283,9 @@ var stations = {/*
             url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
-            name: "1230 KSBN",
-            logo: "stations/images-america/spokane/1230 KSBN.png",
-            url: "https://streaming.live365.com/a47252"
+            name: "1230 KBNW",
+            logo: "stations/images-america/spokane/KBNW.png",
+            url: "http://live.amperwave.net/manifest/horizonbroadcasting-kbnwfmaac-imc"
         },
     ],
     "springfield_il": [
@@ -34641,9 +34641,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-katjhd2aac-ibc2?source=v7player"
         },*/
         {
-            name: "ViBE 98.1",
-            logo: "stations/images-america/barstow/ViBE 98.1.png",
-            url: "https://a8.asurahosting.com:8190/radio.mp3"
+            name: "98.1 KRXV",
+            logo: "stations/images-america/las_vegas/Revolution 99.7.png",
+            url: "https://s6.autopo.st/proxy/cxappblo?mp=/stream"
         },
         {
             name: "99.1 KGGI",
