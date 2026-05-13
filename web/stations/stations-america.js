@@ -299,7 +299,7 @@ var stations = {/*
         {
             name: "95 One The Wolf",
             logo: "stations/images-america/abilene/95 One The Wolf.png",
-            url: "https://streams.streamkast.co/communitybroadpart/kabw/icecast.audio"
+            url: "https://cast.streamkast.co/kabw"
         },
         {
             name: "Q Country 96.1",
@@ -18770,9 +18770,9 @@ var stations = {/*
             url: "https://liveaudio.lamusica.com/LA_KXOL_icy"
         },
         {
-            name: "KNX News 97.1",
-            logo: "stations/images-america/los_angeles/KNX News 97.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxamaac-imc"
+            name: "97.1 The Fan",
+            logo: "stations/images-america/los_angeles/97.1 The Fan.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxfmaac-imc"
         },
         {
             name: "Channel Q 97.1-HD2",
@@ -19007,12 +19007,17 @@ var stations = {/*
         {
             name: "980 La Mera Mera",
             logo: "stations/images-america/los_angeles/980 La Mera Mera.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC_SC"
         },
         {
             name: "1020 KTNQ",
             logo: "stations/images-america/los_angeles/1020 KTNQ.png",
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/ktnqam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "KNX News 1070",
+            logo: "stations/images-america/los_angeles/KNX News 1070.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-knxamaac-imc"
         },
         {
             name: "KWAVE 1100",
