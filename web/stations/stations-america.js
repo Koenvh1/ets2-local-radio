@@ -304,7 +304,7 @@ var stations = {/*
         {
             name: "Q Country 96.1",
             logo: "stations/images-america/abilene/Q Country 96.1.png",
-            url: "https://cast.streamkast.co:8462/korq"
+            url: "https://cast.streamkast.co/korq"
         },
         {
             name: "98.1 KTLT",
@@ -3190,12 +3190,12 @@ var stations = {/*
         {
             name: "105.5 The Legend",
             logo: "stations/images-america/big_spring/105.5 The Legend.png",
-            url: "https://cast.streamkast.co:8533/kxcsfm"
+            url: "https://cast.streamkast.co/kxcsfm"
         },
         {
             name: "KBYG 106.3",
             logo: "stations/images-america/big_spring/KBYG 106.3.png",
-            url: "https://cast.streamkast.co:8540/kbygam"
+            url: "https://cast.streamkast.co/kbygam"
         },
         {
             name: "Family Life Radio 107.5",
@@ -21163,7 +21163,7 @@ var stations = {/*
         {
             name: "Radio Lazer 93.9",
             logo: "stations/images-america/modesto/Radio Lazer 93.9.png",
-            url: "https://cast.streamkast.co:9225/kbbu"
+            url: "https://cast.streamkast.co/kbbu"
         },
         {
             name: "94.7 K234CV",
@@ -27022,7 +27022,7 @@ var stations = {/*
         {
             name: "Radio Lazer 94.3",
             logo: "stations/images-america/sacramento/Radio Lazer.png",
-            url: "https://cast.streamkast.co:9225/kbbu"
+            url: "https://cast.streamkast.co/kbbu"
         },
         {
             name: "ALT 94.7",
@@ -27122,7 +27122,7 @@ var stations = {/*
         {
             name: "Radio Lazer 103.3",
             logo: "stations/images-america/sacramento/Radio Lazer.png",
-            url: "http://cast.streamkast.co:9225/kbbu"
+            url: "http://cast.streamkast.co/kbbu"
         },
         {
             name: "Real Country 103.5",
@@ -42236,7 +42236,7 @@ var stations = {/*
         {
             name: "Real Talk 93.3",
             logo: "stations/images-america/c2c/tallahassee_fl/Real Talk 93.3.png",
-            url: "https://cast.streamkast.co:8535/wvftfm"
+            url: "https://cast.streamkast.co/wvftfm"
         },
         {
             name: "94.9 TNT",

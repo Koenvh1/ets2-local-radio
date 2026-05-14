@@ -357,7 +357,7 @@ var country_properties = {
         name: "Cape Girardeau",
         name_english: "Cape Girardeau",
         code: "us-mo",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "carlsbad_nm": {
         name: "Carlsbad (NM)",
@@ -423,7 +423,7 @@ var country_properties = {
         name: "Chicago",
         name_english: "Chicago",
         code: "us-il",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "childress": {
         name: "Childress",
@@ -1251,7 +1251,7 @@ var country_properties = {
         name: "Lafayette",
         name_english: "Lafayette",
         code: "us-la",
-        relative_radius: 0.8
+        relative_radius: 0.5
     },
     "lake_charles": {
         name: "Lake Charles",
@@ -1437,7 +1437,7 @@ var country_properties = {
         name: "Macomb",
         name_english: "Macomb",
         code: "us-il",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "madeline": {
         name: "Madeline",
@@ -1473,7 +1473,7 @@ var country_properties = {
         name: "Marion",
         name_english: "Marion",
         code: "us-il",
-        relative_radius: 0.95
+        relative_radius: 0.6
     },
     "maryville": {
         name: "Maryville",
@@ -1587,7 +1587,7 @@ var country_properties = {
         name: "Monmouth",
         name_english: "Monmouth",
         code: "us-il",
-		relative_radius: 0.6
+		relative_radius: 0.4
     },
     "monroe": {
         name: "Monroe",
@@ -1617,7 +1617,7 @@ var country_properties = {
         name: "Mount Vernon",
         name_english: "Mount Vernon",
         code: "us-il",
-        relative_radius: 0.6
+        relative_radius: 0.4
     },
     "mountain_home": {
         name: "Mountain Home",
@@ -2019,7 +2019,7 @@ var country_properties = {
         name: "Rushville",
         name_english: "Rushville",
         code: "us-il",
-        relative_radius: 0.5
+        relative_radius: 0.3
     },
     "russelville": {
         name: "Russelville",
@@ -2787,7 +2787,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "cape_girardeau": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "carlsbad_nm": {
         relative_whitenoise: 0.95
@@ -3648,7 +3648,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "quincy_il": {
-        relative_radius: 0.8,
+        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "rachel": {
@@ -4416,9 +4416,9 @@ var cities = [
         "gameName": "bloomington",
         "realName": "Bloomington",
         "country": "bloomington",
-        "x": "30066.2",
-        "y": "9.52509",
-        "z": "-9248.75"
+        "x": "31057.1",
+        "y": "62",
+        "z": "-8938.99"
     },
     {
         "gameName": "bluff",
@@ -4600,7 +4600,7 @@ var cities = [
         "gameName": "cape_girardeau",
         "realName": "Cape Girardeau",
         "country": "cape_girardeau",
-        "x": "29311.8",
+        "x": "27311.8",
         "y": "77.5391",
         "z": "8091.99"
     },
@@ -4688,9 +4688,9 @@ var cities = [
         "gameName": "champaign",
         "realName": "Champaign",
         "country": "champaign",
-        "x": "33836.7",
-        "y": "12.3264",
-        "z": "-7500.1"
+        "x": "34724.5",
+        "y": "61.4883",
+        "z": "-5670.35"
     },
     {
         "gameName": "cheyenne",
@@ -4704,9 +4704,9 @@ var cities = [
         "gameName": "chicago",
         "realName": "Chicago",
         "country": "chicago",
-        "x": "34826.7",
-        "y": "59.5403",
-        "z": "-17855.9"
+        "x": "35507.3",
+        "y": "82.2323",
+        "z": "-19119.6"
     },
     {
         "gameName": "childress",
@@ -5099,15 +5099,15 @@ var cities = [
         "x": "-22270.2",
         "y": "58.2648",
         "z": "57994.2"
-    },/*
+    },
     {
         "gameName": "effingham",
         "realName": "Effingham",
         "country": "effingham",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "32095.5",
+        "y": "80",
+        "z": "-1750.39"
+    },
     {
         "gameName": "el_dorado",
         "realName": "El Dorado",
@@ -5499,15 +5499,15 @@ var cities = [
         "x": "-82539.8",
         "y": "100",
         "z": "-28212.22"
-    },/*
+    },
     {
         "gameName": "grayville",
         "realName": "Grayville",
         "country": "grayville",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "35534.8",
+        "y": "46.4643",
+        "z": "1092.05"
+    },
     {
         "gameName": "greatfalls",
         "realName": "Great Falls",
@@ -5864,9 +5864,9 @@ var cities = [
         "gameName": "kankakee",
         "realName": "Kankakee",
         "country": "kankakee",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "34753.1",
+        "y": "68.5694",
+        "z": "-12977.8"
     },
     {
         "gameName": "katl",
@@ -5960,9 +5960,9 @@ var cities = [
         "gameName": "la_salle",
         "realName": "La Salle",
         "country": "la_salle",
-        "x": "28595.5",
-        "y": "15.2193",
-        "z": "-14477.3"
+        "x": "28724.2",
+        "y": "95.1548",
+        "z": "-15147.5"
     },
     {
         "gameName": "lafayette_la",
@@ -6235,15 +6235,15 @@ var cities = [
         "x": "-34607.7",
         "y": "55.3956",
         "z": "-23037.9"
-    },/*
+    },
     {
         "gameName": "macomb",
         "realName": "Macomb",
         "country": "macomb",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "22871.2",
+        "y": "65.4362",
+        "z": "-9098.13"
+    },
     {
         "gameName": "madeline",
         "realName": "Madeline",
@@ -6291,15 +6291,15 @@ var cities = [
         "x": "-38922.9",
         "y": "53.9985",
         "z": "47888.4"
-    },/*
+    },
     {
         "gameName": "marion",
         "realName": "Marion",
         "country": "marion",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "31304",
+        "y": "61.4141",
+        "z": "5872.07"
+    },
     {
         "gameName": "maryville",
         "realName": "Maryville",
@@ -6459,15 +6459,15 @@ var cities = [
         "x": "-101533",
         "y": "56.8314",
         "z": "10744.1"
-    },/*
+    },
     {
         "gameName": "monmouth",
         "realName": "Monmouth",
         "country": "monmouth",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "23453.8",
+        "y": "66.3081",
+        "z": "-12028.5"
+    },
     {
         "gameName": "monroe",
         "realName": "Monroe",
@@ -6507,15 +6507,15 @@ var cities = [
         "x": "-62548.9",
         "y": "170.788",
         "z": "-23269.8"
-    },/*
+    },
     {
         "gameName": "mount_vernon",
         "realName": "Mount Vernon",
         "country": "mount_vernon",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "31967.2",
+        "y": "55.4258",
+        "z": "2575.88"
+    },
     {
         "gameName": "mountain_home",
         "realName": "Mountain Home",
@@ -6768,9 +6768,9 @@ var cities = [
         "gameName": "peoria",
         "realName": "Peoria",
         "country": "peoria",
-        "x": "25361.1",
-        "y": "42.8892",
-        "z": "-10042.6"
+        "x": "26569.4",
+        "y": "49",
+        "z": "-11251.6"
     },
     {
         "gameName": "phillipsburg",
@@ -6960,9 +6960,9 @@ var cities = [
         "gameName": "quincy_il",
         "realName": "Quincy",
         "country": "hannibal_quincy",
-        "x": "21377.1",
+        "x": "20943.6",
         "y": "24.2412",
-        "z": "-5253.58"
+        "z": "-6489.52"
     },
     {
         "gameName": "rachel",
@@ -7080,9 +7080,9 @@ var cities = [
         "gameName": "rockford",
         "realName": "Rockford",
         "country": "rockford",
-        "x": "29326.7",
-        "y": "35.5893",
-        "z": "-19394.9"
+        "x": "27777.1",
+        "y": "70",
+        "z": "-20146.1"
     },
     {
         "gameName": "rolla",
@@ -7107,15 +7107,15 @@ var cities = [
         "x": "-39713.4",
         "y": "106.012",
         "z": "29859.5"
-    },/*
+    },
     {
         "gameName": "rushville",
         "realName": "Rushville",
         "country": "rushville",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+        "x": "23849.9",
+        "y": "48.979",
+        "z": "-7046.03"
+    },
     {
         "gameName": "russelville",
         "realName": "Russelville",
@@ -7496,9 +7496,9 @@ var cities = [
         "gameName": "springfield_il",
         "realName": "Springfield",
         "country": "springfield_il",
-        "x": "27536.2",
-        "y": "90.6132",
-        "z": "-4769.32"
+        "x": "27124.8",
+        "y": "100",
+        "z": "-5206.16"
     },
     {
         "gameName": "springfield_mo",
@@ -10489,7 +10489,7 @@ var country_properties_c2c = {
         name: "evansville_in",
         name_english: "evansville_in",
         code: "us-in",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "fort_wayne_in": {
         name: "Fort Wayne",
@@ -10519,7 +10519,7 @@ var country_properties_c2c = {
         name: "terre_haute",
         name_english: "terre_haute",
         code: "us-in",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "greatbend_ks": {
         name: "Great Bend",
@@ -11533,7 +11533,7 @@ var country_properties_c2c = {
         name: "madison_wi",
         name_english: "madison_wi",
         code: "us-wi",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "minocqua": {
         name: "Minocqua",
@@ -11682,7 +11682,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "evansville_in": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "fort_wayne_in": {
         relative_whitenoise: 0.95
@@ -11691,13 +11691,13 @@ var city_properties_c2c = {
         relative_whitenoise: 0.75
     },
     "lafayette_in": {
-        relative_whitenoise: 0.75
+        relative_whitenoise: 0.95
     },
     "south_bend": {
         relative_whitenoise: 0.85
     },
     "terre_haute": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "greatbend_ks": {
 		relative_radius: 0.7,
@@ -12175,7 +12175,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "madison_wi": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "minocqua": {
         relative_whitenoise: 0.85
@@ -12572,9 +12572,9 @@ var cities_c2c = [
         "gameName": "terre_haute",
         "realName": "Terre Haute",
         "country": "terre_haute",
-        "x": "35385.1",
-        "y": "40.6383",
-        "z": "-3420.99"
+        "x": "37291.1",
+        "y": "81.0106",
+        "z": "-2089.7"
     },
     {
         "gameName": "greatbend_ks",
