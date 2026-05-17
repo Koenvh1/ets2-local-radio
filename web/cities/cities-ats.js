@@ -249,7 +249,7 @@ var country_properties = {
         name: "Bloomington",
         name_english: "Bloomington",
         code: "us-il",
-        relative_radius: 0.7
+        relative_radius: 0.6
     },
     "bluff": {
         name: "Bluff",
@@ -411,7 +411,7 @@ var country_properties = {
         name: "Champaign",
         name_english: "Champaign",
         code: "us-il",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "cheyenne": {
         name: "Cheyenne",
@@ -1167,7 +1167,7 @@ var country_properties = {
         name: "Kankakee",
         name_english: "Kankakee",
         code: "us-il",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "kanab": {
         name: "Kanab",
@@ -1245,7 +1245,7 @@ var country_properties = {
         name: "La Salle",
         name_english: "La Salle",
         code: "us-il",
-        relative_radius: 0.65
+        relative_radius: 0.4
     },
     "lafayette_la": {
         name: "Lafayette",
@@ -1785,7 +1785,7 @@ var country_properties = {
         name: "Peoria",
         name_english: "Peoria",
         code: "us-il",
-        relative_radius: 0.5
+        relative_radius: 0.6
     },
     "phillipsburg": {
         name: "Phillipsburg",
@@ -10507,7 +10507,7 @@ var country_properties_c2c = {
         name: "lafayette_in",
         name_english: "lafayette_in",
         code: "us-in",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "south_bend": {
         name: "south_bend",
