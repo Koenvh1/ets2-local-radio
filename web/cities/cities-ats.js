@@ -11545,7 +11545,7 @@ var country_properties_c2c = {
         name: "milwaukee",
         name_english: "milwaukee",
         code: "us-wi",
-        relative_radius: 0.8
+        relative_radius: 0.6
     },
     "prairie_du_chien": {
         name: "Prairie du Chien",
