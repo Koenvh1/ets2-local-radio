@@ -46249,7 +46249,7 @@ var stations = {/*
         {
             name: "WBOC 102.5",
             logo: "stations/images-america/c2c/salisbury_md/WBOC 102.5.png",
-            url: "https://stream.aiir.com/pfruemgrkvavv"
+            url: "https://ais-sa1.streamon.fm/11201_96k.aac"
         },
         {
             name: "The Vault 102.9",
@@ -64150,7 +64150,7 @@ var stations = {/*
         {
             name: "Country 103.5",
             logo: "stations/images-america/canada/halifax/Country 103.5.png",
-            url: "https://ais-sa1.streamon.fm/7738_128k.aac"
+            url: "http://192.99.6.159:3900/index.php?ats=https://ais-sa1.streamon.fm/7738_128k.aac"
         },
         {
             name: "Q104",

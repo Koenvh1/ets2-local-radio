@@ -423,7 +423,7 @@ var country_properties = {
         name: "Chicago",
         name_english: "Chicago",
         code: "us-il",
-        relative_radius: 0.9
+        relative_radius: 1.0
     },
     "childress": {
         name: "Childress",
@@ -1245,7 +1245,7 @@ var country_properties = {
         name: "La Salle",
         name_english: "La Salle",
         code: "us-il",
-        relative_radius: 0.4
+        relative_radius: 0.5
     },
     "lafayette_la": {
         name: "Lafayette",
@@ -3283,7 +3283,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "la_salle": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "lafayette_la": {
         relative_whitenoise: 0.85
@@ -5960,7 +5960,7 @@ var cities = [
         "gameName": "la_salle",
         "realName": "La Salle",
         "country": "la_salle",
-        "x": "28724.2",
+        "x": "29324.2",
         "y": "95.1548",
         "z": "-15147.5"
     },
