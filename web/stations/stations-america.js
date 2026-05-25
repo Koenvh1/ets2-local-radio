@@ -9811,11 +9811,6 @@ var stations = {/*
             url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
-            name: "90.3 WUSI",
-            logo: "stations/images-america/0_general_logos/WSIU.png",
-            url: "https://peridot.streamguys1.com:5235/wsiu-hd1"
-        },
-        {
             name: "Covenant Network 91.3",
             logo: "stations/images-america/0_general_logos/Covenant Network.png",
             url: "https://ssl-2.stream.miriamtech.net/covenantnet/stream"
@@ -9834,11 +9829,6 @@ var stations = {/*
             name: "93.9 W230BS",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
             url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
-        },
-        {
-            name: "95Q",
-            logo: "stations/images-america/springfield_il/95Q.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WDZQFMAAC_SC"
         },
         {
             name: "95.7 WCRC",
@@ -9884,11 +9874,6 @@ var stations = {/*
             name: "WIKK 103.5",
             logo: "stations/images-america/effingham/WIKK 103.5.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WIKKFMAAC_SC"
-        },
-        {
-            name: "104.3 The Party",
-            logo: "stations/images-america/c2c/terre_haute_in/104.3 The Party.png",
-            url: "http://84.32.44.251/index.php?u=https://cromwell-us.streamguys1.com/WCBHFM"
         },
         {
             name: "105.1 Jack FM",
@@ -9959,6 +9944,13 @@ var stations = {/*
             name: "WILY 1210",
             logo: "stations/images-america/effingham/WILY 1210.png",
             url: "https://ice103.wbcstreaming.com:8110/aac"
+        },
+    ],
+    "1043_theparty": [
+        {
+            name: "104.3 The Party",
+            logo: "stations/images-america/c2c/terre_haute_in/104.3 The Party.png",
+            url: "http://84.32.44.251/index.php?u=https://cromwell-us.streamguys1.com/WCBHFM"
         },
     ],
     "el_dorado": [
@@ -44914,11 +44906,6 @@ var stations = {/*
             name: "100.7 Mix FM",
             logo: "stations/images-america/c2c/terre_haute_in/100.7 Mix FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WMGIFMAAC_SC"
-        },
-        {
-            name: "104.3 The Party",
-            logo: "stations/images-america/c2c/terre_haute_in/104.3 The Party.png",
-            url: "http://84.32.44.251/index.php?u=https://cromwell-us.streamguys1.com/WCBHFM"
         },
         {
             name: "104.9 WAXI",

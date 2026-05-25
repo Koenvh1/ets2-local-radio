@@ -567,7 +567,7 @@ var country_properties = {
         name: "Davenport",
         name_english: "Davenport",
         code: "us-ia",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "deepwater": {
         name: "Deepwater",
@@ -686,6 +686,12 @@ var country_properties = {
     "effingham": {
         name: "Effingham",
         name_english: "Effingham",
+        code: "us-il",
+        relative_radius: 0.6
+    },
+    "1043_theparty": {
+        name: "104.3 The Party",
+        name_english: "104.3 The Party",
         code: "us-il",
         relative_radius: 0.6
     },
@@ -1899,7 +1905,7 @@ var country_properties = {
         name: "Quad Cities",
         name_english: "Quad Cities",
         code: "us-ia",
-        relative_radius: 0.9
+        relative_radius: 0.8
     },
     "quartzsite": {
         name: "Quartzsite",
@@ -2966,6 +2972,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "effingham": {
+        relative_whitenoise: 0.95
+    },
+    "1043_theparty": {
         relative_whitenoise: 0.95
     },
     "el_dorado": {
@@ -5109,6 +5118,14 @@ var cities = [
         "z": "-1750.39"
     },
     {
+        "gameName": "1043_theparty",
+        "realName": "Effingham/Terre Haute",
+        "country": "1043_theparty",
+        "x": "35177.3",
+        "y": "45.3442",
+        "z": "-1713.47"
+    },
+    {
         "gameName": "el_dorado",
         "realName": "El Dorado",
         "country": "el_dorado",
@@ -6770,7 +6787,7 @@ var cities = [
         "country": "peoria",
         "x": "26569.4",
         "y": "49",
-        "z": "-11251.6"
+        "z": "-11051.6"
     },
     {
         "gameName": "phillipsburg",
@@ -6936,7 +6953,7 @@ var cities = [
         "gameName": "quad_cities_ia",
         "realName": "Quad Cities",
         "country": "quad_cities_ia",
-        "x": "21354.2",
+        "x": "21254.2",
         "y": "81.375",
         "z": "-15424.5"
     },
@@ -11697,7 +11714,7 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "terre_haute": {
-        relative_whitenoise: 0.95
+        relative_whitenoise: 0.85
     },
     "greatbend_ks": {
 		relative_radius: 0.7,
