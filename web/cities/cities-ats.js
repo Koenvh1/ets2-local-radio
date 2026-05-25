@@ -690,8 +690,8 @@ var country_properties = {
         relative_radius: 0.6
     },
     "1043_theparty": {
-        name: "104.3 The Party",
-        name_english: "104.3 The Party",
+        name: "Casey",
+        name_english: "Casey",
         code: "us-il",
         relative_radius: 0.6
     },
