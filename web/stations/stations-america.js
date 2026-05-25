@@ -3436,7 +3436,7 @@ var stations = {/*
         {
             name: "Faith 100.7",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "101.5 WBNQ",
@@ -3647,7 +3647,7 @@ var stations = {/*
         {
             name: "Faith 94.1",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "94.9 The River",
@@ -4971,7 +4971,7 @@ var stations = {/*
         {
             name: "Faith 1090",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "LEO 1360",
@@ -5028,7 +5028,7 @@ var stations = {/*
         {
             name: "Life 101.9",
             logo: "stations/images-america/cedar_valley/Life 101.9.png",
-            url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
+            url: "https://nwm.streamguys1.com/knws-aac"
         },
         {
             name: "Z102.9",
@@ -9012,7 +9012,7 @@ var stations = {/*
         {
             name: "96.1 KNWM",
             logo: "stations/images-america/des_moines/Life 107.1.png",
-            url: "http://nwm.streamguys1.com/knwi-mp3"
+            url: "http://nwm.streamguys1.com/knwi-aac"
         },
         {
             name: "La Reina 96.5",
@@ -9067,7 +9067,7 @@ var stations = {/*
         {
             name: "100.7 K264CD",
             logo: "stations/images-america/des_moines/Life 107.1.png",
-            url: "http:///nwm.streamguys1.com/knwi-mp3"
+            url: "http:///nwm.streamguys1.com/knwi-aac"
         },
         {
             name: "pulse 101.7",
@@ -9132,7 +9132,7 @@ var stations = {/*
         {
             name: "Life 107.1",
             logo: "stations/images-america/des_moines/Life 107.1.png",
-            url: "https://nwm.streamguys1.com/knwi-mp3"
+            url: "https://nwm.streamguys1.com/knwi-aac"
         },
         {
             name: "Faith Radio 107.1-HD2",
@@ -9378,7 +9378,7 @@ var stations = {/*
         {
             name: "96.9 K245AZ",
             logo: "stations/images-america/cedar_valley/Life 101.9.png",
-            url: "https://nwmedia-knwsfm.streamguys1.com/knws-fm"
+            url: "https://nwm.streamguys1.com/knws-aac"
         },
         {
             name: "97.3 The Rock",
@@ -12372,9 +12372,9 @@ var stations = {/*
             url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            name: "93.3 The Legend",
-            logo: "stations/images-america/gillette/93.3 The Legend.png",
-            url: "https://ice26.securenetsystems.net/KLED"
+            name: "News Radio 93.3",
+            logo: "stations/images-america/gillette/News Radio 93.3.png",
+            url: "https://ice25.securenetsystems.net/KIML"
         },
         {
             name: "Pilgrim Radio 94.3",
@@ -15706,7 +15706,7 @@ var stations = {/*
         {
             name: "Life 88.5",
             logo: "stations/images-america/kansas_city/Life 88.5.png",
-            url: "https://nwm.streamguys1.com/kjnw/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/kjnw-aac"
         },
         {
             name: "Faith Radio 88.5-HD2",
@@ -18667,7 +18667,7 @@ var stations = {/*
         {
             name: "The Current 89.3-HD2",
             logo: "stations/images-america/0_general_logos/The Current.png",
-            url: "https://current.stream.publicradio.org/kcmp.mp3"
+            url: "https://current.stream.publicradio.org/current.aac"
         },
         {
             name: "KCRW 89.9",
@@ -32194,7 +32194,7 @@ var stations = {/*
         {
             name: "91.1 KSJI",
             logo: "stations/images-america/kansas_city/Life 88.5.png",
-            url: "https://nwm.streamguys1.com/kjnw/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/kjnw-aac"
         },
         {
             name: "Air1 91.9",
@@ -34867,7 +34867,7 @@ var stations = {/*
         {
             name: "Faith 93.1",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "93.5 The Mix",
@@ -34952,7 +34952,7 @@ var stations = {/*
         {
             name: "Faith 1090",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "http://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "http://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "1250 KCFI",
@@ -35311,12 +35311,12 @@ var stations = {/*
             name: "KGGF 690",
             logo: "stations/images-america/enid/KGGF 690.png",
             url: "https://stream.surfernetwork.com/jt35kq4in6ktv"
-        },
+        },/*
         {
             name: "Classic Country 1070",
             logo: "stations/images-america/wichita/Classic Country 1070.png",
             url: "https://stream.rcs.revma.com/gkx8aksw57uvv"
-        },
+        },*/
         {
             name: "1240 KFH",
             logo: "stations/images-america/wichita/KFH.png",
@@ -46945,7 +46945,7 @@ var stations = {/*
         {
             name: "Mix 104.1",
             logo: "stations/images-america/c2c/boston_ma/Mix 104.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wwbxfmaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbmxfmaac-imc"
         },
         {
             name: "WAAF 104.1-HD2",
@@ -48283,7 +48283,7 @@ var stations = {/*
         {
             name: "Life 97.3",
             logo: "stations/images-america/c2c/duluth_mn/Life 97.3.png",
-            url: "https://nwm.streamguys1.com/kdnw/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/kdnw-aac"
         },
         {
             name: "98X",
@@ -49248,7 +49248,7 @@ var stations = {/*
         {
             name: "Faith 103.3",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "104.7 KCLD",
@@ -54140,7 +54140,7 @@ var stations = {/*
         {
             name: "Faith 1200",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "Real Presence Radio 1280",
@@ -54356,7 +54356,7 @@ var stations = {/*
         {
             name: "Faith 1200",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "KQDJ 1400",
@@ -58952,7 +58952,7 @@ var stations = {/*
         {
             name: "107.5 K298CY",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "http://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "http://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "107.9 KELO",
@@ -59002,7 +59002,7 @@ var stations = {/*
         {
             name: "Faith 1270",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "1320 KELO",
@@ -61952,7 +61952,7 @@ var stations = {/*
         {
             name: "Faith 88.5",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/faith-aac"
         },
         {
             name: "WPR News 90.9",
@@ -61962,7 +61962,7 @@ var stations = {/*
         {
             name: "91.9 WDNW",
             logo: "stations/images-america/c2c/duluth_mn/Life 97.3.png",
-            url: "https://nwm.streamguys1.com/kdnw/playlist.m3u8"
+            url: "https://nwm.streamguys1.com/kdnw-aac"
         },
         {
             name: "Z93",
@@ -63741,7 +63741,7 @@ var stations = {/*
         {
             name: "The Current 88.3-HD2",
             logo: "stations/images-america/0_general_logos/The Current.png",
-            url: "https://current.stream.publicradio.org/kcmp.mp3"
+            url: "https://current.stream.publicradio.org/current.aac"
         },
         {
             name: "ICI Première 89.1",
@@ -65225,7 +65225,7 @@ var stations = {/*
         {
             name: "105.1 Mike FM",
             logo: "stations/images-america/canada/montreal/105.1 Mike FM.png",
-            url: "http://ns506512.ip-198-27-67.net:9300/;stream.mp3"
+            url: "http://stream2.statsradio.com/8020/stream"
         },
         {
             name: "rythme 105.7",
