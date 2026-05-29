@@ -6327,9 +6327,9 @@ var stations = {/*
     ],
     "colby": [
         {
-            name: "KGCR 88.1",
-            logo: "stations/images-america/colby/KGCR 88.1.png",
-            url: "https://ice10.securenetsystems.net/KGCRC"
+            name: "88.1 KZCK",
+            logo: "stations/images-america/woodward/KHYM 89.9.png",
+            url: "https://ice41.securenetsystems.net/KHYM"
         },
         {
             name: "Divine Mercy Radio 89.1",
@@ -6372,9 +6372,9 @@ var stations = {/*
             url: "http://162.244.80.178:8014/stream"
         },
         {
-            name: "Tri-State Praise 107.7",
-            logo: "stations/images-america/colby/Tri-State Praise 107.7.png",
-            url: "https://ice10.securenetsystems.net/KGCR"
+            name: "107.7 KGCR",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
             name: "KFRM 550",
@@ -13480,6 +13480,11 @@ var stations = {/*
             url: "https://mediaserver3.afa.net:8443/talk.mp4"
         },
         {
+            name: "88.9 KPRD",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
+        },
+        {
             name: "Radio Kansas 90.9",
             logo: "stations/images-america/0_general_logos/Radio Kansas.png",
             url: "https://streams.radiomast.io/5567306a-66f6-4d8f-a399-520e2936e3a0"
@@ -20353,8 +20358,8 @@ var stations = {/*
         },
         {
             name: "95.3 K237DV",
-            logo: "stations/images-america/colby/KGCR 88.1.png",
-            url: "https://ice10.securenetsystems.net/KGCRC"
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
             name: "96.1 KICX",
@@ -35645,9 +35650,14 @@ var stations = {/*
     ],
     "wray": [
         {
-            name: "KGCR 88.1",
-            logo: "stations/images-america/colby/KGCR 88.1.png",
-            url: "https://ice10.securenetsystems.net/KGCRC"
+            name: "89.5 KGCB",
+            logo: "stations/images-america/woodward/KHYM 89.9.png",
+            url: "https://ice41.securenetsystems.net/KHYM"
+        },
+        {
+            name: "90.3 KGCD",
+            logo: "stations/images-america/0_general_logos/KJIL.png",
+            url: "https://ice41.securenetsystems.net/KJILW"
         },
         {
             name: "KUNC 93.5",

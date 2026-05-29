@@ -1479,7 +1479,7 @@ var country_properties = {
         name: "Marion",
         name_english: "Marion",
         code: "us-il",
-        relative_radius: 0.6
+        relative_radius: 0.7
     },
     "maryville": {
         name: "Maryville",
@@ -6313,9 +6313,9 @@ var cities = [
         "gameName": "marion",
         "realName": "Marion",
         "country": "marion",
-        "x": "31304",
+        "x": "31004",
         "y": "61.4141",
-        "z": "5872.07"
+        "z": "6872.07"
     },
     {
         "gameName": "maryville",
