@@ -2164,7 +2164,7 @@ var stations = {/*
         {
             name: "Radio Vinyl",
             logo: "stations/images-europe/denmark/Radio Vinyl.png",
-            url: "https://live-bauerdk.sharp-stream.com/Vinyl_dk.mp3"
+            url: "https://live-bauerdk.sharp-stream.com/DK_HQ_RP01.aac"
         },
         {
             name: "Radio IIII",
@@ -2286,6 +2286,11 @@ var stations = {/*
             url: "https://www.aripaev.ee/raadio/stream.mp3"
         },
         {
+            name: "BIGfm",
+            logo: "stations/images-europe/estonia/BIGfm.png",
+            url: "https://sc2.flamebox.org/bigfm-hd"
+        },
+        {
             name: "MyHits",
             logo: "stations/images-europe/estonia/MyHits.png",
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
@@ -2374,11 +2379,6 @@ var stations = {/*
             name: "Raadio Tallinn",
             logo: "stations/images-europe/estonia/Raadio Tallinn.png",
             url: "http://icecast.err.ee/raadiotallinn.mp3"
-        },
-        {
-            name: "Raadio X",
-            logo: "stations/images-europe/estonia/Raadio X.png",
-            url: "https://ice.leviracloud.eu/raadioX192-mp3"
         },
         {
             name: "Relax FM",
@@ -3553,9 +3553,9 @@ var stations = {/*
             url: "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/128/stream.mp3"
         },
         {
-            name: "YOU FM",
-            logo: "stations/images-europe/germany-hr/YOU FM.png",
-            url: "https://dispatcher.rndfnk.com/hr/youfm/live/mp3/128/stream.mp3"
+            name: "DASDING",
+            logo: "stations/images-europe/germany-swr/DASDING.png",
+            url: "https://dispatcher.rndfnk.com/hr/dasding/live/mp3/128/stream.mp3"
         },
         {
             name: "bigFM",
@@ -5343,7 +5343,7 @@ var stations = {/*
         {
             name: "Plus 102.6",
             logo: "stations/images-europe/greece/thessaloniki/Plus 102.6.png",
-            url: "https://plusradio.gr/stream1"
+            url: "https://eco.onestreaming.com:18814/stream"
         },
         {
             name: "Focus FM 103.6",
@@ -5537,12 +5537,12 @@ var stations = {/*
             name: "MNC Trijaya FM",
             logo: "stations/images-europe/indonesia/MNC Trijaya FM.png",
             url: "http://8.215.206.157:8002/;"
-        },
+        },/*
         {
             name: "Pop FM",
             logo: "stations/images-europe/indonesia/Pop FM.png",
             url: "https://i.klikhost.com/8272/stream"
-        },
+        },*/
         {
             name: "Prambors",
             logo: "stations/images-europe/indonesia/Prambors.png",
@@ -5622,67 +5622,67 @@ var stations = {/*
         {
             name: "رادیو ایران",
             logo: "stations/images-europe/iran/رادیو ایران.png",
-            url: "https://s2.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8"
+            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8"
         },
         {
             name: "رادیو آوا",
             logo: "stations/images-europe/iran/رادیو آوا.png",
-            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8"
+            url: "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8"
         },
         {
             name: "رادیو اقتصاد",
             logo: "stations/images-europe/iran/رادیو اقتصاد.png",
-            url: "https://s4.cdn3.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8"
+            url: "http://s4.cdn3.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8"
         },
         {
             name: "رادیو فرهنگ",
             logo: "stations/images-europe/iran/رادیو فرهنگ.png",
-            url: "https://s1.cdn3.iranseda.ir/liveedge/radio-farhang/playlist.m3u8"
+            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8"
         },
         {
             name: "رادیو جوان",
             logo: "stations/images-europe/iran/رادیو جوان.png",
-            url: "https://s3.cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8"
+            url: "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8"
         },
         {
             name: "رادیو معارف",
             logo: "stations/images-europe/iran/رادیو معارف.png",
-            url: "https://s2.cdn3.iranseda.ir/liveedge/radio-maaref/playlist.m3u8"
+            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8"
         },
         {
             name: "رادیو نمایش",
             logo: "stations/images-europe/iran/رادیو نمایش.png",
-            url: "https://s1.cdn3.iranseda.ir/liveedge/radio-namayesh/playlist.m3u8"
+            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8"
         },
         {
             name: "رادیو پیام",
             logo: "stations/images-europe/iran/رادیو پیام.png",
-            url: "https://s2.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8"
+            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8"
         },
         {
             name: "رادیو قرآن",
             logo: "stations/images-europe/iran/رادیو قرآن.png",
-            url: "https://s1.cdn3.iranseda.ir/liveedge/radio-quran/playlist.m3u8"
+            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8"
         },
         {
             name: "رادیو صبا",
             logo: "stations/images-europe/iran/رادیو صبا.png",
-            url: "https://s1.cdn3.iranseda.ir/liveedge/radio-saba/playlist.m3u8"
+            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8"
         },
         {
             name: "رادیو سلامت",
             logo: "stations/images-europe/iran/رادیو سلامت.png",
-            url: "https://s3.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8"
+            url: "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8"
         },
         {
             name: "رادیو مقاومت",
             logo: "stations/images-europe/iran/رادیو مقاومت.png",
-            url: "https://s2.cdn1.iranseda.ir/liveedge/radio-monasebati/playlist.m3u8"
+            url: "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8"
         },
         {
             name: "رادیو ورزش",
             logo: "stations/images-europe/iran/رادیو ورزش.png",
-            url: "https://s2.cdn3.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8"
+            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8"
         },
     ],
     "iraq": [
@@ -5724,6 +5724,11 @@ var stations = {/*
             url: "https://icy1.rte.ie/rnag"
         },
         {
+            name: "3FM",
+            logo: "stations/images-europe/ireland/3FM.png",
+            url: "https://3fm-seanashmore.radioca.st/stream"
+        },
+        {
             name: "BOB FM",
             logo: "stations/images-europe/ireland/BOB FM.png",
             url: "https://bobfm-seanashmore.radioca.st/stream"
@@ -5739,6 +5744,11 @@ var stations = {/*
             url: "https://play.digitalaudio.ie/listen/energy/ENERGY"
         },
         {
+            name: "Freedom FM",
+            logo: "stations/images-europe/ireland/Freedom FM.png",
+            url: "https://live.btsstream.com/stream/freedomfm"
+        },
+        {
             name: "GHR",
             logo: "stations/images-europe/ireland/GHR.png",
             url: "https://live-bauerie.sharp-stream.com/GHRLIVE"
@@ -5749,9 +5759,19 @@ var stations = {/*
             url: "https://live-bauerie.sharp-stream.com/GLR"
         },
         {
+            name: "Gravity Hits",
+            logo: "stations/images-europe/ireland/Gravity Hits.png",
+            url: "https://live.btsstream.com/stream/gravityhits"
+        },
+        {
             name: "iRadio",
             logo: "stations/images-europe/ireland/iRadio.png",
             url: "https://live-bauerie.sharp-stream.com/IRADNW"
+        },
+        {
+            name: "Lazer Hits",
+            logo: "stations/images-europe/ireland/Lazer Hits.png",
+            url: "https://stream.btsstream.com/stream/lazerhits"
         },
         {
             name: "Newstalk",
@@ -5827,6 +5847,11 @@ var stations = {/*
             name: "UCB Ireland",
             logo: "stations/images-europe/ireland/UCB Ireland.png",
             url: "https://stream.btsstream.com:8022/ucbireland"
+        },
+        {
+            name: "Velvet Sounds",
+            logo: "stations/images-europe/ireland/Velvet Sounds.png",
+            url: "https://live.btsstream.com/stream/velvetsounds"
         },
     ],
     "israel": [
@@ -6707,7 +6732,7 @@ var stations = {/*
             url: "https://stream.rtlradio.de/rtl-de-ukw/mp3-128/konsole/"
         },
         {
-            name: "RTL Today",
+            name: "RTL Today Radio",
             logo: "stations/images-europe/luxembourg/RTL Today.png",
             url: "https://stream.rtl.lu/data/live/radio/rtltoday/playlist.m3u8"
         },
@@ -6947,12 +6972,12 @@ var stations = {/*
         {
             name: "RCG",
             logo: "stations/images-europe/montenegro/RCG.png",
-            url: "https://rtcg.ipradio.rs:9008/;"
+            url: "https://rtcgradio-live.morescreens.com/RTCG_2_005/playlist.m3u8"
         },
         {
             name: "R98",
             logo: "stations/images-europe/montenegro/R98.png",
-            url: "https://r98.ipradio.rs:10100/;"
+            url: "https://rtcgradio-live.morescreens.com/RTCG_2_006/playlist.m3u8"
         },
         {
             name: "Arena Radio",
@@ -8806,6 +8831,11 @@ var stations = {/*
             url: "https://jurepeterka.radioca.st/;"
         },
         {
+            name: "Retro Radio",
+            logo: "stations/images-europe/slovenia/Retro Radio.png",
+            url: "https://zvok.ragla.si/gr"
+        },
+        {
             name: "Rock Radio",
             logo: "stations/images-europe/slovenia/Rock Radio.png",
             url: "http://stream.rockradio.si:9034/rock"
@@ -9743,7 +9773,7 @@ var stations = {/*
         {
             name: "Radio Thailand",
             logo: "stations/images-europe/thailand/Radio Thailand.png",
-            url: "http://89.168.75.18/redir/prd/63bbee5c46bad50012b8603b.m3u8"
+            url: "http://89.168.75.18/redir/prd/690dc9b4c8c64900121dd072.m3u8"
         },
         {
             name: "ลูกทุ่งเน็ตเวิร์ก",
