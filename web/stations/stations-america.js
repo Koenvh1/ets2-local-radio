@@ -4087,11 +4087,6 @@ var stations = {/*
             url: "https://www.ophanim.net:8444/s/7350"
         },
         {
-            name: "The Breeze 96.9",
-            logo: "stations/images-america/brownwood/The Breeze 96.9.png",
-            url: "https://ice5.securenetsystems.net/KQBZ"
-        },
-        {
             name: "KPSM 99.3",
             logo: "stations/images-america/brownwood/KPSM 99.3.png",
             url: "https://streaming.live365.com/a22253"
@@ -24667,12 +24662,17 @@ var stations = {/*
             name: "Freedom 97.9",
             logo: "stations/images-america/cape_girardeau/Freedom 97.9.png",
             url: "https://ice.wbcengineering.com:8109/stream"
-        },/*
+        },
         {
             name: "KZMA 99.9",
             logo: "stations/images-america/poplar_bluff/KZMA 99.9.png",
-            url: "http://51.81.208.185:8068/stream"
-        },*/
+            url: "https://stream.casthost.net/listen/kzma/radio.mp3"
+        },
+        {
+            name: "KLUE 103.5",
+            logo: "stations/images-america/poplar_bluff/KLUE 103.5.png",
+            url: "https://stream.casthost.net/listen/stratemyer_media/radio.mp3"
+        },
         {
             name: "C106",
             logo: "stations/images-america/cape_girardeau/C106.png",
@@ -44631,7 +44631,7 @@ var stations = {/*
         {
             name: "93.5 WKHY",
             logo: "stations/images-america/c2c/lafayette_in/93.5 WKHY.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WKHYFMAAC_SC"
+            url: "https://live.amperwave.net/direct/saga-wkhyfmaac-imc"
         },
         {
             name: "95.3 BOB FM",
