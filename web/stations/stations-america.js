@@ -15052,11 +15052,6 @@ var stations = {/*
             url: "https://hemnos.cdnstream.com/1414_64"
         },
         {
-            name: "101.7 KIYS-HD3",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
             name: "102.1 KBTM",
             logo: "stations/images-america/jonesboro/KBTM.png",
             url: "https://ais-sa2.cdnstream1.com/1580_64"
@@ -18860,6 +18855,11 @@ var stations = {/*
             name: "102.7 KIIS FM",
             logo: "stations/images-america/los_angeles/102.7 KIIS FM.png",
             url: "https://stream.revma.ihrhls.com/zc185/hls.m3u8"
+        },
+        {
+            name: "Reyna 103.1",
+            logo: "stations/images-america/los_angeles/Reyna 103.1.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC_SC"
         },
         {
             name: "KOST 103.5",
@@ -31763,9 +31763,9 @@ var stations = {/*
             url: "https://lkcm-live-a.edge.audiocdn.com/10358.aac"
         },
         {
-            name: "The Mighty 93",
-            logo: "stations/images-america/stephenville/The Mighty 93.png",
-            url: "https://www.streamvortex.com:8444/s/12570"
+            name: "Cowboy 93",
+            logo: "stations/images-america/stephenville/Cowboy 93.png",
+            url: "https://us2.streamway.net/stream/kstv"
         },	
         {
             name: "Fiesta 93.9",
