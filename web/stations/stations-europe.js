@@ -1439,7 +1439,7 @@ var stations = {/*
         {
             name: "Radio TeleTaxi",
             logo: "stations/images-europe/catalonia/Radio TeleTaxi.png",
-            url: "https://radiott-web.streaming-pro.com:6103/radiott.mp3"
+            url: "https://mdstrm.com/audio/697382c0662b3e30d30e12a4/live.m3u8"
         },
         {
             name: "SER Catalunya",
@@ -1644,16 +1644,6 @@ var stations = {/*
             name: "CMC Radio",
             logo: "stations/images-europe/croatia/CMC Radio.png",
             url: "https://radio-stream.cmc.com.hr:9011/live"
-        },
-        {
-            name: "EXTRA FM", // will be removed from DAB+ in the near future
-            logo: "stations/images-europe/croatia/EXTRA FM.png",
-            url: "http://streams.extrafm.hr:8110/stream"
-        },
-        {
-            name: "Happy FM", // will be removed from DAB+ in the near future
-            logo: "stations/images-europe/croatia/Happy FM.png",
-            url: "http://c5.hostingcentar.com:8446/;"
         },
         {
             name: "Hrvatski Katolički Radio",
@@ -5746,7 +5736,7 @@ var stations = {/*
         {
             name: "Freedom FM",
             logo: "stations/images-europe/ireland/Freedom FM.png",
-            url: "https://live.btsstream.com/stream/freedomfm"
+            url: "https://edge3.audioxi.com/FREEDOMFMAAC"
         },
         {
             name: "GHR",
@@ -5804,8 +5794,8 @@ var stations = {/*
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-hits"
         },
         {
-            name: "Onic Irish",
-            logo: "stations/images-europe/ireland/Onic Irish.png",
+            name: "Onic Pride Vibes",
+            logo: "stations/images-europe/ireland/Onic Pride Vibes.png",
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-innovation"
         },
         {
@@ -8271,7 +8261,7 @@ var stations = {/*
         {
             name: "Маруся Фм",
             logo: "stations/images-europe/russia/Маруся Фм - Marusya FM.png",
-            url: "https://radio-holding.ru:9433/marusya_default"
+            url: "https://spb2.radio-holding.ru/marusya_default"
         },
         {
             name: "Милицейская Волна",
@@ -9000,24 +8990,19 @@ var stations = {/*
             url: "https://control.streaming-pro.com:8014/stream"
         },
         {
-            name: "Ucrania FM 87.7",
-            logo: "stations/images-europe/spain-madrid/Ucrania FM 87.7.png",
-            url: "https://sonicpanel.streaming10.net:8084/stream"
-        },
-        {
-            name: "Pepe Radio 89.3",
-            logo: "stations/images-europe/spain-madrid/Pepe Radio 89.3.png",
-            url: "https://server10.emitironline.com:8032/"
-        },
-        {
-            name: "HIT FM 89.9",
-            logo: "stations/images-europe/spain-madrid/HIT FM 89.9.png",
-            url: "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3"
+            name: "Furiosa FM 87.7",
+            logo: "stations/images-europe/spain-madrid/Furiosa FM 87.7.png",
+            url: "https://server1.easystreaming.pro:8443/furiosa"
         },
         {
             name: "Super Latina 90.1",
             logo: "stations/images-europe/spain-madrid/Super Latina 90.1.png",
             url: "https://securestream.radioshd.info:7037/;"
+        },
+        {
+            name: "La Suegra 90.8",
+            logo: "stations/images-europe/spain-madrid/La Suegra 90.8.png",
+            url: "https://securestream.radioshd.info:7004/stream"
         },
         {
             name: "Radio Tentación 91.4",
@@ -9030,19 +9015,19 @@ var stations = {/*
             url: "https://radios.lamaster.es:8000/madrid"
         },
         {
-            name: "Loca Urban 95.4",
-            logo: "stations/images-europe/spain/Loca Urban.png",
-            url: "http://locafm02.we4stream.com:8015/live"
+            name: "Intar Radio 95.6",
+            logo: "stations/images-europe/spain-madrid/Intar Radio 95.6.png",
+            url: "https://hello.citrus3.com:8334/stream"
+        },
+        {
+            name: "Radio Callao Madrid 96.2",
+            logo: "stations/images-europe/spain-madrid/Radio Callao Madrid 96.2.png",
+            url: "https://server8.emitironline.com:18176/stream"
         },
         {
             name: "Diversa Radio 96.7",
             logo: "stations/images-europe/spain-madrid/Diversa Radio 96.7.png",
             url: "https://radio.lamejorfm.es/proxy/01user/stream"
-        },
-        {
-            name: "TOP Radio 97.2",
-            logo: "stations/images-europe/spain-madrid/TOP Radio 97.2.png",
-            url: "https://mdstrm.com/audio/66ec3c9fabba24a0a2e59de8/live.m3u8"
         },
         {
             name: "La Mega Estacion 98.2",
@@ -9060,8 +9045,8 @@ var stations = {/*
             url: "https://vaughanradioweb.streaming-pro.com:8058/vaughanradio.mp3"
         },
         {
-            name: "MegaStarFM 100.9",
-            logo: "stations/images-europe/spain-madrid/MegaStarFM 100.9.png",
+            name: "MegaStarFM 100.7",
+            logo: "stations/images-europe/spain-madrid/MegaStarFM 100.7.png",
             url: "https://megastar-cope.flumotion.com/playlist.m3u8"
         },
         {
@@ -9625,11 +9610,6 @@ var stations = {/*
             url: "https://onair18.xdevel.com/proxy/7080it?mp=/stream"
         },
         {
-            name: "ELLIPTICUM",
-            logo: "stations/images-europe/switzerland-it/ELLIPTICUM.png",
-            url: "https://live.ellipticum.radio/elli_it.aac"
-        },
-        {
             name: "Giornale Radio",
             logo: "stations/images-europe/switzerland-it/Giornale Radio.png",
             url: "https://gr.fluidstream.eu/gr1.mp3"
@@ -9638,11 +9618,6 @@ var stations = {/*
             name: "MaXXima",
             logo: "stations/images-europe/switzerland-fr/MaXXima.png",
             url: "https://maxxima.mine.nu/maxxima.mp3"
-        },
-        {
-            name: "Music Channel",
-            logo: "stations/images-europe/switzerland-it/Music Channel.png",
-            url: "https://nr15.newradio.it:9184/stream"
         },
         {
             name: "my105 DJ RADIO",
@@ -9773,7 +9748,7 @@ var stations = {/*
         {
             name: "Radio Thailand",
             logo: "stations/images-europe/thailand/Radio Thailand.png",
-            url: "http://89.168.75.18/redir/prd/690dc9b4c8c64900121dd072.m3u8"
+            url: "https://cdn-edge.iiptvcdn.com/radio_edge/45d4-d521-cbfc-d686-0123/playlist.m3u8"
         },
         {
             name: "ลูกทุ่งเน็ตเวิร์ก",
