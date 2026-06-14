@@ -7219,12 +7219,12 @@ var stations = {/*
             name: "Planet 102.3",
             logo: "stations/images-america/corpus_christi/Planet 102.3.png",
             url: "https://us2.maindigitalstream.com/ssl/KKPN"
-        },
+        },/*
         {
             name: "102.9 Da Bomb",
             logo: "stations/images-america/corpus_christi/102.9 Da Bomb.png",
             url: "http://84.32.44.251/securenet.php?id=KNDA"
-        },
+        },*/
         {
             name: "Retro Country 103.3",
             logo: "stations/images-america/corpus_christi/Retro Country.png",
@@ -20011,7 +20011,7 @@ var stations = {/*
         {
             name: "1170 News On 6 Now",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/griffin-kfaqammp3-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/griffin-kfaqamaac-imc2"
         },
         {
             name: "KVLF 1240",
@@ -20935,11 +20935,6 @@ var stations = {/*
             name: "Star 107.5",
             logo: "stations/images-america/missoula/Star 107.5.png",
             url: "https://sc9coolradio.maindigitalstream.com/ssl/KENR"
-        },
-        {
-            name: "Rocket 108",
-            logo: "stations/images-america/missoula/Rocket 108.png",
-            url: "https://stream.zeno.fm/shfha0gfwiivv"
         },
         {
             name: "750 KERR",
@@ -32896,12 +32891,12 @@ var stations = {/*
             name: "KACI 93.5",
             logo: "stations/images-america/the_dalles/KACI 93.5.png",
             url: "https://us9.maindigitalstream.com/ssl/KACI"
-        },
+        },/*
         {
             name: "95.9 Star FM",
             logo: "stations/images-america/the_dalles/95.9 Star FM.png",
             url: "https://ice26.securenetsystems.net/KRSX"
-        },
+        },*/
         {
             name: "All Classical Radio 96.3",
             logo: "stations/images-america/portland/All Classical Radio.png",
@@ -33687,7 +33682,7 @@ var stations = {/*
         {
             name: "98.5 KVOO-HD2",
             logo: "stations/images-america/tulsa/1170 News On 6 Now.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https:///live.amperwave.net/direct/griffin-kfaqamaac-imc2"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/griffin-kfaqamaac-imc2"
         },
         {
             name: "Heart and Soul 99.1",
