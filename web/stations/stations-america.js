@@ -57859,13 +57859,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6863/hls.m3u8"
         },
         {
-            name: "Glory 100.1",
-            logo: "stations/images-america/c2c/florence_sc/Glory 100.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBZFFMAAC_SC"
-        },
-        {
-            name: "100.5 The Game",
-            logo: "stations/images-america/c2c/florence_sc/100.5 The Game.png",
+            name: "100.1 The Game",
+            logo: "stations/images-america/c2c/florence_sc/100.1 The Game.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWFNFMAAC_SC"
         },
         {
