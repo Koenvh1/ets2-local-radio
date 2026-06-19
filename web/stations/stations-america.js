@@ -15122,12 +15122,12 @@ var stations = {/*
             name: "Kissin 92.5",
             logo: "stations/images-america/joplin/Kissin 92.5.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYNFMAAC_SC"
-        },/*
+        },
         {
-            name: "Magic Mix 92.9",
-            logo: "stations/images-america/joplin/Magic Mix 92.9.png",
+            name: "Vibe 92.9",
+            logo: "stations/images-america/joplin/Vibe 92.9.png",
             url: "https://ice42.securenetsystems.net/KQYX"
-        },*/
+        },
         {
             name: "93.3 The Eagle",
             logo: "stations/images-america/fayetteville_ar/93.3 The Eagle.png",
@@ -15267,6 +15267,11 @@ var stations = {/*
             name: "FOX Sports 1420",
             logo: "stations/images-america/joplin/FOX Sports Joplin.png",
             url: "http://ice42.securenetsystems.net/KSEK"
+        },
+        {
+            name: "1450 KQYX",
+            logo: "stations/images-america/joplin/Vibe 92.9.png",
+            url: "http://ice42.securenetsystems.net/KQYX"
         },
         {
             name: "SOMO Sports Radio 1560",
