@@ -5704,6 +5704,11 @@ var stations = {/*
             url: "https://icy1.rte.ie/2fm"
         },
         {
+            name: "RTÉ Gold",
+            logo: "stations/images-europe/ireland/RTÉ Gold.png",
+            url: "https://icy1.rte.ie/gold"
+        },
+        {
             name: "RTÉ lyric fm",
             logo: "stations/images-europe/ireland/RTÉ Lyric FM.png",
             url: "https://icy1.rte.ie/lyric"
