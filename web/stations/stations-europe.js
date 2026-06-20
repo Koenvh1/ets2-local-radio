@@ -3205,11 +3205,6 @@ var stations = {/*
             url: "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid"
         },
         {
-            name: "BR24live",
-            logo: "stations/images-europe/germany-br/BR24live.png",
-            url: "https://dispatcher.rndfnk.com/br/br24live/live/mp3/mid"
-        },
-        {
             name: "AFN Bavaria",
             logo: "stations/images-europe/germany-br/AFN Bavaria.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BAVAAC_SC"
@@ -7652,11 +7647,6 @@ var stations = {/*
             url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_foyle.m3u8"
         },
         {
-            name: "Absolute Classic Rock",
-            logo: "stations/images-europe/nireland/Absolute Classic Rock.png",
-            url: "http://84.32.44.251/radiofeeds.php?station=absoluteclassicrockhigh-aac"
-        },
-        {
             name: "Cool FM",
             logo: "stations/images-europe/nireland/Cool FM.png",
             url: "http://84.32.44.251/radiofeeds.php?station=coolfm-aac"
@@ -7672,34 +7662,14 @@ var stations = {/*
             url: "http://84.32.44.251/radiofeeds.php?station=downtowncountry-aac"
         },
         {
-            name: "Hits Radio",
-            logo: "stations/images-europe/uk/Hits Radio.png",
-            url: "http://84.32.44.251/radiofeeds.php?station=hits-aac"
-        },
-        {
-            name: "Hits Radio Pride",
-            logo: "stations/images-europe/uk/Hits Radio Pride.png",
-            url: "http://84.32.44.251/radiofeeds.php?station=hitsradiopride-aac"
-        },
-        {
-            name: "Greatest Hits Radio",
-            logo: "stations/images-europe/nireland/Greatest Hits Radio.png",
-            url: "http://84.32.44.251/radiofeeds.php?station=net2national-aac"
-        },
-        {
-            name: "Magic Soul",
-            logo: "stations/images-europe/nireland/Magic Soul.png",
-            url: "http://84.32.44.251/radiofeeds.php?station=magicsoul-aac"
+            name: "Q Radio",
+            logo: "stations/images-europe/nireland/Q Radio.png",
+            url: "https://direct-qradio.sharp-stream.com/qr1060.mp3"
         },
         {
             name: "U105",
             logo: "stations/images-europe/nireland/U105.png",
             url: "https://gbradio.cdn.tibus.net/U105"
-        },
-        {
-            name: "Q Radio",
-            logo: "stations/images-europe/nireland/Q Radio.png",
-            url: "https://direct-qradio.sharp-stream.com/qr1060.mp3"
         },
     ],
     "norway": [
@@ -10159,6 +10129,16 @@ var stations = {/*
             url: "http://84.32.44.251/radiofeeds.php?station=absolute90shigh-aac"
         },
         {
+            name: "Absolute 00s",
+            logo: "stations/images-europe/uk/Absolute 00s.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=absolute00shigh-aac"
+        },
+        {
+            name: "Absolute 10s",
+            logo: "stations/images-europe/uk/Absolute 10s.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=absolute10shigh-aac"
+        },
+        {
             name: "Absolute Classic Rock",
             logo: "stations/images-europe/uk/Absolute Classic Rock.png",
             url: "http://84.32.44.251/radiofeeds.php?station=absoluteclassicrockhigh-aac"
@@ -10284,6 +10264,11 @@ var stations = {/*
             url: "https://media-ssl.musicradio.com/HeartXmas"
         },*/
         {
+            name: "heat Radio",
+            logo: "stations/images-europe/uk/heat Radio.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=heat-aac"
+        },
+        {
             name: "Hits Radio",
             logo: "stations/images-europe/uk/Hits Radio.png",
             url: "http://84.32.44.251/radiofeeds.php?station=hits-aac"
@@ -10322,6 +10307,16 @@ var stations = {/*
             name: "KISS",
             logo: "stations/images-europe/uk/Kiss.png",
             url: "http://84.32.44.251/radiofeeds.php?station=kissnational-aac"
+        },
+        {
+            name: "KISS DANCE",
+            logo: "stations/images-europe/uk/KISS DANCE.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=kissdance-aac"
+        },
+        {
+            name: "KISS XTRA",
+            logo: "stations/images-europe/uk/KISS XTRA.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=kissfresh-aac"
         },
         {
             name: "KISSTORY",
@@ -10372,6 +10367,16 @@ var stations = {/*
             name: "Magic Soul",
             logo: "stations/images-europe/uk/Magic Soul.png",
             url: "http://84.32.44.251/radiofeeds.php?station=magicsoul-aac"
+        },
+        {
+            name: "Nation 80s",
+            logo: "stations/images-europe/uk/Nation 80s.png",
+            url: "https://listen-nation.sharp-stream.com/nationradio80s.aac"
+        },
+        {
+            name: "Nation 90s",
+            logo: "stations/images-europe/uk/Nation 90s.png",
+            url: "https://listen-nation.sharp-stream.com/nationradio90s.aac"
         },
         {
             name: "Planet Rock",
@@ -10638,6 +10643,16 @@ var stations = {/*
             name: "BBC Radio Cymru 2",
             logo: "stations/images-europe/wales/BBC Radio Cymru 2.png",
             url: "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_cymru_2.m3u8"
+        },
+        {
+            name: "Dragon Radio",
+            logo: "stations/images-europe/wales/Dragon Radio.png",
+            url: "https://listen-nation.sharp-stream.com/tcnationdigital.aac"
+        },
+        {
+            name: "Nation Radio Wales",
+            logo: "stations/images-europe/wales/Nation Radio Wales.png",
+            url: "https://listen-nation.sharp-stream.com/tcnation.aac"
         },
     ],
     "westbank": [
