@@ -23199,8 +23199,8 @@ var stations = {/*
             url: "https://stream.rcs.revma.com/pp8zgf8xu7uvv"
         },
         {
-            name: "Bluffs Country 106.5",
-            logo: "stations/images-america/omaha/Bluffs Country 106.5.png",
+            name: "Boomer in the Bluffs 106.5",
+            logo: "stations/images-america/omaha/Boomer in the Bluffs 106.5.png",
             url: "https://us2.maindigitalstream.com/ssl/KOTK"
         },
         {
@@ -23260,7 +23260,7 @@ var stations = {/*
         },
         {
             name: "KXCB 1420",
-            logo: "stations/images-america/omaha/Bluffs Country 106.5.png",
+            logo: "stations/images-america/omaha/Boomer in the Bluffs 106.5.png",
             url: "https:///us2.maindigitalstream.com/ssl/KOTK"
         },
         {
