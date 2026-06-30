@@ -39330,8 +39330,8 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
-            name: "Sports Talk 99.5",
-            logo: "stations/images-america/c2c/mobile_al/Sports Talk 99.5.png",
+            name: "99.5 KISS FM",
+            logo: "stations/images-america/c2c/mobile_al/99.5 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc7117/hls.m3u8"
         },
         {
