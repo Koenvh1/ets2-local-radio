@@ -22384,9 +22384,14 @@ var stations = {/*
             url: "https://www.ophanim.net:8444/s/8970"
         },
         {
+            name: "K-Surf Country 96.7",
+            logo: "stations/images-america/newport/K-Surf Country 96.7.png",
+            url: "https://stream.aiir.com/mx3q33rloyltv"
+        },
+        {
             name: "100.7 The Otter",
             logo: "stations/images-america/newport/100.7 The Otter.png",
-            url: "https://pacnw.streamguys1.com/live"
+            url: "https://stream.aiir.com/6qq3qbsllhatv"
         },
         {
             name: "US 101",
