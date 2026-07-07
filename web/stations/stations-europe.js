@@ -1089,11 +1089,6 @@ var stations = {/*
             url: "https://radios.rtbf.be/musiq3-128.aac"
         },
         {
-            name: "Jam",
-            logo: "stations/images-europe/belgium-fr/Jam.png",
-            url: "https://radios.rtbf.be/jam-64.aac"
-        },
-        {
             name: "Tarmac",
             logo: "stations/images-europe/belgium-fr/Tarmac.png",
             url: "https://radios.rtbf.be/tarmac-64.aac"
@@ -3213,6 +3208,11 @@ var stations = {/*
             name: "Antenne Bayern",
             logo: "stations/images-europe/germany-br/Antenne Bayern.png",
             url: "https://s1-webradio.webradio.de/antenne"
+        },
+        {
+            name: "CHILLOUT ANTENNE",
+            logo: "stations/images-europe/germany-br/CHILLOUT ANTENNE.png",
+            url: "https://stream.chillout.de/chillout-antenne-bayern/stream/mp3"
         },
         {
             name: "egoFM",
