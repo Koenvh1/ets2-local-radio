@@ -2094,8 +2094,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkbbfmaac-ibc4"
         },
         {
-            name: "KGEO 101.1",
-            logo: "stations/images-america/bakersfield/KGEO.png",
+            name: "101.1 The Bounce",
+            logo: "stations/images-america/bakersfield/101.1 The Bounce.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kgeoamaac-ibc3"
         },
         {
@@ -7594,9 +7594,9 @@ var stations = {/*
             url: "https://streaming.live365.com/a00379"
         },
         {
-            name: "Majic 94.5",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+            name: "Fuzión 94.5",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionDallas-website"
         },
         {
             name: "K-LOVE 94.9",
@@ -29657,8 +29657,8 @@ var stations = {/*
             url: "https://knkx-live-a.edge.audiocdn.com/6285_256k"
         },
         {
-            name: "c89.5",
-            logo: "stations/images-america/seattle/c89.5.png",
+            name: "DANCE 89.5",
+            logo: "stations/images-america/seattle/DANCE 89.5.png",
             url: "http://knhc-ice.streamguys1.com/live"
         },/*
         {
@@ -42949,8 +42949,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc6851/hls.m3u8"
         },
         {
-            name: "HD98.3",
-            logo: "stations/images-america/c2c/augusta_ga/HD98.3.png",
+            name: "PARTY 98.3",
+            logo: "stations/images-america/c2c/augusta_ga/PARTY 98.3.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WHHDFMAAC_SC"
         },
         {
