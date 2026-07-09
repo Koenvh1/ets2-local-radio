@@ -1392,9 +1392,9 @@ var stations = {/*
             url: "http://streaming.live365.com/a71179_2"
         },
         {
-            name: "Majic 94.5",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+            name: "Fuzión 94.5",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionDallas-website"
         },
         {
             name: "95.7 KKAJ",
@@ -7645,8 +7645,8 @@ var stations = {/*
         },
         {
             name: "97.9 KBFB-HD2",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "http://emg.streamguys1.com/fuzionDallas-website"
         },
         {
             name: "Luna 98.3",
@@ -9520,9 +9520,9 @@ var stations = {/*
             url: "https://ice9.securenetsystems.net/KSEO"
         },
         {
-            name: "Majic 94.5",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+            name: "Fuzión 94.5",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionDallas-website"
         },
         {
             name: "Mix 96.1",
@@ -23857,9 +23857,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice5.securenetsystems.net/KOYN"
         },
         {
-            name: "Majic 94.5",
-            logo: "stations/images-america/dallas_fort_worth/Majic 94.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KZMJFMAAC_SC"
+            name: "Fuzión 94.5",
+            logo: "stations/images-america/0_general_logos/Fuzión.png",
+            url: "https://emg.streamguys1.com/fuzionDallas-website"
         },
         {
             name: "K95.5",
