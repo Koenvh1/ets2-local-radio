@@ -9062,7 +9062,7 @@ var stations = {/*
         {
             name: "102.1 ESPN",
             logo: "stations/images-america/des_moines/1350 ESPN.png",
-            url: "http://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "http://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "Star 102.5",
@@ -9162,7 +9162,7 @@ var stations = {/*
         {
             name: "1350 ESPN",
             logo: "stations/images-america/des_moines/1350 ESPN.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "1430 KASI",
@@ -11391,7 +11391,7 @@ var stations = {/*
         {
             name: "ESPN 104.7",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "http://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "http://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "Hits 106",
@@ -11411,7 +11411,7 @@ var stations = {/*
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KAZM 780",
@@ -12559,7 +12559,7 @@ var stations = {/*
         {
             name: "600 KVNA",
             logo: "stations/images-america/flagstaff/600 KVNA.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KTNN 660",
@@ -14623,7 +14623,7 @@ var stations = {/*
         {
             name: "LAist 90.3",
             logo: "stations/images-america/0_general_logos/LAist.png",
-            url: "https://live.amperwave.net/direct/southerncalipr-kpccfmaac-imc.aac"
+            url: "https://laist.streamguys1.com/kpcc-mp3"
         },
         {
             name: "SonLife Radio 90.9",
@@ -14723,7 +14723,7 @@ var stations = {/*
         {
             name: "Q102.3",
             logo: "stations/images-america/indio/Q102.3.png",
-            url: "https://ice41.securenetsystems.net/KRHQ"
+            url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KRHQ"
         },/*
         {
             name: "102.7 The Fanatic",
@@ -17651,7 +17651,7 @@ var stations = {/*
         {
             name: "ESPN 100.9",
             logo: "stations/images-america/las_vegas/ESPN 100.9.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "101.5 K-DAWN",
@@ -18634,7 +18634,7 @@ var stations = {/*
         {
             name: "LAist 89.3",
             logo: "stations/images-america/0_general_logos/LAist.png",
-            url: "https://live.amperwave.net/direct/southerncalipr-kpccfmaac-imc.aac"
+            url: "https://laist.streamguys1.com/kpcc-mp3"
         },
         {
             name: "The Current 89.3-HD2",
@@ -23601,7 +23601,7 @@ var stations = {/*
         {
             name: "LAist 89.3",
             logo: "stations/images-america/0_general_logos/LAist.png",
-            url: "https://live.amperwave.net/direct/southerncalipr-kpccfmaac-imc.aac"
+            url: "https://laist.streamguys1.com/kpcc-mp3"
         },
         {
             name: "KCSB 91.9",
@@ -28404,7 +28404,7 @@ var stations = {/*
         {
             name: "1400 ESPN",
             logo: "stations/images-america/santa_fe/1400 ESPN.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
     ],
     "santa_maria": [
@@ -42305,7 +42305,7 @@ var stations = {/*
         {
             name: "92.9 W225CQ",
             logo: "stations/images-america/c2c/tampa_fl/1150 WTMP.png",
-            url: "http://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "http://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "93.3 FLZ",
@@ -42490,7 +42490,7 @@ var stations = {/*
         {
             name: "1150 WTMP",
             logo: "stations/images-america/c2c/tampa_fl/1150 WTMP.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "1250 WHNZ",
@@ -43359,7 +43359,7 @@ var stations = {/*
         {
             name: "ESPN Coastal 104.3",
             logo: "stations/images-america/c2c/savannah_ga/ESPN Coastal 104.3.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "104.7 The Hawk",
@@ -69212,7 +69212,7 @@ var stations = {/*
         {
             name: "ESPN Radio 100.7-HD2",
             logo: "stations/images-america/caribbean/puerto_rico/sanjuan/ESPN Radio 100.7-HD2.png",
-            url: "https://live.amperwave.net/direct/espn-network-cloud.m3u8"
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "HOT 102",
