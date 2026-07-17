@@ -1715,7 +1715,7 @@ var stations = {/*
         {
             name: "93.3 KGSR-HD4",
             logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KLZT_HD2AAC_SC"
+            url: "http://84.32.44.251/index.php?u=http://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
         },
         {
             name: "93.7 KLBJ",
@@ -1915,7 +1915,7 @@ var stations = {/*
         {
             name: "107.1 KLZT-HD2",
             logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLZT_HD2AAC.aac"
+            url: "http://84.32.44.251/index.php?u=https://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
         },
         {
             name: "Amor 107.7",
