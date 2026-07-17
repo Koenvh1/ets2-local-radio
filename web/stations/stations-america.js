@@ -1698,9 +1698,9 @@ var stations = {/*
             url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
         },
         {
-            name: "Vibe 93.3",
-            logo: "stations/images-america/austin/Vibe 93.3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+            name: "93.3 KGSR",
+            logo: "stations/images-america/austin/Vibe 97.1.png",
+            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
             name: "93.3 KGSR-HD2",
@@ -1773,9 +1773,9 @@ var stations = {/*
             url: "http://stream.revma.ihrhls.com/zc10125/hls.m3u8"
         },
         {
-            name: "Latino 97.1",
-            logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLZT_HD2AAC_SC"
+            name: "Vibe 97.1",
+            logo: "stations/images-america/austin/Vibe 97.1.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
         },
         {
             name: "ALT 97.5",
@@ -1900,7 +1900,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 105.9-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Keilah 106.5",
@@ -2862,7 +2862,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 105.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "K-LOVE 105.3-HD2",
@@ -4876,7 +4876,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 89.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "89.9 KEWR",
@@ -4921,7 +4921,7 @@ var stations = {/*
         {
             name: "102.9 KZIA-HD3",
             logo: "stations/images-america/cedar_rapids/ESPN Cedar Rapids.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https:///stream.aiir.com/oziogm3evamtv"
+            url: "https:///stream.aiir.com/oziogm3evamtv"
         },
         {
             name: "102.9 KZIA-HD4",
@@ -5571,7 +5571,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 101.5",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "101.9 THE MIX",
@@ -7584,7 +7584,7 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/klnofm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
-            name: "Radio Rangrez 94.1-HD3.png",
+            name: "Radio Rangrez 94.1-HD3",
             logo: "stations/images-america/dallas_fort_worth/Radio Rangrez 94.1-HD3.png",
             url: "https://streaming.live365.com/a37825"
         },
@@ -7716,7 +7716,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 101.7-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Star 102.1",
@@ -8848,7 +8848,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 91.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "KNLB 96.9",
@@ -9138,6 +9138,11 @@ var stations = {/*
             name: "540 KWMT",
             logo: "stations/images-america/fort_dodge/540 KWMT.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kwmtamaac-ibc2"
+        },
+        {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
         },
         {
             name: "IPR News 640",
@@ -10121,7 +10126,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 89.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Manantial 91.1",
@@ -12723,7 +12728,7 @@ var stations = {/*
         {
             name: "Y102",
             logo: "stations/images-america/grand_island/Y102.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRNYFMAAC_SC"
+            url: "https://ice25.securenetsystems.net/KRNY"
         },
         {
             name: "103.1 KJ Country",
@@ -12759,6 +12764,11 @@ var stations = {/*
             name: "NOAA Weather Radio Grand Island",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
             url: "https://wxradio.org/NE-GrandIsland-WXL74"
+        },
+        {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
         },
         {
             name: "MyBridge Español 750",
@@ -14278,7 +14288,7 @@ var stations = {/*
         {
             name: "The Lake 104.9",
             logo: "stations/images-america/huntsville/The Lake 104.9.png",
-            url: "https://ice23.securenetsystems.net/KHVL"
+            url: "https://cc141.cir.st/KHVL"
         }, 
         {
             name: "The Eagle 106.9",
@@ -14325,12 +14335,12 @@ var stations = {/*
         {
             name: "94.7 KSKU",
             logo: "stations/images-america/hutchinson/94.7 KSKU.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADKSKU"
+            url: "https://a4.asurahosting.com:7630/radio.mp3"
         },
         {
             name: "95.9 HK FM",
             logo: "stations/images-america/hutchinson/95.9 HK FM.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADOLDIES"
+            url: "https://a12.asurahosting.com/listen/kwhk-fm/radio.mp3"
         },
         {
             name: "KWBW 98.5",
@@ -14345,7 +14355,7 @@ var stations = {/*
         {
             name: "100.3 KNZS",
             logo: "stations/images-america/hutchinson/100.3 KNZS.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADROCKS"
+            url: "https://a12.asurahosting.com/listen/knzs-fm/radio.mp3"
         },
         {
             name: "Country 102.9",
@@ -14355,7 +14365,7 @@ var stations = {/*
         {
             name: "106.1 KXKU",
             logo: "stations/images-america/hutchinson/106.1 KXKU.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADKICKS"
+            url: "https://a12.asurahosting.com/listen/kxku-fm/radio.mp3"
         },
         {
             name: "KWBW 1450",
@@ -14365,7 +14375,7 @@ var stations = {/*
         {
             name: "1540 KMCP",
             logo: "stations/images-america/hutchinson/KMCP.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADASTRA8"
+            url: "https://a12.asurahosting.com/listen/kmcp-am/radio.mp3"
         },
     ],
     "hyannis": [
@@ -14758,7 +14768,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 105.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "BIG 106",
@@ -15889,6 +15899,11 @@ var stations = {/*
             name: "107.3 The Vibe",
             logo: "stations/images-america/kansas_city/107.3 The Vibe.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
+        },
+        {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
         },
         {
             name: "The Fan 610",
@@ -18799,7 +18814,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 100.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "K-EARTH 101",
@@ -20523,7 +20538,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 101.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Lite 102",
@@ -20897,11 +20912,6 @@ var stations = {/*
             url: "https://s4.radio.co/s136b8d11e/listen"
         },
         {
-            name: "102.5 Mountain FM",
-            logo: "stations/images-america/missoula/102.5 Mountain FM.png",
-            url: "https://stream.aiir.com/ecbh5tc8atdtv"
-        },
-        {
             name: "102.9 ESPN",
             logo: "stations/images-america/missoula/102.9 ESPN.png",
             url: "https://ice9.securenetsystems.net/KKVUHD3"
@@ -21100,7 +21110,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 90.5-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "http://ice10.securenetsystems.net/KMRO"
+            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "CapRadio News 91.3",
@@ -21210,7 +21220,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 102.9",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Kat Country 103",
@@ -23219,6 +23229,11 @@ var stations = {/*
             url: "https://broadcastify.cdnstream1.com/27971"
         },
         {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
+        },
+        {
             name: "KCRO 660",
             logo: "stations/images-america/omaha/KCRO 660.png",
             url: "https://us2.maindigitalstream.com/stream/kcro2"
@@ -24910,7 +24925,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 97.9-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "98.7 The Bull",
@@ -25083,9 +25098,9 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/kbpsam-kbpsamaac-ibc1"
         },
         {
-            name: "La Patrona 1640",
-            logo: "stations/images-america/portland/La Patrona 1640.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KDZRAMAAC_SC"
+            name: "AM 1640 The Answer",
+            logo: "stations/images-america/portland/AM 1640 The Answer.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPAMAMAAC_SC"
         },
     ],
     "postville": [
@@ -27044,7 +27059,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 99.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "NOW 100.5",
@@ -27400,7 +27415,7 @@ var stations = {/*
         {
             name: "106.1 KXKU",
             logo: "stations/images-america/salina_ks/106.1 KXKU.png",
-            url: "https://us2.maindigitalstream.com/ssl/ADKICKS"
+            url: "https://a12.asurahosting.com/listen/kxku-fm/radio.mp3"
         },
         {
             name: "106.7 K294DI",
@@ -27494,7 +27509,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 88.9-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "89.7 KSQD",
@@ -28102,7 +28117,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 91.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "KRTU 91.7",
@@ -28802,7 +28817,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 92.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "http://ice10.securenetsystems.net/KMRO"
+            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Magic 92.5",
@@ -28932,7 +28947,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 102.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Fusión 102.5",
@@ -29381,7 +29396,7 @@ var stations = {/*
         {
             name: "107.3 KLVS-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "107.7 The Bone",
@@ -30805,6 +30820,11 @@ var stations = {/*
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+        },
+        {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
         },
         {
             name: "FOX Sports 620",
@@ -35319,7 +35339,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 90.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "The Gospel Station 91.5",
@@ -43887,14 +43907,14 @@ var stations = {/*
             url: "https://stream.rcs.revma.com/4d5tpq33s7uvv"
         },
         {
-            name: "Oldies 101.1",
-            logo: "stations/images-america/c2c/honolulu_hi/Oldies 101.1.png",
-            url: "https://streaming.live365.com/a48122"
+            name: "101.1 KORL",
+            logo: "stations/images-america/c2c/honolulu_hi/101.1 KORL.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a48122"
         },
         {
             name: "101.5 K-Rock",
             logo: "stations/images-america/c2c/honolulu_hi/101.5 K-Rock.png",
-            url: "https://streaming.live365.com/a23357"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a23357"
         },
         {
             name: "PoP! 101.9",
@@ -43919,7 +43939,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 103.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "103.9 The X",
@@ -46231,7 +46251,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 105.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Delmarva Gold B106.1",
@@ -46488,7 +46508,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 107.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "El Zol 107.9",
@@ -47156,7 +47176,7 @@ var stations = {/*
         {
             name: "The Bet 97.1-HD3",
             logo: "stations/images-america/c2c/detroit_mi/The Bet 97.1-HD3.png",
-            url: "http://84.32.44.251/amperwave/index.php?q==https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "CBC Radio One 97.5",
@@ -51619,7 +51639,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 96.7-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "HOT 97",
@@ -53221,7 +53241,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 94.1-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "94.5 WPTI",
@@ -56592,7 +56612,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 89.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "89.7 WGLS",
@@ -58900,6 +58920,11 @@ var stations = {/*
             name: "570 WNAX",
             logo: "stations/images-america/c2c/mitchell_sd/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
+        },
+        {
+            name: "590 WOW",
+            logo: "stations/images-america/omaha/590 WOW.png",
+            url: "https://us2.streamway.net/stream/wow"
         },
         {
             name: "800 KDWC",
@@ -69627,7 +69652,7 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 88.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://ice10.securenetsystems.net/KMRO"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
         },
         {
             name: "Voice of Denali 89.1",
