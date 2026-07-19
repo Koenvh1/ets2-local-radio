@@ -4780,12 +4780,12 @@ var stations = {/*
             name: "Family Radio 91.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
-        },
+        },/*
         {
             name: "92.5 HANK FM",
             logo: "stations/images-america/casper/92.5 HANK FM.png",
             url: "https://ice23.securenetsystems.net/KMXW"
-        },
+        },*/
         {
             name: "K2 Radio 95.1",
             logo: "stations/images-america/casper/K2 Radio.png",
@@ -4805,12 +4805,12 @@ var stations = {/*
             name: "Bott Radio 99.5",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
             url: "https://streaming.live365.com/a71179_2"
-        },
+        },/*
         {
             name: "100.5 KTED",
             logo: "stations/images-america/casper/100.5 KTED.png",
             url: "https://ice23.securenetsystems.net/KTED"
-        },
+        },*/
         {
             name: "101.9 The Cowboy",
             logo: "stations/images-america/casper/101.9 The Cowboy.png",
@@ -4820,12 +4820,12 @@ var stations = {/*
             name: "104.7 KISS FM",
             logo: "stations/images-america/casper/104.7 KISS FM.png",
             url: "https://live.amperwave.net/manifest/townsquare-ktrsfmaac-ibc3"
-        },
+        },/*
         {
             name: "KOOL 105.5",
             logo: "stations/images-america/casper/KOOL 105.5.png",
             url: "https://ice23.securenetsystems.net/KZQL"
-        },
+        },*/
         {
             name: "107.9 Jack FM",
             logo: "stations/images-america/casper/107.9 Jack FM.png",
@@ -5646,7 +5646,7 @@ var stations = {/*
         {
             name: "The Bet 105.9-HD2",
             logo: "stations/images-america/chicago/The Bet 105.9-HD2.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wcfshd2aac-imc"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-betqlnetworkaac-imc"
         },
         {
             name: "106.3 WSRB",
@@ -26299,32 +26299,32 @@ var stations = {/*
             name: "WPR 90.5",
             logo: "stations/images-america/0_general_logos/Wyoming Public Radio.png",
             url: "https://wyoming-public-ice.streamguys1.com/WPR128MP3"
-        },
+        },/*
         {
             name: "KFRZ 92.1",
             logo: "stations/images-america/rock_springs/KFRZ 92.1.png",
             url: "https://us9.maindigitalstream.com/ssl/KFRZ"
-        },
+        },*/
         {
             name: "KREO 93.5",
             logo: "stations/images-america/rock_springs/KREO 93.5.png",
             url: "https://ice9.securenetsystems.net/CO7WY"
-        },
+        },/*
         {
             name: "KYCS 95.1",
             logo: "stations/images-america/rock_springs/KYCS 95.1.png",
             url: "https://us9.maindigitalstream.com/ssl/KYCS"
-        },
+        },*/
         {
             name: "Q96",
             logo: "stations/images-america/rock_springs/Q96.png",
             url: "https://ice9.securenetsystems.net/KQSW"
-        },
+        },/*
         {
             name: "The Big Dog 97.9",
             logo: "stations/images-america/rock_springs/The Big Dog 97.9.png",
             url: "https://us9.maindigitalstream.com/ssl/7859"
-        },
+        },*/
         {
             name: "Air1 98.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
@@ -26339,7 +26339,7 @@ var stations = {/*
             name: "K-LOVE 101.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
             url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
+        },/*
         {
             name: "The Freeze 104.3",
             logo: "stations/images-america/rock_springs/The Freeze 104.3.png",
@@ -26349,7 +26349,7 @@ var stations = {/*
             name: "KUGR 104.9",
             logo: "stations/images-america/rock_springs/KUGR 104.9.png",
             url: "https://us9.maindigitalstream.com/ssl/7853"
-        },
+        },*/
         {
             name: "Z106",
             logo: "stations/images-america/rock_springs/Z106.png",
