@@ -1715,17 +1715,17 @@ var stations = {/*
         {
             name: "93.3 KGSR-HD4",
             logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://84.32.44.251/index.php?u=http://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
+            url: "http://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
         },
         {
             name: "93.7 KLBJ",
             logo: "stations/images-america/austin/93.7 KLBJ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJFMAAC_SC"
+            url: "https://waterloo.streamguys1.com/klbj-fm/playlist.m3u8"
         },
         {
             name: "No Control Radio 93.7-HD2",
             logo: "stations/images-america/austin/No Control Radio 93.7-HD2.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJHD2AAC_SC"
+            url: "https://waterloo.streamguys1.com/klbj-hd3/playlist.m3u8"
         },
         {
             name: "Mix 94.7",
@@ -1915,7 +1915,7 @@ var stations = {/*
         {
             name: "107.1 KLZT-HD2",
             logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://84.32.44.251/index.php?u=https://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
+            url: "https://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
         },
         {
             name: "Amor 107.7",
@@ -7031,12 +7031,12 @@ var stations = {/*
         {
             name: "JPR Rhythm & News 88.5",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
+            url: "https://stream.zeno.fm/zuackvt58ptuv"
         },
         {
             name: "JPR Classics & News 89.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-classics"
+            url: "http://stream.zeno.fm/e0czcdic3wiuv"
         },
         {
             name: "Effect Radio 89.9",
@@ -7382,7 +7382,7 @@ var stations = {/*
         {
             name: "JPR Classics & News 91.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-classics"
+            url: "http://stream.zeno.fm/e0czcdic3wiuv"
         },
         {
             name: "The Dove 91.5",
@@ -10836,7 +10836,7 @@ var stations = {/*
         {
             name: "JPR Classics & News 102.5",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-classics"
+            url: "http://stream.zeno.fm/e0czcdic3wiuv"
         },
         {
             name: "KWPT 102.9",
@@ -16434,7 +16434,7 @@ var stations = {/*
         {
             name: "JPR Classics & News 88.5",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org:80/jpr-classics"
+            url: "http://stream.zeno.fm/e0czcdic3wiuv"
         },
         {
             name: "KTEC 89.5",
@@ -16444,7 +16444,7 @@ var stations = {/*
         {
             name: "JPR Rhythm & News 90.9",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
+            url: "https://stream.zeno.fm/zuackvt58ptuv"
         },
         {
             name: "92.5 KLAD",
@@ -20443,7 +20443,7 @@ var stations = {/*
         {
             name: "JPR Rhythm & News 89.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
+            url: "https://stream.zeno.fm/zuackvt58ptuv"
         },
         {
             name: "Family Radio 90.7",
@@ -25621,7 +25621,7 @@ var stations = {/*
         {
             name: "JPR Rhythm & News 89.7",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "https://jpr-ice.streamguys1.com/jpr-rhythm"
+            url: "https://stream.zeno.fm/zuackvt58ptuv"
         },
         {
             name: "JPR News & Information 89.7-HD2",
@@ -34954,8 +34954,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kkrvhd3aac-ibc4"
         },
         {
-            name: "Z-Country 94.7",
-            logo: "stations/images-america/wenatchee/Z-Country 94.7.png",
+            name: "The Bull 94.7",
+            logo: "stations/images-america/wenatchee/The Bull 94.7.png",
             url: "https://live.amperwave.net/manifest/chelanvalleymediagroup-kzalfmmp3-imc"
         },
         {
@@ -42134,7 +42134,7 @@ var stations = {/*
             url: "https://ice66.securenetsystems.net/WTMY"
         },
         {
-            name: "103.9 Santa FM",
+            name: "103.9 KISS FM",
             logo: "stations/images-america/c2c/sarasota_fl/103.9 KISS FM.png",
             url: "https://stream.revma.ihrhls.com/zc3309/hls.m3u8"
         },
@@ -59293,7 +59293,7 @@ var stations = {/*
             name: "WHRS 91.7",
             logo: "stations/images-america/c2c/cookeville_tn/WHRS 91.7.png",
             url: "https://wpln.streamguys1.com/wplnam.mp3"
-        },
+        },/*
         {
             name: "93.3 The Dawg",
             logo: "stations/images-america/c2c/cookeville_tn/93.3 The Dawg.png",
@@ -59308,12 +59308,12 @@ var stations = {/*
             name: "News Talk 94.1",
             logo: "stations/images-america/c2c/cookeville_tn/News Talk 94.1.png",
             url: "https://stonecomradio.streamguys1.com/newstalk"
-        },
+        },*/
         {
             name: "94.7 The Country Giant",
             logo: "stations/images-america/c2c/cookeville_tn/94.7 The Country Giant.png",
             url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/WGSQFM"
-        },
+        },/*
         {
             name: "Lite Rock 95.9",
             logo: "stations/images-america/c2c/cookeville_tn/Lite Rock 95.9.png",
@@ -59323,7 +59323,7 @@ var stations = {/*
             name: "96.9 HWY 111 Country",
             logo: "stations/images-america/c2c/cookeville_tn/96.9 HWY 111 Country.png",
             url: "https://stonecomradio.streamguys1.com/hwy111country"
-        },
+        },*/
         {
             name: "Classic Rock 98.5",
             logo: "stations/images-america/c2c/cookeville_tn/Classic Rock 98.5.png",
@@ -59343,12 +59343,12 @@ var stations = {/*
             name: "102.9 The Buzz",
             logo: "stations/images-america/c2c/nashville_tn/102.9 The Buzz.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://cromwell-ice.streamguys1.com/WBUZFM-MP3"
-        },
+        },/*
         {
             name: "Sports Radio 104.7",
             logo: "stations/images-america/c2c/cookeville_tn/Sports Radio 104.7.png",
             url: "https://stonecomradio.streamguys1.com/sportsradio1047"
-        },
+        },*/
         {
             name: "105.5 The One",
             logo: "stations/images-america/c2c/cookeville_tn/105.5 The One.png",
@@ -59358,22 +59358,22 @@ var stations = {/*
             name: "106.1 The Eagle",
             logo: "stations/images-america/c2c/cookeville_tn/106.1 The Eagle.png",
             url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/WPTNAM"
-        },
+        },/*
         {
             name: "106.9 Kicks Country",
             logo: "stations/images-america/c2c/cookeville_tn/106.9 Kicks Country.png",
             url: "https://stonecomradio.streamguys1.com/1069kickscountry"
-        },
+        },*/
         {
             name: "107.7 The HUB",
             logo: "stations/images-america/c2c/cookeville_tn/107.7 The HUB.png",
             url: "http://84.32.44.251/index.php?u=https://ice42.securenetsystems.net/WHUBAM"
-        },
+        },/*
         {
             name: "WLIV 920",
             logo: "stations/images-america/c2c/cookeville_tn/WLIV 920.png",
             url: "https://stonecomradio.streamguys1.com/wliv"
-        },
+        },*/
         {
             name: "WSMT 1050",
             logo: "stations/images-america/c2c/cookeville_tn/105.5 The One.png",
@@ -67714,9 +67714,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
         },
         {
-            name: "101.5 Whistler FM",
-            logo: "stations/images-america/canada/whistler/101.5 Whistler FM.png",
-            url: "https://streaming.live365.com/a91627"
+            name: "Vibe Radio 101.5",
+            logo: "stations/images-america/canada/whistler/Vibe Radio 101.5.png",
+            url: "https://www.viberadio.ca/stream2"
         }, 
         {
             name: "102.1 Mountain FM",
