@@ -29264,14 +29264,14 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc285/hls.m3u8"
         },
         {
-            name: "98.5 KFOX",
-            logo: "stations/images-america/san_francisco/98.5 KFOX.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC"
+            name: "Bay Country 98.5",
+            logo: "stations/images-america/san_francisco/Bay Country.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/alphacorporate-kbayfmaac-ibc4"
         },
         {
-            name: "Magic Bay Area 98.5-HD2",
-            logo: "stations/images-america/san_francisco/Magic Bay Area.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXHD2AAC_SC"
+            name: "98.5 KFOX-HD2",
+            logo: "stations/images-america/san_francisco/98.5 KFOX.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KUFXFMAAC"
         },
         {
             name: "Qué Buena 98.9",
