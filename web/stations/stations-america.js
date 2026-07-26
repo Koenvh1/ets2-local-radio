@@ -1484,7 +1484,7 @@ var stations = {/*
         {
             name: "1520 KOKC",
             logo: "stations/images-america/oklahoma_city/95.3 KOKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
+            url: "https://ais-sa1.streamon.fm/11321_96k.aac"
         },
     ],
     "astoria": [
@@ -17973,7 +17973,7 @@ var stations = {/*
         {
             name: "1520 KOKC",
             logo: "stations/images-america/oklahoma_city/95.3 KOKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
+            url: "https://ais-sa1.streamon.fm/11321_96k.aac"
         },
     ],
     "leevining": [
@@ -22727,17 +22727,17 @@ var stations = {/*
         {
             name: "92.5 KOMA",
             logo: "stations/images-america/oklahoma_city/92.5 KOMA.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/11314_96k.aac"
         },
         {
             name: "92.9 The Edge",
             logo: "stations/images-america/oklahoma_city/92.9 The Edge.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAHD2AAC_SC"
+            url: "https://ais-sa1.streamon.fm/11315_96k.aac"
         },
         {
             name: "93.3 Jake FM",
             logo: "stations/images-america/oklahoma_city/93.3 Jake FM.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJKEFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/11323_96k.aac"
         },
         {
             name: "Salvacion Radio 93.9",
@@ -22757,7 +22757,7 @@ var stations = {/*
         {
             name: "95.3 KOKC",
             logo: "stations/images-america/oklahoma_city/95.3 KOKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC_SC"
+            url: "http://ais-sa1.streamon.fm/11321_96k.aac"
         },
         {
             name: "Bott Radio 95.7",
@@ -22837,7 +22837,7 @@ var stations = {/*
         {
             name: "V103",
             logo: "stations/images-america/oklahoma_city/V103.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMAHD3AAC_SC"
+            url: "https://ais-sa1.streamon.fm/11316_96k.aac"
         },
         {
             name: "Power 103.5",
@@ -22852,7 +22852,7 @@ var stations = {/*
         {
             name: "Magic 104.1",
             logo: "stations/images-america/oklahoma_city/Magic 104.1.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMGLFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/11322_96k.aac"
         },
         {
             name: "104.5 KRXO",
@@ -22892,7 +22892,7 @@ var stations = {/*
         {
             name: "The Franchise 107.7",
             logo: "stations/images-america/oklahoma_city/The Franchise 107.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KRXOFMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/11317_96k.aac"
         },
         {
             name: "NOAA Weather Radio OKC",
@@ -22952,12 +22952,12 @@ var stations = {/*
         {
             name: "1520 KOKC",
             logo: "stations/images-america/oklahoma_city/95.3 KOKC.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOKCAMAAC.aac"
+            url: "https://ais-sa1.streamon.fm/11321_96k.aac"
         },
         {
             name: "1560 The Franchise 2",
             logo: "stations/images-america/oklahoma_city/1560 The Franchise 2.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KEBCAMAAC_SC"
+            url: "https://ais-sa1.streamon.fm/11326_96k.aac"
         },
     ],
     "olympia": [
