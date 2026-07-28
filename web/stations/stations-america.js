@@ -7809,9 +7809,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KGGR"
         },
         {
-            name: "Latino Mix 107.1",
-            logo: "stations/images-america/dallas_fort_worth/Latino Mix 107.9.png",
-            url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/kdxxfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            name: "Amor 107.1",
+            logo: "stations/images-america/dallas_fort_worth/Amor 107.1.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/kamvfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
             name: "TUDN Radio 107.1-HD2",
@@ -45022,8 +45022,8 @@ var stations = {/*
             url: "https://dal-wku-stream-2.neighborhoodca.com/xstream"
         },
         {
-            name: "The Point 98.3",
-            logo: "stations/images-america/c2c/bowling_green_ky/The Point.png",
+            name: "98 Jamz",
+            logo: "stations/images-america/c2c/bowling_green_ky/98 Jamz.png",
             url: "https://ice25.securenetsystems.net/WPTQHD2"
         },
         {
@@ -45032,8 +45032,8 @@ var stations = {/*
             url: "https://ice25.securenetsystems.net/WKLX"
         },
         {
-            name: "The Point 102.7",
-            logo: "stations/images-america/c2c/bowling_green_ky/The Point.png",
+            name: "102.7 W274CD",
+            logo: "stations/images-america/c2c/bowling_green_ky/98 Jamz.png",
             url: "http://ice25.securenetsystems.net/WPTQHD2"
         },
         {
@@ -56224,6 +56224,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WHGBAMAAC_SC"
         },
         {
+            name: "Hot 96.5",
+            logo: "stations/images-america/c2c/harrisburg_pa/Hot 96.5.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WWKLFMAAC_SC"
+        },
+        {
             name: "The River 97.3",
             logo: "stations/images-america/c2c/harrisburg_pa/The River 97.3.png",
             url: "https://stream.revma.ihrhls.com/zc1985/hls.m3u8"
@@ -64492,8 +64497,8 @@ var stations = {/*
             url: "https://ucbmedia.streamguys1.com/bell1023-icy"
         },
         {
-            name: "Oldies 100.9",
-            logo: "stations/images-america/canada/kingston/Oldies 100.9.png",
+            name: "100.9 WOW FM",
+            logo: "stations/images-america/canada/kingston/100.9 WOW FM.png",
             url: "https://mybroadcasting.streamb.live/SB00311"
         },
         {
