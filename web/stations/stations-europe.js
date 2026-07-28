@@ -5719,6 +5719,11 @@ var stations = {/*
             url: "https://3fm-seanashmore.radioca.st/stream"
         },
         {
+            name: "all Classical Radio",
+            logo: "stations/images-europe/ireland/all Classical Radio.png",
+            url: "https://christmasfm.cdnstream1.com/2548_128.mp3"
+        },
+        {
             name: "BOB FM",
             logo: "stations/images-europe/ireland/BOB FM.png",
             url: "https://bobfm-seanashmore.radioca.st/stream"
@@ -7652,6 +7657,11 @@ var stations = {/*
             url: "http://84.32.44.251/radiofeeds.php?station=coolfm-aac"
         },
         {
+            name: "Cool Old Skool",
+            logo: "stations/images-europe/nireland/Cool Old Skool.png",
+            url: "http://84.32.44.251/radiofeeds.php?station=webcast4-aac"
+        },
+        {
             name: "Downtown Radio",
             logo: "stations/images-europe/nireland/Downtown Radio.png",
             url: "http://84.32.44.251/radiofeeds.php?station=downtown-aac"
@@ -8676,6 +8686,11 @@ var stations = {/*
             url: "https://stream.nextmedia.si/proxy/enter_1?mp=/enter"
         },
         {
+            name: "Grom Radio",
+            logo: "stations/images-europe/slovenia/Grom Radio.png",
+            url: "https://avdio.gromradio.si:8014/gromradio"
+        },
+        {
             name: "Hitradio Center",
             logo: "stations/images-europe/slovenia/Hitradio Center.png",
             url: "http://stream3.radiocenter.si:8000/;center/1"
@@ -8794,11 +8809,6 @@ var stations = {/*
             name: "Radio Zeleni val",
             logo: "stations/images-europe/slovenia/Radio Zeleni val.png",
             url: "https://jurepeterka.radioca.st/;"
-        },
-        {
-            name: "Retro Radio",
-            logo: "stations/images-europe/slovenia/Retro Radio.png",
-            url: "https://zvok.ragla.si/gr"
         },
         {
             name: "Rock Radio",
@@ -10169,6 +10179,11 @@ var stations = {/*
             url: "https://media-ssl.musicradio.com/CapitalAnthems"
         },
         {
+            name: "Capital Chill",
+            logo: "stations/images-europe/uk/Capital Chill.png",
+            url: "https://media-ssl.musicradio.com/CapitalChill"
+        },
+        {
             name: "Capital Dance",
             logo: "stations/images-europe/uk/Capital Dance.png",
             url: "https://media-ssl.musicradio.com/CapitalDance"
@@ -10187,6 +10202,11 @@ var stations = {/*
             name: "Classic FM",
             logo: "stations/images-europe/uk/Classic FM.png",
             url: "https://media-ssl.musicradio.com/ClassicFM"
+        },
+        {
+            name: "Classic FM Calm",
+            logo: "stations/images-europe/uk/Classic FM Calm.png",
+            url: "https://media-ssl.musicradio.com/ClassicFMCalm"
         },
         {
             name: "Fix Radio",
@@ -10239,6 +10259,16 @@ var stations = {/*
             url: "https://media-ssl.musicradio.com/HeartDance"
         },
         {
+            name: "Heart Love",
+            logo: "stations/images-europe/uk/Heart Love.png",
+            url: "https://media-ssl.musicradio.com/HeartLove"
+        },
+        {
+            name: "Heart Musicals",
+            logo: "stations/images-europe/uk/Heart Musicals.png",
+            url: "https://media-ssl.musicradio.com/HeartMusicals"
+        },
+        {
             name: "Heart 70s",
             logo: "stations/images-europe/uk/Heart 70s.png",
             url: "https://media-ssl.musicradio.com/Heart70s"
@@ -10257,6 +10287,11 @@ var stations = {/*
             name: "Heart 00s",
             logo: "stations/images-europe/uk/Heart 00s.png",
             url: "https://media-ssl.musicradio.com/Heart00s"
+        },
+        {
+            name: "Heart 10s",
+            logo: "stations/images-europe/uk/Heart 10s.png",
+            url: "https://media-ssl.musicradio.com/Heart10s"
         },/*
         {
             name: "Heart Xmas",
@@ -10399,6 +10434,16 @@ var stations = {/*
             url: "https://media-ssl.musicradio.com/RadioXUK"
         },
         {
+            name: "Radio X 90s",
+            logo: "stations/images-europe/uk/Radio X 90s.png",
+            url: "https://media-ssl.musicradio.com/RadioX90s"
+        },
+        {
+            name: "Radio X Chilled",
+            logo: "stations/images-europe/uk/Radio X Chilled.png",
+            url: "https://media-ssl.musicradio.com/RadioXChilled"
+        },
+        {
             name: "Radio X Classic Rock",
             logo: "stations/images-europe/uk/Radio X Classic Rock.png",
             url: "https://media-ssl.musicradio.com/RadioXClassicRock"
@@ -10407,6 +10452,11 @@ var stations = {/*
             name: "Smooth UK",
             logo: "stations/images-europe/uk/Smooth.png",
             url: "https://media-ssl.musicradio.com/SmoothUK"
+        },
+        {
+            name: "Smooth 70s",
+            logo: "stations/images-europe/uk/Smooth 70s.png",
+            url: "https://media-ssl.musicradio.com/Smooth70s"
         },
         {
             name: "Smooth 80s",
@@ -10427,6 +10477,11 @@ var stations = {/*
             name: "Smooth Relax",
             logo: "stations/images-europe/uk/Smooth Relax.png",
             url: "https://media-ssl.musicradio.com/SmoothRelax"
+        },
+        {
+            name: "Smooth Soul",
+            logo: "stations/images-europe/uk/Smooth Soul.png",
+            url: "https://media-ssl.musicradio.com/SmoothSoul"
         },
         {
             name: "Sunrise Radio",
