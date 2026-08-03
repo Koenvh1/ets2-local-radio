@@ -9104,11 +9104,6 @@ var stations = {/*
             url: "https://stream.dbmedia.se/dbk96"
         },
         {
-            name: "Dansbandskanalen Klassiker",
-            logo: "stations/images-europe/sweden/Dansbandskanalen Klassiker.png",
-            url: "https://stream.dbmedia.se/dbkjul96"
-        },
-        {
             name: "Disco 54",
             logo: "stations/images-europe/sweden/Disco 54.png",
             url: "https://wr15-ice.stream.khz.se/wr15_mp3"
@@ -9122,6 +9117,11 @@ var stations = {/*
             name: "Go Country",
             logo: "stations/images-europe/sweden/Go Country.png",
             url: "https://wr14-ice.stream.khz.se/wr14_mp3"
+        },
+        {
+            name: "Guldkanalen",
+            logo: "stations/images-europe/sweden/Guldkanalen.png",
+            url: "https://stream.dbmedia.se/gk96"
         },
         {
             name: "HitMix 90's",
@@ -9147,6 +9147,11 @@ var stations = {/*
             name: "Power Hit Radio",
             logo: "stations/images-europe/lithuania/Power Hit Radio.png",
             url: "https://fm04-ice.stream.khz.se/fm04_mp3"
+        },
+        {
+            name: "Radio Aftonbladet",
+            logo: "stations/images-europe/sweden/Radio Aftonbladet.png",
+            url: "https://abtvlive-lh.akamaized.net/hls/live/msl5/20001068/ab/radio/master.m3u8"
         },
         {
             name: "RIX FM",
@@ -9177,11 +9182,6 @@ var stations = {/*
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
             url: "http://fm05-ice.stream.khz.se/fm05_mp3"
-        },
-        {
-            name: "Vinyl FM",
-            logo: "stations/images-europe/sweden/Vinyl FM.png",
-            url: "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp"
         },
     ],
     "switzerland-de": [
