@@ -63210,11 +63210,6 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBU2FM_CBC_SC"
         },
         {
-            name: "Sportsnet 650",
-            logo: "stations/images-america/canada/vancouver/Sportsnet 650.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
-        },
-        {
             name: "AM730",
             logo: "stations/images-america/canada/vancouver/AM 730.png",
             url: "https://corus.leanstream.co/CKGOAM-MP3"
@@ -67398,11 +67393,6 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7676_48k.aac"
         },
         {
-            name: "Sportsnet 650",
-            logo: "stations/images-america/canada/vancouver/Sportsnet 650.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
-        },
-        {
             name: "AM730",
             logo: "stations/images-america/canada/vancouver/AM 730.png",
             url: "https://corus.leanstream.co/CKGOAM-MP3"
@@ -67503,11 +67493,6 @@ var stations = {/*
             name: "Sher E Punjab 600",
             logo: "stations/images-america/canada/vancouver/Sher E Punjab 600.png",
             url: "https://ais-sa1.streamon.fm/7676_48k.aac"
-        },
-        {
-            name: "Sportsnet 650",
-            logo: "stations/images-america/canada/vancouver/Sportsnet 650.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van650.stream/icy"
         },
         {
             name: "AM730",
