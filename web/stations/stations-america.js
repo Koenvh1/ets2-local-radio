@@ -18838,7 +18838,7 @@ var stations = {/*
         },
         {
             name: "101.9 KSCA-HD2",
-            logo: "stations/images-america/los_angeles/103.9 Recuerdo.png",
+            logo: "stations/images-america/los_angeles/Latino Mix 103.9.png",
             url: "http://84.32.44.251/index.php?u=http://tu.streamguys1.com/krcdfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
@@ -18872,8 +18872,8 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc177"
         },
         {
-            name: "103.9 Recuerdo",
-            logo: "stations/images-america/los_angeles/103.9 Recuerdo.png",
+            name: "Latino Mix 103.9",
+            logo: "stations/images-america/los_angeles/Latino Mix 103.9.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/krcdfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
