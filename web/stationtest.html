@@ -151,8 +151,8 @@
 
     // https://stackoverflow.com/questions/15547198/export-html-table-to-csv-using-vanilla-javascript
     function downloadCSV() {
-        table_id = "table"
-        separator = ","
+        var table_id = "table"
+        var separator = ","
         // Select rows from table_id
         var rows = document.querySelectorAll('table#' + table_id + ' tr');
         // Construct csv
