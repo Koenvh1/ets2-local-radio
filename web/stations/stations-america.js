@@ -1251,11 +1251,6 @@ var stations = {/*
             name: "710 KGNC",
             logo: "stations/images-america/amarillo/97.5 KGNC.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct//alphacorporate-kgncamaac-ibc4"
-        },
-        {
-            name: "KPAN 860",
-            logo: "stations/images-america/amarillo/KPAN.png",
-            url: "https://streaming.live365.com/a39395"
         },/*
         {
             name: "KFLP 900",
@@ -2046,7 +2041,7 @@ var stations = {/*
         {
             name: "Kelly 95.3",
             logo: "stations/images-america/bakersfield/Kelly 95.3.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kllyfmaac-ibc4"
+            url: "http://ice7.securenetsystems.net/KLLY"
         },
         {
             name: "KERN Radio 96.1",
@@ -4670,7 +4665,7 @@ var stations = {/*
         {
             name: "Q96.3",
             logo: "stations/images-america/carlsbad_nm/Q96.3.png",
-            url: "https://streaming.live365.com/a16811"
+            url: "https://streaming.live365.com/a88693"
         },
         {
             name: "KENW 98.7",
@@ -6201,11 +6196,6 @@ var stations = {/*
             name: "790 KFYO",
             logo: "stations/images-america/lubbock/95.1 KFYO.png",
             url: "https://live.amperwave.net/manifest/townsquare-kfyoamaac-ibc3"
-        },
-        {
-            name: "KPAN 860",
-            logo: "stations/images-america/amarillo/KPAN.png",
-            url: "https://streaming.live365.com/a39395"
         },
         {
             name: "AM1450 Cow Country",
@@ -7781,7 +7771,7 @@ var stations = {/*
         {
             name: "Smooth R&B 105.7",
             logo: "stations/images-america/dallas_fort_worth/Smooth R&B 105.7.png",
-            url: "http://krnb.streamon.fm:8000/KRNB-64k.aac"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://playerservices.streamtheworld.com/api/livestream-redirect/KRNBFMAAC_SC"
         },
         {
             name: "106.1 KISS FM",
@@ -10784,8 +10774,8 @@ var stations = {/*
             url: "http://lostcoast.streamguys.us/the_lounge"
         },
         {
-            name: "Mix 95.1",
-            logo: "stations/images-america/eureka/Mix 95.1.png",
+            name: "The Beat 95.1",
+            logo: "stations/images-america/eureka/The Beat 95.1.png",
             url: "https://ice10.securenetsystems.net/KMDR"
         },
         {
@@ -19226,11 +19216,6 @@ var stations = {/*
             url: "https://sd1.puroradio.net:8016/stream"
         },
         {
-            name: "Talk 103.9",
-            logo: "stations/images-america/lubbock/Talk 103.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-kkamamaac-ibc3"
-        },
-        {
             name: "KHLK 104.3",
             logo: "stations/images-america/0_general_logos/KHCB.png",
             url: "https://khcb.streamguys1.com/live-128k-mp3"
@@ -19279,11 +19264,6 @@ var stations = {/*
             name: "KJTV 950",
             logo: "stations/images-america/lubbock/100.7 The Score.png",
             url: "http://ais-sa1.streamon.fm/7195_48k.aac"
-        },
-        {
-            name: "Talk 1340",
-            logo: "stations/images-america/lubbock/Talk 103.9.png",
-            url: "http://live.amperwave.net/manifest/townsquare-kkamamaac-ibc3"
         },
         {
             name: "Walk by Faith Radio 1420",
@@ -67403,11 +67383,6 @@ var stations = {/*
             url: "https://live.leanstream.co/CKNWAM-MP3"
         },
         {
-            name: "CityNews 1130",
-            logo: "stations/images-america/canada/vancouver/CityNews 1130.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
-        },
-        {
             name: "AM1320 CHMB",
             logo: "stations/images-america/canada/vancouver/AM1320 CHMB.png",
             url: "https://stream.radiojar.com/nugqupcv8qzuv"
@@ -67508,11 +67483,6 @@ var stations = {/*
             name: "CFAX 1070",
             logo: "stations/images-america/canada/victoria/CFAX 1070.png",
             url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CFAXAMAAC_SC"
-        },
-        {
-            name: "CityNews 1130",
-            logo: "stations/images-america/canada/vancouver/CityNews 1130.png",
-            url: "https://rogers-hls.leanstream.co/rogers/van1130.stream/icy"
         },
         {
             name: "AM1320 CHMB",
