@@ -15861,8 +15861,8 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ais-sa1.streamon.fm/7038_48k.aac"
         },
         {
-            name: "Power 105.1",
-            logo: "stations/images-america/kansas_city/Power 105.1.png",
+            name: "HITS 105",
+            logo: "stations/images-america/kansas_city/HITS 105.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCJKFMAAC_SC"
         },
         {
@@ -15881,9 +15881,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC_SC"
         },
         {
-            name: "107.3 The Vibe",
-            logo: "stations/images-america/kansas_city/107.3 The Vibe.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJKFMAAC_SC"
+            name: "107.3 KMJK",
+            logo: "stations/images-america/kansas_city/HITS 105.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCJKFMAAC_SC"
         },
         {
             name: "590 WOW",
@@ -24455,9 +24455,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc61/hls.m3u8"
         },
         {
-            name: "Qué Buena 105.1",
-            logo: "stations/images-america/phoenix/Qué Buena 105.9.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/khotfm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            name: "TUDN Radio 105.1",
+            logo: "stations/images-america/phoenix/TUDN Radio 105.1.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },/*
         {
             name: "Money Radio 105.3",
