@@ -1613,7 +1613,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://us9.streamway.net/stream/wibw"
         },
         {
             name: "680 KFEQ",
@@ -14175,8 +14175,8 @@ var stations = {/*
         },
         {
             name: "KSEV 700",
-            logo: "stations/images-america/houston/KSEV 700.png",
-            url: "https://live.amperwave.net/direct/ksevradio-ksevamaac-ibc1"
+            logo: "stations/images-america/houston/KSEV.png",
+            url: "https://streams.radiomast.io/16b18203-38d6-4b74-accb-f7e5e6b36e69"
         },
         {
             name: "740 KTRH",
@@ -14213,6 +14213,11 @@ var stations = {/*
             logo: "stations/images-america/houston/BIN 1320.png",
             url: "https://stream.revma.ihrhls.com/zc8820/hls.m3u8"
         }, 
+        {
+            name: "KSEV 1540",
+            logo: "stations/images-america/houston/KSEV.png",
+            url: "http://streams.radiomast.io/16b18203-38d6-4b74-accb-f7e5e6b36e69"
+        },
         {
             name: "Viet Radio 1560",
             logo: "stations/images-america/houston/Viet Radio 1560.png",
@@ -14282,8 +14287,8 @@ var stations = {/*
         },
         {
             name: "KSEV 700",
-            logo: "stations/images-america/houston/KSEV 700.png",
-            url: "https://live.amperwave.net/direct/ksevradio-ksevamaac-ibc1"
+            logo: "stations/images-america/houston/KSEV.png",
+            url: "https://streams.radiomast.io/16b18203-38d6-4b74-accb-f7e5e6b36e69"
         },
         {
             name: "KETX 1440",
@@ -15333,7 +15338,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://us9.streamway.net/stream/wibw"
         },
         {
             name: "KSAL 1150",
@@ -18709,7 +18714,7 @@ var stations = {/*
         {
             name: "NOR Radio 94.7-HD2",
             logo: "stations/images-america/los_angeles/NOR Radio 94.7-HD2.png",
-            url: "https://s4.voscast.com:9683/stream"
+            url: "https://ice8.securenetsystems.net/NORRADIO"
         },
         {
             name: "Radio Hamrah 94.7-HD3",
@@ -19772,7 +19777,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://us9.streamway.net/stream/wibw"
         },
         {
             name: "680 KFEQ",
@@ -22954,7 +22959,7 @@ var stations = {/*
         {
             name: "94.5 Roxy",
             logo: "stations/images-america/olympia/94.5 Roxy.png",
-            url: "https://live.amperwave.net/direct/olympiabroadcasters-krxyfmaac-ibc2"
+            url: "https://s7.reliastream.com/proxy/roxy?mp=/stream"
         },
         {
             name: "VSiN The Sports Betting Network 94.5-HD3",
@@ -24572,11 +24577,6 @@ var stations = {/*
             name: "KOKS 89.5",
             logo: "stations/images-america/poplar_bluff/KOKS 89.5.png",
             url: "https://ice24.securenetsystems.net/KOKS"
-        },
-        {
-            name: "Life 90.3",
-            logo: "stations/images-america/poplar_bluff/Life 90.3.png",
-            url: "http://live2.dcmliferadio.org/stream128"
         },
         {
             name: "BBN 91.1",
@@ -26703,22 +26703,22 @@ var stations = {/*
         {
             name: "KARV 93.1",
             logo: "stations/images-america/russelville/KARV.png",
-            url: "https://ais-sa2.cdnstream1.com/1690_64"
+            url: "https://stream.aiir.com/y2vidreirssvv"
         },
         {
-            name: "97.1 BOB FM",
-            logo: "stations/images-america/russelville/97.1 BOB FM.png",
-            url: "https://ais-sa8.cdnstream1.com/1689_64"
+            name: "BIG 97.1",
+            logo: "stations/images-america/russelville/BIG 97.1.png",
+            url: "https://stream.aiir.com/hfftu4k6hgbvv"
         },
         {
             name: "100.9 KWKK",
             logo: "stations/images-america/russelville/100.9 KWKK.png",
-            url: "https://ais-sa2.cdnstream1.com/1412_64"
+            url: "https://stream.aiir.com/ttbtdcrdxbsuv"
         },
         {
             name: "102.3 KCJC",
             logo: "stations/images-america/russelville/102.3 KCJC.png",
-            url: "https://ais-sa2.cdnstream1.com/1413_64"
+            url: "https://stream.aiir.com/1cfv7abal3ttv"
         },
         {
             name: "KYEL 105.5",
@@ -26733,12 +26733,12 @@ var stations = {/*
         {
             name: "KARV 610",
             logo: "stations/images-america/russelville/KARV.png",
-            url: "http://ais-sa2.cdnstream1.com/1690_64"
+            url: "http://stream.aiir.com/y2vidreirssvv"
         },
         {
-            name: "980 AM BOB FM",
-            logo: "stations/images-america/russelville/97.1 BOB FM.png",
-            url: "http://ais-sa8.cdnstream1.com/1689_64"
+            name: "980 KCAB",
+            logo: "stations/images-america/russelville/BIG 97.1.png",
+            url: "http://stream.aiir.com/hfftu4k6hgbvv"
         },
     ],
     "ruston": [
@@ -27365,7 +27365,7 @@ var stations = {/*
         {
             name: "95.5 KLBG",
             logo: "stations/images-america/salina_ks/95.5 KLBG.png",
-            url: "https://us2.maindigitalstream.com/ssl/KLBQ"
+            url: "https://a12.asurahosting.com/listen/klbg-fm/radio.mp3"
         },
         {
             name: "K-LOVE 96.9",
@@ -29529,8 +29529,8 @@ var stations = {/*
         },
         {
             name: "KSEV 700",
-            logo: "stations/images-america/houston/KSEV 700.png",
-            url: "https://live.amperwave.net/direct/ksevradio-ksevamaac-ibc1"
+            logo: "stations/images-america/houston/KSEV.png",
+            url: "https://streams.radiomast.io/16b18203-38d6-4b74-accb-f7e5e6b36e69"
         },
         {
             name: "Norteño 720",
@@ -33173,7 +33173,7 @@ var stations = {/*
         {
             name: "WIBW 104.9",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "http://us9.streamway.net/stream/wibw"
         },
         {
             name: "NOAA Weather Radio Topeka",
@@ -55847,7 +55847,7 @@ var stations = {/*
         {
             name: "POP! 93.1",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "https://ice10.securenetsystems.net/WQYX"
+            url: "https://stream.zeno.fm/6q61rtrmcxatv"
         },
         {
             name: "B94",
@@ -55857,7 +55857,7 @@ var stations = {/*
         {
             name: "POP! 95.9",
             logo: "stations/images-america/c2c/dubois_pa/POP 93.1.png",
-            url: "http://ice10.securenetsystems.net/WQYX"
+            url: "http://stream.zeno.fm/6q61rtrmcxatv"
         },
         {
             name: "Connect FM 96.7",
@@ -67054,7 +67054,7 @@ var stations = {/*
         {
             name: "Punjabi 101.3-HD4",
             logo: "stations/images-america/canada/toronto/Punjabi 101.3-HD4.png",
-            url: "https://live.cmr24.net/CMR/Punjabi-HQ/icecast.audio"
+            url: "https://radio.cmr24.fm/CMR/Punjabi/icecast.audio"
         },
         {
             name: "102.1 The Edge",
