@@ -7530,7 +7530,7 @@ var stations = {/*
         },
         {
             name: "All Teaching Channel 90.9-HD2",
-            logo: "stations/images-america/dallas_fort_worth/90.9 KCBI.png",
+            logo: "stations/images-america/dallas_fort_worth/All Teaching Channel.png",
             url: "https://ais-sa1.streamon.fm/7854_96k.aac"
         },
         {
@@ -7559,8 +7559,8 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPAM_SC"
         },
         {
-            name: "Country Legends and Texas Classics 93.3-HD2",
-            logo: "stations/images-america/dallas_fort_worth/Country Legends & Texas Classics 93.3-HD2.png",
+            name: "Classic Country DFW 93.3-HD2",
+            logo: "stations/images-america/dallas_fort_worth/Classic Country DFW 93.3-HD2.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBAPHD2AAC_SC"
         },
         {
@@ -7719,9 +7719,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc10085/hls.m3u8"
         },
         {
-            name: "102.5 Radio Luz",
-            logo: "stations/images-america/dallas_fort_worth/Radio Luz.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KTNOAMAAC.aac"
+            name: "102.5 K273BJ",
+            logo: "stations/images-america/dallas_fort_worth/All Teaching Channel.png",
+            url: "http://ais-sa1.streamon.fm/7854_96k.aac"
         },
         {
             name: "MIX 102.9",
@@ -23194,9 +23194,9 @@ var stations = {/*
             url: "https://us2.maindigitalstream.com/ssl/KOTK"
         },
         {
-            name: "Power 106.9",
-            logo: "stations/images-america/omaha/Power 106.9.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KOPWFMAAC_SC"
+            name: "Country One 106.9",
+            logo: "stations/images-america/omaha/Country One 106.9.png",
+            url: "https://ice25.securenetsystems.net/KOPW"
         },
         {
             name: "NOAA Weather Radio Omaha",
