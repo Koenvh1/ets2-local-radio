@@ -17674,14 +17674,14 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net/KQLL"
         },
         {
-            name: "102.7 VGS",
-            logo: "stations/images-america/las_vegas/102.7 VGS.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAAC_SC"
+            name: "102.7 Coyote Country",
+            logo: "stations/images-america/las_vegas/102.7 Coyote Country.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAACHI_SC"
         },
         {
-            name: "102.7 KVGS-HD2",
-            logo: "stations/images-america/las_vegas/107.9 Coyote Country.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
+            name: "NuTune Country 102.7-HD2",
+            logo: "stations/images-america/0_general_logos/NuTune Country.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKMLHD2AAC_SC"
         },
         {
             name: "La Tremenda 103.5",
@@ -17739,14 +17739,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
         },
         {
-            name: "NuTune Country 107.5-HD2",
-            logo: "stations/images-america/0_general_logos/NuTune Country.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/WKMLHD2AAC_SC"
-        },
-        {
-            name: "107.9 Coyote Country",
-            logo: "stations/images-america/las_vegas/107.9 Coyote Country.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KCYEFMAAC_SC"
+            name: "107.9 VGS",
+            logo: "stations/images-america/las_vegas/107.9 VGS.png",
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KVGSFMAACHI_SC"
         },
         {
             name: "AM670",
