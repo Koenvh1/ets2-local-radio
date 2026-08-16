@@ -17544,8 +17544,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/manifest/audacy-kmxbhd3aac-imc"
         },
         {
-            name: "Amor 94.5",
-            logo: "stations/images-america/las_vegas/Amor 94.5.png",
+            name: "exa 94.5",
+            logo: "stations/images-america/las_vegas/exa 94.5.png",
             url: "https://ice9.securenetsystems.net/KXLI"
         },
         {
@@ -17734,6 +17734,11 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC_SC"
         },
         {
+            name: "KSHP 107.1",
+            logo: "stations/images-america/las_vegas/KSHP 1400.png",
+            url: "http://ice24.securenetsystems.net/KSHP"
+        },
+        {
             name: "X107.5",
             logo: "stations/images-america/las_vegas/X107.5.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KXTEFMAAC_SC"
@@ -17784,8 +17789,8 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KKGKAMAAC_SC"
         },
         {
-            name: "1400 KSHP",
-            logo: "stations/images-america/las_vegas/1400 KSHP.png",
+            name: "KSHP 1400",
+            logo: "stations/images-america/las_vegas/KSHP 1400.png",
             url: "https://ice24.securenetsystems.net/KSHP"
         },
         {
