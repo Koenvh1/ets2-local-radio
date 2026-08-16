@@ -1695,17 +1695,17 @@ var stations = {/*
         {
             name: "93.3 KGSR",
             logo: "stations/images-america/austin/Vibe 97.1.png",
-            url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+            url: "http://waterloo.streamguys1.com/kgsr-fm_icy"
         },
         {
             name: "93.3 KGSR-HD2",
             logo: "stations/images-america/austin/93.3 KGSR-HD2.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD2AAC_SC"
+            url: "https://waterloo.streamguys1.com/kgsr-hd2/playlist.m3u8"
         },
         {
             name: "The Party! 93.3-HD3",
             logo: "stations/images-america/austin/The Party! 93.3-HD3.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRHD3AAC_SC"
+            url: "http://waterloo.streamguys1.com/kgsr-hd3/playlist.m3u8"
         },
         {
             name: "93.3 KGSR-HD4",
@@ -1770,7 +1770,7 @@ var stations = {/*
         {
             name: "Vibe 97.1",
             logo: "stations/images-america/austin/Vibe 97.1.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KGSRFMAAC_SC"
+            url: "https://waterloo.streamguys1.com/kgsr-fm_icy"
         },
         {
             name: "ALT 97.5",
@@ -1805,7 +1805,7 @@ var stations = {/*
         {
             name: "KLBJ 99.7",
             logo: "stations/images-america/austin/KLBJ 99.7.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAMAAC_SC"
+            url: "https://waterloo.streamguys1.com/klbj-am/playlist.m3u8"
         },
         {
             name: "KASE 100.7",
@@ -1820,7 +1820,7 @@ var stations = {/*
         {
             name: "101X",
             logo: "stations/images-america/austin/101X.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KROXFMAAC_SC"
+            url: "https://waterloo.streamguys1.com/krox-fm/playlist.m3u8"
         },
         {
             name: "The Bridge 101.1",
@@ -1845,7 +1845,7 @@ var stations = {/*
         {
             name: "102.7 ESPN",
             logo: "stations/images-america/austin/102.7 ESPN.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAHD2AAC_SC"
+            url: "https://waterloo.streamguys1.com/kbpa-hd2_icy"
         },
         {
             name: "103.1 Austin’s 80s Station",
@@ -1855,7 +1855,7 @@ var stations = {/*
         {
             name: "103.5 BOB FM",
             logo: "stations/images-america/austin/103.5 BOB FM.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBPAFMAAC_SC"
+            url: "https://waterloo.streamguys1.com/kbpa-fm/playlist.m3u8"
         },
         {
             name: "Sun Radio 103.9",
@@ -1905,7 +1905,7 @@ var stations = {/*
         {
             name: "107.1 La Z",
             logo: "stations/images-america/austin/107.1 La Z.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KLZTFMAAC_SC"
+            url: "https://waterloo.streamguys1.com/klzt-fm/playlist.m3u8"
         },
         {
             name: "107.1 KLZT-HD2",
@@ -1920,7 +1920,7 @@ var stations = {/*
         {
             name: "KLBJ 590",
             logo: "stations/images-america/austin/KLBJ 99.7.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAMAAC.aac"
+            url: "http://waterloo.streamguys1.com/klbj-am/playlist.m3u8"
         },
         {
             name: "Relevant Radio 970",
@@ -2325,7 +2325,7 @@ var stations = {/*
         {
             name: "107.7 The Island",
             logo: "stations/images-america/grand_island/107.7 The Island.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYZFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KSYZ"
         },
         {
             name: "570 WNAX",
@@ -4369,7 +4369,7 @@ var stations = {/*
         {
             name: "KOPR 94.1",
             logo: "stations/images-america/butte/KOPR 94.1.png",
-            url: "http://butte.leanstream.co/KOPRFM"
+            url: "http://butte.leanstream.co/KOPRFM-MP3"
         },
         {
             name: "KXTL 94.7",
@@ -6501,7 +6501,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio College Station",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/40075"
+            url: "https://hls-o1.broadcastify.com/s1/feed/40075/playlist.m3u8"
         },
     ],
     "colorado_springs_pueblo": [
@@ -6962,7 +6962,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Columbus",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/41264"
+            url: "https://hls-o1.broadcastify.com/s1/feed/25193/playlist.m3u8"
         },
         {
             name: "WJAG 780",
@@ -10353,7 +10353,7 @@ var stations = {/*
         {
             name: "KELY 1230",
             logo: "stations/images-america/ely/KELY 1230.png",
-            url: "http://207.244.126.86:7200/stream"
+            url: "http://us2.maindigitalstream.com:7200/stream"
         },
     ],
     "emporia": [
@@ -12713,7 +12713,7 @@ var stations = {/*
         {
             name: "Classic Rock 101.5",
             logo: "stations/images-america/grand_island/Classic Rock 101.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KRORFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KROR"
         },
         {
             name: "Y102",
@@ -12743,12 +12743,12 @@ var stations = {/*
         {
             name: "HITS 106",
             logo: "stations/images-america/grand_island/HITS 106.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQKYFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/KQKY"
         },
         {
             name: "107.7 The Island",
             logo: "stations/images-america/grand_island/107.7 The Island.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSYZFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice26.securenetsystems.net/KSYZ"
         },
         {
             name: "NOAA Weather Radio Grand Island",
@@ -22610,7 +22610,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Central Nebraska",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/35620"
+            url: "https://hls-o1.broadcastify.com/s1/feed/35620/playlist.m3u8"
         },
         {
             name: "KRVN 880",
@@ -29510,7 +29510,7 @@ var stations = {/*
         {
             name: "KLBJ 590",
             logo: "stations/images-america/austin/KLBJ 99.7.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KLBJAMAAC_SC"
+            url: "https://waterloo.streamguys1.com/klbj-am/playlist.m3u8"
         },
         {
             name: "Sports Radio 610",
@@ -33259,7 +33259,7 @@ var stations = {/*
         {
             name: "KNNR 1400",
             logo: "stations/images-america/ely/KELY 1230.png",
-            url: "http://207.244.126.86:7200/stream"
+            url: "http://us2.maindigitalstream.com:7200/stream"
         },
     ],
     "truth_or_consequences": [
@@ -55190,7 +55190,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Columbus",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/25193"
+            url: "https://hls-o1.broadcastify.com/s1/feed/25193/playlist.m3u8"
         },
         {
             name: "610 WTVN",
