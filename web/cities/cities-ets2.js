@@ -1649,6 +1649,9 @@ var city_properties = {
     "limoges": {
         relative_radius: 2,
     },
+    "linosa": {
+        relative_radius: 0.75,
+    },
     "linz": {
         relative_radius: 0.8,
     },
@@ -1745,6 +1748,9 @@ var city_properties = {
     },
     "meymaneh": {
         relative_radius: 1.3,
+    },
+    "mgarr": {
+        relative_radius: 0.75,
     },
     "michalovce": {
         relative_radius: 0.65,
@@ -1894,6 +1900,9 @@ var city_properties = {
     },
     "panevezys": {
         relative_radius: 1.15,
+    },
+    "pantelleria": {
+        relative_radius: 0.6,
     },
     "paris": {
         relative_radius: 1.4,
@@ -2057,6 +2066,9 @@ var city_properties = {
     },
     "savonlinna": {
         relative_radius: 0.9,
+    },
+    "scauri": {
+        relative_radius: 0.6,
     },
     "scharendijke": {
         relative_radius: 0.5,
@@ -20181,7 +20193,50 @@ var cities_enclaves_baleares = [
         "y": "149.0938",
         "z": "60711.39"
     },
-],
+];
+
+var cities_viva_malta = [
+  {
+    "gameName": "lampedusa",
+    "realName": "Lampedusa",
+    "country": "italy",
+    "x": "6281.645",
+    "y": "57.49609",
+    "z": "83980.4"
+  },
+  {
+    "gameName": "linosa",
+    "realName": "Linosa",
+    "country": "italy",
+    "x": "6967.738",
+    "y": "52.05469",
+    "z": "82701.69"
+  },
+  {
+    "gameName": "mgarr",
+    "realName": "Mgarr",
+    "country": "malta",
+    "x": "10722.69",
+    "y": "56.14063",
+    "z": "81622.91"
+  },
+  {
+    "gameName": "pantelleria",
+    "realName": "Pantelleria",
+    "country": "italy",
+    "x": "2765.508",
+    "y": "51.90625",
+    "z": "78287.49"
+  },
+  {
+    "gameName": "scauri",
+    "realName": "Scauri",
+    "country": "italy",
+    "x": "2114.594",
+    "y": "51.91406",
+    "z": "78543.2"
+  },
+];
 
 cities = cities.concat(cities_rusmap); //RusMap cities
 cities = cities.concat(cities_pm230); //ProMods 2.30 cities
@@ -20237,3 +20292,4 @@ cities = cities.concat(cities_sfigc); // SFIGC
 cities = cities.concat(cities_sjmap); // SJMap
 cities = cities.concat(cities_egyptian_libyan); // Egyptian-Libyan Gateway
 cities = cities.concat(cities_enclaves_baleares); // El Enclaves + Baleares
+cities = cities.concat(cities_viva_malta); // Viva Malta
