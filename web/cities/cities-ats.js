@@ -593,12 +593,6 @@ var country_properties = {
         code: "us-nm",
         relative_radius: 0.5
     },
-    "denio": {
-        name: "Denio",
-        name_english: "Denio",
-        code: "us-nv",
-        relative_radius: 0.35
-    },
     "denver": {
         name: "Denver",
         name_english: "Denver",
@@ -2925,9 +2919,6 @@ var city_properties = {
     "deming": {
         relative_whitenoise: 0.95
     },
-    "denio": {
-        relative_whitenoise: 0.85
-    },
     "denver": {
         relative_whitenoise: 0.85
     },
@@ -4988,14 +4979,6 @@ var cities = [
         "x": "-56483.5",
         "y": "96.834",
         "z": "34248.3"
-    },
-    {
-        "gameName": "denio",
-        "realName": "Denio",
-        "country": "denio",
-        "x": "-93904.45",
-        "y": "100",
-        "z": "-28452.38"
     },
     {
         "gameName": "denver",

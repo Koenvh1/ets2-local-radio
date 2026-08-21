@@ -2049,8 +2049,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/agmedia28-kernamaac-ibc3"
         },
         {
-            name: "96.5 Ritmo",
-            logo: "stations/images-america/bakersfield/96.5 Ritmo.png",
+            name: "Grupera 96.5",
+            logo: "stations/images-america/bakersfield/Grupera 96.5.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPSLFMAAC_SC"
         },
         {
@@ -8431,13 +8431,6 @@ var stations = {/*
             name: "1230 KOTS",
             logo: "stations/images-america/deming/1230 KOTS.png",
             url: "https://ice41.securenetsystems.net/KOTS"
-        },
-    ],
-    "denio": [
-        {
-            name: "KCFJ 570",
-            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "denver": [
@@ -16497,11 +16490,6 @@ var stations = {/*
             url: "http://ice10.securenetsystems.net/KKRB"
         },
         {
-            name: "KCFJ 570",
-            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
-        },
-        {
             name: "The Game 580",
             logo: "stations/images-america/medford/The Game 96.1.png",
             url: "https://ice42.securenetsystems.net/KTMTAM"
@@ -17050,11 +17038,6 @@ var stations = {/*
             name: "KVIP 105.5",
             logo: "stations/images-america/burns/KVIP 89.5.png",
             url: "https://streaming.live365.com/a59959"
-        },
-        {
-            name: "KCFJ 570",
-            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "lamar": [
@@ -19444,11 +19427,6 @@ var stations = {/*
             name: "KVIP 96.9",
             logo: "stations/images-america/burns/KVIP 89.5.png",
             url: "https://streaming.live365.com/a59959"
-        },
-        {
-            name: "KCFJ 570",
-            logo: "stations/images-america/klamath_falls/KCFJ 570.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-cbsnewsaac-imc"
         },
     ],
     "malta_mt": [
@@ -25743,7 +25721,7 @@ var stations = {/*
         {
             name: "89.5 KNCJ",
             logo: "stations/images-america/reno/89.5 KNCJ.png",
-            url: "https://kncjstream.com:8443/live"
+            url: "https://kunr.streamguys1.com/kncj"
         },
         {
             name: "CapRadio News 90.5",
@@ -34778,12 +34756,12 @@ var stations = {/*
             name: "KHBR 1560",
             logo: "stations/images-america/waco/KHBR 1560.png",
             url: "https://ais-sa1.streamon.fm/7031_32k.aac"
-        },
+        },/*
         {
             name: "Kicker Country 1590",
             logo: "stations/images-america/waco/Kicker Country 1590.png",
             url: "https://ais-sa1.streamon.fm/7054_24k.aac"
-        },
+        },*/
         {
             name: "1660 ESPN",
             logo: "stations/images-america/waco/92.3 ESPN.png",
