@@ -384,7 +384,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Abilene",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42709"
+            url: "https://hls-o1.broadcastify.com/s1/feed/42709/playlist.m3u8"
         },
         {
             name: "KXOX 1240",
@@ -840,7 +840,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Albuquerque",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/31878"
+            url: "https://hls-o1.broadcastify.com/s1/feed/31878/playlist.m3u8"
         },
         {
             name: "610 The Sports Animal",
@@ -1245,7 +1245,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Amarillo",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/33896"
+            url: "https://hls-o1.broadcastify.com/s1/feed/33896/playlist.m3u8"
         },
         {
             name: "710 KGNC",
@@ -5247,7 +5247,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Champaign",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/35658"
+            url: "https://hls-o1.broadcastify.com/s1/feed/35658/playlist.m3u8"
         },
         {
             name: "WILL 580",
@@ -5686,7 +5686,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Lockport",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/46216"
+            url: "https://hls-o1.broadcastify.com/s2/feed/46216/playlist.m3u8"
         },
         {
             name: "AM 560 The Answer",
@@ -6282,7 +6282,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Cody",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/32110"
+            url: "https://hls-o1.broadcastify.com/s1/feed/32110/playlist.m3u8"
         },
         {
             name: "KYYA 730",
@@ -7826,7 +7826,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio DFW",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://radio.weatherusa.net/NWR/KEC55_2.mp3"
+            url: "https://hls-o1.broadcastify.com/s2/feed/42343/playlist.m3u8"
         },
         {
             name: "La Poderosa 540",
@@ -8137,7 +8137,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Quad Cities",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/28956"
+            url: "https://hls-o1.broadcastify.com/s1/feed/28956/playlist.m3u8"
         },
         {
             name: "KWPC 860",
@@ -8697,7 +8697,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Denver",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/45413"
+            url: "https://hls-o1.broadcastify.com/s0/feed/45413/playlist.m3u8"
         },
         {
             name: "KLZ 560",
@@ -9115,7 +9115,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Des Moines",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/25091"
+            url: "https://hls-o1.broadcastify.com/s2/feed/25091/playlist.m3u8"
         },
         {
             name: "540 KWMT",
@@ -9458,7 +9458,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Durango",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/36396"
+            url: "https://hls-o1.broadcastify.com/s0/feed/36396/playlist.m3u8"
         },
         {
             name: "KUBC 580",
@@ -11060,7 +11060,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Farmington",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/35195"
+            url: "https://wxr.gwes-cdn.net/WXJ37"
         },
         {
             name: "KNDN 960",
@@ -11237,7 +11237,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Fayetteville",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/30688"
+            url: "https://hls-o1.broadcastify.com/s2/feed/30688/playlist.m3u8"
         },/*
         {
             name: "KURM 790",
@@ -11566,7 +11566,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Greeley",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42875"
+            url: "https://hls-o1.broadcastify.com/s2/feed/42875/playlist.m3u8"
         },
         {
             name: "600 KCOL",
@@ -12129,6 +12129,11 @@ var stations = {/*
             name: "La Picosa 107.9",
             logo: "stations/images-america/fresno/La Picosa 107.9.png",
             url: "http://84.32.44.251/index.php?u=https://lmn.streamguys1.com/kllefm-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+        },
+        {
+            name: "NOAA Weather Radio Fresno",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxr.gwes-cdn.net/KIH62-Alt"
         },
         {
             name: "580 KMJ",
@@ -14154,7 +14159,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Houston",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/45289"
+            url: "https://hls-o1.broadcastify.com/s0/feed/45289/playlist.m3u8"
         },
         {
             name: "Sports Radio 610",
@@ -14772,12 +14777,12 @@ var stations = {/*
             name: "107.3 Mod FM",
             logo: "stations/images-america/indio/107.3 Mod FM.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kdeshd2aac-ibc4"
-        },/*
+        },
         {
             name: "NOAA Weather Radio Coachella",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42818"
-        },*/
+            url: "https://hls-o1.broadcastify.com/s2/feed/42818/playlist.m3u8"
+        },
         {
             name: "970 KNWZ",
             logo: "stations/images-america/indio/K-NEWS 94.3.png",
@@ -15220,12 +15225,12 @@ var stations = {/*
             name: "Rock 107.1",
             logo: "stations/images-america/joplin/Rock 107.1.png",
             url: "https://ice42.securenetsystems.net/KJML"
-        },/*
+        },
         {
             name: "NOAA Weather Radio Avilla",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/43023"
-        },*/
+            url: "https://hls-o1.broadcastify.com/s0/feed/46999/playlist.m3u8"
+        },
         {
             name: "KGGF 690",
             logo: "stations/images-america/enid/KGGF 690.png",
@@ -16080,7 +16085,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Pendleton",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/41784"
+            url: "https://hls-o1.broadcastify.com/s1/feed/41784/playlist.m3u8"
         },
         {
             name: "610 KONA",
@@ -17390,6 +17395,11 @@ var stations = {/*
             url: "https://usa17.fastcast4u.com/proxy/fiestafm?mp=/1"
         },
         {
+            name: "NOAA Weather Radio Las Cruces",
+            logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
+            url: "https://wxr.gwes-cdn.net/WXL91"
+        },
+        {
             name: "KWML 570",
             logo: "stations/images-america/las_cruces/KOOL 104.5.png",
             url: "http://live.amperwave.net/manifest/adamsradio-kwmlammp3-ibc1"
@@ -17916,7 +17926,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Lawton",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/40096"
+            url: "https://hls-o1.broadcastify.com/s2/feed/40096/playlist.m3u8"
         },
         {
             name: "KKRX 1050",
@@ -19226,7 +19236,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Lubbock",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/38027"
+            url: "https://hls-o1.broadcastify.com/s1/feed/38027/playlist.m3u8"
         },
         {
             name: "KRFE 580",
@@ -19360,7 +19370,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Lufkin",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://radio.weatherusa.net/NWR/WXK23.mp3"
+            url: "https://hls-o1.broadcastify.com/s1/feed/28503/playlist.m3u8"
         },
         {
             name: "860 KSFA",
@@ -21631,7 +21641,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Monterey Marine",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/27948"
+            url: "https://hls-o1.broadcastify.com/s2/feed/27948/playlist.m3u8"
         },
     ],
     "montpelier": [
@@ -23184,7 +23194,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Omaha",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/27971"
+            url: "https://hls-o1.broadcastify.com/s0/feed/27971/playlist.m3u8"
         },
         {
             name: "590 WOW",
@@ -24131,7 +24141,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Peoria",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/25174"
+            url: "https://hls-o1.broadcastify.com/s2/feed/25174/playlist.m3u8"
         },
         {
             name: "The Word 1020",
@@ -24475,7 +24485,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Phoenix",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/40917"
+            url: "https://hls-o1.broadcastify.com/s2/feed/40917/playlist.m3u8"
         },
         {
             name: "550 KFYI",
@@ -25886,7 +25896,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Reno",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/44061"
+            url: "https://hls-o1.broadcastify.com/s1/feed/44061/playlist.m3u8"
         },
         {
             name: "FOX Sports 630",
@@ -26118,12 +26128,12 @@ var stations = {/*
             name: "Old School 104.7",
             logo: "stations/images-america/riverside/Old School 104.7.png",
             url: "http://84.32.44.251/index.php?u=http://ice9.securenetsystems.net/KQIE"
-        },/*
+        },
         {
             name: "NOAA Weather Radio Coachella",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42818"
-        },*/
+            url: "https://hls-o1.broadcastify.com/s2/feed/42818/playlist.m3u8"
+        },
         {
             name: "AM 590 The Answer",
             logo: "stations/images-america/riverside/AM 590 The Answer.png",
@@ -27112,7 +27122,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Sacramento",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/34488"
+            url: "https://hls-o1.broadcastify.com/s0/feed/34488/playlist.m3u8"
         },
         {
             name: "650 KSTE",
@@ -27507,7 +27517,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Monterey Marine",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/27948"
+            url: "https://hls-o1.broadcastify.com/s2/feed/27948/playlist.m3u8"
         },
         {
             name: "ESNE Radio 540",
@@ -27841,7 +27851,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Salt Lake City",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/35369"
+            url: "https://hls-o1.broadcastify.com/s2/feed/35369/playlist.m3u8"
         },
         {
             name: "ESPN 700",
@@ -29359,7 +29369,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Monterey Marine",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/27948"
+            url: "https://hls-o1.broadcastify.com/s2/feed/27948/playlist.m3u8"
         },
         {
             name: "Family Radio 610",
@@ -30541,7 +30551,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Shreveport",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/39769"
+            url: "https://hls-o1.broadcastify.com/s1/feed/39769/playlist.m3u8"
         },
         {
             name: "KEEL 710",
@@ -31544,7 +31554,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Springfield",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42757"
+            url: "https://hls-o1.broadcastify.com/s2/feed/42757/playlist.m3u8"
         },
         {
             name: "560 KWTO",
@@ -32488,7 +32498,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio St. Louis",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/27479"
+            url: "https://hls-o1.broadcastify.com/s2/feed/27479/playlist.m3u8"
         },
         {
             name: "550 KTRS",
@@ -32836,7 +32846,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Texarkana",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/35079"
+            url: "https://hls-o1.broadcastify.com/s2/feed/35079/playlist.m3u8"
         },
     ],
     "the_dalles": [
@@ -34862,7 +34872,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Waterloo",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/25152"
+            url: "https://hls-o1.broadcastify.com/s0/feed/25152/playlist.m3u8"
         },
         {
             name: "IPR News 910",
@@ -35225,7 +35235,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Wichita",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/41213"
+            url: "https://hls-o1.broadcastify.com/s1/feed/41213/playlist.m3u8"
         },
         {
             name: "KFRM 550",
@@ -35702,7 +35712,7 @@ var stations = {/*
         {
             name: "NOAA Weather Radio Yakima",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/34002"
+            url: "https://hls-o1.broadcastify.com/s2/feed/34002/playlist.m3u8"
         },
         {
             name: "La Estación de la Familia 1020",
@@ -35740,37 +35750,22 @@ var stations = {/*
             name: "Border Radio 94.7",
             logo: "stations/images-america/yuma/Border Radio 94.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
-        },/*
-        {
-            name: "95.1 KTTI",
-            logo: "stations/images-america/yuma/95.1 KTTI.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kttifmaac-ibc2?source=v7player"
-        },*/
+        },
         {
             name: "KYMZ 99.9",
             logo: "stations/images-america/yuma/KYMZ 99.9.png",
             url: "https://s4.radio.co/s376740a0f/listen"
-        },/*
-        {
-            name: "100.9 The River",
-            logo: "stations/images-america/yuma/100.9 The River.png",
-            url: "https://live.amperwave.net/manifest/eldorado-kqsrfmaac-ibc2?source=v7player"
-        },*/
+        },
         {
             name: "La Campesina 104.5",
             logo: "stations/images-america/yuma/La Campesina 104.5.png",
             url: "https://ice26.securenetsystems.net/KCEC"
-        },/*
+        },
         {
             name: "NOAA Weather Radio Yuma",
             logo: "stations/images-america/0_general_logos/NOAA Weather Radio.png",
-            url: "https://broadcastify.cdnstream1.com/42303"
+            url: "https://hls-o1.broadcastify.com/s1/feed/42303/playlist.m3u8"
         },
-        {
-            name: "560 KBLU",
-            logo: "stations/images-america/yuma/560 KBLU.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/eldorado-kbluamaac-ibc2?source=v7player"
-        },*/
     ],
     "zapata": [
         {
