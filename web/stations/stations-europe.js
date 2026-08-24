@@ -224,17 +224,17 @@ var stations = {/*
         {
             name: "Yle Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000871/ylers/master.m3u8"
         },
         {
             name: "Yle Vega",
             logo: "stations/images-europe/finland/YLE Vega.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027712/in-YleVegaOsterbotten/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000878/ylevega/master.m3u8"
         },
         {
             name: "Yle X3M",
             logo: "stations/images-europe/finland/Yle X3M.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000877/ylex3m/master.m3u8"
         },
         {
             name: "Ålands Radio",
@@ -311,7 +311,7 @@ var stations = {/*
         {
             name: "Radio Ngjallja",
             logo: "stations/images-europe/albania/Radio Ngjallja.png",
-            url: "http://84.20.84.114:1234/radiongjallja"
+            url: "https://radio.ngjallja.org/radio_ngjallja"
         },
         {
             name: "Radio One",
@@ -444,7 +444,7 @@ var stations = {/*
         {
             name: "KISS FM 88.3",
             logo: "stations/images-europe/armenia/yerevan/KISS FM 88.3.png",
-            url: "https://am.radioaurora.am/kiss"
+            url: "https://de.auroramedia.am/kissfm.mp3"
         },/*
         {
             name: "POP FM 89.3",
@@ -494,7 +494,7 @@ var stations = {/*
         {
             name: "Radio Aurora 100.7",
             logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
-            url: "https://am.radioaurora.am/al.mp3"
+            url: "https://de.auroramedia.am/aurora.mp3"
         },
         {
             name: "RFI Monde 102.4",
@@ -783,7 +783,7 @@ var stations = {/*
         {
             name: "Space Radio",
             logo: "stations/images-europe/azerbaijan/Space Radio.png",
-            url: "https://stream.zeno.fm/noozxmffa38uv"
+            url: "https://stream.zeno.fm/rxzd8t0l1ivvv"
         },
         {
             name: "Xəzər FM",
@@ -897,7 +897,7 @@ var stations = {/*
         {
             name: "Радио Мир",
             logo: "stations/images-europe/belarus/Радио Мир.png",
-            url: "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8"
+            url: "https://cast.radiomir.by/hls/radiomir/live.m3u8"
         },
         {
             name: "Unistar",
@@ -1982,12 +1982,12 @@ var stations = {/*
         {
             name: "Rádio Impuls",
             logo: "stations/images-europe/czech/Rádio Impuls.png",
-            url: "http://icecast1.play.cz:80/impuls128.mp3"
+            url: "https://stream.sepia.sk:8000/impuls128.mp3"
         },
         {
             name: "Český Impuls",
             logo: "stations/images-europe/czech/Český Impuls.png",
-            url: "https://icecast6.play.cz/cesky-impuls.mp3"
+            url: "https://stream.sepia.sk:8000/ceskyimpuls128.mp3"
         },
         {
             name: "Gold Impuls",
@@ -2032,7 +2032,7 @@ var stations = {/*
         {
             name: "RockZone",
             logo: "stations/images-europe/czech/RockZone.png",
-            url: "https://icecast5.play.cz/rockzone128.mp3"
+            url: "https://stream.sepia.sk:8000/rockzone128.mp3"
         },
         {
             name: "Signál Rádio",
@@ -2178,20 +2178,20 @@ var stations = {/*
         },
     ],
     "egypt": [
-        {
+        /*{
             name: "ERTU Al Quran al Kareem",
             logo: "stations/images-europe/egypt/ERTU.png",
             url: "http://stream.radiojar.com/8s5u5tpdtwzuv"
-        },/*
+        },
         {
             name: "ERTU Al Orobi",
             logo: "stations/images-europe/egypt/ERTU.png",
             url: "https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8"
         },
         {
-            name: "MIX FM 87.8",
+            name: "MIX FM 87.8", // temporarily off air due to technical issues
             logo: "stations/images-europe/egypt/MIX FM 87.8.png",
-            url: "https://stream.zeno.fm/na3vpvn10qruv"
+            url: "https://streaming.peamux.com/listen/mixfmegypt/live"
         },*/
         {
             name: "Radio Hits 88.2",
@@ -2447,27 +2447,27 @@ var stations = {/*
         {
             name: "Yle Radio 1",
             logo: "stations/images-europe/finland/YLE Radio 1.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000869/yleradio1/master.m3u8"
         },
         {
             name: "Yle Radio Suomi",
             logo: "stations/images-europe/finland/YLE Radio Suomi.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000871/ylers/master.m3u8"
         },
         {
             name: "Yle Vega",
             logo: "stations/images-europe/finland/YLE Vega.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027712/in-YleVegaOsterbotten/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000878/ylevega/master.m3u8"
         },
         {
             name: "YleX",
             logo: "stations/images-europe/finland/YleX.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000870/ylex/master.m3u8"
         },
         {
             name: "Yle X3M",
             logo: "stations/images-europe/finland/Yle X3M.png",
-            url: "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
+            url: "https://yleradiolive5.akamaized.net/hls/live/20000877/ylex3m/master.m3u8"
         },
         {
             name: "Aito Iskelmä",
@@ -2624,17 +2624,12 @@ var stations = {/*
         {
             name: "Ado",
             logo: "stations/images-europe/france/Ado.png",
-            url: "https://start-adofm.ice.infomaniak.ch/start-adofm-high.mp3"
+            url: "https://start-adofm.radiohls.infomaniak.com/start-adofm/manifest.m3u8"
         },
         {
             name: "AirZen",
             logo: "stations/images-europe/france/AirZen.png",
             url: "https://stream.rcs.revma.com/vuumdncf368uv"
-        },
-        {
-            name: "Alouette",
-            logo: "stations/images-europe/france/Alouette.png",
-            url: "https://alouette-nantes.ice.infomaniak.ch/alouette-nantes-128.mp3"
         },
         {
             name: "Autoroute Info",
@@ -2687,14 +2682,9 @@ var stations = {/*
             url: "http://direct.fipradio.fr/live/fip-midfi.mp3"
         },
         {
-            name: "FORUM",
-            logo: "stations/images-europe/france/FORUM.png",
-            url: "https://start-forum.ice.infomaniak.ch/start-forum-high.mp3"
-        },
-        {
             name: "Fun Radio",
             logo: "stations/images-europe/france/Fun Radio.png",
-            url: "http://ais.rtl.fr:80/fun-1-44-128"
+            url: "https://icecast.funradio.fr/fun-1-44-128"
         },
         {
             name: "Generations",
@@ -2710,11 +2700,6 @@ var stations = {/*
             name: "KTO Radio",
             logo: "stations/images-europe/france/KTO Radio.png",
             url: "https://liveradiokto.akamaized.net/hls/live/20000054/ktoradio/master.m3u8"
-        },
-        {
-            name: "La Radio Plus",
-            logo: "stations/images-europe/france/La Radio Plus.png",
-            url: "https://laradioplus.ice.infomaniak.ch/laradioplus-high.mp3"
         },
         {
             name: "Latina",
@@ -2752,11 +2737,6 @@ var stations = {/*
             url: "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3"
         },
         {
-            name: "Radio Bonheur",
-            logo: "stations/images-europe/france/Radio Bonheur.png",
-            url: "https://radiobonheur.ice.infomaniak.ch/radiobonheur-128-1.mp3"
-        },
-        {
             name: "Radio Classique",
             logo: "stations/images-europe/france/Radio Classique.png",
             url: "https://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
@@ -2780,11 +2760,6 @@ var stations = {/*
             name: "Radio Orient",
             logo: "stations/images-europe/france/Radio Orient.png",
             url: "https://stream.rcs.revma.com/7hnrkawf4p8uv"
-        },
-        {
-            name: "Radio Scoop",
-            logo: "stations/images-europe/france/Radio Scoop.png",
-            url: "https://radioscooplyon.ice.infomaniak.ch/radioscoop-lyon-64.aac"
         },
         {
             name: "Radio Vinci Autoroutes",
@@ -2814,12 +2789,12 @@ var stations = {/*
         {
             name: "RTL",
             logo: "stations/images-europe/france/RTL.png",
-            url: "http://ais.rtl.fr:80/rtl-1-44-128"
+            url: "https://icecast.rtl.fr/rtl-1-44-128"
         },
         {
             name: "RTL 2",
             logo: "stations/images-europe/france/RTL 2.png",
-            url: "http://ais.rtl.fr:80/rtl2-1-44-128"
+            url: "https://icecast.rtl2.fr/rtl2-1-44-128"
         },
         {
             name: "Sanef 107.7",
@@ -2837,19 +2812,9 @@ var stations = {/*
             url: "http://start-sud.ice.infomaniak.ch/start-sud-high.mp3"
         },
         {
-            name: "TOTEM",
-            logo: "stations/images-europe/france/TOTEM.png",
-            url: "https://aratotem.ice.infomaniak.ch/tarn-et-garonne.mp3"
-        },
-        {
             name: "TSF Jazz",
             logo: "stations/images-europe/france/TSF Jazz.png",
             url: "https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3"
-        },
-        {
-            name: "Vibration",
-            logo: "stations/images-europe/france/Vibration.png",
-            url: "https://webvib-region.ice.infomaniak.ch/webvib-region-128.mp3"
         },
         {
             name: "Virgin Radio",
@@ -3488,7 +3453,7 @@ var stations = {/*
         {
             name: "Radio TEDDY",
             logo: "stations/images-europe/germany-rbb/Radio TEDDY.png",
-            url: "https://radio-teddy.api.radiosphere.io/channels/livestream-hamburg/stream.aac"
+            url: "https://streamtdy.ir-media-tec.com/sc-hamburg/mp3-192/webseite/"
         },
         {
             name: "Radio Wellenrausch",
@@ -3597,7 +3562,7 @@ var stations = {/*
         {
             name: "DOMRADIO",
             logo: "stations/images-europe/germany-koeln/DOMRADIO.png",
-            url: "https://dom.audiostream.io/domradio/1000/mp3/128/domradio-rp.mp3"
+            url: "https://dispatcher.rndfnk.com/domradio/1000/mp3/128/stream.mp3"
         },
         {
             name: "Kölncampus",
@@ -3718,7 +3683,7 @@ var stations = {/*
         {
             name: "95.5 Charivari",
             logo: "stations/images-europe/germany-muenchen/95.5 Charivari.png",
-            url: "https://rs5.stream24.net/stream"
+            url: "https://live.stream.charivari.de/955charivari-webradio"
         },
         {
             name: "M94.5",
@@ -4775,12 +4740,12 @@ var stations = {/*
             name: "Hit 93.5",
             logo: "stations/images-europe/greece/ioannina/Hit 93.5.png",
             url: "https://radio.escape-media.gr:8008/stream"
-        },
+        },/*
         {
             name: "Melody 94.9",
             logo: "stations/images-europe/greece/ioannina/Melody 94.9.png",
             url: "http://i2.streams.ovh:7121/stream"
-        },
+        },*/
         {
             name: "Ράδιο Σπίνος 96.0",
             logo: "stations/images-europe/greece/ioannina/Ράδιο Σπίνος 96.0.png",
@@ -4790,7 +4755,7 @@ var stations = {/*
             name: "Sky Radio 99.2",
             logo: "stations/images-europe/greece/ioannina/Sky Radio 99.2.png",
             url: "https://media.skyradio.gr:9920/stream"
-        },
+        },/*
         {
             name: "Energy 101.5",
             logo: "stations/images-europe/greece/ioannina/Energy 101.5.png",
@@ -4800,17 +4765,17 @@ var stations = {/*
             name: "Studio E 103.0",
             logo: "stations/images-europe/greece/ioannina/Studio E 103.0.png",
             url: "http://music.1host.gr:9045/stream"
-        },
+        },*/
         {
             name: "Super FM 104.3",
             logo: "stations/images-europe/greece/ioannina/Super FM 104.3.png",
             url: "https://stream.rcast.net/72942"
-        },
+        },/*
         {
             name: "Giga FM 105.4",
             logo: "stations/images-europe/greece/ioannina/Giga FM 105.4.png",
             url: "https://s46.myradiostream.com/:7322/listen.mp3"
-        },
+        },*/
         {
             name: "Nitro Radio 106.7",
             logo: "stations/images-europe/greece/ioannina/Nitro Radio 106.7.png",
@@ -5486,22 +5451,22 @@ var stations = {/*
         {
             name: "RRI Pro 1",
             logo: "stations/images-europe/indonesia/RRI Pro 1.png",
-            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3"
+            url: "https://pro1-streaming.rri.go.id/rrijakartapro1.mp3"
         },
         {
             name: "RRI Pro 2",
             logo: "stations/images-europe/indonesia/RRI Pro 2.png",
-            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3"
+            url: "https://pro2-streaming.rri.go.id/rrijakartapro2.mp3"
         },
         {
             name: "RRI Pro 3",
             logo: "stations/images-europe/indonesia/RRI Pro 3.png",
-            url: "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3"
+            url: "https://streaming.rri.go.id/pro3dvb.mp3"
         },
         {
             name: "RRI Pro 4",
             logo: "stations/images-europe/indonesia/RRI Pro 4.png",
-            url: "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro4.mp3"
+            url: "https://pro4-streaming.rri.go.id/rrijakartapro4.mp3"
         },
         {
             name: "Delta FM",
@@ -5551,7 +5516,7 @@ var stations = {/*
         {
             name: "Smart FM",
             logo: "stations/images-europe/indonesia/Smart FM.png",
-            url: "https://cast2.my-control-panel.com/proxy/radioso3/stream"
+            url: "https://mediacp-sg1.arenastreaming.com:8006/stream"
         }
     ],
     "iom": [
@@ -5607,75 +5572,75 @@ var stations = {/*
         {
             name: "رادیو ایران",
             logo: "stations/images-europe/iran/رادیو ایران.png",
-            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-iran/playlist.m3u8"
         },
         {
             name: "رادیو آوا",
             logo: "stations/images-europe/iran/رادیو آوا.png",
-            url: "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8"
         },
         {
             name: "رادیو اقتصاد",
             logo: "stations/images-europe/iran/رادیو اقتصاد.png",
-            url: "http://s4.cdn3.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8"
         },
         {
             name: "رادیو فرهنگ",
             logo: "stations/images-europe/iran/رادیو فرهنگ.png",
-            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8"
         },
         {
             name: "رادیو جوان",
             logo: "stations/images-europe/iran/رادیو جوان.png",
-            url: "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8"
         },
         {
             name: "رادیو معارف",
             logo: "stations/images-europe/iran/رادیو معارف.png",
-            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8"
         },
         {
             name: "رادیو نمایش",
             logo: "stations/images-europe/iran/رادیو نمایش.png",
-            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-namayesh/playlist.m3u8"
         },
         {
             name: "رادیو پیام",
             logo: "stations/images-europe/iran/رادیو پیام.png",
-            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-payam/playlist.m3u8"
         },
         {
             name: "رادیو قرآن",
             logo: "stations/images-europe/iran/رادیو قرآن.png",
-            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8"
         },
         {
             name: "رادیو صبا",
             logo: "stations/images-europe/iran/رادیو صبا.png",
-            url: "http://s1.cdn3.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-saba/playlist.m3u8"
         },
         {
             name: "رادیو سلامت",
             logo: "stations/images-europe/iran/رادیو سلامت.png",
-            url: "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8"
         },
         {
             name: "رادیو مقاومت",
             logo: "stations/images-europe/iran/رادیو مقاومت.png",
-            url: "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-monasebati/playlist.m3u8"
         },
         {
             name: "رادیو ورزش",
             logo: "stations/images-europe/iran/رادیو ورزش.png",
-            url: "http://s2.cdn3.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8"
+            url: "https://s0.cdn1.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8"
         },
     ],
-    "iraq": [
+    "iraq": [/*
         {
             name: "إذاعة الكفيل",
             logo: "stations/images-europe/iraq/إذاعة الكفيل.png",
             url: "https://stream.alkafeel.net/live/radio/playlist.m3u8"
-        },
+        },*/
         {
             name: "راديو الحياة الجديدة",
             logo: "stations/images-europe/iraq/راديو الحياة الجديدة.png",
@@ -5717,12 +5682,12 @@ var stations = {/*
             name: "3FM",
             logo: "stations/images-europe/ireland/3FM.png",
             url: "https://3fm-seanashmore.radioca.st/stream"
-        },
+        },/*
         {
-            name: "all Classical Radio",
+            name: "all Classical Radio", // region-locked to IE/UK
             logo: "stations/images-europe/ireland/all Classical Radio.png",
             url: "https://christmasfm.cdnstream1.com/2548_128.mp3"
-        },
+        },*/
         {
             name: "BOB FM",
             logo: "stations/images-europe/ireland/BOB FM.png",
@@ -6516,7 +6481,7 @@ var stations = {/*
         {
             name: "TOPradio",
             logo: "stations/images-europe/latvia/TOPradio.png",
-            url: "https://topradio.live.advailo.com/topradio/aac/icecast.audio"
+            url: "https://live.advailo.com/topradio/hls/playlist.m3u8"
         },
     ],
     "lebanon": [
@@ -6712,7 +6677,7 @@ var stations = {/*
         {
             name: "ZIP FM",
             logo: "stations/images-europe/lithuania/ZIP FM.png",
-            url: "https://transliacija.zipfm.lt/zipfm128.mp3"
+            url: "https://stream4.radijas.lt/zipfm"
         },
     ],
     "luxembourg": [
@@ -7172,12 +7137,12 @@ var stations = {/*
             name: "Vocea Basarabiei 102.3",
             logo: "stations/images-europe/moldova/chisinau/Vocea Basarabiei 102.3.png",
             url: "https://stream.noroc.tv/radiovb_aac"
-        },
+        },/*
         {
             name: "Radio 21 102.7",
             logo: "stations/images-europe/moldova/chisinau/Radio 21 102.7.png",
             url: "http://217.26.167.180:8083/Radio21.mp3"
-        },
+        },*/
         {
             name: "Авторадио Молдова 103.2",
             logo: "stations/images-europe/moldova/chisinau/Авторадио Молдова 103.2.png",
@@ -7187,12 +7152,12 @@ var stations = {/*
             name: "Radio 7 105.2",
             logo: "stations/images-europe/moldova/chisinau/Radio 7 105.2.png",
             url: "https://radio7.md/stream/mountr7.mp3"
-        },
+        },/*
         {
             name: "Europa Plus 106.4",
             logo: "stations/images-europe/moldova/chisinau/Europa Plus 106.4.png",
             url: "http://217.26.167.180:8081/broadwave.mp3"
-        },
+        },*/
         {
             name: "RFI România 107.3",
             logo: "stations/images-europe/moldova/chisinau/RFI România 107.3.png",
@@ -7503,14 +7468,19 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC",
         },
         {
-            name: "Radio 10 80's",
-            logo: "stations/images-europe/netherlands/Radio 10 80's.png",
+            name: "Radio 10 80's Hits",
+            logo: "stations/images-europe/netherlands/Radio 10 80's Hits.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20AAC_SC",
         },
         {
             name: "Radio 10 Non-stop",
             logo: "stations/images-europe/netherlands/Radio 10 Non-stop.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15AAC_SC",
+        },
+        {
+            name: "Radio 10 Soul and Jazz",
+            logo: "stations/images-europe/netherlands/Radio 10 Soul and Jazz.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR04AAC_SC",
         },
         {
             name: "Radio Continu",
@@ -7612,7 +7582,7 @@ var stations = {/*
         {
             name: "Cool FM",
             logo: "stations/images-europe/nigeria/Cool FM.png",
-            url: "https://coolfmabuja969-atunwadigital.streamguys1.com/coolfmabuja969"
+            url: "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969"
         },
         {
             name: "Raypower FM",
@@ -7995,7 +7965,7 @@ var stations = {/*
         {
             name: "VOX FM",
             logo: "stations/images-europe/poland/Radio VOX FM.png",
-            url: "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8"
+            url: "https://waw.ic.smcdn.pl/3990-1.aac"
         },
     ],
     "portugal": [
@@ -10007,7 +9977,7 @@ var stations = {/*
         {
             name: "Semerkand Radyo",
             logo: "stations/images-europe/turkey/Semerkand Radyo.png",
-            url: "https://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58e23cb112296.smil/Playlist.m3u8"
+            url: "https://canliyayin.semerkandradyo.com.tr/hls/Radyo/playlist.m3u8"
         },
         {
             name: "Show Radyo",
