@@ -1678,6 +1678,11 @@ var stations = {/*
             url: "http://streaming.koop.org/stream.aac"
         },
         {
+            name: "KVRX 91.7-HD2",
+            logo: "stations/images-america/austin/KVRX 91.7.png",
+            url: "https://kvrx.org/now_playing/stream"
+        },
+        {
             name: "BOOST 92.1",
             logo: "stations/images-america/0_general_logos/Boost Radio.png",
             url: "https://gateway.cdnstream1.com/boost-live"
@@ -1699,18 +1704,8 @@ var stations = {/*
         },
         {
             name: "93.3 KGSR-HD2",
-            logo: "stations/images-america/austin/93.3 KGSR-HD2.png",
-            url: "https://waterloo.streamguys1.com/kgsr-hd2/playlist.m3u8"
-        },
-        {
-            name: "The Party! 93.3-HD3",
-            logo: "stations/images-america/austin/The Party! 93.3-HD3.png",
-            url: "http://waterloo.streamguys1.com/kgsr-hd3/playlist.m3u8"
-        },
-        {
-            name: "93.3 KGSR-HD4",
-            logo: "stations/images-america/austin/Latino 97.1.png",
-            url: "http://waterloo.streamguys1.com/klzt-hd2/playlist.m3u8"
+            logo: "stations/images-america/austin/Radio Austin 105.3-HD3.png",
+            url: "http://waterloo.streamguys1.com/kgsr-hd2/playlist.m3u8"
         },
         {
             name: "93.7 KLBJ",
@@ -1718,8 +1713,13 @@ var stations = {/*
             url: "https://waterloo.streamguys1.com/klbj-fm/playlist.m3u8"
         },
         {
-            name: "No Control Radio 93.7-HD2",
-            logo: "stations/images-america/austin/No Control Radio 93.7-HD2.png",
+            name: "93.7 KLBJ-HD2",
+            logo: "stations/images-america/austin/102.7 ESPN.png",
+            url: "http://waterloo.streamguys1.com/kbpa-hd2_icy"
+        },
+        {
+            name: "No Control Radio 93.7-HD3",
+            logo: "stations/images-america/austin/No Control Radio 93.7-HD3.png",
             url: "https://waterloo.streamguys1.com/klbj-hd3/playlist.m3u8"
         },
         {
@@ -1858,6 +1858,16 @@ var stations = {/*
             url: "https://waterloo.streamguys1.com/kbpa-fm/playlist.m3u8"
         },
         {
+            name: "103.5 KBPA-HD2",
+            logo: "stations/images-america/austin/Vibe 97.1.png",
+            url: "https:///waterloo.streamguys1.com/kgsr-fm_icy"
+        },
+        {
+            name: "103.5 KBPA-HD3",
+            logo: "stations/images-america/austin/Radio Austin 105.3-HD3.png",
+            url: "https:///waterloo.streamguys1.com/kgsr-hd2/playlist.m3u8"
+        },
+        {
             name: "Sun Radio 103.9",
             logo: "stations/images-america/0_general_logos/Sun Radio.png",
             url: "https://ice10.securenetsystems.net/SUNRADIO"
@@ -1873,6 +1883,11 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
         },
         {
+            name: "Stream Tejano 104.3-HD3",
+            logo: "stations/images-america/austin/Stream Tejano 104.3-HD3.png",
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tejano-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+        },
+        {
             name: "104.9 KTXX",
             logo: "stations/images-america/austin/La Raza 95.1.png",
             url: "https://stream.zeno.fm/fv4tnyd6vxztv"
@@ -1881,6 +1896,11 @@ var stations = {/*
             name: "Romance 105.3",
             logo: "stations/images-america/austin/Romance 105.3.png",
             url: "https://stream.zeno.fm/lxbknsw8wh2tv"
+        },
+        {
+            name: "Radio Austin 105.3-HD3",
+            logo: "stations/images-america/austin/Radio Austin 105.3-HD3.png",
+            url: "https://waterloo.streamguys1.com/kgsr-hd2/playlist.m3u8"
         },
         {
             name: "K-LOVE 105.9",
@@ -15835,7 +15855,7 @@ var stations = {/*
         },
         {
             name: "102.5 Jack FM",
-            logo: "stations/images-america/kansas_city/102.5 Jack FM.png",
+            logo: "stations/images-america/kansas_city/107.3_102.5 Jack FM.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCMOH2AAC_SC"
         },
         {
@@ -15884,9 +15904,9 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KPRSHD2AAC_SC"
         },
         {
-            name: "107.3 KMJK",
-            logo: "stations/images-america/kansas_city/HITS 105.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCJKFMAAC_SC"
+            name: "107.3 Jack FM",
+            logo: "stations/images-america/kansas_city/107.3_102.5 Jack FM.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KCMOH2AAC_SC"
         },
         {
             name: "590 WOW",
@@ -17722,8 +17742,8 @@ var stations = {/*
             url: "https://streaming.live365.com/a72595"
         },
         {
-            name: "106.9 The Bomb",
-            logo: "stations/images-america/las_vegas/106.9 The Bomb.png",
+            name: "106.9 KVGQ",
+            logo: "stations/images-america/las_vegas/106.9 KVGQ.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVGQFMAAC_SC"
         },
         {
@@ -18881,7 +18901,7 @@ var stations = {/*
         },
         {
             name: "105.1 KKGO-HD3",
-            logo: "stations/images-america/los_angeles/K-Mozart.png",
+            logo: "stations/images-america/los_angeles/America’s Christmas Station.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a72131"
         },
         {
