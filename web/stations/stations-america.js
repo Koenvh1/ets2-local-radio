@@ -26731,12 +26731,12 @@ var stations = {/*
         {
             name: "KYEL 105.5",
             logo: "stations/images-america/russelville/99.3 The Eagle.png",
-            url: "http://hemnos.cdnstream.com/1411_64"
+            url: "http://stream.aiir.com/nojsmigzdbyvv"
         },
         {
             name: "Maverick 106.9",
             logo: "stations/images-america/russelville/Maverick 106.9.png",
-            url: "http://kea.cdnstream.com/1691_64"
+            url: "http://stream.aiir.com/kc99fjjvwpetv"
         },
         {
             name: "KARV 610",
@@ -68328,11 +68328,6 @@ var stations = {/*
             name: "Gospel JA fm 91.7",
             logo: "stations/images-america/caribbean/kingston/Gospel JA fm 91.7.png",
             url: "https://radio.usamogul.com:8004/stream"
-        },
-        {
-            name: "Hitz 92",
-            logo: "stations/images-america/caribbean/kingston/Hitz 92.png",
-            url: "https://stream.zeno.fm/mbng1nnyxrquv"
         },
         {
             name: "Newstalk 93 FM",
