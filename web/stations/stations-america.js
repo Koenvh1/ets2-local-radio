@@ -2778,9 +2778,14 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc1345/hls.m3u8"
         },
         {
+            name: "Death Valley 98.3",
+            logo: "stations/images-america/beatty/Death Valley 98.3.png",
+            url: "https://c19.radioboss.fm:8208/stream"
+        },
+        {
             name: "99.5 K258AF",
-            logo: "stations/images-america/las_vegas/96.3 KKLZ.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKLZFMAAC_SC"
+            logo: "stations/images-america/tonopah/Radio Goldfield 89.1.png",
+            url: "https://radiogoldfield.radioca.st/stream"
         },
     ],
     "beaumont": [
@@ -4142,6 +4147,43 @@ var stations = {/*
             url: "https://www.streamcontrol.net:8444/s/16120"
         },
     ],
+    "bryce_escalante": [
+        {
+            name: "KUER 91.1",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "https://kuer.streamguys1.com/high_icy"
+        },
+        {
+            name: "UPR 93.5",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "95.3 K237AD",
+            logo: "stations/images-america/salina_ut/97.7 The Wolf.png",
+            url: "https://ice9.securenetsystems.net/KWUT"
+        },
+        {
+            name: "96.7 K244CR",
+            logo: "stations/images-america/st_george/Cat Country Utah.png",
+            url: "http://live.amperwave.net/manifest/townsquare-kcinfmaac-ibc3"
+        },
+        {
+            name: "103.9 K280CZ",
+            logo: "stations/images-america/salina_ut/Classy 102.7.png",
+            url: "https://ice10.securenetsystems.net/KMGR"
+        },
+        {
+            name: "104.3 K282AC",
+            logo: "stations/images-america/st_george/B92.1.png",
+            url: "https://live.amperwave.net/direct/townsquare-kxbnfmaac-ibc3"
+        },
+        {
+            name: "107.9 K300AG",
+            logo: "stations/images-america/salina_ut/95.7 The Boss.png",
+            url: "https://ice42.securenetsystems.net/KUTC"
+        },
+    ],
     "buffalo_tx": [
         {
             name: "afr Talk 88.1",
@@ -4202,6 +4244,23 @@ var stations = {/*
             name: "106.5 Jack FM",
             logo: "stations/images-america/tyler/106.5 Jack FM.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kooifmaac-ibc4"
+        },
+    ],
+    "bullfrog": [
+        {
+            name: "KUER 88.1",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "https://kuer.streamguys1.com/high_icy"
+        },
+        {
+            name: "106.3 K292DO",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
+            url: "https://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "KTNN 660",
+            logo: "stations/images-america/gallup/KTNN 101.5.png",
+            url: "https://ice9.securenetsystems.net/KTNN"
         },
     ],
     "burlington": [
@@ -13334,6 +13393,38 @@ var stations = {/*
             url: "https://ice41.securenetsystems.net/KAGH"
         },
     ],
+    "hanksville": [
+        {
+            name: "UPR 91.9",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "97.1 Canyon Country",
+            logo: "stations/images-america/moab/97.1 Canyon Country.png",
+            url: "https://stream.zeno.fm/sda34epsxmzvv"
+        },
+        {
+            name: "103.9 K280EA",
+            logo: "stations/images-america/salt_lake/Z104.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/wjfesic70c6uv"
+        },
+        {
+            name: "104.9 K285BA",
+            logo: "stations/images-america/salt_lake/94.1 KODJ.png",
+            url: "https://stream.revma.ihrhls.com/zc2393/hls.m3u8"
+        },
+        {
+            name: "106.3 K292EE",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
+            url: "https://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "KOAL 750",
+            logo: "stations/images-america/price/KOAL.png",
+            url: "https://www.ophanim.net:8444/s/9130"
+        },
+    ],
     "hannibal_quincy": [
         {
             name: "88.5 WGCA",
@@ -15976,11 +16067,6 @@ var stations = {/*
     ],
     "kayenta": [
         {
-            name: "98.1 K251BC",
-            logo: "stations/images-america/bluff/Red Rock 92.png",
-            url: "https://ice8.securenetsystems.net/KBDX"
-        },
-        {
             name: "KTNN 660",
             logo: "stations/images-america/gallup/KTNN 101.5.png",
             url: "https://ice9.securenetsystems.net/KTNN"
@@ -16533,6 +16619,63 @@ var stations = {/*
             name: "1450 KFLS",
             logo: "stations/images-america/klamath_falls/102.5 KFLS.png",
             url: "http://ice10.securenetsystems.net/KFLS"
+        },
+    ],
+    "koosharem": [
+        {
+            name: "UPR 91.5",
+            logo: "stations/images-america/0_general_logos/UPR.png",
+            url: "http://uprxstreamer.usu.edu:8000/stream"
+        },
+        {
+            name: "96.3 K242BJ",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
+            url: "http://ice9.securenetsystems.net/KSVC"
+        },
+        {
+            name: "97.3 K247BD",
+            logo: "stations/images-america/salt_lake/94.1 KODJ.png",
+            url: "https://stream.revma.ihrhls.com/zc2393/hls.m3u8"
+        },
+        {
+            name: "97.7 The Wolf",
+            logo: "stations/images-america/salina_ut/97.7 The Wolf.png",
+            url: "https://ice9.securenetsystems.net/KWUT"
+        },
+        {
+            name: "100.1 K261BP",
+            logo: "stations/images-america/salina_ut/94.5 The Eagle.png",
+            url: "https://ice10.securenetsystems.net/KLGL"
+        },
+        {
+            name: "KSVC 100.5",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
+            url: "http://ice9.securenetsystems.net/KSVC"
+        },
+        {
+            name: "KUER 101.7",
+            logo: "stations/images-america/0_general_logos/KUER 90.1.png",
+            url: "https://kuer.streamguys1.com/high_icy"
+        },
+        {
+            name: "105.5 K288AF",
+            logo: "stations/images-america/salt_lake/FM100.3.png",
+            url: "https://bonneville.cdnstream1.com/2702_48.aac"
+        },
+        {
+            name: "107.1 K296AA",
+            logo: "stations/images-america/salt_lake/Z104.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://stream.aiir.com/wjfesic70c6uv"
+        },
+        {
+            name: "650 KMTI",
+            logo: "stations/images-america/salina_ut/KMTI 95.1.png",
+            url: "https://ice10.securenetsystems.net/KMTI"
+        },
+        {
+            name: "KSVC 980",
+            logo: "stations/images-america/salina_ut/KSVC 100.5.png",
+            url: "https://ice9.securenetsystems.net/KSVC"
         },
     ],
     "la_salle": [
@@ -20979,7 +21122,7 @@ var stations = {/*
         {
             name: "97.1 Canyon Country",
             logo: "stations/images-america/moab/97.1 Canyon Country.png",
-            url: "http://edge.mixlr.com/channel/vlpef"
+            url: "https://stream.zeno.fm/sda34epsxmzvv"
         },
         {
             name: "580 KUBC",
@@ -27455,7 +27598,7 @@ var stations = {/*
         {
             name: "KSVC 100.5",
             logo: "stations/images-america/salina_ut/KSVC 100.5.png",
-            url: "http://ice9.securenetsystems.net/KSVC"
+            url: "https://ice9.securenetsystems.net/KSVC"
         },
         {
             name: "Classy 102.7",
@@ -33077,20 +33220,25 @@ var stations = {/*
             url: "https://ice7.securenetsystems.net/CSNAAC"
         },
         {
+            name: "Nevada.FM 90.1",
+            logo: "stations/images-america/tonopah/Nevada.FM 90.1.png",
+            url: "https://nevada.fm/stream.mp3"
+        },
+        {
             name: "91.7 KTPH",
             logo: "stations/images-america/0_general_logos/Nevada Public Radio.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNPRFMAAC_SC"
         },
         {
-            name: "KIBS 100.7",
+            name: "KIBS 101.7",
             logo: "stations/images-america/tonopah/KIBS 100.7.png",
             url: "https://streaming.live365.com/a16395_2"
-        },
+        },/*
         {
-            name: "Nevada.FM 103.3",
-            logo: "stations/images-america/tonopah/Nevada.FM 103.3.png",
-            url: "https://nevada.fm/stream.mp3"
-        },
+            name: "Kinetic.FM 103.3",
+            logo: "stations/images-america/tonopah/Kinetic.FM 103.3.png",
+            url: "https://kinetic.fm/-audio_out/radiodns.m4a"
+        },*/
     ],
     "topeka": [
         {

@@ -311,11 +311,23 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.5
     },
+    "bryce_escalante": {
+        name: "Bryce Canyon/Escalante",
+        name_english: "Bryce Canyon/Escalante",
+        code: "us-ut",
+        relative_radius: 0.5
+    },
     "buffalo_tx": {
         name: "Buffalo",
         name_english: "Buffalo",
         code: "us-tx",
         relative_radius: 0.4
+    },
+    "bullfrog": {
+        name: "Bullfrog",
+        name_english: "Bullfrog",
+        code: "us-ut",
+        relative_radius: 0.5
     },
     "burlington": {
         name: "Burlington",
@@ -977,6 +989,12 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.7
     },
+    "hanksville": {
+        name: "Hanksville",
+        name_english: "Hanksville",
+        code: "us-ut",
+        relative_radius: 0.5
+    },
     "hannibal": {
         name: "Hannibal",
         name_english: "Hannibal",
@@ -1240,6 +1258,12 @@ var country_properties = {
         name_english: "Klamath Falls",
         code: "us-or",
         relative_radius: 0.6
+    },
+    "koosharem": {
+        name: "Koosharem",
+        name_english: "Koosharem",
+        code: "us-ut",
+        relative_radius: 0.5
     },
     "la_salle": {
         name: "La Salle",
@@ -2762,8 +2786,14 @@ var city_properties = {
     "brownwood": {
         relative_whitenoise: 0.95
     },
+    "bryce_escalante": {
+        relative_whitenoise: 0.9
+    },
     "buffalo_tx": {
         relative_whitenoise: 0.95
+    },
+    "bullfrog": {
+        relative_whitenoise: 0.9
     },
     "burlington": {
         relative_whitenoise: 0.95
@@ -3133,6 +3163,9 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
+    "hanksville": {
+        relative_whitenoise: 0.9
+    },
     "hannibal": {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
@@ -3281,6 +3314,9 @@ var city_properties = {
     },
     "klamath_f": {
         relative_whitenoise: 0.85
+    },
+    "koosharem": {
+        relative_whitenoise: 0.9
     },
     "la_salle": {
         relative_whitenoise: 0.85
@@ -4533,12 +4569,28 @@ var cities = [
         "z": "41271.9"
     },
     {
+        "gameName": "bryce_escalante",
+        "realName": "Bryce Canyon/Escalante",
+        "country": "bryce_escalante",
+        "x": "-69039.188",
+        "y": "163.0547",
+        "z": "1567.81"
+    },
+    {
         "gameName": "buffalo_tx",
         "realName": "Buffalo",
         "country": "buffalo_tx",
         "x": "405.907",
         "y": "85",
         "z": "41963.2"
+    },
+    {
+        "gameName": "bullfrog",
+        "realName": "Bullfrog",
+        "country": "bullfrog",
+        "x": "-65064.2",
+        "y": "111.3945",
+        "z": "3702.793"
     },
     {
         "gameName": "burlington",
@@ -5565,6 +5617,14 @@ var cities = [
         "z": "33363.9"
     },
     {
+        "gameName": "hanksville",
+        "realName": "Hanksville",
+        "country": "hanksville",
+        "x": "-64800.74",
+        "y": "134.3555",
+        "z": "-2067.941"
+    },
+    {
         "gameName": "hannibal",
         "realName": "Hannibal",
         "country": "hannibal_quincy",
@@ -5955,6 +6015,14 @@ var cities = [
         "x": "-104728",
         "y": "165.972",
         "z": "-34541.4"
+    },
+    {
+        "gameName": "koosharem",
+        "realName": "Koosharem",
+        "country": "koosharem",
+        "x": "-67788.73",
+        "y": "158.0313",
+        "z": "-2573.598"
     },
     {
         "gameName": "la_salle",

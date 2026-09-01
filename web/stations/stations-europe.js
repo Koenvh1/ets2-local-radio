@@ -2717,11 +2717,6 @@ var stations = {/*
             url: "https://stream.rcs.revma.com/5a05fstup42vv"
         },
         {
-            name: "Mouv'",
-            logo: "stations/images-europe/france/Mouv'.png",
-            url: "https://direct.mouv.fr/live/mouv-midfi.mp3"
-        },
-        {
             name: "Nostalgie",
             logo: "stations/images-europe/france/Nostalgie.png",
             url: "https://streaming.nrjaudio.fm/ouwgwqsk6j4d"
@@ -5764,8 +5759,8 @@ var stations = {/*
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-hits"
         },
         {
-            name: "Onic Pride Vibes",
-            logo: "stations/images-europe/ireland/Onic Pride Vibes.png",
+            name: "Onic Irish",
+            logo: "stations/images-europe/ireland/Onic Irish.png",
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-innovation"
         },
         {
@@ -7278,20 +7273,15 @@ var stations = {/*
             url: "https://icecast.omroep.nl/npoblend-bb-mp3"
         },
         {
-            name: "NPO Campus",
-            logo: "stations/images-europe/netherlands/NPO Campus.png",
-            url: "https://icecast.omroep.nl/3fm-serioustalent-mp3"
-        },
-        {
             name: "NPO FunX",
             logo: "stations/images-europe/netherlands/FunX.png",
             url: "http://icecast.omroep.nl/funx-bb-mp3"
-        },
+        },/*
         {
-            name: "NPO Soul & Jazz",
-            logo: "stations/images-europe/netherlands/NPO Soul & Jazz.png",
-            url: "http://icecast.omroep.nl/radio6-bb-mp3"
-        },
+            name: "NPO Politiek en Nieuws",
+            logo: "stations/images-europe/netherlands/NPO Politiek en Nieuws.png",
+            url: "..."
+        },*/
         {
             name: "NPO SterrenNL",
             logo: "stations/images-europe/netherlands/NPO SterrenNL.png",
@@ -7348,8 +7338,8 @@ var stations = {/*
             url: "https://mediaserv73.live-streams.nl:18044/stream"
         },
         {
-            name: "Grand Prix Radio",
-            logo: "stations/images-europe/netherlands/Grand Prix Radio.png",
+            name: "GPR Sportradio",
+            logo: "stations/images-europe/netherlands/GPR Sportradio.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIOAAC_SC"
         },
         {
@@ -8681,6 +8671,11 @@ var stations = {/*
             url: "https://live.radio.si/Klasik"
         },
         {
+            name: "podcast24",
+            logo: "stations/images-europe/slovenia/podcast24.png",
+            url: "https://stream.nextmedia.si/proxy/podcast24_1?mp=/podcast24"
+        },
+        {
             name: "Radio 1",
             logo: "stations/images-europe/slovenia/Radio 1.png",
             url: "https://live.radio1.si/Radio1"
@@ -8709,6 +8704,11 @@ var stations = {/*
             name: "Radio Aktual",
             logo: "stations/images-europe/slovenia/Radio Aktual.png",
             url: "https://live.radio.si/Aktual"
+        },
+        {
+            name: "Radio Aktual Rock",
+            logo: "stations/images-europe/slovenia/Radio Aktual Rock.png",
+            url: "https://live.radio.si/AktualRock"
         },
         {
             name: "Radio Aktual Romantika",
@@ -8751,6 +8751,11 @@ var stations = {/*
             url: "http://reflector.radionet.si:8000/stream.ogg"
         },
         {
+            name: "Radio Odiseja",
+            logo: "stations/images-europe/slovenia/Radio Odiseja.png",
+            url: "http://138.201.52.248:8030/stream"
+        },
+        {
             name: "Radio Ognjišče",
             logo: "stations/images-europe/slovenia/Radio Ognjišče.png",
             url: "https://live.radio.si/ognjisce.mp3"
@@ -8769,6 +8774,11 @@ var stations = {/*
             name: "Radio Veseljak",
             logo: "stations/images-europe/slovenia/Radio Veseljak.png",
             url: "https://live.radio.si/Veseljak"
+        },
+        {
+            name: "Radio Veseljak Mladi Smo",
+            logo: "stations/images-europe/slovenia/Radio Veseljak Mladi Smo.png",
+            url: "https://live.radio.si/VeseljakMladiSmo"
         },
         {
             name: "Radio Veseljak Zlati zvoki",
