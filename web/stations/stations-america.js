@@ -57969,11 +57969,6 @@ var stations = {/*
             url: "https://wncw-live-a.edge.audiocdn.com/6286_56k.aac"
         },
         {
-            name: "The Fan Upstate 97.7",
-            logo: "stations/images-america/c2c/greenville_sc/The Fan Upstate 97.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wyrdamaac-imc"
-        },
-        {
             name: "HOT 98.1",
             logo: "stations/images-america/c2c/greenville_sc/HOT 98.1.png",
             url: "https://stream.rcs.revma.com/365s4v2fz7uvv"
@@ -68547,11 +68542,6 @@ var stations = {/*
             name: "KLAS Sports 89.9",
             logo: "stations/images-america/caribbean/kingston/KLAS Sports 89.9.png",
             url: "https://stream.zeno.fm/2vaypn80g3quv"
-        },
-        {
-            name: "Hitz 92",
-            logo: "stations/images-america/caribbean/kingston/Hitz 92.png",
-            url: "https://stream.zeno.fm/mbng1nnyxrquv"
         },
         {
             name: "Newstalk 93 FM",
