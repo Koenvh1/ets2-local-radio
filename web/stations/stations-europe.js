@@ -7276,12 +7276,12 @@ var stations = {/*
             name: "NPO FunX",
             logo: "stations/images-europe/netherlands/FunX.png",
             url: "http://icecast.omroep.nl/funx-bb-mp3"
-        },/*
+        },
         {
             name: "NPO Politiek en Nieuws",
             logo: "stations/images-europe/netherlands/NPO Politiek en Nieuws.png",
-            url: "..."
-        },*/
+            url: "https://icecast.omroep.nl/radio6-bb-mp3"
+        },
         {
             name: "NPO SterrenNL",
             logo: "stations/images-europe/netherlands/NPO SterrenNL.png",
