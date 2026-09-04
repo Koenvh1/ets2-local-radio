@@ -14088,9 +14088,9 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2277"
         }, 
         {
-            name: "95.7 The Spot",
-            logo: "stations/images-america/houston/95.7 The Spot.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kkhhfmaac-imc"
+            name: "95.7 The Fan",
+            logo: "stations/images-america/houston/95.7 The Fan.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
             name: "Channel Q 95.7-HD2",
