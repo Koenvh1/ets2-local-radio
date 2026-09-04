@@ -7128,8 +7128,8 @@ var stations = {/*
             url: "https://us9.maindigitalstream.com/ssl/KDCQ"
         },
         {
-            name: "94.9 The Tee",
-            logo: "stations/images-america/coos_bay/94.9 The Tee.png",
+            name: "94.9 The Beat",
+            logo: "stations/images-america/coos_bay/94.9 The Beat.png",
             url: "https://us9.maindigitalstream.com/ssl/KTEE"
         },
         {
@@ -14159,7 +14159,7 @@ var stations = {/*
         },
         {
             name: "100.3 KILT-HD2",
-            logo: "stations/images-america/houston/Sports Radio 610.png",
+            logo: "stations/images-america/houston/95.7 The Fan.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct//audacy-kiltamaac-imc"
         },
         {
@@ -14238,6 +14238,11 @@ var stations = {/*
             url: "https://khcb.streamguys1.com/live-128k-mp3"
         },
         {
+            name: "X106.1",
+            logo: "stations/images-america/houston/X106.1.png",
+            url: "https://s2.radio.co/sd84cedd5b/listen"
+        },
+        {
             name: "Amor 106.5",
             logo: "stations/images-america/houston/Amor 106.5.png",
             url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/kovefm-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
@@ -14273,8 +14278,8 @@ var stations = {/*
             url: "https://hls-o1.broadcastify.com/s0/feed/45289/playlist.m3u8"
         },
         {
-            name: "Sports Radio 610",
-            logo: "stations/images-america/houston/Sports Radio 610.png",
+            name: "610 KILT",
+            logo: "stations/images-america/houston/95.7 The Fan.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
@@ -23961,8 +23966,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kixsfmaac-ibc3"
         },
         {
-            name: "Sports Radio 610",
-            logo: "stations/images-america/houston/Sports Radio 610.png",
+            name: "610 KILT",
+            logo: "stations/images-america/houston/95.7 The Fan.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
@@ -29664,8 +29669,8 @@ var stations = {/*
             url: "https://waterloo.streamguys1.com/klbj-am/playlist.m3u8"
         },
         {
-            name: "Sports Radio 610",
-            logo: "stations/images-america/houston/Sports Radio 610.png",
+            name: "610 KILT",
+            logo: "stations/images-america/houston/95.7 The Fan.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-kiltamaac-imc"
         },
         {
