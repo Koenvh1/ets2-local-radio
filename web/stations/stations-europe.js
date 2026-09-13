@@ -2717,6 +2717,11 @@ var stations = {/*
             url: "https://stream.rcs.revma.com/5a05fstup42vv"
         },
         {
+            name: "Mouv'", // to be replaced by Mon Petit France Inter on DAB+
+            logo: "stations/images-europe/france/Mouv'.png",
+            url: "https://direct.mouv.fr/live/mouv-midfi.mp3"
+        },
+        {
             name: "Nostalgie",
             logo: "stations/images-europe/france/Nostalgie.png",
             url: "https://streaming.nrjaudio.fm/ouwgwqsk6j4d"
@@ -7368,6 +7373,11 @@ var stations = {/*
             url: "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac"
         },
         {
+            name: "Jolene Country Radio",
+            logo: "stations/images-europe/netherlands/Jolene Country Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE07AAC_SC",
+        },
+        {
             name: "Joy Radio",
             logo: "stations/images-europe/netherlands/Joy Radio.png",
             url: "https://stream.joyradio.nl/joyradio"
@@ -7376,11 +7386,6 @@ var stations = {/*
             name: "KINK",
             logo: "stations/images-europe/netherlands/KINK.png",
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC_SC",
-        },
-        {
-            name: "KINK 80s",
-            logo: "stations/images-europe/netherlands/KINK 80s.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC",
         },
         {
             name: "KINK DISTORTION",
