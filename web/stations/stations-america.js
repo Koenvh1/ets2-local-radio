@@ -1720,7 +1720,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://us9.streamway.net/stream/wibw"
+            url: "https://us9.streamway.net/stream/wibw"
         },
         {
             name: "680 KFEQ",
@@ -15559,7 +15559,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://us9.streamway.net/stream/wibw"
+            url: "https://us9.streamway.net/stream/wibw"
         },
         {
             name: "KSAL 1150",
@@ -20040,7 +20040,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://us9.streamway.net/stream/wibw"
+            url: "https://us9.streamway.net/stream/wibw"
         },
         {
             name: "680 KFEQ",
@@ -33421,7 +33421,7 @@ var stations = {/*
         {
             name: "98.5 Jack FM",
             logo: "stations/images-america/topeka/98.5 Jack FM.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ksajfmaac-ibc4"
+            url: "https://us9.streamway.net/stream/ksaj"
         },
         {
             name: "99.3 The Eagle",
@@ -33441,7 +33441,7 @@ var stations = {/*
         {
             name: "WIBW 104.9",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://us9.streamway.net/stream/wibw"
+            url: "https://us9.streamway.net/stream/wibw"
         },
         {
             name: "NOAA Weather Radio Topeka",
@@ -33463,7 +33463,7 @@ var stations = {/*
         {
             name: "94.5 Country",
             logo: "stations/images-america/topeka/94.5 Country.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-wibwfmaac-ibc4"
+            url: "https://us9.streamway.net/stream/wibwfm"
         },
         {
             name: "V100",
@@ -33473,7 +33473,7 @@ var stations = {/*
         {
             name: "Country 106.9",
             logo: "stations/images-america/topeka/Country 106.9.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-ktpkfmaac-ibc4"
+            url: "https://us9.streamway.net/stream/ktpk"
         },
         {
             name: "Majic 107.7",
@@ -33483,7 +33483,7 @@ var stations = {/*
         {
             name: "580 WIBW",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-wibwamaac-ibc4"
+            url: "https://us9.streamway.net/stream/wibw"
         },
         {
             name: "1440 KMAJ",
