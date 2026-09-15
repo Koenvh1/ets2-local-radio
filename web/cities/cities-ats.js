@@ -17,6 +17,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.6
     },
+    "aberdeen_sd": {
+        name: "Aberdeen",
+        name_english: "Aberdeen",
+        code: "us-sd",
+        relative_radius: 0.65
+    },
     "abilene": {
         name: "Abilene",
         name_english: "Abilene",
@@ -2621,6 +2627,9 @@ var city_properties = {
     "aberdeen": {
         relative_whitenoise: 0.85
     },
+    "aberdeen_sd": {
+        relative_whitenoise: 0.95
+    },
     "abilene": {
         relative_whitenoise: 0.85
     },
@@ -4079,6 +4088,14 @@ var cities = [
         "x": "-106953",
         "y": "59.9489",
         "z": "-61418.6"
+    },
+    {
+        "gameName": "aberdeen_sd",
+        "realName": "Aberdeen",
+        "country": "aberdeen_sd",
+        "x": "-9965.375",
+        "y": "183.5",
+        "z": "-36847.3"
     },
     {
         "gameName": "abilene",
@@ -11339,12 +11356,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 1.1
     },
-    "aberdeen_sd": {
-        name: "Aberdeen",
-        name_english: "Aberdeen",
-        code: "us-sd",
-        relative_radius: 0.65
-    },
     "brookings": {
         name: "Brookings",
         name_english: "Brookings",
@@ -12119,9 +12130,6 @@ var city_properties_c2c = {
     },
     "myrtlebeach_sc": {
         relative_whitenoise: 0.95
-    },
-    "aberdeen_sd": {
-        relative_whitenoise: 0.85
     },
     "brookings": {
         relative_whitenoise: 0.85
@@ -13635,14 +13643,6 @@ var cities_c2c = [
         "x": "80484.6",
         "y": "51.1406",
         "z": "21544.3"
-    },
-    {
-        "gameName": "aberdeen_sd",
-        "realName": "Aberdeen",
-        "country": "aberdeen_sd",
-        "x": "-9965.375",
-        "y": "183.5",
-        "z": "-36847.3"
     },
     {
         "gameName": "brookings",

@@ -260,6 +260,113 @@ var stations = {/*
             url: "https://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
     ],
+    "aberdeen_sd": [
+        {
+            name: "Charity Christian Radio 88.1",
+            logo: "stations/images-america/aberdeen_sd/Charity Christian Radio 88.1.png",
+            url: "https://ice26.securenetsystems.net/KFCA"
+        },
+        {
+            name: "Real Presence Radio 88.9",
+            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kstj"
+        },
+        {
+            name: "CSN Radio 89.7",
+            logo: "stations/images-america/0_general_logos/CSN.png",
+            url: "https://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            name: "afr Talk 90.1",
+            logo: "stations/images-america/0_general_logos/AFR.png",
+            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+        },
+        {
+            name: "SDPB 90.9",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+        },
+        {
+            name: "SDPB Classical 90.9-HD2",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2AAC_SC"
+        },
+        {
+            name: "91.7 K219CM",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+        },
+        {
+            name: "The Rock 94.1",
+            logo: "stations/images-america/aberdeen_sd/The Rock 94.1.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KSDNFM"
+        },
+        {
+            name: "94.5 The Vault",
+            logo: "stations/images-america/aberdeen_sd/94.5 The Vault.png",
+            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/KSDNHD3"
+        },
+        {
+            name: "K-LOVE 94.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+        },
+        {
+            name: "KDLO Country 96.9",
+            logo: "stations/images-america/c2c/watertown_sd/KDLO Country 96.9.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kdlofmaac-ibc2"
+        },
+        {
+            name: "Sunny 97.7",
+            logo: "stations/images-america/aberdeen_sd/Sunny 97.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KNBZFM"
+        },
+        {
+            name: "FOX Sports 98.5",
+            logo: "stations/images-america/aberdeen_sd/FOX Sports 1420.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KGIMAM"
+        },
+        {
+            name: "KSDN 102.1",
+            logo: "stations/images-america/aberdeen_sd/KSDN 930.png",
+            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KSDNAM"
+        },
+        {
+            name: "Pheasant Country 103.7",
+            logo: "stations/images-america/aberdeen_sd/Pheasant Country 103.7.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KGIMFM"
+        },
+        {
+            name: "Maverick 105.5",
+            logo: "stations/images-america/aberdeen_sd/Maverick 105.5.png",
+            url: "https://ice24.securenetsystems.net/KMOM"
+        },
+        {
+            name: "106.7 Point FM",
+            logo: "stations/images-america/aberdeen_sd/106.7 Point FM.png",
+            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KBFOFM"
+        },
+        {
+            name: "Pure Country 107.1",
+            logo: "stations/images-america/aberdeen_sd/Pure Country 107.1.png",
+            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/KQKD"
+        },
+        {
+            name: "107.7 The Shark",
+            logo: "stations/images-america/aberdeen_sd/107.7 The Shark.png",
+            url: "https://ice24.securenetsystems.net/KABD"
+        },
+        {
+            name: "KSDN 930",
+            logo: "stations/images-america/aberdeen_sd/KSDN 930.png",
+            url: "http://84.32.44.251/index.php?u=http://ice10.securenetsystems.net/KSDNAM"
+        },
+        {
+            name: "FOX Sports 1420",
+            logo: "stations/images-america/aberdeen_sd/FOX Sports 1420.png",
+            url: "http://84.32.44.251/index.php?u=http://ice23.securenetsystems.net/KGIMAM"
+        },
+    ],
     "abilene": [
         {
             name: "KGNZ 88.1",
@@ -44093,8 +44200,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a25436"
         },
         {
-            name: "Decades 107.9",
-            logo: "stations/images-america/c2c/honolulu_hi/Decades 107.9.png",
+            name: "KOOL 107.9",
+            logo: "stations/images-america/c2c/honolulu_hi/KOOL 107.9.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKOLFMAAC_SC"
         },
         {
@@ -51282,8 +51389,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wksefmaac-imc"
         },
         {
-            name: "HOT 98.9",
-            logo: "stations/images-america/c2c/buffalo_ny/HOT 98.9.png",
+            name: "98.9 ESPN",
+            logo: "stations/images-america/c2c/buffalo_ny/ESPN Buffalo.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC_SC"
         },
         {
@@ -51347,9 +51454,9 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wbenamaac-imc"
         },
         {
-            name: "WBBF 1120",
-            logo: "stations/images-america/c2c/buffalo_ny/HOT 98.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC.aac"
+            name: "1120 ESPN",
+            logo: "stations/images-america/c2c/buffalo_ny/ESPN Buffalo.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC_SC"
         },
         {
             name: "1270 The Patriot",
@@ -58312,113 +58419,6 @@ var stations = {/*
             name: "Gator 107.9",
             logo: "stations/images-america/c2c/myrtlebeach_sc/Gator 107.9.png",
             url: "https://stream.revma.ihrhls.com/zc6855/hls.m3u8"
-        },
-    ],
-    "aberdeen_sd": [
-        {
-            name: "Charity Christian Radio 88.1",
-            logo: "stations/images-america/c2c/aberdeen_sd/Charity Christian Radio 88.1.png",
-            url: "https://ice26.securenetsystems.net/KFCA"
-        },
-        {
-            name: "Real Presence Radio 88.9",
-            logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
-            url: "https://ssl-1.stream.miriamtech.net/realpresence/kstj"
-        },
-        {
-            name: "CSN Radio 89.7",
-            logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
-        },
-        {
-            name: "afr Talk 90.1",
-            logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
-        },
-        {
-            name: "SDPB 90.9",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
-        },
-        {
-            name: "SDPB Classical 90.9-HD2",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2AAC_SC"
-        },
-        {
-            name: "91.7 K219CM",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
-        },
-        {
-            name: "The Rock 94.1",
-            logo: "stations/images-america/c2c/aberdeen_sd/The Rock 94.1.png",
-            url: "https://ice23.securenetsystems.net/KSDNFM"
-        },
-        {
-            name: "94.5 The Vault",
-            logo: "stations/images-america/c2c/aberdeen_sd/94.5 The Vault.png",
-            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/KSDNHD3"
-        },
-        {
-            name: "K-LOVE 94.9",
-            logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
-        },
-        {
-            name: "KDLO Country 96.9",
-            logo: "stations/images-america/c2c/watertown_sd/KDLO Country 96.9.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kdlofmaac-ibc2"
-        },
-        {
-            name: "Sunny 97.7",
-            logo: "stations/images-america/c2c/aberdeen_sd/Sunny 97.7.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KNBZFM"
-        },
-        {
-            name: "FOX Sports 98.5",
-            logo: "stations/images-america/c2c/aberdeen_sd/FOX Sports 1420.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KGIMAM"
-        },
-        {
-            name: "KSDN 102.1",
-            logo: "stations/images-america/c2c/aberdeen_sd/KSDN 930.png",
-            url: "http://84.32.44.251/index.php?u=https://ice10.securenetsystems.net/KSDNAM"
-        },
-        {
-            name: "Pheasant Country 103.7",
-            logo: "stations/images-america/c2c/aberdeen_sd/Pheasant Country 103.7.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KGIMFM"
-        },
-        {
-            name: "Maverick 105.5",
-            logo: "stations/images-america/c2c/aberdeen_sd/Maverick 105.5.png",
-            url: "https://ice24.securenetsystems.net/KMOM"
-        },
-        {
-            name: "106.7 Point FM",
-            logo: "stations/images-america/c2c/aberdeen_sd/106.7 Point FM.png",
-            url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/KBFOFM"
-        },
-        {
-            name: "Pure Country 107.1",
-            logo: "stations/images-america/c2c/aberdeen_sd/Pure Country 107.1.png",
-            url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/KQKD"
-        },
-        {
-            name: "107.7 The Shark",
-            logo: "stations/images-america/c2c/aberdeen_sd/107.7 The Shark.png",
-            url: "https://ice24.securenetsystems.net/KABD"
-        },
-        {
-            name: "KSDN 930",
-            logo: "stations/images-america/c2c/aberdeen_sd/KSDN 930.png",
-            url: "http://84.32.44.251/index.php?u=http://ice10.securenetsystems.net/KSDNAM"
-        },
-        {
-            name: "FOX Sports 1420",
-            logo: "stations/images-america/c2c/aberdeen_sd/FOX Sports 1420.png",
-            url: "http://84.32.44.251/index.php?u=http://ice23.securenetsystems.net/KGIMAM"
         },
     ],
     "brookings": [
