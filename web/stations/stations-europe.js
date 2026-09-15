@@ -8554,6 +8554,16 @@ var stations = {/*
             url: "https://icecast.stv.livebox.sk/fm_128.mp3"
         },
         {
+            name: "Rádio Junior",
+            logo: "stations/images-europe/slovakia/Rádio Junior.png",
+            url: "https://icecast.stv.livebox.sk/junior_128.mp3"
+        },
+        {
+            name: "Rádio Litera",
+            logo: "stations/images-europe/slovakia/Rádio Litera.png",
+            url: "https://icecast.stv.livebox.sk/litera_128.mp3"
+        },
+        {
             name: "Rádio Patria",
             logo: "stations/images-europe/slovakia/Rádio Patria.png",
             url: "https://icecast.stv.livebox.sk/patria_128.mp3"
@@ -8562,6 +8572,11 @@ var stations = {/*
             name: "Rádio Regina",
             logo: "stations/images-europe/slovakia/Rádio Regina.png",
             url: "https://icecast.stv.livebox.sk/regina-ba_128.mp3"
+        },
+        {
+            name: "Radio Slovakia International",
+            logo: "stations/images-europe/slovakia/Radio Slovakia International.png",
+            url: "https://icecast.stv.livebox.sk/rsi_128.mp3"
         },
         {
             name: "Europa 2",
