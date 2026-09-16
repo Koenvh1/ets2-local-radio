@@ -311,6 +311,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.6
     },
+    "brookings": {
+        name: "Brookings",
+        name_english: "Brookings",
+        code: "us-sd",
+        relative_radius: 0.55
+    },
     "brownwood": {
         name: "Brownwood",
         name_english: "Brownwood",
@@ -322,6 +328,12 @@ var country_properties = {
         name_english: "Bryce Canyon/Escalante",
         code: "us-ut",
         relative_radius: 0.5
+    },
+    "buffalo_sd": {
+        name: "Buffalo",
+        name_english: "Buffalo",
+        code: "us-sd",
+        relative_radius: 0.7
     },
     "buffalo_tx": {
         name: "Buffalo",
@@ -1589,6 +1601,12 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 0.8
     },
+    "mitchell": {
+        name: "Mitchell",
+        name_english: "Mitchell",
+        code: "us-sd",
+        relative_radius: 0.7
+    },
     "moab": {
         name: "Moab",
         name_english: "Moab",
@@ -2792,11 +2810,17 @@ var city_properties = {
 		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
+    "brookings": {
+        relative_whitenoise: 0.95
+    },
     "brownwood": {
         relative_whitenoise: 0.95
     },
     "bryce_escalante": {
         relative_whitenoise: 0.9
+    },
+    "buffalo_sd": {
+        relative_whitenoise: 0.95
     },
     "buffalo_tx": {
         relative_whitenoise: 0.95
@@ -3497,6 +3521,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "missoula": {
+        relative_whitenoise: 0.95
+    },
+    "mitchell": {
         relative_whitenoise: 0.95
     },
     "moab": {
@@ -4578,6 +4605,14 @@ var cities = [
         "z": "-39430.3"
     },
     {
+        "gameName": "brookings",
+        "realName": "Brookings",
+        "country": "brookings",
+        "x": "-3317.703",
+        "y": "134.8398",
+        "z": "-30229.57"
+    },
+    {
         "gameName": "brownwood",
         "realName": "Brownwood",
         "country": "brownwood",
@@ -4592,6 +4627,14 @@ var cities = [
         "x": "-69039.188",
         "y": "163.0547",
         "z": "1567.81"
+    },
+    {
+        "gameName": "buffalo_sd",
+        "realName": "Buffalo",
+        "country": "buffalo_sd",
+        "x": "-30203.7",
+        "y": "95",
+        "z": "-37477.09"
     },
     {
         "gameName": "buffalo_tx",
@@ -6504,6 +6547,14 @@ var cities = [
         "x": "-69914.2",
         "y": "109",
         "z": "-51575.5"
+    },
+    {
+        "gameName": "mitchell",
+        "realName": "Mitchell",
+        "country": "mitchell",
+        "x": "-10707.6",
+        "y": "163.37",
+        "z": "-27015.4"
     },
     {
         "gameName": "moab",
@@ -11356,18 +11407,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 1.1
     },
-    "brookings": {
-        name: "Brookings",
-        name_english: "Brookings",
-        code: "us-sd",
-        relative_radius: 0.55
-    },
-    "buffalo_sd": {
-        name: "Buffalo",
-        name_english: "Buffalo",
-        code: "us-sd",
-        relative_radius: 0.7
-    },
     "faith_eagle_butte": {
         name: "Faith/Eagle Butte",
         name_english: "Faith/Eagle Butte",
@@ -11391,12 +11430,6 @@ var country_properties_c2c = {
         name_english: "Lemmon",
         code: "us-sd",
         relative_radius: 0.45
-    },
-    "mitchell_sd": {
-        name: "mitchell_sd",
-        name_english: "mitchell_sd",
-        code: "us-sd",
-        relative_radius: 0.7
     },
     "mobridge": {
         name: "Mobridge",
@@ -12131,12 +12164,6 @@ var city_properties_c2c = {
     "myrtlebeach_sc": {
         relative_whitenoise: 0.95
     },
-    "brookings": {
-        relative_whitenoise: 0.85
-    },
-    "buffalo_sd": {
-        relative_whitenoise: 0.85
-    },
     "faith_eagle_butte": {
         relative_whitenoise: 0.85
     },
@@ -12148,9 +12175,6 @@ var city_properties_c2c = {
     },
     "lemmon_sd": {
         relative_whitenoise: 0.9
-    },
-    "mitchell_sd": {
-        relative_whitenoise: 0.85
     },
     "mobridge": {
         relative_whitenoise: 0.85
@@ -13645,22 +13669,6 @@ var cities_c2c = [
         "z": "21544.3"
     },
     {
-        "gameName": "brookings",
-        "realName": "Brookings",
-        "country": "brookings",
-        "x": "-3317.703",
-        "y": "134.8398",
-        "z": "-30229.57"
-    },
-    {
-        "gameName": "buffalo_sd",
-        "realName": "Buffalo",
-        "country": "buffalo_sd",
-        "x": "-30203.7",
-        "y": "95",
-        "z": "-37477.09"
-    },
-    {
         "gameName": "faith_eagle_butte",
         "realName": "Faith/Eagle Butte",
         "country": "faith_eagle_butte",
@@ -13691,14 +13699,6 @@ var cities_c2c = [
         "x": "-24120.91",
         "y": "94.89063",
         "z": "-39942.14"
-    },
-    {
-        "gameName": "mitchell_sd",
-        "realName": "Mitchell",
-        "country": "mitchell_sd",
-        "x": "-10707.6",
-        "y": "163.37",
-        "z": "-27015.4"
     },
     {
         "gameName": "mobridge",
