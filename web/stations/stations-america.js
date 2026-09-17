@@ -25109,47 +25109,47 @@ var stations = {/*
         },
         {
             name: "River 92.7",
-            logo: "stations/images-america/c2c/pierre_sd/River 92.7.png",
+            logo: "stations/images-america/pierre/River 92.7.png",
             url: "http://ice23.securenetsystems.net/KGFXFM"
         },
         {
             name: "Country 95.3",
-            logo: "stations/images-america/c2c/pierre_sd/Country 95.3.png",
+            logo: "stations/images-america/pierre/Country 95.3.png",
             url: "https://ice7.securenetsystems.net/KLXS"
         },
         {
             name: "98.9 K255DE",
-            logo: "stations/images-america/c2c/pierre_sd/KCCR 1240.png",
+            logo: "stations/images-america/pierre/KCCR 1240.png",
             url: "http://ice7.securenetsystems.net/KCCR"
         },
         {
             name: "100.1 The Eagle",
-            logo: "stations/images-america/c2c/pierre_sd/100.1 The Eagle.png",
+            logo: "stations/images-america/pierre/100.1 The Eagle.png",
             url: "http://ice23.securenetsystems.net/KJBIFM"
         },
         {
             name: "KPLO 100.5",
-            logo: "stations/images-america/c2c/pierre_sd/KPLO.png",
+            logo: "stations/images-america/pierre/KPLO.png",
             url: "https://ice23.securenetsystems.net/KPLO"
         },
         {
             name: "KGFX 103.1",
-            logo: "stations/images-america/c2c/pierre_sd/KGFX.png",
+            logo: "stations/images-america/pierre/KGFX.png",
             url: "http://ice23.securenetsystems.net/KGFXAM"
         },
         {
             name: "Capital City Rock 104.5",
-            logo: "stations/images-america/c2c/pierre_sd/Capital City Rock 104.5.png",
+            logo: "stations/images-america/pierre/Capital City Rock 104.5.png",
             url: "https://ice6.securenetsystems.net/KCCRFM"
         },
         {
             name: "KGFX 1060",
-            logo: "stations/images-america/c2c/pierre_sd/KGFX.png",
+            logo: "stations/images-america/pierre/KGFX.png",
             url: "https://ice23.securenetsystems.net/KGFXAM"
         },
         {
             name: "KCCR 1240",
-            logo: "stations/images-america/c2c/pierre_sd/KCCR 1240.png",
+            logo: "stations/images-america/pierre/KCCR 1240.png",
             url: "https://ice7.securenetsystems.net/KCCR"
         },
     ],
