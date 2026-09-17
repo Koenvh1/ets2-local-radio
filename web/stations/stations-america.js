@@ -21555,6 +21555,48 @@ var stations = {/*
             url: "http://kzmu.streamguys1.com/live"
         },
     ],
+    "mobridge": [
+        {
+            name: "KLND 89.5",
+            logo: "stations/images-america/mobridge/KLND 89.5.png",
+            url: "https://ice10.securenetsystems.net/KLND"
+        },
+        {
+            name: "SDPB 91.9",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+        },
+        {
+            name: "KIPI 93.5",
+            logo: "stations/images-america/mobridge/KIPI 93.5.png",
+            url: "https://streams.kipiradio.com/hd1"
+        },
+        {
+            name: "Star 99",
+            logo: "stations/images-america/mobridge/Star 99.png",
+            url: "https://ice23.securenetsystems.net/KOLYFM"
+        },
+        {
+            name: "KMLO 100.7",
+            logo: "stations/images-america/mobridge/KMLO 100.7.png",
+            url: "https://ice23.securenetsystems.net/KMLO"
+        },
+        {
+            name: "KOLY 101.9",
+            logo: "stations/images-america/mobridge/KOLY.png",
+            url: "https://ice23.securenetsystems.net/KOLYAM"
+        },
+        {
+            name: "KNDR 107.1",
+            logo: "stations/images-america/c2c/bismarck_nd/KNDR 104.7.png",
+            url: "https://streaming.live365.com/a93603"
+        },
+        {
+            name: "KOLY 1300",
+            logo: "stations/images-america/mobridge/KOLY.png",
+            url: "http://ice23.securenetsystems.net/KOLYAM"
+        },
+    ],
     "modesto": [
         {
             name: "KYCC 89.1",
@@ -25032,6 +25074,83 @@ var stations = {/*
             name: "1360 KPXQ",
             logo: "stations/images-america/phoenix/1360 KPXQ.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KPXQAMAAC_SC"
+        },
+    ],
+    "pierre": [
+        {
+            name: "Bott Radio 88.3",
+            logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
+            url: "http://streaming.live365.com/a71179_2"
+        },
+        {
+            name: "VCY America 89.1",
+            logo: "stations/images-america/0_general_logos/VCY America.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+        },
+        {
+            name: "Moody Radio 89.5",
+            logo: "stations/images-america/0_general_logos/Moody Radio.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/MB2AAC_SC"
+        },
+        {
+            name: "90.3 KSLP",
+            logo: "stations/images-america/c2c/rapid_city_sd/KSLT 107.1.png",
+            url: "https://nwm.streamguys1.com/kslt-mp3"
+        },
+        {
+            name: "SDPB 91.1",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+        },
+        {
+            name: "SDPB Classical 91.1-HD2",
+            logo: "stations/images-america/0_general_logos/SDPB.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2AAC_SC"
+        },
+        {
+            name: "River 92.7",
+            logo: "stations/images-america/c2c/pierre_sd/River 92.7.png",
+            url: "http://ice23.securenetsystems.net/KGFXFM"
+        },
+        {
+            name: "Country 95.3",
+            logo: "stations/images-america/c2c/pierre_sd/Country 95.3.png",
+            url: "https://ice7.securenetsystems.net/KLXS"
+        },
+        {
+            name: "98.9 K255DE",
+            logo: "stations/images-america/c2c/pierre_sd/KCCR 1240.png",
+            url: "http://ice7.securenetsystems.net/KCCR"
+        },
+        {
+            name: "100.1 The Eagle",
+            logo: "stations/images-america/c2c/pierre_sd/100.1 The Eagle.png",
+            url: "http://ice23.securenetsystems.net/KJBIFM"
+        },
+        {
+            name: "KPLO 100.5",
+            logo: "stations/images-america/c2c/pierre_sd/KPLO.png",
+            url: "https://ice23.securenetsystems.net/KPLO"
+        },
+        {
+            name: "KGFX 103.1",
+            logo: "stations/images-america/c2c/pierre_sd/KGFX.png",
+            url: "http://ice23.securenetsystems.net/KGFXAM"
+        },
+        {
+            name: "Capital City Rock 104.5",
+            logo: "stations/images-america/c2c/pierre_sd/Capital City Rock 104.5.png",
+            url: "https://ice6.securenetsystems.net/KCCRFM"
+        },
+        {
+            name: "KGFX 1060",
+            logo: "stations/images-america/c2c/pierre_sd/KGFX.png",
+            url: "https://ice23.securenetsystems.net/KGFXAM"
+        },
+        {
+            name: "KCCR 1240",
+            logo: "stations/images-america/c2c/pierre_sd/KCCR 1240.png",
+            url: "https://ice7.securenetsystems.net/KCCR"
         },
     ],
     "pioche": [
@@ -58748,85 +58867,6 @@ var stations = {/*
             name: "KBJM 1400",
             logo: "stations/images-america/c2c/lemmon_sd/KBJM 1400.png",
             url: "http://ice8.securenetsystems.net/KBJMAM"
-        },
-    ],
-    "mobridge": [
-        {
-            name: "KLND 89.5",
-            logo: "stations/images-america/c2c/mobridge_sd/KLND 89.5.png",
-            url: "https://ice10.securenetsystems.net/KLND"
-        },
-        {
-            name: "SDPB 91.9",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
-        },
-        {
-            name: "Star 99",
-            logo: "stations/images-america/c2c/mobridge_sd/Star 99.png",
-            url: "https://ice23.securenetsystems.net/KOLYFM"
-        },
-        {
-            name: "KMLO 100.7",
-            logo: "stations/images-america/c2c/mobridge_sd/KMLO 100.7.png",
-            url: "https://ice23.securenetsystems.net/KMLO"
-        },
-        {
-            name: "KOLY 101.9",
-            logo: "stations/images-america/c2c/mobridge_sd/KOLY.png",
-            url: "https://ice23.securenetsystems.net/KOLYAM"
-        },
-        {
-            name: "KNDR 107.1",
-            logo: "stations/images-america/c2c/bismarck_nd/KNDR 104.7.png",
-            url: "https://streaming.live365.com/a93603"
-        },
-        {
-            name: "KOLY 1300",
-            logo: "stations/images-america/c2c/mobridge_sd/KOLY.png",
-            url: "http://ice23.securenetsystems.net/KOLYAM"
-        },
-    ],
-    "pierre": [
-        {
-            name: "SDPB 91.1",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
-        },
-        {
-            name: "SDPB Classical 91.1-HD2",
-            logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDHD2AAC_SC"
-        },
-        {
-            name: "River 92.7",
-            logo: "stations/images-america/c2c/pierre_sd/River 92.7.png",
-            url: "http://ice23.securenetsystems.net/KGFXFM"
-        },
-        {
-            name: "Country 95.3",
-            logo: "stations/images-america/c2c/pierre_sd/Country 95.3.png",
-            url: "https://ice7.securenetsystems.net/KLXS"
-        },
-        {
-            name: "100.1 The Eagle",
-            logo: "stations/images-america/c2c/pierre_sd/100.1 The Eagle.png",
-            url: "http://ice23.securenetsystems.net/KJBIFM"
-        },
-        {
-            name: "Capital City Rock 104.5",
-            logo: "stations/images-america/c2c/pierre_sd/Capital City Rock 104.5.png",
-            url: "https://ice6.securenetsystems.net/KCCRFM"
-        },
-        {
-            name: "KGFX 107.1",
-            logo: "stations/images-america/c2c/pierre_sd/KGFX 107.1.png",
-            url: "http://ice23.securenetsystems.net/KGFXAM"
-        },
-        {
-            name: "KCCR 1240",
-            logo: "stations/images-america/c2c/pierre_sd/KCCR 1240.png",
-            url: "https://ice7.securenetsystems.net/KCCR"
         },
     ],
     "rapid_city": [

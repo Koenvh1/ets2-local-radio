@@ -1619,6 +1619,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.8
     },
+    "mobridge": {
+        name: "Mobridge",
+        name_english: "Mobridge",
+        code: "us-sd",
+        relative_radius: 0.8
+    },
     "modesto": {
         name: "Modesto",
         name_english: "Modesto",
@@ -1846,6 +1852,12 @@ var country_properties = {
         name_english: "Phoenix",
         code: "us-az",
         relative_radius: 1.0
+    },
+    "pierre": {
+        name: "pierre",
+        name_english: "pierre",
+        code: "us-sd",
+        relative_radius: 0.8
     },
     "pine_bluff": {
         name: "Pine Bluff",
@@ -3533,6 +3545,9 @@ var city_properties = {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
+    "mobridge": {
+        relative_whitenoise: 0.85
+    },
     "modesto": {
         relative_whitenoise: 0.95
     },
@@ -3652,6 +3667,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "phoenix": {
+        relative_whitenoise: 0.95
+    },
+    "pierre": {
         relative_whitenoise: 0.95
     },
     "pine_bluff": {
@@ -6581,6 +6599,14 @@ var cities = [
         "z": "-1841.51"
     },
     {
+        "gameName": "mobridge",
+        "realName": "Mobridge",
+        "country": "mobridge",
+        "x": "-17575.44",
+        "y": "50",
+        "z": "-37842.44"
+    },
+    {
         "gameName": "modesto",
         "realName": "Modesto",
         "country": "modesto",
@@ -6923,6 +6949,14 @@ var cities = [
         "x": "-75196.4",
         "y": "32.0577",
         "z": "24257.7"
+    },
+    {
+        "gameName": "pierre",
+        "realName": "Pierre",
+        "country": "pierre",
+        "x": "-17508.3",
+        "y": "256.21",
+        "z": "-29790.4"
     },
     {
         "gameName": "pine_bluff",
@@ -11431,18 +11465,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.45
     },
-    "mobridge": {
-        name: "Mobridge",
-        name_english: "Mobridge",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
-    "pierre": {
-        name: "pierre",
-        name_english: "pierre",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
     "rapid_city": {
         name: "rapid_city",
         name_english: "rapid_city",
@@ -12175,12 +12197,6 @@ var city_properties_c2c = {
     },
     "lemmon_sd": {
         relative_whitenoise: 0.9
-    },
-    "mobridge": {
-        relative_whitenoise: 0.85
-    },
-    "pierre": {
-        relative_whitenoise: 0.85
     },
     "rapid_city": {
         relative_whitenoise: 0.85
@@ -13699,22 +13715,6 @@ var cities_c2c = [
         "x": "-24120.91",
         "y": "94.89063",
         "z": "-39942.14"
-    },
-    {
-        "gameName": "mobridge",
-        "realName": "Mobridge",
-        "country": "mobridge",
-        "x": "-17575.44",
-        "y": "50",
-        "z": "-37842.44"
-    },
-    {
-        "gameName": "pierre",
-        "realName": "Pierre",
-        "country": "pierre",
-        "x": "-17508.3",
-        "y": "256.21",
-        "z": "-29790.4"
     },
     {
         "gameName": "rapid_city",
