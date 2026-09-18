@@ -1854,8 +1854,8 @@ var country_properties = {
         relative_radius: 1.0
     },
     "pierre": {
-        name: "pierre",
-        name_english: "pierre",
+        name: "Pierre",
+        name_english: "Pierre",
         code: "us-sd",
         relative_radius: 0.8
     },
@@ -1990,6 +1990,12 @@ var country_properties = {
         name_english: "Rangely",
         code: "us-co",
         relative_radius: 0.5
+    },
+    "rapid_city": {
+        name: "Rapid City",
+        name_english: "Rapid City",
+        code: "us-sd",
+        relative_radius: 0.8
     },
     "raton": {
         name: "Raton",
@@ -3745,6 +3751,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "rangely": {
+        relative_whitenoise: 0.95
+    },
+    "rapid_city": {
         relative_whitenoise: 0.95
     },
     "raton": {
@@ -7151,6 +7160,30 @@ var cities = [
         "z": "-9396.7"
     },
     {
+        "gameName": "rapid_city",
+        "realName": "Rapid City",
+        "country": "rapid_city",
+        "x": "-28875.1",
+        "y": "349.984",
+        "z": "-30052.5"
+    },
+    {
+        "gameName": "raton",
+        "realName": "Raton",
+        "country": "raton",
+        "x": "-38146.3",
+        "y": "154.02",
+        "z": "10209.8"
+    },
+    {
+        "gameName": "rawlins",
+        "realName": "Rawlins",
+        "country": "rawlins",
+        "x": "-47429.8",
+        "y": "156.344",
+        "z": "-20265"
+    },
+    {
         "gameName": "redbluff",
         "realName": "Red Bluff",
         "country": "redding",
@@ -7221,22 +7254,6 @@ var cities = [
         "x": "-50587.1",
         "y": "187.723",
         "z": "-27268.7"
-    },
-    {
-        "gameName": "raton",
-        "realName": "Raton",
-        "country": "raton",
-        "x": "-38146.3",
-        "y": "154.02",
-        "z": "10209.8"
-    },
-    {
-        "gameName": "rawlins",
-        "realName": "Rawlins",
-        "country": "rawlins",
-        "x": "-47429.8",
-        "y": "156.344",
-        "z": "-20265"
     },
     {
         "gameName": "rock_springs",
@@ -11465,12 +11482,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.45
     },
-    "rapid_city": {
-        name: "rapid_city",
-        name_english: "rapid_city",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
     "sioux_falls": {
         name: "sioux_falls",
         name_english: "sioux_falls",
@@ -12197,9 +12208,6 @@ var city_properties_c2c = {
     },
     "lemmon_sd": {
         relative_whitenoise: 0.9
-    },
-    "rapid_city": {
-        relative_whitenoise: 0.85
     },
     "watertown_sd": {
         relative_whitenoise: 0.95
@@ -13715,14 +13723,6 @@ var cities_c2c = [
         "x": "-24120.91",
         "y": "94.89063",
         "z": "-39942.14"
-    },
-    {
-        "gameName": "rapid_city",
-        "realName": "Rapid City",
-        "country": "rapid_city",
-        "x": "-28875.1",
-        "y": "349.984",
-        "z": "-30052.5"
     },
     {
         "gameName": "sioux_falls",
