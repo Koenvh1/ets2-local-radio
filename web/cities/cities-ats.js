@@ -2333,6 +2333,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.7
     },
+    "sioux_falls": {
+        name: "Sioux Falls",
+        name_english: "Sioux Falls",
+        code: "us-sd",
+        relative_radius: 0.8
+    },
     "socorro": {
         name: "Socorro",
         name_english: "Socorro",
@@ -3936,6 +3942,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "sioux_city": {
+        relative_whitenoise: 0.95
+    },
+    "sioux_falls": {
         relative_whitenoise: 0.95
     },
     "socorro": {
@@ -7646,6 +7655,14 @@ var cities = [
         "x": "-1510.61",
         "y": "68",
         "z": "-19097.7"
+    },
+    {
+        "gameName": "sioux_falls",
+        "realName": "Sioux Falls",
+        "country": "sioux_falls",
+        "x": "-3253.96",
+        "y": "147.301",
+        "z": "-25688.5"
     },
     {
         "gameName": "socorro",
@@ -11482,12 +11499,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.45
     },
-    "sioux_falls": {
-        name: "sioux_falls",
-        name_english: "sioux_falls",
-        code: "us-sd",
-        relative_radius: 0.8
-    },
     "watertown_sd": {
         name: "Watertown",
         name_english: "Watertown",
@@ -12211,9 +12222,6 @@ var city_properties_c2c = {
     },
     "watertown_sd": {
         relative_whitenoise: 0.95
-    },
-    "sioux_falls": {
-        relative_whitenoise: 0.85
     },
     "yankton": {
         relative_whitenoise: 0.85
@@ -13723,14 +13731,6 @@ var cities_c2c = [
         "x": "-24120.91",
         "y": "94.89063",
         "z": "-39942.14"
-    },
-    {
-        "gameName": "sioux_falls",
-        "realName": "Sioux Falls",
-        "country": "sioux_falls",
-        "x": "-3253.96",
-        "y": "147.301",
-        "z": "-25688.5"
     },
     {
         "gameName": "watertown_sd",
