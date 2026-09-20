@@ -2351,6 +2351,12 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.4
     },
+    "spearfish": {
+        name: "Spearfish",
+        name_english: "Spearfish",
+        code: "us-sd",
+        relative_radius: 0.8
+    },
     "spencer": {
         name: "Spencer",
         name_english: "Spencer",
@@ -2578,6 +2584,12 @@ var country_properties = {
         name_english: "Waterloo",
         code: "us-ia",
         relative_radius: 0.8
+    },
+    "watertown": {
+        name: "Watertown",
+        name_english: "Watertown",
+        code: "us-sd",
+        relative_radius: 0.7
     },
     "wenatchee": {
         name: "Wenatchee",
@@ -3953,6 +3965,10 @@ var city_properties = {
     "south_utah": {
         relative_whitenoise: 0.95
     },
+    "spearfish": {
+        relative_radius: 0.6,
+        relative_whitenoise: 0.95
+    },
     "spencer": {
         relative_whitenoise: 0.95
     },
@@ -4081,6 +4097,9 @@ var city_properties = {
     },
     "waterloo": {
         relative_radius: 0.5,
+        relative_whitenoise: 0.95
+    },
+    "watertown": {
         relative_whitenoise: 0.95
     },
     "wenatchee": {
@@ -7679,7 +7698,15 @@ var cities = [
         "x": "-58701.8",
         "y": "128.301",
         "z": "1743"
-    },
+    },/*
+    {
+        "gameName": "spearfish",
+        "realName": "Spearfish",
+        "country": "rapid_city",
+        "x": "",
+        "y": "",
+        "z": ""
+    },*/
     {
         "gameName": "spencer",
         "realName": "Spencer",
@@ -8071,6 +8098,14 @@ var cities = [
         "x": "14722",
         "y": "68.5078",
         "z": "-20366.8"
+    },
+    {
+        "gameName": "watertown",
+        "realName": "Watertown",
+        "country": "watertown",
+        "x": "-4382.473",
+        "y": "135.1563",
+        "z": "-33556.46"
     },
     {
         "gameName": "wenatchee",
@@ -11499,12 +11534,6 @@ var country_properties_c2c = {
         code: "us-sd",
         relative_radius: 0.45
     },
-    "watertown_sd": {
-        name: "Watertown",
-        name_english: "Watertown",
-        code: "us-sd",
-        relative_radius: 1.0
-    },
     "yankton": {
         name: "Yankton",
         name_english: "Yankton",
@@ -12219,9 +12248,6 @@ var city_properties_c2c = {
     },
     "lemmon_sd": {
         relative_whitenoise: 0.9
-    },
-    "watertown_sd": {
-        relative_whitenoise: 0.95
     },
     "yankton": {
         relative_whitenoise: 0.85
@@ -13731,14 +13757,6 @@ var cities_c2c = [
         "x": "-24120.91",
         "y": "94.89063",
         "z": "-39942.14"
-    },
-    {
-        "gameName": "watertown_sd",
-        "realName": "Watertown",
-        "country": "watertown_sd",
-        "x": "-4382.473",
-        "y": "135.1563",
-        "z": "-33556.46"
     },
     {
         "gameName": "yankton",
