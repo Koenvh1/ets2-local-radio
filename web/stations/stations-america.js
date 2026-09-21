@@ -8450,6 +8450,13 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KCLNAM"
         },
     ],
+    "dayville": [        
+        {
+            name: "94.5 KJDY",
+            logo: "stations/images-america/burns/94.5 KJDY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJDYFM_SC"
+        },
+    ],
     "deepwater": [
         {
             name: "Bott Radio 88.9",
@@ -9164,11 +9171,21 @@ var stations = {/*
             name: "Radio By Grace 89.9",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
             url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
-        },
+        },/*
         {
             name: "KDQN 92.1",
             logo: "stations/images-america/de_queen/KDQN 92.1.png",
             url: "https://19.shoutstreams.com/proxy/southwestarkdaily2/kdqnfm"
+        },*/
+        {
+            name: "ESPN Arkansas 96.3",
+            logo: "stations/images-america/fort_smith/ESPN Arkansas 93.7.png",
+            url: "https://ice5.securenetsystems.net/KAKSFM"
+        },
+        {
+            name: "96.7 KBEL",
+            logo: "stations/images-america/idabel/96.7 KBEL.png",
+            url: "https://listen.kbel967.com/audio/KBEL-FM"
         },
         {
             name: "B99.5",
@@ -9181,6 +9198,11 @@ var stations = {/*
             url: "https://cast.streamkast.co/kqor"
         },
         {
+            name: "KENA 104.1",
+            logo: "stations/images-america/de_queen/KENA 104.1.png",
+            url: "https://cast.streamkast.co/kena"
+        },/*
+        {
             name: "104.5 K283CT",
             logo: "stations/images-america/de_queen/KDQN 1390.png",
             url: "http://19.shoutstreams.com/proxy/southwestarkdaily1/kdqnam"
@@ -9189,17 +9211,17 @@ var stations = {/*
             name: "105.5 The Good Path",
             logo: "stations/images-america/de_queen/105.5 The Good Path.png",
             url: "https://19.shoutstreams.com/proxy/southwestarkdaily3/kilxfm"
-        },
+        },*/
         {
             name: "KKBI 106.1",
             logo: "stations/images-america/de_queen/KKBI 106.1.png",
-            url: "https://motu.kkbifm.com:8443/KKBI"
-        },
+            url: "https://listen.kbel967.com/audio/KKBI-FM"
+        },/*
         {
             name: "KDQN 1390",
             logo: "stations/images-america/de_queen/KDQN 1390.png",
             url: "https://19.shoutstreams.com/proxy/southwestarkdaily1/kdqnam"
-        },
+        },*/
     ],
     "des_moines": [
         {
@@ -11463,8 +11485,8 @@ var stations = {/*
         },/*
         {
             name: "96.1 K241CE",
-            logo: "stations/images-america/fort_smith/KISR.png",
-            url: "https://ice41.securenetsystems.net/KISR"
+            logo: "stations/images-america/fort_smith/ESPN Arkansas 93.7.png",
+            url: "https://ice5.securenetsystems.net/KAKSFM"
         },*/
         {
             name: "96.7 The Bull",
@@ -11562,8 +11584,8 @@ var stations = {/*
             url: "http://www.ophanim.net:9760/stream"
         },*/        
 		{
-            name: "KFSA 950",
-            logo: "stations/images-america/fort_smith/Outlaw 93.1.png",
+            name: "KISR 950",
+            logo: "stations/images-america/fort_smith/KISR.png",
             url: "https://ice42.securenetsystems.net/KFSA"
         },
         {
@@ -12020,20 +12042,20 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/KREU"
         },
         {
-            name: "Outlaw 93.1",
-            logo: "stations/images-america/fort_smith/Outlaw 93.1.png",
-            url: "https://ice42.securenetsystems.net/KFSA"
-        },/*
-        {
-            name: "KISR 93.7",
+            name: "KISR 93.1",
             logo: "stations/images-america/fort_smith/KISR.png",
-            url: "https://ice41.securenetsystems.net/KISR"
+            url: "https://ice42.securenetsystems.net/KFSA"
         },
         {
-            name: "Rock 94.1",
-            logo: "stations/images-america/fort_smith/Rock 94.1.png",
-            url: "https://ice42.securenetsystems.net/KISRHD2"
+            name: "ESPN Arkansas 93.7",
+            logo: "stations/images-america/fort_smith/ESPN Arkansas 93.7.png",
+            url: "https://ice5.securenetsystems.net/KAKSFM"
         },
+        {
+            name: "Outlaw 94.1",
+            logo: "stations/images-america/fort_smith/Outlaw 94.1.png",
+            url: "https://ice42.securenetsystems.net/KISRHD2"
+        },/*
         {
             name: "The Fort 94.5",
             logo: "stations/images-america/fort_smith/The Fort 94.5.png",
@@ -12043,11 +12065,6 @@ var stations = {/*
             name: "Big Dog 95.9",
             logo: "stations/images-america/fort_smith/Big Dog 95.9.png",
             url: "https://stream.revma.ihrhls.com/zc113/hls.m3u8"
-        },
-        {
-            name: "ESPN 96.3",
-            logo: "stations/images-america/fort_smith/ESPN 96.3.png",
-            url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
             name: "Red Dirt 96.7",
@@ -12078,12 +12095,12 @@ var stations = {/*
             name: "Nash FM 100.7",
             logo: "stations/images-america/fort_smith/Nash FM 100.7.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KNSHFMAAC_SC"
-        },/*
+        },
         {
             name: "The River 101.9",
             logo: "stations/images-america/fort_smith/The River 101.9.png",
             url: "https://ice42.securenetsystems.net/KISRHD3"
-        },*/
+        },
         {
             name: "102.7 The Vibe",
             logo: "stations/images-america/fort_smith/102.7 The Vibe.png",
@@ -12098,12 +12115,12 @@ var stations = {/*
             name: "Mix 105.1",
             logo: "stations/images-america/fort_smith/Mix 105.1.png",
             url: "http://84.32.44.251/index.php?u=https://ice41.securenetsystems.net/KXMX"
-        },/*
+        },
         {
             name: "The Rooster 105.5",
             logo: "stations/images-america/fort_smith/The Rooster 105.5.png",
             url: "https://ice42.securenetsystems.net/KISRHD4"
-        },*/
+        },
         {
             name: "Spirit 106.3",
             logo: "stations/images-america/fort_smith/Spirit 106.3.png",
@@ -13965,7 +13982,7 @@ var stations = {/*
         },
         {
             name: "ESPN Arkansas 104.3",
-            logo: "stations/images-america/fort_smith/ESPN 96.3.png",
+            logo: "stations/images-america/fort_smith/ESPN Arkansas 93.7.png",
             url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
@@ -14788,12 +14805,12 @@ var stations = {/*
         {
             name: "96.7 KBEL",
             logo: "stations/images-america/idabel/96.7 KBEL.png",
-            url: "https://ice6.securenetsystems.net/KBEL"
+            url: "https://listen.kbel967.com/audio/KBEL-FM"
         },
         {
             name: "Q102",
             logo: "stations/images-america/idabel/Q102.png",
-            url: "https://motu.kkbifm.com:8443/KQIB"
+            url: "https://listen.kbel967.com/audio/KQIB-FM"
         },
         {
             name: "KZRB 103.5",
@@ -14803,7 +14820,7 @@ var stations = {/*
         {
             name: "KKBI 106.1",
             logo: "stations/images-america/de_queen/KKBI 106.1.png",
-            url: "https://motu.kkbifm.com:8443/KKBI"
+            url: "https://listen.kbel967.com/audio/KKBI-FM"
         },
     ],
     "idaho_falls": [
@@ -22405,7 +22422,7 @@ var stations = {/*
         },
         {
             name: "ESPN Arkansas 104.3",
-            logo: "stations/images-america/fort_smith/ESPN 96.3.png",
+            logo: "stations/images-america/fort_smith/ESPN Arkansas 93.7.png",
             url: "https://ice5.securenetsystems.net/KAKSFM"
         },
         {
@@ -31044,11 +31061,6 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc937/hls.m3u8"
         },
         {
-            name: "Sioux Ritmo 1090",
-            logo: "stations/images-america/sioux_falls/Sioux Ritmo.png",
-            url: "https://ice23.securenetsystems.net/KSOUAM"
-        },
-        {
             name: "KXRB 1140",
             logo: "stations/images-america/sioux_falls/KXRB 100.1.png",
             url: "http://live.amperwave.net/manifest/townsquare-kxrbamaac-ibc3"
@@ -37030,9 +37042,19 @@ var stations = {/*
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC"
         },
         {
+            name: "Radio Nueva Vida 95.1",
+            logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+        },
+        {
             name: "KYMZ 99.9",
             logo: "stations/images-america/yuma/KYMZ 99.9.png",
             url: "https://s4.radio.co/s376740a0f/listen"
+        },
+        {
+            name: "K-LOVE 100.9",
+            logo: "stations/images-america/0_general_logos/K-LOVE.png",
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
         },
         {
             name: "La Campesina 104.5",
@@ -48890,12 +48912,12 @@ var stations = {/*
         {
             name: "Oldies 102.9",
             logo: "stations/images-america/c2c/ironwood_mi/Oldies 102.9.png",
-            url: "https://stream-nyc3.azureradio.com/oldies1029"
+            url: "https://streaming.live365.com/a55763"
         },
         {
             name: "Mix 106.9",
             logo: "stations/images-america/c2c/ironwood_mi/Mix 106.9.png",
-            url: "https://stream-nyc3.azureradio.com/mix1069"
+            url: "https://streaming.live365.com/a88636"
         },
         {
             name: "590 WJMS",
@@ -48905,7 +48927,7 @@ var stations = {/*
         {
             name: "1450 WHRY",
             logo: "stations/images-america/c2c/ironwood_mi/Oldies 102.9.png",
-            url: "https://stream-nyc3.azureradio.com/oldies1029?"
+            url: "https://streaming.live365.com/a55763?"
         },
     ],
     "lansing_mi": [
@@ -53669,6 +53691,11 @@ var stations = {/*
         },
     ],
     "syracuse": [
+        {
+            name: "87.7 The Spot",
+            logo: "stations/images-america/c2c/syracuse_ny/87.7 The Spot.png",
+            url: "https://ice26.securenetsystems.net/WQSE"
+        },
         {
             name: "WAER 88.3",
             logo: "stations/images-america/c2c/syracuse_ny/WAER 88.3.png",
@@ -60325,12 +60352,12 @@ var stations = {/*
             name: "Family Radio 93.7",
             logo: "stations/images-america/0_general_logos/Family Radio.png",
             url: "https://ais-sa3.cdnstream1.com/2636_64.aac"
-        },/*
+        },
         {
             name: "Hippie Radio 94.5",
             logo: "stations/images-america/c2c/nashville_tn/Hippie Radio 94.5.png",
-            url: "http://84.32.44.251/securenet.php?id=WHPYFM"
-        },*/
+            url: "http://84.32.44.251/index.php?u=https://ice6.securenetsystems.net/WHPYFM"
+        },
         {
             name: "ESPN 94.9",
             logo: "stations/images-america/c2c/nashville_tn/ESPN 94.9.png",
@@ -60550,12 +60577,12 @@ var stations = {/*
             name: "Activa 1240",
             logo: "stations/images-america/c2c/nashville_tn/Activa 105.1.png",
             url: "http://ice66.securenetsystems.net/WNVL"
-        },/*
+        },
         {
             name: "WYGI 1430",
             logo: "stations/images-america/c2c/nashville_tn/Hippie Radio 94.5.png",
             url: "http://84.32.44.251/index.php?u=http://ice6.securenetsystems.net/WHPYFM"
-        },*/
+        },
         {
             name: "WVOL 1470",
             logo: "stations/images-america/c2c/nashville_tn/WVOL 1470.png",
