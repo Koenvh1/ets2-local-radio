@@ -202,6 +202,12 @@ namespace Capture.Hook
                 return;
             }
 
+            if (!Enum.IsDefined(typeof(Capture.Interface.ImageFormat), request.Format))
+            {
+                DebugMessage("Unsupported screenshot request format");
+                return;
+            }
+
             // Copy the image data from the buffer
             int size = height * pitch;
             var data = new byte[size];
