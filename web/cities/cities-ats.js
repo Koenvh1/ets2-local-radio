@@ -599,6 +599,12 @@ var country_properties = {
         code: "us-ia",
         relative_radius: 0.8
     },
+    "dayville": {
+        name: "Dayville",
+        name_english: "Dayville",
+        code: "us-or",
+        relative_radius: 0.4
+    },
     "deepwater": {
         name: "Deepwater",
         name_english: "Deepwater",
@@ -3006,6 +3012,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "dayville": {
+        relative_whitenoise: 0.95
+    },
     "deepwater": {
         relative_whitenoise: 0.95
     },
@@ -5114,6 +5123,14 @@ var cities = [
         "x": "23254.2",
         "y": "81.375",
         "z": "-15124.5"
+    },
+    {
+        "gameName": "dayville",
+        "realName": "Dayville",
+        "country": "dayville",
+        "x": "-94432.28",
+        "y": "50",
+        "z": "-43678.32"
     },
     {
         "gameName": "deepwater",

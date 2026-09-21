@@ -8450,6 +8450,13 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KCLNAM"
         },
     ],
+    "dayville": [        
+        {
+            name: "94.5 KJDY",
+            logo: "stations/images-america/burns/94.5 KJDY.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KJDYFM_SC"
+        },
+    ],
     "deepwater": [
         {
             name: "Bott Radio 88.9",
@@ -11555,8 +11562,8 @@ var stations = {/*
             url: "http://www.ophanim.net:9760/stream"
         },*/        
 		{
-            name: "KFSA 950",
-            logo: "stations/images-america/fort_smith/Outlaw 93.1.png",
+            name: "KISR 950",
+            logo: "stations/images-america/fort_smith/KISR.png",
             url: "https://ice42.securenetsystems.net/KFSA"
         },
         {
