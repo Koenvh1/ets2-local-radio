@@ -791,6 +791,12 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.5
     },
+    "faith_eagle_butte": {
+        name: "Faith/Eagle Butte",
+        name_english: "Faith/Eagle Butte",
+        code: "us-sd",
+        relative_radius: 0.7
+    },
     "farmington": {
         name: "Farmington",
         name_english: "Farmington",
@@ -1103,6 +1109,12 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.8
     },
+    "huron_sd": {
+        name: "Huron",
+        name_english: "Huron",
+        code: "us-sd",
+        relative_radius: 0.6
+    },
     "hutchinson": {
         name: "Hutchinson",
         name_english: "Hutchinson",
@@ -1192,6 +1204,12 @@ var country_properties = {
         name_english: "Junction City",
         code: "us-ks",
         relative_radius: 0.9
+    },
+    "kadoka": {
+        name: "Kadoka",
+        name_english: "Kadoka",
+        code: "us-sd",
+        relative_radius: 0.5
     },
     "kalispell": {
         name: "Kalispell",
@@ -1995,7 +2013,7 @@ var country_properties = {
         name: "Rapid City",
         name_english: "Rapid City",
         code: "us-sd",
-        relative_radius: 0.8
+        relative_radius: 0.9
     },
     "raton": {
         name: "Raton",
@@ -2128,6 +2146,12 @@ var country_properties = {
         name_english: "Sacramento",
         code: "us-ca",
         relative_radius: 0.6
+    },
+    "salem_sd": {
+        name: "Salem",
+        name_english: "Salem",
+        code: "us-sd",
+        relative_radius: 1.0
     },
     "salina_ks": {
         name: "Salina",
@@ -2337,7 +2361,7 @@ var country_properties = {
         name: "Sioux Falls",
         name_english: "Sioux Falls",
         code: "us-sd",
-        relative_radius: 0.8
+        relative_radius: 1.0
     },
     "socorro": {
         name: "Socorro",
@@ -2350,12 +2374,6 @@ var country_properties = {
         name_english: "South Utah",
         code: "us-ut",
         relative_radius: 0.4
-    },
-    "spearfish": {
-        name: "Spearfish",
-        name_english: "Spearfish",
-        code: "us-sd",
-        relative_radius: 0.8
     },
     "spencer": {
         name: "Spencer",
@@ -2621,17 +2639,23 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.9
     },
+    "willow_springs": {
+        name: "Willow Springs",
+        name_english: "Willow Springs",
+        code: "us-mo",
+        relative_radius: 0.5
+    },
     "winnemucca": {
         name: "Winnemucca",
         name_english: "Winnemucca",
         code: "us-nv",
         relative_radius: 0.8
     },
-    "willow_springs": {
-        name: "Willow Springs",
-        name_english: "Willow Springs",
-        code: "us-mo",
-        relative_radius: 0.5
+    "winner": {
+        name: "Winner",
+        name_english: "Winner",
+        code: "us-sd",
+        relative_radius: 0.8
     },
     "wolfpoint": {
         name: "Wolf Point",
@@ -2656,6 +2680,18 @@ var country_properties = {
         name_english: "Yakima",
         code: "us-wa",
         relative_radius: 0.6
+    },
+    "yankton": {
+        name: "Yankton",
+        name_english: "Yankton",
+        code: "us-sd",
+        relative_radius: 0.6
+    },
+    "yankton_the_wolf": {
+        name: "Yankton",
+        name_english: "Yankton",
+        code: "us-sd",
+        relative_radius: 0.9
     },
     "yuma": {
         name: "Yuma",
@@ -3105,6 +3141,9 @@ var city_properties = {
     "evanston": {
         relative_whitenoise: 0.85
     },
+    "faith_eagle_butte": {
+        relative_whitenoise: 0.85
+    },
     "fallon": {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
@@ -3288,6 +3327,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
+    "huron_sd": {
+        relative_whitenoise: 0.85
+    },
     "hutchinson": {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
@@ -3338,6 +3380,9 @@ var city_properties = {
     },
     "junction_city_kjckfm": {
         relative_whitenoise: 0.95
+    },
+    "kadoka": {
+        relative_whitenoise: 0.85
     },
     "kalispell": {
         relative_whitenoise: 0.85
@@ -3845,6 +3890,9 @@ var city_properties = {
 		relative_radius: 0.6,
         relative_whitenoise: 0.98
     },
+    "salem_sd": {
+        relative_whitenoise: 0.95
+    },
     "salina_ks": {
         relative_whitenoise: 0.95
     },
@@ -3957,16 +4005,13 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sioux_falls": {
+        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "socorro": {
         relative_whitenoise: 0.95
     },
     "south_utah": {
-        relative_whitenoise: 0.95
-    },
-    "spearfish": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "spencer": {
@@ -4121,6 +4166,9 @@ var city_properties = {
     "winnemucca": {
         relative_whitenoise: 0.80
     },
+    "winner": {
+        relative_whitenoise: 0.95
+    },
     "willow_springs": {
         relative_whitenoise: 0.95
     },
@@ -4136,6 +4184,12 @@ var city_properties = {
     },
     "yakima": {
         relative_whitenoise: 0.85
+    },
+    "yankton": {
+        relative_whitenoise: 0.95
+    },
+    "yankton_the_wolf": {
+        relative_whitenoise: 0.95
     },
     "yuma": {
         relative_whitenoise: 0.85
@@ -5380,6 +5434,14 @@ var cities = [
         "z": "-18638.7"
     },
     {
+        "gameName": "faith_eagle_butte",
+        "realName": "Faith/Eagle Butte",
+        "country": "faith_eagle_butte",
+        "x": "-21940.16",
+        "y": "100",
+        "z": "-35025.98"
+    },
+    {
         "gameName": "fallon",
         "realName": "Fallon",
         "country": "reno",
@@ -5884,6 +5946,14 @@ var cities = [
         "z": "1737.38"
     },
     {
+        "gameName": "huron_sd",
+        "realName": "Huron",
+        "country": "huron_sd",
+        "x": "-8839.707",
+        "y": "140.0508",
+        "z": "-30853.56"
+    },
+    {
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "hutchinson",
@@ -6018,6 +6088,14 @@ var cities = [
         "x": "-4627.28",
         "y": "59.9687",
         "z": "159.158"
+    },
+    {
+        "gameName": "kadoka",
+        "realName": "Kadoka",
+        "country": "kadoka",
+        "x": "-22189.71",
+        "y": "175.0273",
+        "z": "-27615.18"
     },
     {
         "gameName": "kalispell",
@@ -7396,6 +7474,14 @@ var cities = [
         "z": "-11257.7"
     },
     {
+        "gameName": "salem_sd",
+        "realName": "Salem",
+        "country": "salem_sd",
+        "x": "-5707.6",
+        "y": "163.37",
+        "z": "-26915.4"
+    },
+    {
         "gameName": "salida",
         "realName": "Salida",
         "country": "salida",
@@ -7684,6 +7770,14 @@ var cities = [
         "z": "-25688.5"
     },
     {
+        "gameName": "sioux_falls",
+        "realName": "Sioux Falls",
+        "country": "salem_sd",
+        "x": "-3953.96",
+        "y": "147.301",
+        "z": "-25688.5"
+    },
+    {
         "gameName": "socorro",
         "realName": "Socorro",
         "country": "socorro",
@@ -7698,15 +7792,7 @@ var cities = [
         "x": "-58701.8",
         "y": "128.301",
         "z": "1743"
-    },/*
-    {
-        "gameName": "spearfish",
-        "realName": "Spearfish",
-        "country": "rapid_city",
-        "x": "",
-        "y": "",
-        "z": ""
-    },*/
+    },
     {
         "gameName": "spencer",
         "realName": "Spencer",
@@ -8156,6 +8242,14 @@ var cities = [
         "z": "29060.8"
     },
     {
+        "gameName": "willow_springs",
+        "realName": "Willow Springs",
+        "country": "willow_springs",
+        "x": "19635.9",
+        "y": "22.5279",
+        "z": "11553.7"
+    },
+    {
         "gameName": "winnemucca",
         "realName": "Winnemucca",
         "country": "winnemucca",
@@ -8164,12 +8258,12 @@ var cities = [
         "z": "-22075.4"
     },
     {
-        "gameName": "willow_springs",
-        "realName": "Willow Springs",
-        "country": "willow_springs",
-        "x": "19635.9",
-        "y": "22.5279",
-        "z": "11553.7"
+        "gameName": "winner",
+        "realName": "Winner",
+        "country": "winner",
+        "x": "",
+        "y": "",
+        "z": ""
     },
     {
         "gameName": "wolfpoint",
@@ -8202,6 +8296,22 @@ var cities = [
         "x": "-95722.7",
         "y": "37.4318",
         "z": "-55991.9"
+    },
+    {
+        "gameName": "yankton",
+        "realName": "Yankton",
+        "country": "yankton",
+        "x": "-6035.406",
+        "y": "91.38281",
+        "z": "-21946.23"
+    },
+    {
+        "gameName": "yankton_the_wolf",
+        "realName": "Yankton",
+        "country": "yankton_the_wolf",
+        "x": "-4035.406",
+        "y": "91.38281",
+        "z": "-20946.23"
     },
     {
         "gameName": "yuma",
@@ -11504,42 +11614,6 @@ var country_properties_c2c = {
         code: "us-sc",
         relative_radius: 0.6
     },
-    "south_dakota": {
-        name: "south_dakota",
-        name_english: "south_dakota",
-        code: "us-sd",
-        relative_radius: 1.1
-    },
-    "faith_eagle_butte": {
-        name: "Faith/Eagle Butte",
-        name_english: "Faith/Eagle Butte",
-        code: "us-sd",
-        relative_radius: 0.7
-    },
-    "huron_sd": {
-        name: "Huron",
-        name_english: "Huron",
-        code: "us-sd",
-        relative_radius: 0.6
-    },
-    "kadoka": {
-        name: "Kadoka",
-        name_english: "Kadoka",
-        code: "us-sd",
-        relative_radius: 0.5
-    },
-    "lemmon_sd": {
-        name: "Lemmon",
-        name_english: "Lemmon",
-        code: "us-sd",
-        relative_radius: 0.45
-    },
-    "yankton": {
-        name: "Yankton",
-        name_english: "Yankton",
-        code: "us-sd",
-        relative_radius: 0.55
-    },
     "tennessee": {
         name: "tennessee",
         name_english: "tennessee",
@@ -12236,21 +12310,6 @@ var city_properties_c2c = {
     },
     "myrtlebeach_sc": {
         relative_whitenoise: 0.95
-    },
-    "faith_eagle_butte": {
-        relative_whitenoise: 0.85
-    },
-    "huron_sd": {
-        relative_whitenoise: 0.85
-    },
-    "kadoka": {
-        relative_whitenoise: 0.85
-    },
-    "lemmon_sd": {
-        relative_whitenoise: 0.9
-    },
-    "yankton": {
-        relative_whitenoise: 0.85
     },
     "chattanooga": {
         relative_whitenoise: 0.85
@@ -13725,46 +13784,6 @@ var cities_c2c = [
         "x": "80484.6",
         "y": "51.1406",
         "z": "21544.3"
-    },
-    {
-        "gameName": "faith_eagle_butte",
-        "realName": "Faith/Eagle Butte",
-        "country": "faith_eagle_butte",
-        "x": "-21940.16",
-        "y": "100",
-        "z": "-35025.98"
-    },
-    {
-        "gameName": "huron_sd",
-        "realName": "Huron",
-        "country": "huron_sd",
-        "x": "-8839.707",
-        "y": "140.0508",
-        "z": "-30853.56"
-    },
-    {
-        "gameName": "kadoka",
-        "realName": "Kadoka",
-        "country": "kadoka",
-        "x": "-22189.71",
-        "y": "175.0273",
-        "z": "-27615.18"
-    },
-    {
-        "gameName": "lemmon_sd",
-        "realName": "Lemmon",
-        "country": "lemmon_sd",
-        "x": "-24120.91",
-        "y": "94.89063",
-        "z": "-39942.14"
-    },
-    {
-        "gameName": "yankton",
-        "realName": "Yankton",
-        "country": "yankton",
-        "x": "-6035.406",
-        "y": "91.38281",
-        "z": "-21946.23"
     },
     {
         "gameName": "chattanooga",
