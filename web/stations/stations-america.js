@@ -23554,11 +23554,6 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net//KMAS"
         },
         {
-            name: "VSiN The Sports Betting Network 94.5-HD3",
-            logo: "stations/images-america/olympia/VSiN The Sports Betting Network 94.5-HD3.png",
-            url: "https://vsin-sgrewind.streamguys1.com/sgrewind/live/playlist.m3u8"
-        },
-        {
             name: "95.3 KGY",
             logo: "stations/images-america/olympia/95.3 KGY.png",
             url: "https://stream1.noctel.com/proxy/953kgy/953kgy"
@@ -23594,6 +23589,11 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net/KMAS"
         },
         {
+            name: "104.1 K281AD",
+            logo: "stations/images-america/seattle/Hot 103.7.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-khtpfmaac-imc"
+        },
+        {
             name: "KMNT Country 104.3",
             logo: "stations/images-america/olympia/KMNT Country 104.3.png",
             url: "https://us9.maindigitalstream.com/ssl/KMNT"
@@ -23604,7 +23604,7 @@ var stations = {/*
             url: "http://ssl-2.stream.miriamtech.net/sacredheartradio/hidden"
         },
         {
-            name: "KUOW 107.3",
+            name: "107.3 K297BK",
             logo: "stations/images-america/olympia/KUOW 107.3.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUOWFM_HIGH_MP3_SC"
         },
@@ -31651,7 +31651,7 @@ var stations = {/*
         },
         {
             name: "104.5 K283AG",
-            logo: "stations/images-america/sioux_city/104.1 The Wolf.png",
+            logo: "stations/images-america/yankton/104.1 The Wolf.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxfmaac-ibc1"
         },
         {
