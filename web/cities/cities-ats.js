@@ -801,7 +801,7 @@ var country_properties = {
         name: "Faith/Eagle Butte",
         name_english: "Faith/Eagle Butte",
         code: "us-sd",
-        relative_radius: 0.7
+        relative_radius: 0.5
     },
     "farmington": {
         name: "Farmington",
@@ -1647,7 +1647,7 @@ var country_properties = {
         name: "Mobridge",
         name_english: "Mobridge",
         code: "us-sd",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "modesto": {
         name: "Modesto",
@@ -2661,7 +2661,7 @@ var country_properties = {
         name: "Winner",
         name_english: "Winner",
         code: "us-sd",
-        relative_radius: 0.8
+        relative_radius: 0.7
     },
     "wolfpoint": {
         name: "Wolf Point",
@@ -3151,7 +3151,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "faith_eagle_butte": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "fallon": {
         relative_radius: 0.7,
@@ -3337,7 +3337,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "huron_sd": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "hutchinson": {
         relative_radius: 0.6,
@@ -4238,9 +4238,9 @@ var cities = [
         "gameName": "aberdeen_sd",
         "realName": "Aberdeen",
         "country": "aberdeen_sd",
-        "x": "-9965.375",
-        "y": "183.5",
-        "z": "-36847.3"
+        "x": "-9432.22",
+        "y": "77.918",
+        "z": "-36803.9"
     },
     {
         "gameName": "abilene",
@@ -4726,9 +4726,9 @@ var cities = [
         "gameName": "brookings",
         "realName": "Brookings",
         "country": "brookings",
-        "x": "-3317.703",
-        "y": "134.8398",
-        "z": "-30229.57"
+        "x": "-4416.82",
+        "y": "89.1016",
+        "z": "-30268.5"
     },
     {
         "gameName": "brownwood",
@@ -4750,9 +4750,9 @@ var cities = [
         "gameName": "buffalo_sd",
         "realName": "Buffalo",
         "country": "buffalo_sd",
-        "x": "-30203.7",
-        "y": "95",
-        "z": "-37477.09"
+        "x": "-29601.9",
+        "y": "90",
+        "z": "-38870.7"
     },
     {
         "gameName": "buffalo_tx",
@@ -6702,9 +6702,9 @@ var cities = [
         "gameName": "mitchell",
         "realName": "Mitchell",
         "country": "mitchell",
-        "x": "-10707.6",
-        "y": "163.37",
-        "z": "-27015.4"
+        "x": "-8050.59",
+        "y": "69",
+        "z": "-27001.5"
     },
     {
         "gameName": "moab",
@@ -6734,9 +6734,9 @@ var cities = [
         "gameName": "mobridge",
         "realName": "Mobridge",
         "country": "mobridge",
-        "x": "-17575.44",
-        "y": "50",
-        "z": "-37842.44"
+        "x": "-17310.5",
+        "y": "85",
+        "z": "-37850.9"
     },
     {
         "gameName": "modesto",
@@ -7086,9 +7086,9 @@ var cities = [
         "gameName": "pierre",
         "realName": "Pierre",
         "country": "pierre",
-        "x": "-17508.3",
-        "y": "256.21",
-        "z": "-29790.4"
+        "x": "-17213.7",
+        "y": "74.5",
+        "z": "-30715.7"
     },
     {
         "gameName": "pine_bluff",
@@ -7286,9 +7286,9 @@ var cities = [
         "gameName": "rapid_city",
         "realName": "Rapid City",
         "country": "rapid_city",
-        "x": "-28875.1",
-        "y": "349.984",
-        "z": "-30052.5"
+        "x": "-28458.2",
+        "y": "85",
+        "z": "-30373"
     },
     {
         "gameName": "raton",
@@ -7782,17 +7782,17 @@ var cities = [
         "gameName": "sioux_falls",
         "realName": "Sioux Falls",
         "country": "sioux_falls",
-        "x": "-3253.96",
-        "y": "147.301",
-        "z": "-25688.5"
+        "x": "-4201.07",
+        "y": "100",
+        "z": "-26315.5"
     },
     {
         "gameName": "sioux_falls",
         "realName": "Sioux Falls",
         "country": "salem_sd",
-        "x": "-3953.96",
-        "y": "147.301",
-        "z": "-25688.5"
+        "x": "-4901.07",
+        "y": "100",
+        "z": "-26315.5"
     },
     {
         "gameName": "socorro",
@@ -8206,9 +8206,9 @@ var cities = [
         "gameName": "watertown",
         "realName": "Watertown",
         "country": "watertown",
-        "x": "-4382.473",
-        "y": "135.1563",
-        "z": "-33556.46"
+        "x": "-5062.7",
+        "y": "115",
+        "z": "-33551.9"
     },
     {
         "gameName": "wenatchee",
@@ -8278,9 +8278,9 @@ var cities = [
         "gameName": "winner",
         "realName": "Winner",
         "country": "winner",
-        "x": "",
-        "y": "",
-        "z": ""
+        "x": "-16451.1",
+        "y": "153.938",
+        "z": "-25190.3"
     },
     {
         "gameName": "wolfpoint",
@@ -8318,9 +8318,9 @@ var cities = [
         "gameName": "yankton",
         "realName": "Yankton",
         "country": "yankton",
-        "x": "-6035.406",
-        "y": "91.38281",
-        "z": "-21946.23"
+        "x": "-6014.09",
+        "y": "76",
+        "z": "-22628.6"
     },
     {
         "gameName": "yankton_the_wolf",
@@ -11413,7 +11413,7 @@ var country_properties_c2c = {
         name: "bismarck",
         name_english: "bismarck",
         code: "us-nd",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "bowman": {
         name: "Bowman",
