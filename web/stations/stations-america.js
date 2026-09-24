@@ -31061,6 +31061,11 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc937/hls.m3u8"
         },
         {
+            name: "Sioux Ritmo 1090",
+            logo: "stations/images-america/sheldon/Sioux Ritmo.png",
+            url: "https://ice23.securenetsystems.net/KSOUAM"
+        },
+        {
             name: "KXRB 1140",
             logo: "stations/images-america/sioux_falls/KXRB 100.1.png",
             url: "http://live.amperwave.net/manifest/townsquare-kxrbamaac-ibc3"
