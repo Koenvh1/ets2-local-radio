@@ -2019,7 +2019,7 @@ var country_properties = {
         name: "Rapid City",
         name_english: "Rapid City",
         code: "us-sd",
-        relative_radius: 0.9
+        relative_radius: 1.0
     },
     "raton": {
         name: "Raton",
@@ -3220,7 +3220,7 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "gillette": {
-        relative_whitenoise: 0.85
+        relative_whitenoise: 0.95
     },
     "glasgow": {
         relative_whitenoise: 0.85
@@ -7288,7 +7288,7 @@ var cities = [
         "country": "rapid_city",
         "x": "-28458.2",
         "y": "85",
-        "z": "-30373"
+        "z": "-30673"
     },
     {
         "gameName": "raton",
