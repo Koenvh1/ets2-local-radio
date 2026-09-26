@@ -653,7 +653,7 @@ function refreshStations() {
                     '<div class="play-button"></div>' +
                     '</div>' +
                         //(localStorage.getItem("fav-" + key) == stations[key][j]['name'])
-                    (g_favourites.hasOwnProperty(key) && g_favourites[key] == stations[key][j].name ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'] + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
+                    (g_favourites.hasOwnProperty(key) && g_favourites[key] == stations[key][j].name ? '' : '<button class="btn btn-default btn-xs top-right lang-make-favourite" onclick="setFavouriteStation(\'' + key + '\', \'' + stations[key][j]['name'].replace("'", "\\'") + '\'); $(this).css(\'background-color\', \'#2ebb1e\');">' + ((typeof g_translation !== 'undefined' && typeof g_translation['web']['make-favourite'] !== 'undefined') ? g_translation['web']['make-favourite'] : 'Make favourite') + '</button> ') +
                     '</div>';
             }
         }
