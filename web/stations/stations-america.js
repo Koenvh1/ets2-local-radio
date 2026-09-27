@@ -28536,7 +28536,7 @@ var stations = {/*
         {
             name: "93.3 The Bull",
             logo: "stations/images-america/salt_lake/93.3 The Bull.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUBLFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KUBLFMAAC_SC"
         },
         {
             name: "94.1 KODJ",
@@ -28586,7 +28586,7 @@ var stations = {/*
         {
             name: "B98.7",
             logo: "stations/images-america/salt_lake/B98.7.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBEEFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBEEFMAAC_SC"
         },
         {
             name: "Business 99.1",
@@ -28621,7 +28621,7 @@ var stations = {/*
         {
             name: "KBER 101",
             logo: "stations/images-america/salt_lake/KBER 101.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KBERFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KBERFMAAC_SC"
         },
         {
             name: "101.5 HANK FM",
@@ -28756,7 +28756,7 @@ var stations = {/*
         {
             name: "860 KKAT",
             logo: "stations/images-america/salt_lake/860 KKAT.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKATAMAAC_SC"
         },
         {
             name: "SOS Radio 1120",
