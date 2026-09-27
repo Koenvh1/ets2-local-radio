@@ -1661,9 +1661,9 @@ var stations = {/*
             url: "https://cast.streamkast.co/kvas"
         },
         {
-            name: "ESPN 106.3",
-            logo: "stations/images-america/astoria/ESPN 106.3.png",
-            url: "https://cast.streamkast.co/kkor"
+            name: "106.3 ESPN",
+            logo: "stations/images-america/astoria/106.3 ESPN.png",
+            url: "https://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KSWB 840",
@@ -1677,8 +1677,8 @@ var stations = {/*
         },*/
         {
             name: "KKOR 1230",
-            logo: "stations/images-america/astoria/ESPN 106.3.png",
-            url: "http://cast.streamkast.co/kkor"
+            logo: "stations/images-america/astoria/106.3 ESPN.png",
+            url: "http://live.amperwave.net/manifest/espn-network-cloud.m3u8"
         },
         {
             name: "KAST 1370",
@@ -11051,7 +11051,7 @@ var stations = {/*
         {
             name: "JPR Rhythm & News 89.1",
             logo: "stations/images-america/0_general_logos/JPR.png",
-            url: "http://jpr.streamguys.org/jpr-news"
+            url: "https://stream.zeno.fm/zuackvt58ptuv"
         },
         {
             name: "KVIP 89.3",
@@ -14692,8 +14692,8 @@ var stations = {/*
             url: "https://ice8.securenetsystems.net/KIJVAM?mobileStreamSessionId=5026036D-188B-4209-BDAB-1A53EEB8A97D"
         },
         {
-            name: "Dakota Country KOKK 1210",
-            logo: "stations/images-america/huron_sd/Dakota Country KOKK 1210.png",
+            name: "KOKK 1210",
+            logo: "stations/images-america/huron_sd/KOKK 1210.png",
             url: "https://ice8.securenetsystems.net/KOKKAM?mobileStreamSessionId=2186774A-17CC-4672-BE1E-216E6930650B"
         },
         {
@@ -21492,8 +21492,8 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/townsquare-kxrbamaac-ibc3"
         },
         {
-            name: "Dakota Country KOKK 1210",
-            logo: "stations/images-america/huron_sd/Dakota Country KOKK 1210.png",
+            name: "KOKK 1210",
+            logo: "stations/images-america/huron_sd/KOKK 1210.png",
             url: "https://ice8.securenetsystems.net/KOKKAM?mobileStreamSessionId=2186774A-17CC-4672-BE1E-216E6930650B"
         },
         {
@@ -26714,7 +26714,7 @@ var stations = {/*
         {
             name: "Wild 102.9",
             logo: "stations/images-america/reno/Wild 102.9.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KWYLFMAAC_SC"
         },
         {
             name: "103.7 The River",
@@ -30254,7 +30254,7 @@ var stations = {/*
         {
             name: "107.7 The Bone",
             logo: "stations/images-america/san_francisco/107.7 The Bone.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KSANFMAAC_SC"
         },
         {
             name: "NOAA Weather Radio Monterey Marine",
