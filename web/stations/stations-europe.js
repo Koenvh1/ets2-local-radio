@@ -2092,6 +2092,11 @@ var stations = {/*
             url: "https://netradio.classicfm.dk/classicrock"
         },
         {
+            name: "FLOW",
+            logo: "stations/images-europe/denmark/FLOW.png",
+            url: "https://live-bauerdk.sharp-stream.com/Flow_dk.mp3"
+        },
+        {
             name: "mix 7",
             logo: "stations/images-europe/denmark/mix 7.png",
             url: "https://live-bauerdk.sharp-stream.com/Mix7.mp3"
@@ -10292,12 +10297,12 @@ var stations = {/*
             name: "Heart 10s",
             logo: "stations/images-europe/uk/Heart 10s.png",
             url: "https://media-ssl.musicradio.com/Heart10s"
-        },/*
+        },
         {
             name: "Heart Xmas",
             logo: "stations/images-europe/uk/Heart Xmas.png",
             url: "https://media-ssl.musicradio.com/HeartXmas"
-        },*/
+        },
         {
             name: "heat Radio",
             logo: "stations/images-europe/uk/heat Radio.png",
@@ -10377,12 +10382,12 @@ var stations = {/*
             name: "Magic Radio",
             logo: "stations/images-europe/uk/Magic Radio.png",
             url: "http://84.32.44.251/radiofeeds.php?station=magicnational-aac"
-        },/*
+        },
         {
             name: "Magic Christmas",
             logo: "stations/images-europe/uk/Magic Christmas.png",
             url: "http://84.32.44.251/radiofeeds.php?station=magicchristmas-aac"
-        },*/
+        },
         {
             name: "Magic Classical",
             logo: "stations/images-europe/uk/Magic Classical.png",

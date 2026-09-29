@@ -21188,11 +21188,6 @@ var stations = {/*
             url: "http://ice6.securenetsystems.net/KYUS"
         },
         {
-            name: "KICK 94.5",
-            logo: "stations/images-america/milescity/KICK 94.5.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wliqamaac-ibc3"
-        },
-        {
             name: "Good Time Oldies 95.3",
             logo: "stations/images-america/milescity/Good Time Oldies 95.3.png",
             url: "https://ice7.securenetsystems.net/KMTA"
@@ -21201,6 +21196,11 @@ var stations = {/*
             name: "KIK Country 101.3",
             logo: "stations/images-america/milescity/KIK Country 101.3.png",
             url: "https://ice5.securenetsystems.net/KICKFM"
+        },
+        {
+            name: "1250 KIKC",
+            logo: "stations/images-america/milescity/1250 KIKC.png",
+            url: "https://ice24.securenetsystems.net/KICKAM"
         },
     ],
     "missoula": [
