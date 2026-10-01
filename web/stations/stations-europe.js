@@ -6098,18 +6098,7 @@ var stations = {/*
             url: "https://icecast.unitedradio.it/Virgin.mp3"
         },
     ],/*
-    "japan": [
-        {
-            name: "NHK-FM放送",
-            logo: "stations/images-europe/japan/NHK-FM放送.png",
-            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/5/joined/master.m3u8"
-        },
-        {
-            name: "NHK Radio 1",
-            logo: "stations/images-europe/japan/NHKラジオ第1放送.png",
-            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/3/joined/master.m3u8"
-        },
-    ],*/
+    "japan": [],*/
     "jordan": [
         {
             name: "اذاعة القرآن الكريم",
