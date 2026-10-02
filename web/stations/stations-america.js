@@ -15702,6 +15702,14 @@ var stations = {/*
             url: "https://stream.surfernetwork.com/k7upf9kkpadtv"
         },
         {
+            name: "Power Hits 97.5",
+            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
+			tower: "-3926.305;0;-1047.061",
+			radius: 1.30,
+			relative_whitenoise: 0.90,
+            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
+        },
+        {
             name: "KCLY 100.9",
             logo: "stations/images-america/junction_city/KCLY 100.9.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KCLYFMAAC_SC"
@@ -15755,16 +15763,6 @@ var stations = {/*
             name: "1560 The General",
             logo: "stations/images-america/salina_ks/The General 1560.png",
             url: "https://ice42.securenetsystems.net/KABI"
-        },
-    ],
-    "junction_city_kjckfm": [
-        {
-            name: "Power Hits 97.5",
-            logo: "stations/images-america/junction_city/Power Hits 97.5.png",
-			tower: "-3926.305;0;-1047.061",
-			radius: 1.30,
-			relative_whitenoise: 0.90,
-            url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KJCKFM"
         },
     ],
     "katl": [
