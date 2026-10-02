@@ -34235,7 +34235,7 @@ var stations = {/*
         {
             name: "WIBW 104.9",
             logo: "stations/images-america/topeka/WIBW.png",
-            url: "https://us9.streamway.net/stream/wibw"
+            url: "http://us9.streamway.net/stream/wibw"
         },
         {
             name: "105.9 KISS FM",
