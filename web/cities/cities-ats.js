@@ -2483,18 +2483,6 @@ var country_properties = {
         code: "us-nv",
         relative_radius: 1.0
     },
-    "topeka_carbondale": {
-        name: "Topeka",
-        name_english: "Topeka",
-        code: "us-ks",
-        relative_radius: 0.8
-    },
-    "topeka_lawrence": {
-        name: "Topeka",
-        name_english: "Topeka",
-        code: "us-ks",
-        relative_radius: 0.8
-    },
     "topeka": {
         name: "Topeka",
         name_english: "Topeka",
@@ -4082,13 +4070,6 @@ var city_properties = {
     },
     "tonopah": {
         relative_whitenoise: 0.85
-    },
-    "topeka_carbondale": {
-        relative_whitenoise: 0.80
-    },
-    "topeka_lawrence": {
-        relative_radius: 1.1,
-        relative_whitenoise: 0.90
     },
     "topeka": {
 		relative_radius: 0.9,
@@ -8003,41 +7984,9 @@ var cities = [
         "z": "-4832.38"
     },
     {
-        "gameName": "topeka_carbondale",
-        "realName": "Topeka",
-        "country": "topeka_carbondale",
-        "x": "603.289",
-        "y": "96.8672",
-        "z": "376.1289"
-    },
-    {
-        "gameName": "topeka_lawrence",
-        "realName": "Topeka",
-        "country": "topeka_lawrence",
-        "x": "2603.289",
-        "y": "96.8672",
-        "z": "176.1289"
-    },
-    {
         "gameName": "topeka",
         "realName": "Topeka",
         "country": "topeka",
-        "x": "1303.289",
-        "y": "96.8672",
-        "z": "-476.1289"
-    },
-    {
-        "gameName": "topeka",
-        "realName": "Topeka",
-        "country": "topeka_carbondale",
-        "x": "1303.289",
-        "y": "96.8672",
-        "z": "-476.1289"
-    },
-    {
-        "gameName": "topeka",
-        "realName": "Topeka",
-        "country": "topeka_lawrence",
         "x": "1303.289",
         "y": "96.8672",
         "z": "-476.1289"
