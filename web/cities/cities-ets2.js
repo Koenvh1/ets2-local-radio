@@ -623,6 +623,12 @@ var country_properties = {
         code: "ma",
         relative_radius: 0.8,
     },
+    "ncyprus": {
+        name: "Kuzey Kıbrıs",
+        name_english: "Northern Cyprus",
+        code: "cy-nc",
+        relative_radius: 0.5,
+    },
     "netherlands": {
         name: "Nederland",
         name_english: "Netherlands",
@@ -8842,6 +8848,14 @@ var cities_pm230 = [
         "z": "-22086.8"
     },
     {
+        "gameName": "girne",
+        "realName": "Girne",
+        "country": "ncyprus",
+        "x": "102051",
+        "y": "57.23438",
+        "z": "74897.88"
+    },
+    {
         "gameName": "grumantbyen",
         "realName": "Grumantbyen",
         "country": "norway",
@@ -8877,6 +8891,14 @@ var cities_pm230 = [
         "gameName": "lefkosia",
         "realName": "Λευκωσία",
         "country": "cyprus",
+        "x": "101945",
+        "y": "69.0859",
+        "z": "75661"
+    },
+    {
+        "gameName": "lefkosia",
+        "realName": "Λευκωσία",
+        "country": "ncyprus",
         "x": "101945",
         "y": "69.0859",
         "z": "75661"
@@ -12365,7 +12387,7 @@ var cities_yks_turkey = [
     {
         "gameName": "girne",
         "realName": "Girne",
-        "country": "cyprus",
+        "country": "ncyprus",
         "x": "102544",
         "y": "90.4844",
         "z": "101224"
@@ -12502,6 +12524,14 @@ var cities_yks_turkey = [
         "gameName": "lefkosa",
         "realName": "Lefkosa",
         "country": "cyprus",
+        "x": "102847",
+        "y": "83.7031",
+        "z": "103541"
+    },
+    {
+        "gameName": "lefkosa",
+        "realName": "Lefkosa",
+        "country": "ncyprus",
         "x": "102847",
         "y": "83.7031",
         "z": "103541"
@@ -13946,6 +13976,14 @@ var cities_roextended_turkey = [
         "z": "42424.71"
     },
     {
+        "gameName": "batman",
+        "realName": "Batman",
+        "country": "turkey",
+        "x": "133271.3",
+        "y": "100",
+        "z": "51574.51"
+    },
+    {
         "gameName": "bayburt",
         "realName": "Bayburt",
         "country": "turkey",
@@ -14218,12 +14256,28 @@ var cities_roextended_turkey = [
         "z": "66435.42"
     },
     {
+        "gameName": "midyat",
+        "realName": "Midyat",
+        "country": "turkey",
+        "x": "135312.5",
+        "y": "100",
+        "z": "53879.64"
+    },
+    {
         "gameName": "mugla",
         "realName": "Muğla",
         "country": "turkey",
         "x": "78415.7",
         "y": "300.0391",
         "z": "70673.02"
+    },
+    {
+        "gameName": "mus",
+        "realName": "Muş",
+        "country": "turkey",
+        "x": "133158",
+        "y": "75.53906",
+        "z": "45661.44"
     },
     {
         "gameName": "ordu",
@@ -14296,6 +14350,14 @@ var cities_roextended_turkey = [
         "x": "127847.9",
         "y": "92",
         "z": "55452.14"
+    },
+    {
+        "gameName": "tatvan",
+        "realName": "Tatvan",
+        "country": "turkey",
+        "x": "136952.4",
+        "y": "90",
+        "z": "46218.91"
     },
     {
         "gameName": "tokat",

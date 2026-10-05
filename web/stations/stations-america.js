@@ -34123,12 +34123,12 @@ var stations = {/*
             name: "KIBS 101.7",
             logo: "stations/images-america/tonopah/KIBS 100.7.png",
             url: "https://streaming.live365.com/a16395_2"
-        },/*
+        },
         {
             name: "Kinetic.FM 103.3",
             logo: "stations/images-america/tonopah/Kinetic.FM 103.3.png",
-            url: "https://kinetic.fm/-audio_out/radiodns.m4a"
-        },*/
+            url: "https://kinetic.fm/-audio_out/Classics_Stream"
+        },
     ],
     "topeka": [
         {
