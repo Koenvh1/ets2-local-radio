@@ -6077,19 +6077,19 @@ var stations = {/*
             logo: "stations/images-europe/italy/Virgin Radio.png",
             url: "https://icecast.unitedradio.it/Virgin.mp3"
         },
-    ],/*
+    ],
     "japan": [
         {
             name: "NHK FM",
             logo: "stations/images-europe/japan/NHK FM.png",
-            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/5/joined/master.m3u8"
+            url: "http://89.168.75.18/nhk.php?u=https://simul2.drdi.st.nhk/live/5/joined/master.m3u8"
         },
         {
             name: "NHK AM",
             logo: "stations/images-europe/japan/NHK AM.png",
-            url: "https://wjptest.azurewebsites.net/browse.php?u=https://simul.drdi.st.nhk/live/3/joined/master.m3u8"
+            url: "http://89.168.75.18/nhk.php?u=https://simul2.drdi.st.nhk/live/3/joined/master.m3u8"
         },
-    ],*/
+    ],
     "jordan": [
         {
             name: "اذاعة القرآن الكريم",
