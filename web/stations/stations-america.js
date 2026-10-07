@@ -4278,11 +4278,6 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/YNOP.png",
             url: "http://ice23.securenetsystems.net/YNOP"
         },
-        {
-            name: "BIG 81",
-            logo: "stations/images-america/rapid_city/BIG 81.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
-        },
     ],
     "brownwood": [
         {
@@ -4384,11 +4379,6 @@ var stations = {/*
         },
     ],
     "buffalo_sd": [
-        {
-            name: "BIG 81",
-            logo: "stations/images-america/rapid_city/BIG 81.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
-        },
         {
             name: "960 KFLN",
             logo: "stations/images-america/c2c/baker_mt/960 KFLN.png",
@@ -11308,11 +11298,6 @@ var stations = {/*
             name: "SDPB 97.1",
             logo: "stations/images-america/0_general_logos/SDPB.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
-        },
-        {
-            name: "BIG 81",
-            logo: "stations/images-america/rapid_city/BIG 81.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
         },
     ],
     "farmington": [
@@ -26148,181 +26133,346 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc4015/hls.m3u8"
         },
     ],
-    "rapid_city": [
+	"rapid_city": [
         {
             name: "Faith 88.3",
             logo: "stations/images-america/0_general_logos/Faith Radio.png",
-            url: "https://nwm.streamguys1.com/faith-aac"
+            url: "https://nwm.streamguys1.com/faith-aac",
+			tower: "-31185.999;0;-32118.27",
+			radius: 1.00,
+			relative_whitenoise: 0.95,
+			coverage: [1.00, 1.00, 0.99, 0.99, 0.99, 0.99, 0.99, 0.97, 0.95, 0.94, 0.93, 0.91, 0.88, 0.86, 0.85, 0.85, 0.83, 0.83, 0.82, 0.84, 0.86, 0.86, 0.84, 0.85, 0.88, 0.89, 0.90, 0.92, 0.93, 0.95, 0.97, 0.98],
         },
         {
             name: "88.7 K204FB",
             logo: "stations/images-america/chadron/KILI 90.1.png",
-            url: "https://kili.streamguys1.com/live"
+            url: "https://kili.streamguys1.com/live",
+			tower: "-28921.45;0;-30766.463",
+			radius: 0.40,
+			relative_whitenoise: 1.35,
+			coverage: [0.24, 0.24, 0.24, 0.24, 0.24, 0.30, 0.39, 0.47, 0.54, 0.59, 0.62, 0.64, 0.65, 0.64, 0.62, 0.56, 0.49, 0.42, 0.39, 0.30, 0.24, 0.19, 0.11, 0.08, 0.08, 0.09, 0.09, 0.11, 0.18, 0.22, 0.23, 0.25],
         },
         {
             name: "SDPB 89.3",
             logo: "stations/images-america/0_general_logos/SDPB.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC",
+			tower: "-28951.463;0;-30423.251",
+			radius: 0.75,
+			relative_whitenoise: 1.11,
+			coverage: [0.74, 0.78, 0.81, 0.82, 0.82, 0.82, 0.82, 0.82, 0.83, 0.84, 0.84, 0.83, 0.81, 0.79, 0.75, 0.73, 0.68, 0.60, 0.54, 0.46, 0.45, 0.45, 0.45, 0.45, 0.45, 0.45, 0.46, 0.51, 0.58, 0.65, 0.73, 0.74],
         },
         {
             name: "Real Presence Radio 89.9",
             logo: "stations/images-america/0_general_logos/Real Presence Radio.png",
-            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll"
+            url: "https://ssl-1.stream.miriamtech.net/realpresence/kgll",
+			tower: "-31185.999;0;-32118.27",
+			radius: 0.85,
+			relative_whitenoise: 0.95,
+			coverage: [1.40, 1.41, 1.41, 1.40, 1.41, 1.42, 1.41, 1.38, 1.35, 1.32, 1.26, 1.24, 1.22, 1.19, 1.17, 1.17, 1.14, 1.14, 1.13, 1.16, 1.19, 1.18, 1.16, 1.18, 1.21, 1.24, 1.24, 1.26, 1.31, 1.33, 1.38, 1.38],
         },
         {
             name: "Bott Radio 90.3",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
-            url: "http://streaming.live365.com/a71179_2"
+            url: "http://streaming.live365.com/a71179_2",
+			tower: "-28968.782;0;-30523.979",
+			radius: 0.55,
+			relative_whitenoise: 1.18,
+			coverage: [0.88, 0.92, 0.96, 0.97, 0.98, 0.98, 0.98, 0.99, 0.98, 0.99, 1.01, 1.00, 0.97, 0.94, 0.89, 0.85, 0.77, 0.69, 0.61, 0.49, 0.48, 0.48, 0.48, 0.48, 0.48, 0.48, 0.48, 0.49, 0.56, 0.72, 0.84, 0.87],
         },
         {
             name: "KTEQ 91.3",
             logo: "stations/images-america/rapid_city/KTEQ 91.3.png",
-            url: "https://kteq-proxy.kteq.workers.dev/"
+            url: "https://kteq-proxy.kteq.workers.dev/",
+			tower: "-28955.262;0;-30622.106",
+			radius: 0.50,
+			relative_whitenoise: 1.35,
+			coverage: [0.51, 0.58, 0.64, 0.67, 0.67, 0.66, 0.66, 0.67, 0.67, 0.66, 0.69, 0.70, 0.68, 0.64, 0.56, 0.43, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.37, 0.47],
         },
         {
             name: "Effect Radio 91.7",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+			tower: "-28921.45;0;-30766.463",
+			radius: 0.40,
+			relative_whitenoise: 1.35,
+			coverage: [0.60, 0.63, 0.65, 0.66, 0.66, 0.65, 0.64, 0.64, 0.65, 0.65, 0.64, 0.65, 0.66, 0.64, 0.62, 0.57, 0.49, 0.44, 0.43, 0.38, 0.36, 0.35, 0.26, 0.23, 0.23, 0.23, 0.23, 0.26, 0.41, 0.48, 0.52, 0.59],
         },
         {
             name: "Q92.3",
             logo: "stations/images-america/rapid_city/Q92.3.png",
-            url: "https://ais-sa1.streamon.fm/7770_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7770_96k.aac",
+			tower: "-28970.639;0;-30514.822",
+			radius: 1.10,
+			relative_whitenoise: 1.02,
+			coverage: [0.71, 0.72, 0.75, 0.76, 0.76, 0.76, 0.76, 0.76, 0.76, 0.77, 0.78, 0.77, 0.76, 0.75, 0.72, 0.69, 0.65, 0.63, 0.60, 0.56, 0.53, 0.49, 0.49, 0.54, 0.54, 0.50, 0.54, 0.57, 0.59, 0.64, 0.69, 0.71],
         },
         {
             name: "HOT 93.1",
             logo: "stations/images-america/rapid_city/HOT 93.1.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-krcsfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-krcsfmaac-ibc4",
+			tower: "-30003.435;0;-32058.741",
+			radius: 1.20,
+			relative_whitenoise: 0.99,
+			coverage: [0.77, 0.79, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.81, 0.80, 0.77, 0.76, 0.72, 0.65, 0.61, 0.60, 0.56, 0.53, 0.52, 0.48, 0.47, 0.47, 0.48, 0.49, 0.55, 0.61, 0.66, 0.70, 0.73, 0.75, 0.76],
         },
         {
             name: "93.9 The Mix",
             logo: "stations/images-america/rapid_city/93.9 The Mix.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kkmkfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kkmkfmaac-ibc4",
+			tower: "-28961.722;0;-30393.024",
+			radius: 1.15,
+			relative_whitenoise: 1.01,
+			coverage: [0.71, 0.73, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.76, 0.76, 0.76, 0.75, 0.75, 0.73, 0.71, 0.69, 0.66, 0.63, 0.61, 0.57, 0.53, 0.50, 0.48, 0.48, 0.54, 0.56, 0.56, 0.59, 0.62, 0.64, 0.69, 0.71],
         },
         {
             name: "95.1 KSKY",
             logo: "stations/images-america/rapid_city/95.1 KSKY.png",
-            url: "http://ice7.securenetsystems.net/KSKY"
+            url: "http://ice7.securenetsystems.net/KSKY",
+			tower: "-31192.946;0;-32129.468",
+			radius: 1.30,
+			relative_whitenoise: 0.94,
+			coverage: [0.80, 0.81, 0.81, 0.80, 0.79, 0.80, 0.79, 0.78, 0.77, 0.76, 0.75, 0.73, 0.71, 0.69, 0.68, 0.68, 0.67, 0.67, 0.66, 0.68, 0.69, 0.69, 0.68, 0.69, 0.71, 0.72, 0.72, 0.75, 0.76, 0.77, 0.79, 0.80],
         },
         {
             name: "Eagle Country 95.9",
             logo: "stations/images-america/rapid_city/Eagle Country 95.9.png",
-            url: "https://ais-sa1.streamon.fm/7773_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7773_96k.aac",
+			tower: "-31190.192;0;-32107.839",
+			radius: 1.30,
+			relative_whitenoise: 0.94,
+			coverage: [0.81, 0.81, 0.81, 0.80, 0.80, 0.80, 0.80, 0.79, 0.77, 0.76, 0.76, 0.75, 0.72, 0.70, 0.69, 0.69, 0.68, 0.68, 0.67, 0.69, 0.70, 0.70, 0.69, 0.70, 0.71, 0.74, 0.75, 0.76, 0.76, 0.77, 0.79, 0.80],
         },
         {
             name: "97.5 K248BT",
             logo: "stations/images-america/rapid_city/Cowboy 104.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/homeslice-kklsamaac-ibc4",
+			tower: "-28961.722;0;-30393.024",
+			radius: 0.45,
+			relative_whitenoise: 1.34,
+			coverage: [0.73, 0.79, 0.82, 0.83, 0.83, 0.83, 0.84, 0.83, 0.85, 0.86, 0.85, 0.83, 0.81, 0.79, 0.74, 0.71, 0.65, 0.58, 0.53, 0.41, 0.32, 0.32, 0.32, 0.32, 0.33, 0.39, 0.37, 0.47, 0.55, 0.62, 0.71, 0.74],
         },
         {
             name: "VCY America 97.9",
             logo: "stations/images-america/0_general_logos/VCY America.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KVCXFMAAC_SC",
+			tower: "-31185.999;0;-32118.27",
+			radius: 1.35,
+			relative_whitenoise: 0.94,
+			coverage: [0.78, 0.79, 0.79, 0.78, 0.78, 0.78, 0.77, 0.76, 0.75, 0.75, 0.74, 0.73, 0.72, 0.68, 0.68, 0.68, 0.67, 0.66, 0.66, 0.67, 0.69, 0.68, 0.67, 0.68, 0.70, 0.73, 0.73, 0.74, 0.74, 0.75, 0.77, 0.78],
         },
         {
             name: "KAT 98.7",
             logo: "stations/images-america/rapid_city/KAT 98.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-koutfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-koutfmaac-ibc4",
+			tower: "-28968.782;0;-30523.979",
+			radius: 1.10,
+			relative_whitenoise: 1.05,
+			coverage: [0.68, 0.72, 0.74, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.76, 0.77, 0.76, 0.75, 0.73, 0.70, 0.67, 0.63, 0.59, 0.57, 0.52, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.53, 0.56, 0.62, 0.66, 0.68],
         },
         {
             name: "99.5 The Mine",
             logo: "stations/images-america/rapid_city/99.5 The Mine.png",
-            url: "http://streaming.radiowyo.com:1010/KRKICONFIDENCE"
+            url: "http://streaming.radiowyo.com:1010/KRKICONFIDENCE",
+			tower: "-31128.627;0;-29487.387",
+			radius: 1.15,
+			relative_whitenoise: 0.98,
+			coverage: [0.57, 0.61, 0.63, 0.68, 0.70, 0.74, 0.75, 0.76, 0.75, 0.72, 0.74, 0.75, 0.76, 0.76, 0.76, 0.75, 0.73, 0.72, 0.74, 0.74, 0.73, 0.72, 0.72, 0.70, 0.66, 0.64, 0.63, 0.61, 0.57, 0.56, 0.56, 0.56],
         },
         {
             name: "CSN Radio 99.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+			tower: "-28921.45;0;-30766.463",
+			radius: 0.40,
+			relative_whitenoise: 1.35,
+			coverage: [0.60, 0.63, 0.65, 0.66, 0.66, 0.65, 0.64, 0.64, 0.65, 0.65, 0.64, 0.65, 0.66, 0.64, 0.62, 0.57, 0.49, 0.44, 0.43, 0.38, 0.36, 0.35, 0.26, 0.23, 0.23, 0.23, 0.23, 0.26, 0.41, 0.48, 0.52, 0.59],
         },
         {
             name: "100.3 The Fox",
             logo: "stations/images-america/rapid_city/100.3 The Fox.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kfxsfmaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kfxsfmaac-ibc4",
+			tower: "-28968.782;0;-30523.979",
+			radius: 1.10,
+			relative_whitenoise: 1.05,
+			coverage: [0.68, 0.72, 0.74, 0.75, 0.75, 0.75, 0.75, 0.75, 0.75, 0.76, 0.77, 0.76, 0.75, 0.73, 0.70, 0.67, 0.63, 0.59, 0.57, 0.52, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.53, 0.56, 0.62, 0.66, 0.68],
         },
         {
             name: "KOTA 100.7",
             logo: "stations/images-america/rapid_city/KOTA.png",
-            url: "https://ais-sa1.streamon.fm/7772_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7772_96k.aac",
+			tower: "-28970.639;0;-30514.822",
+			radius: 0.50,
+			relative_whitenoise: 1.30,
+			coverage: [0.70, 0.73, 0.77, 0.78, 0.78, 0.79, 0.79, 0.79, 0.79, 0.80, 0.81, 0.80, 0.78, 0.75, 0.71, 0.66, 0.60, 0.55, 0.48, 0.39, 0.32, 0.31, 0.31, 0.34, 0.34, 0.32, 0.34, 0.42, 0.47, 0.57, 0.66, 0.69],
         },
         {
             name: "X-ROCK 101.1",
             logo: "stations/images-america/rapid_city/X-ROCK 101.1.png",
-            url: "https://ais-sa1.streamon.fm/7771_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7771_96k.aac",
+			tower: "-31190.192;0;-32107.839",
+			radius: 1.30,
+			relative_whitenoise: 0.94,
+			coverage: [0.80, 0.81, 0.81, 0.80, 0.80, 0.80, 0.80, 0.79, 0.77, 0.76, 0.76, 0.74, 0.71, 0.70, 0.69, 0.69, 0.68, 0.68, 0.67, 0.69, 0.70, 0.70, 0.69, 0.70, 0.71, 0.74, 0.75, 0.75, 0.76, 0.77, 0.79, 0.80],
         },
         {
             name: "KOOL 101.9",
             logo: "stations/images-america/rapid_city/KOOL 101.9.png",
-            url: "http://streaming.radiowyo.com:1010/KFMHCONFIDENCE"
+            url: "http://streaming.radiowyo.com:1010/KFMHCONFIDENCE",
+			tower: "-31189.584;0;-32115.454",
+			radius: 1.25,
+			relative_whitenoise: 0.95,
+			coverage: [0.81, 0.82, 0.81, 0.81, 0.81, 0.81, 0.81, 0.79, 0.77, 0.74, 0.74, 0.72, 0.71, 0.69, 0.68, 0.68, 0.66, 0.66, 0.65, 0.67, 0.69, 0.69, 0.67, 0.69, 0.71, 0.72, 0.73, 0.73, 0.74, 0.76, 0.80, 0.80],
         },
         {
             name: "HITS 102.7",
             logo: "stations/images-america/rapid_city/Hits 102.7.png",
-            url: "http://ice66.securenetsystems.net/KXMZ"
+            url: "http://ice66.securenetsystems.net/KXMZ",
+			tower: "-28949.962;0;-30646.466",
+			radius: 0.95,
+			relative_whitenoise: 1.07,
+			coverage: [0.73, 0.76, 0.78, 0.79, 0.79, 0.78, 0.78, 0.79, 0.77, 0.72, 0.69, 0.69, 0.71, 0.73, 0.74, 0.71, 0.65, 0.63, 0.60, 0.55, 0.51, 0.51, 0.52, 0.51, 0.51, 0.50, 0.50, 0.51, 0.57, 0.66, 0.69, 0.71],
         },
         {
             name: "X-ROCK 103.7",
             logo: "stations/images-america/rapid_city/X-ROCK 101.1.png",
-            url: "http://ais-sa1.streamon.fm/7771_96k.aac"
+            url: "http://ais-sa1.streamon.fm/7771_96k.aac",
+			tower: "-28971.617;0;-30516.453",
+			radius: 0.50,
+			relative_whitenoise: 1.35,
+			coverage: [0.62, 0.65, 0.67, 0.66, 0.66, 0.66, 0.68, 0.71, 0.73, 0.74, 0.73, 0.68, 0.65, 0.62, 0.58, 0.56, 0.49, 0.42, 0.33, 0.27, 0.27, 0.27, 0.27, 0.29, 0.31, 0.31, 0.29, 0.27, 0.28, 0.39, 0.53, 0.60],
         },
         {
             name: "KICK 104",
             logo: "stations/images-america/rapid_city/KICK 104.png",
-            url: "http://ice7.securenetsystems.net/KICK"
+            url: "http://ice7.securenetsystems.net/KICK",
+			tower: "-29026.214;0;-30258.356",
+			band: "FM",
+			radius: 1.10,
+			relative_whitenoise: 1.03,
+			coverage: [0.72, 0.72, 0.76, 0.77, 0.77, 0.77, 0.77, 0.78, 0.78, 0.78, 0.77, 0.76, 0.74, 0.73, 0.72, 0.69, 0.66, 0.64, 0.60, 0.54, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.53, 0.53, 0.59, 0.63, 0.67, 0.72],
         },
         {
             name: "Cowboy 104.7",
             logo: "stations/images-america/rapid_city/Cowboy 104.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kklsamaac-ibc4",
+			tower: "-28961.722;0;-30393.024",
+			radius: 0.40,
+			relative_whitenoise: 1.35,
+			coverage: [0.70, 0.76, 0.80, 0.81, 0.82, 0.81, 0.82, 0.82, 0.83, 0.85, 0.84, 0.82, 0.79, 0.76, 0.71, 0.68, 0.61, 0.51, 0.45, 0.34, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.40, 0.48, 0.57, 0.67, 0.70],
         },
         {
             name: "105.7 ESPN",
             logo: "stations/images-america/rapid_city/ESPN Rapid City.png",
-            url: "https://ice9.securenetsystems.net/KTOQ"
+            url: "https://ice9.securenetsystems.net/KTOQ",
+			tower: "-29028.423;0;-30258.535",
+			radius: 0.50,
+			relative_whitenoise: 1.32,
+			coverage: [0.67, 0.67, 0.73, 0.75, 0.76, 0.76, 0.76, 0.77, 0.78, 0.77, 0.76, 0.74, 0.70, 0.67, 0.66, 0.62, 0.56, 0.52, 0.41, 0.32, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.32, 0.39, 0.47, 0.59, 0.65],
         },
         {
             name: "Z106.3",
             logo: "stations/images-america/rapid_city/Z106.3.png",
-            url: "https://ais-sa1.streamon.fm/7769_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7769_96k.aac",
+			tower: "-28970.639;0;-30514.822",
+			radius: 1.05,
+			relative_whitenoise: 0.99,
+			coverage: [0.78, 0.80, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.83, 0.84, 0.83, 0.82, 0.81, 0.78, 0.76, 0.72, 0.69, 0.67, 0.64, 0.61, 0.58, 0.58, 0.62, 0.62, 0.59, 0.62, 0.65, 0.67, 0.70, 0.76, 0.78],
         },
         {
             name: "FOX Sports 106.7",
             logo: "stations/images-america/rapid_city/FOX Sports Rapid City.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a36107"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a36107",
+			tower: "-28970.416;0;-30503.945",
+			radius: 0.50,
+			relative_whitenoise: 1.32,
+			coverage: [0.64, 0.68, 0.72, 0.74, 0.74, 0.74, 0.75, 0.75, 0.74, 0.76, 0.77, 0.76, 0.73, 0.71, 0.65, 0.60, 0.52, 0.44, 0.37, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.31, 0.35, 0.47, 0.60, 0.63],
         },
         {
             name: "KSLT 107.1",
             logo: "stations/images-america/rapid_city/KSLT 107.1.png",
-            url: "https://nwm.streamguys1.com/kslt-mp3"
+            url: "https://nwm.streamguys1.com/kslt-mp3",
+			tower: "-31185.999;0;-32118.27",
+			radius: 1.35,
+			relative_whitenoise: 0.94,
+			coverage: [0.78, 0.79, 0.79, 0.78, 0.78, 0.78, 0.77, 0.76, 0.75, 0.75, 0.74, 0.73, 0.72, 0.68, 0.68, 0.68, 0.67, 0.66, 0.66, 0.67, 0.69, 0.68, 0.67, 0.68, 0.70, 0.73, 0.73, 0.74, 0.74, 0.75, 0.77, 0.78],
         },
         {
             name: "BIG 81",
             logo: "stations/images-america/rapid_city/BIG 81.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/homeslice-kbhbamaac-ibc4",
+			tower: "-29519.333;0;-32520.045",
+			band: "AM",
+			radius: 1.00,
+			contours: {
+				local   : [0.90, 0.88, 0.87, 0.88, 0.90, 0.93, 0.98, 1.04, 1.04, 1.01, 0.94, 0.89, 0.85, 0.84, 0.86, 0.84, 0.69, 0.64, 0.63, 0.63, 0.63, 0.64, 0.65, 0.67, 0.68, 0.70, 0.73, 0.80, 0.97, 1.00, 0.95, 0.91],
+				distant : [1.36, 1.35, 1.35, 1.36, 1.37, 1.41, 1.51, 1.65, 1.65, 1.60, 1.50, 1.38, 1.33, 1.30, 1.34, 1.39, 1.29, 1.21, 1.16, 1.15, 1.21, 1.25, 1.24, 1.18, 1.12, 1.16, 1.24, 1.36, 1.49, 1.50, 1.43, 1.38],
+				fringe  : [1.88, 1.83, 1.92, 2.12, 2.22, 2.22, 2.41, 2.67, 2.70, 2.51, 2.31, 2.01, 1.85, 1.78, 1.82, 1.95, 1.93, 1.86, 1.79, 1.82, 1.90, 1.94, 1.95, 1.95, 1.93, 1.89, 1.93, 1.99, 2.08, 2.08, 2.00, 1.94]
+			},
         },
         {
             name: "Cowboy 920",
             logo: "stations/images-america/rapid_city/Cowboy 104.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/homeslice-kklsamaac-ibc4"
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/manifest/homeslice-kklsamaac-ibc4",
+			tower: "-28673.736;0;-30453.185",
+			band: "AM",
+			radius: 1.15,
+			contours: {
+				local   : [0.53, 0.49, 0.44, 0.40, 0.37, 0.35, 0.35, 0.35, 0.35, 0.35, 0.35, 0.36, 0.39, 0.42, 0.47, 0.53, 0.59, 0.60, 0.56, 0.47, 0.46, 0.45, 0.45, 0.45, 0.45, 0.46, 0.46, 0.47, 0.49, 0.60, 0.60, 0.57],
+				distant : [0.86, 0.80, 0.74, 0.70, 0.69, 0.68, 0.67, 0.67, 0.67, 0.61, 0.58, 0.61, 0.65, 0.70, 0.76, 0.86, 0.98, 1.00, 0.97, 0.86, 0.79, 0.79, 0.80, 0.79, 0.78, 0.78, 0.79, 0.79, 0.83, 1.03, 1.01, 0.93],
+				fringe  : [1.25, 1.16, 1.08, 1.02, 0.99, 1.01, 1.06, 1.07, 1.06, 0.97, 0.89, 0.93, 0.99, 1.02, 1.08, 1.22, 1.35, 1.47, 1.37, 1.29, 1.26, 1.30, 1.32, 1.31, 1.27, 1.22, 1.21, 1.25, 1.31, 1.48, 1.43, 1.33]
+			},
         },
         {
             name: "KDSJ 980",
             logo: "stations/images-america/rapid_city/KDSJ 980.png",
-            url: "https://ais-sa1.streamon.fm/7768_96k.aac"
+            url: "https://ais-sa1.streamon.fm/7768_96k.aac",
+			tower: "-30472.542;0;-32366.401",
+			band: "AM",
+			radius: 1.20,
+			contours: {
+				local   : [0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.47, 0.46, 0.45, 0.41, 0.35, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.34, 0.35, 0.40, 0.45, 0.47],
+				distant : [0.74, 0.73, 0.72, 0.72, 0.73, 0.75, 0.79, 0.83, 0.83, 0.83, 0.82, 0.77, 0.75, 0.72, 0.68, 0.63, 0.59, 0.59, 0.59, 0.59, 0.60, 0.60, 0.60, 0.60, 0.60, 0.60, 0.60, 0.61, 0.64, 0.76, 0.80, 0.77],
+				fringe  : [1.09, 1.08, 1.07, 1.07, 1.07, 1.09, 1.14, 1.25, 1.27, 1.27, 1.24, 1.12, 1.10, 1.07, 1.06, 1.06, 1.01, 1.00, 0.97, 1.00, 1.03, 1.03, 1.02, 0.99, 0.96, 0.94, 0.95, 0.99, 1.02, 1.12, 1.15, 1.11]
+			},
         },
         {
             name: "FOX Sports 1150",
             logo: "stations/images-america/rapid_city/FOX Sports Rapid City.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://streaming.live365.com/a36107"
+            url: "http://84.32.44.251/amperwave/index.php?q=http://streaming.live365.com/a36107",
+			tower: "-28553.999;0;-30522.279",
+			band: "AM",
+			radius: 1.05,
+			contours: {
+				local   : [0.47, 0.47, 0.46, 0.46, 0.46, 0.46, 0.46, 0.46, 0.46, 0.45, 0.42, 0.41, 0.40, 0.40, 0.41, 0.44, 0.46, 0.46, 0.45, 0.39, 0.37, 0.36, 0.35, 0.36, 0.36, 0.36, 0.37, 0.39, 0.44, 0.46, 0.47, 0.47],
+				distant : [0.79, 0.77, 0.76, 0.77, 0.79, 0.80, 0.80, 0.80, 0.80, 0.72, 0.67, 0.66, 0.65, 0.65, 0.66, 0.70, 0.79, 0.81, 0.78, 0.65, 0.61, 0.61, 0.61, 0.61, 0.61, 0.61, 0.62, 0.64, 0.74, 0.80, 0.81, 0.81],
+				fringe  : [1.19, 1.16, 1.11, 1.12, 1.14, 1.18, 1.23, 1.23, 1.23, 1.15, 1.03, 1.01, 1.00, 0.99, 0.98, 1.05, 1.16, 1.18, 1.11, 1.06, 0.98, 0.97, 0.98, 0.97, 0.96, 0.96, 0.96, 0.98, 1.13, 1.23, 1.21, 1.22]
+			},
         },
         {
             name: "1340 ESPN",
             logo: "stations/images-america/rapid_city/ESPN Rapid City.png",
-            url: "http://ice9.securenetsystems.net/KTOQ"
+            url: "http://ice9.securenetsystems.net/KTOQ",
+			tower: "-28649.944;0;-30486.894",
+			band: "AM",
+			radius: 0.85,
+			contours: {
+				local   : [0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.36, 0.35, 0.31, 0.29, 0.28, 0.28, 0.28, 0.29, 0.29, 0.30, 0.31, 0.34, 0.36, 0.36, 0.36],
+				distant : [0.66, 0.66, 0.65, 0.65, 0.65, 0.65, 0.65, 0.65, 0.65, 0.62, 0.58, 0.57, 0.57, 0.57, 0.58, 0.63, 0.65, 0.65, 0.60, 0.51, 0.49, 0.49, 0.49, 0.49, 0.49, 0.49, 0.50, 0.51, 0.56, 0.64, 0.65, 0.65],
+				fringe  : [1.02, 1.01, 0.98, 0.99, 1.01, 1.02, 1.03, 1.02, 1.02, 0.93, 0.88, 0.86, 0.86, 0.86, 0.87, 0.92, 0.98, 0.98, 0.91, 0.81, 0.78, 0.78, 0.78, 0.78, 0.78, 0.78, 0.79, 0.80, 0.85, 1.01, 1.03, 1.02]
+			},
         },
         {
             name: "KOTA 1380",
             logo: "stations/images-america/rapid_city/KOTA.png",
-            url: "http://ais-sa1.streamon.fm/7772_96k.aac"
+            url: "http://ais-sa1.streamon.fm/7772_96k.aac",
+			tower: "-28736.271;0;-30298.376",
+			band: "AM",
+			radius: 1.10,
+			contours: {
+				local   : [0.38, 0.38, 0.38, 0.38, 0.38, 0.38, 0.38, 0.38, 0.38, 0.37, 0.36, 0.35, 0.34, 0.35, 0.36, 0.38, 0.38, 0.38, 0.35, 0.30, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.29, 0.30, 0.32, 0.38, 0.38, 0.38],
+				distant : [0.66, 0.66, 0.66, 0.66, 0.66, 0.66, 0.66, 0.66, 0.65, 0.60, 0.57, 0.56, 0.56, 0.56, 0.57, 0.61, 0.65, 0.66, 0.60, 0.52, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.50, 0.51, 0.53, 0.64, 0.66, 0.66],
+				fringe  : [1.01, 1.01, 1.00, 0.96, 0.97, 0.99, 1.02, 1.02, 0.99, 0.92, 0.87, 0.85, 0.85, 0.85, 0.86, 0.89, 0.97, 0.97, 0.89, 0.85, 0.80, 0.80, 0.81, 0.80, 0.79, 0.79, 0.79, 0.80, 0.83, 0.99, 1.01, 1.01]
+			},
         },
     ],
     "raton": [
