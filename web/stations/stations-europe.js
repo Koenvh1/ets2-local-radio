@@ -2717,6 +2717,11 @@ var stations = {/*
             url: "https://streaming.nrjaudio.fm/ouwgwqsk6j4d"
         },
         {
+            name: "Nostalgie 60 70",
+            logo: "stations/images-europe/france/Nostalgie 60 70.png",
+            url: "https://streaming.nrjaudio.fm/oun5oeqn5eyc"
+        },
+        {
             name: "NRJ",
             logo: "stations/images-europe/france/NRJ.png",
             url: "https://streaming.nrjaudio.fm/oufdfatx4thg"
@@ -9647,11 +9652,6 @@ var stations = {/*
             url: "https://stream.srg-ssr.ch/m/rr/mp3_128"
         },
         {
-            name: "70-80.it",
-            logo: "stations/images-europe/switzerland-it/70-80.it.png",
-            url: "https://onair18.xdevel.com/proxy/7080it?mp=/stream"
-        },
-        {
             name: "Giornale Radio",
             logo: "stations/images-europe/switzerland-it/Giornale Radio.png",
             url: "https://gr.fluidstream.eu/gr1.mp3"
@@ -10544,11 +10544,6 @@ var stations = {/*
             name: "Sunrise Radio",
             logo: "stations/images-europe/uk/Sunrise Radio.png",
             url: "https://direct.sharp-stream.com/sunriseradio.mp3"
-        },
-        {
-            name: "Sunrise Hits",
-            logo: "stations/images-europe/uk/Sunrise Hits.png",
-            url: "https://listen-sunriseradio.sharp-stream.com/529_sunrise_smooth_128_mp3"
         },
         {
             name: "TalkRadio",

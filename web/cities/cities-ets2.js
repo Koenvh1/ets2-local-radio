@@ -17585,7 +17585,7 @@ var cities_trans_siberian = [
       "x": "196049.1",
       "y": "130.7852",
       "z": "-293363.9"
-    },/*
+    },
     {
         "gameName": "vakkanai",
         "realName": "稚内市",
@@ -17593,7 +17593,7 @@ var cities_trans_siberian = [
         "x": "304011.5",
         "y": "99.25",
         "z": "-308321.5"
-    },*/
+    },
     {
       "gameName": "vanino",
       "realName": "Ванино",
