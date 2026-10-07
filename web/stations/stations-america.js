@@ -30792,7 +30792,7 @@ var stations = {/*
         },
         {
             name: "98.9 KPNW-HD2",
-            logo: "stations/images-america/seattle/Bull Classics_temp.png",
+            logo: "stations/images-america/seattle/Bull Classics.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KNUC_HD2_SC"
         },
         {
@@ -30977,7 +30977,7 @@ var stations = {/*
         },
         {
             name: "1150 Bull Classics",
-            logo: "stations/images-america/seattle/Bull Classics_temp.png",
+            logo: "stations/images-america/seattle/Bull Classics.png",
             url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KKNWAMAAC_SC"
         },
         {
