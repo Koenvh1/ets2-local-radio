@@ -6087,12 +6087,371 @@ var stations = {/*
         {
             name: "NHK FM",
             logo: "stations/images-europe/japan/NHK FM.png",
-            url: "http://89.168.75.18/nhk.php?u=https://simul2.drdi.st.nhk/live/5/joined/master.m3u8"
+            url: "http://89.168.75.18/redir/radiko/JOAK-FM.m3u8"
         },
         {
             name: "NHK AM",
             logo: "stations/images-europe/japan/NHK AM.png",
-            url: "http://89.168.75.18/nhk.php?u=https://simul2.drdi.st.nhk/live/3/joined/master.m3u8"
+            url: "http://89.168.75.18/redir/radiko/JOAK.m3u8"
+        },
+        {
+            name: "ラジオNIKKEI第1",
+            logo: "stations/images-europe/japan/ラジオNIKKEI第1.png",
+            url: "http://89.168.75.18/redir/radiko/RN1.m3u8"
+        },
+        {
+            name: "ラジオNIKKEI第2",
+            logo: "stations/images-europe/japan/ラジオNIKKEI第2.png",
+            url: "http://89.168.75.18/redir/radiko/RN2.m3u8"
+        },
+    ],
+    "japan_ehime": [
+        {
+            name: "FM愛媛",
+            logo: "stations/images-europe/japan/shikoku/FM愛媛.png",
+            url: "http://89.168.75.18/redir/radiko/JOEU-FM.m3u8"
+        },
+        {
+            name: "OBSラジオ",
+            logo: "stations/images-europe/japan/kyushu/OBSラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/OBS.m3u8"
+        },
+        {
+            name: "RCCラジオ",
+            logo: "stations/images-europe/japan/chugoku/RCCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/RCC.m3u8"
+        },
+        {
+            name: "RNB南海放送",
+            logo: "stations/images-europe/japan/shikoku/RNB南海放送.png",
+            url: "http://89.168.75.18/redir/radiko/RNB.m3u8"
+        },
+    ],
+    "japan_gifu": [
+        {
+            name: "CBCラジオ",
+            logo: "stations/images-europe/japan/chubu/CBCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/CBC.m3u8"
+        },
+        {
+            name: "FM Gifu",
+            logo: "stations/images-europe/japan/chubu/FM Gifu.png",
+            url: "http://89.168.75.18/redir/radiko/FMGIFU.m3u8"
+        },
+        {
+            name: "ぎふチャン",
+            logo: "stations/images-europe/japan/chubu/ぎふチャン.png",
+            url: "http://89.168.75.18/redir/radiko/GBS.m3u8"
+        },
+        {
+            name: "Tokai Radio",
+            logo: "stations/images-europe/japan/chubu/Tokai Radio.png",
+            url: "http://89.168.75.18/redir/radiko/TOKAIRADIO.m3u8"
+        },
+    ],
+    "japan_hiroshima": [
+        {
+            name: "広島FM",
+            logo: "stations/images-europe/japan/chugoku/広島FM.png",
+            url: "http://89.168.75.18/redir/radiko/HFM.m3u8"
+        },
+        {
+            name: "RCCラジオ",
+            logo: "stations/images-europe/japan/chugoku/RCCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/RCC.m3u8"
+        },
+    ],
+    "japan_ishikawa": [
+        {
+            name: "エフエム石川",
+            logo: "stations/images-europe/japan/chubu/エフエム石川.png",
+            url: "http://89.168.75.18/redir/radiko/HELLOFIVE.m3u8"
+        },
+        {
+            name: "MROラジオ",
+            logo: "stations/images-europe/japan/chubu/MROラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/MRO.m3u8"
+        },
+    ],
+    "japan_kitakyushu": [
+        {
+            name: "Cross FM 77.0",
+            logo: "stations/images-europe/japan/kyushu/Cross FM.png",
+            url: "http://89.168.75.18/redir/radiko/CROSSFM.m3u8"
+        },
+        {
+            name: "FM Fukuoka 80.0",
+            logo: "stations/images-europe/japan/kyushu/FM Fukuoka.png",
+            url: "http://89.168.75.18/redir/radiko/FMFUKUOKA.m3u8"
+        },
+        {
+            name: "Love FM 82.7",
+            logo: "stations/images-europe/japan/kyushu/LOVE FM.png",
+            url: "http://89.168.75.18/redir/radiko/LOVEFM.m3u8"
+        },
+        {
+            name: "Air Station Hibiki 88.2",
+            logo: "stations/images-europe/japan/kyushu/Air Station Hibiki.png",
+            url: "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8"
+        },
+        {
+            name: "RKBラジオ 91.5",
+            logo: "stations/images-europe/japan/kyushu/RKBラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/RKB.m3u8"
+        },
+        {
+            name: "KRY山口放送 92.3",
+            logo: "stations/images-europe/japan/kyushu/KRY山口放送.png",
+            url: "http://89.168.75.18/redir/radiko/KRY.m3u8"
+        },
+        {
+            name: "KBCラジオ 720",
+            logo: "stations/images-europe/japan/kyushu/KBCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/KBC.m3u8"
+        },
+        {
+            name: "RKBラジオ 1197",
+            logo: "stations/images-europe/japan/kyushu/RKBラジオ.png",
+            url: "http://89.168.75.18/redir/radiko//RKB.m3u8"
+        },
+    ],
+    "japan_nagano": [
+        {
+            name: "FM Nagano",
+            logo: "stations/images-europe/japan/chubu/FM Nagano.png",
+            url: "http://89.168.75.18/redir/radiko/FMN.m3u8"
+        },
+        {
+            name: "SBCラジオ",
+            logo: "stations/images-europe/japan/chubu/SBCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/SBC.m3u8"
+        },
+    ],
+    "japan_niigata": [
+        {
+            name: "BSNラジオ",
+            logo: "stations/images-europe/japan/chubu/BSNラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/BSN.m3u8"
+        },
+        {
+            name: "FM Niigata",
+            logo: "stations/images-europe/japan/chubu/FM Niigata.png",
+            url: "http://89.168.75.18/redir/radiko/FMNIIGATA.m3u8"
+        },
+    ],
+    "japan_osaka": [
+        {
+            name: "FM Cocolo 76.5",
+            logo: "stations/images-europe/japan/kansai/FM Cocolo.png",
+            url: "http://89.168.75.18/redir/radiko/CCL.m3u8"
+        },
+        {
+            name: "FM802",
+            logo: "stations/images-europe/japan/kansai/FM802.png",
+            url: "http://89.168.75.18/redir/radiko/802.m3u8"
+        },
+        {
+            name: "FM大阪 85.1",
+            logo: "stations/images-europe/japan/kansai/FM大阪.png",
+            url: "http://89.168.75.18/redir/radiko/FMO.m3u8"
+        },
+        {
+            name: "Alpha Station 89.4",
+            logo: "stations/images-europe/japan/kansai/Alpha Station.png",
+            url: "http://89.168.75.18/redir/radiko/ALPHA-STATION.m3u8"
+        },
+        {
+            name: "Kiss FM 89.9",
+            logo: "stations/images-europe/japan/kansai/Kiss FM.png",
+            url: "http://89.168.75.18/redir/radiko/KISSFMKOBE.m3u8"
+        },
+        {
+            name: "MBSラジオ 90.6",
+            logo: "stations/images-europe/japan/kansai/MBSラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/MBS.m3u8"
+        },
+        {
+            name: "ラジオ関西 91.1",
+            logo: "stations/images-europe/japan/kansai/ラジオ関西.png",
+            url: "http://89.168.75.18/redir/radiko/CRK.m3u8"
+        },
+        {
+            name: "OBCラジオ大阪 91.9",
+            logo: "stations/images-europe/japan/kansai/OBCラジオ大阪.png",
+            url: "http://89.168.75.18/redir/radiko/OBC.m3u8"
+        },
+        {
+            name: "ABCラジオ 93.3",
+            logo: "stations/images-europe/japan/kansai/ABCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/ABC.m3u8"
+        },
+        {
+            name: "ラジオ関西 558",
+            logo: "stations/images-europe/japan/kansai/ラジオ関西.png",
+            url: "http://89.168.75.18/redir/radiko//CRK.m3u8"
+        },
+        {
+            name: "ABCラジオ 1008",
+            logo: "stations/images-europe/japan/kansai/ABCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko//ABC.m3u8"
+        },
+        {
+            name: "KBS京都ラジオ 1143",
+            logo: "stations/images-europe/japan/kansai/KBS京都ラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/KBS.m3u8"
+        },
+        {
+            name: "MBSラジオ 1179",
+            logo: "stations/images-europe/japan/kansai/MBSラジオ.png",
+            url: "http://89.168.75.18/redir/radiko//MBS.m3u8"
+        },
+        {
+            name: "OBCラジオ大阪 1314",
+            logo: "stations/images-europe/japan/kansai/OBCラジオ大阪.png",
+            url: "http://89.168.75.18/redir/radiko//OBC.m3u8"
+        },
+        {
+            name: "WBS和歌山放送 1431",
+            logo: "stations/images-europe/japan/kansai/WBS和歌山放送.png",
+            url: "http://89.168.75.18/redir/radiko/WBS.m3u8"
+        },
+    ],
+    "japan_suzuka": [
+        {
+            name: "FM Aichi",
+            logo: "stations/images-europe/japan/chubu/FM Aichi.png",
+            url: "http://89.168.75.18/redir/radiko/FMAICHI.m3u8"
+        },
+        {
+            name: "レディオキューブ FM三重",
+            logo: "stations/images-europe/japan/kansai/レディオキューブ FM三重.png",
+            url: "http://89.168.75.18/redir/radiko/FMMIE.m3u8"
+        },
+        {
+            name: "ZIP-FM",
+            logo: "stations/images-europe/japan/chubu/ZIP-FM.png",
+            url: "http://89.168.75.18/redir/radiko/ZIP-FM.m3u8"
+        },
+    ],
+    "japan_tokushima": [
+        {
+            name: "BFM 79.1",
+            logo: "stations/images-europe/japan/shikoku/BFM 79.1.png",
+            url: "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8"
+        },
+        {
+            name: "FM Tokushima",
+            logo: "stations/images-europe/japan/shikoku/FM Tokushima.png",
+            url: "http://89.168.75.18/redir/radiko/FM807.m3u8"
+        },
+        {
+            name: "JRT四国放送",
+            logo: "stations/images-europe/japan/shikoku/JRT四国放送.png",
+            url: "http://89.168.75.18/redir/radiko/JRT.m3u8"
+        },
+        {
+            name: "RNC西日本放送",
+            logo: "stations/images-europe/japan/shikoku/RNC西日本放送.png",
+            url: "http://89.168.75.18/redir/radiko/RNC.m3u8"
+        },
+    ],
+    "japan_tokyo": [
+        {
+            name: "interfm 76.5",
+            logo: "stations/images-europe/japan/kanto/interfm.png",
+            url: "http://89.168.75.18/redir/radiko//INT.m3u8"
+        },
+        {
+            name: "BAYFM78",
+            logo: "stations/images-europe/japan/kanto/BAYFM78.png",
+            url: "http://89.168.75.18/redir/radiko/BAYFM78.m3u8"
+        },
+        {
+            name: "FM Fuji 78.6",
+            logo: "stations/images-europe/japan/chubu/FM Fuji.png",
+            url: "http://89.168.75.18/redir/radiko/FM-FUJI.m3u8"
+        },
+        {
+            name: "NACK5 79.5",
+            logo: "stations/images-europe/japan/kanto/NACK5.png",
+            url: "http://89.168.75.18/redir/radiko/NACK5.m3u8"
+        },
+        {
+            name: "Tokyo FM 80.0",
+            logo: "stations/images-europe/japan/kanto/Tokyo FM.png",
+            url: "http://89.168.75.18/redir/radiko/FMT.m3u8"
+        },
+        {
+            name: "J-WAVE 81.3",
+            logo: "stations/images-europe/japan/kanto/J-WAVE.png",
+            url: "http://89.168.75.18/redir/radiko/FMJ.m3u8"
+        },
+        {
+            name: "Fm yokohama 84.7",
+            logo: "stations/images-europe/japan/kanto/Fm yokohama.png",
+            url: "http://89.168.75.18/redir/radiko/YFM.m3u8"
+        },
+        {
+            name: "interfm 89.7",
+            logo: "stations/images-europe/japan/kanto/interfm.png",
+            url: "http://89.168.75.18/redir/radiko/INT.m3u8"
+        },
+        {
+            name: "TBSラジオ 90.5",
+            logo: "stations/images-europe/japan/kanto/TBSラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/TBS.m3u8"
+        },
+        {
+            name: "文化放送 91.6",
+            logo: "stations/images-europe/japan/kanto/文化放送.png",
+            url: "http://89.168.75.18/redir/radiko/QRR.m3u8"
+        },
+        {
+            name: "ラジオ日本 92.4",
+            logo: "stations/images-europe/japan/kanto/ラジオ日本.png",
+            url: "http://89.168.75.18/redir/radiko/JORF.m3u8"
+        },
+        {
+            name: "ニッポン放送 93.0",
+            logo: "stations/images-europe/japan/kanto/ニッポン放送.png",
+            url: "http://89.168.75.18/redir/radiko/LFR.m3u8"
+        },
+        {
+            name: "AFN Tokyo 810",
+            logo: "stations/images-europe/japan/kanto/AFN Tokyo.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKOAAC_SC"
+        },
+        {
+            name: "TBSラジオ 954",
+            logo: "stations/images-europe/japan/kanto/TBSラジオ.png",
+            url: "http://89.168.75.18/redir/radiko//TBS.m3u8"
+        },
+        {
+            name: "文化放送 1134",
+            logo: "stations/images-europe/japan/kanto/文化放送.png",
+            url: "http://89.168.75.18/redir/radiko//QRR.m3u8"
+        },
+        {
+            name: "ニッポン放送 1242",
+            logo: "stations/images-europe/japan/kanto/ニッポン放送.png",
+            url: "http://89.168.75.18/redir/radiko//LFR.m3u8"
+        },
+        {
+            name: "ラジオ日本 1422",
+            logo: "stations/images-europe/japan/kanto/ラジオ日本.png",
+            url: "http://89.168.75.18/redir/radiko//JORF.m3u8"
+        },
+    ],
+    "japan_toyama": [
+        {
+            name: "FMとやま",
+            logo: "stations/images-europe/japan/chubu/FMとやま.png",
+            url: "http://89.168.75.18/redir/radiko/FMTOYAMA.m3u8"
+        },
+        {
+            name: "KNBラジオ",
+            logo: "stations/images-europe/japan/chubu/KNBラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/KNB.m3u8"
         },
     ],
     "jordan": [

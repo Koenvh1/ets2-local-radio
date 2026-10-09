@@ -415,7 +415,7 @@ var country_properties = {
     },
     "greece_mitilini": {
         name: "Μυτιλήνη",
-        name_english: "Crete",
+        name_english: "Mitilini",
         code: "gr",
         relative_radius: 0.8,
     },
@@ -501,7 +501,79 @@ var country_properties = {
         name: "日本",
         name_english: "Japan",
         code: "jp",
-        relative_radius: 1,
+        relative_radius: 0.6,
+    },
+    "japan_ehime": {
+        name: "愛媛",
+        name_english: "Ehime",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_gifu": {
+        name: "岐阜",
+        name_english: "Gifu",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_hiroshima": {
+        name: "広島",
+        name_english: "Hiroshima",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_ishikawa": {
+        name: "石川",
+        name_english: "Ishikawa",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_kitakyushu": {
+        name: "北九州",
+        name_english: "Kitakyushu",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_nagano": {
+        name: "長野",
+        name_english: "Nagano",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_niigata": {
+        name: "新潟",
+        name_english: "Niigata",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_osaka": {
+        name: "大阪",
+        name_english: "Osaka",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_suzuka": {
+        name: "鈴鹿",
+        name_english: "Suzuka",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_tokushima": {
+        name: "徳島",
+        name_english: "Tokushima",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_tokyo": {
+        name: "東京",
+        name_english: "Tokyo",
+        code: "jp",
+        relative_radius: 0.6,
+    },
+    "japan_toyama": {
+        name: "富山",
+        name_english: "Toyama",
+        code: "jp",
+        relative_radius: 0.6,
     },
     "jersey": {
         name: "Jersey",
@@ -985,6 +1057,9 @@ var city_properties = {
     "augustow": {
         relative_radius: 0.5,
     },
+    "awaji": {
+        relative_radius: 1.25,
+    },
     "bakkebolle": {
         relative_radius: 0.7,
     },
@@ -1408,6 +1483,9 @@ var city_properties = {
     "helsinki": {
         relative_radius: 0.6,
     },
+    "hida": {
+        relative_radius: 0.75,
+    },
     "hims": {
         relative_radius: 1.3,
     },
@@ -1430,8 +1508,14 @@ var city_properties = {
     "ibiza": {
         relative_radius: 0.65,
     },
+    "ikata": {
+        relative_radius: 1.25,
+    },
     "inderborsky": {
         relative_radius: 1.5,
+    },
+    "innoshima": {
+        relative_radius: 1.25,
     },
     "irkutsk": {
         relative_radius: 1.3,
@@ -1562,6 +1646,9 @@ var city_properties = {
     },
     "klintsy": {
         relative_radius: 0.6,
+    },
+    "kobe": {
+        relative_radius: 1.25,
     },
     "koblenz": {
         relative_radius: 0.5,
@@ -1738,6 +1825,9 @@ var city_properties = {
     },
     "massakory": {
         relative_radius: 2,
+    },
+    "matsumoto": {
+        relative_radius: 0.75,
     },
     "medtangier": {
         relative_radius: 0.6,
@@ -2100,6 +2190,9 @@ var city_properties = {
     "shepsi": {
         relative_radius: 0.4,
     },
+    "shirakawa_v": {
+        relative_radius: 0.6,
+    },
     "sibiu": {
         relative_whitenoise: 0.90,
         relative_radius: 1.6,
@@ -2212,6 +2305,9 @@ var city_properties = {
     "taba": {
         relative_radius: 0.6,
     },
+    "takayama": {
+        relative_radius: 0.75,
+    },
     "tallinn": {
         relative_radius: 0.65,
     },
@@ -2248,6 +2344,9 @@ var city_properties = {
     },
     "tohmajarvi": {
         relative_radius: 0.6,
+    },
+    "tokushima": {
+        relative_radius: 1.25,
     },
     "tonghua": {
         relative_radius: 2,
@@ -15060,9 +15159,25 @@ var cities_japan = [
         "z": "95687.92"
     },
     {
+        "gameName": "amagasaki",
+        "realName": "尼崎",
+        "country": "japan_osaka",
+        "x": "378808",
+        "y": "78.88672",
+        "z": "95687.92"
+    },
+    {
         "gameName": "awaji",
         "realName": "淡路",
         "country": "japan",
+        "x": "372996.5",
+        "y": "50.84766",
+        "z": "97383.87"
+    },
+    {
+        "gameName": "awaji",
+        "realName": "淡路",
+        "country": "japan_osaka",
         "x": "372996.5",
         "y": "50.84766",
         "z": "97383.87"
@@ -15076,9 +15191,25 @@ var cities_japan = [
         "z": "90018.8"
     },
     {
+        "gameName": "daikoku",
+        "realName": "大黒",
+        "country": "japan_tokyo",
+        "x": "415418.9",
+        "y": "50",
+        "z": "90018.8"
+    },
+    {
         "gameName": "hakusan",
         "realName": "白山",
         "country": "japan",
+        "x": "386991.4",
+        "y": "52.96875",
+        "z": "77181.68"
+    },
+    {
+        "gameName": "hakusan",
+        "realName": "白山",
+        "country": "japan_ishikawa",
         "x": "386991.4",
         "y": "52.96875",
         "z": "77181.68"
@@ -15092,9 +15223,25 @@ var cities_japan = [
         "z": "78616.82"
     },
     {
+        "gameName": "hida",
+        "realName": "飛騨",
+        "country": "japan_gifu",
+        "x": "393572.1",
+        "y": "80.80078",
+        "z": "78616.82"
+    },
+    {
         "gameName": "ikata",
         "realName": "伊方",
         "country": "japan",
+        "x": "349181.7",
+        "y": "17",
+        "z": "109261.9"
+    },
+    {
+        "gameName": "ikata",
+        "realName": "伊方",
+        "country": "japan_ehime",
         "x": "349181.7",
         "y": "17",
         "z": "109261.9"
@@ -15108,9 +15255,25 @@ var cities_japan = [
         "z": "102857.6"
     },
     {
+        "gameName": "imabari",
+        "realName": "今治",
+        "country": "japan_ehime",
+        "x": "355735.9",
+        "y": "57.19141",
+        "z": "102857.6"
+    },
+    {
         "gameName": "innoshima",
         "realName": "因島",
         "country": "japan",
+        "x": "357716",
+        "y": "53.65625",
+        "z": "100665.9"
+    },
+    {
+        "gameName": "innoshima",
+        "realName": "因島",
+        "country": "japan_hiroshima",
         "x": "357716",
         "y": "53.65625",
         "z": "100665.9"
@@ -15124,9 +15287,25 @@ var cities_japan = [
         "z": "71017.15"
     },
     {
+        "gameName": "itoigawa",
+        "realName": "糸魚川",
+        "country": "japan_niigata",
+        "x": "397576.5",
+        "y": "54.8125",
+        "z": "71017.15"
+    },
+    {
         "gameName": "joetsu",
         "realName": "上越",
         "country": "japan",
+        "x": "398500.7",
+        "y": "54.8125",
+        "z": "70432.93"
+    },
+    {
+        "gameName": "joetsu",
+        "realName": "上越",
+        "country": "japan_niigata",
         "x": "398500.7",
         "y": "54.8125",
         "z": "70432.93"
@@ -15140,9 +15319,25 @@ var cities_japan = [
         "z": "76010.41"
     },
     {
+        "gameName": "kanazawa",
+        "realName": "金沢",
+        "country": "japan_ishikawa",
+        "x": "388329.4",
+        "y": "55.55469",
+        "z": "76010.41"
+    },
+    {
         "gameName": "kawasaki",
         "realName": "川崎",
         "country": "japan",
+        "x": "417324.8",
+        "y": "62.64844",
+        "z": "87491.74"
+    },
+    {
+        "gameName": "kawasaki",
+        "realName": "川崎",
+        "country": "japan_tokyo",
         "x": "417324.8",
         "y": "62.64844",
         "z": "87491.74"
@@ -15156,9 +15351,25 @@ var cities_japan = [
         "z": "104345"
     },
     {
+        "gameName": "kitakyusyu",
+        "realName": "北九州",
+        "country": "japan_kitakyushu",
+        "x": "338418.2",
+        "y": "85.52344",
+        "z": "104345"
+    },
+    {
         "gameName": "kobe",
         "realName": "神戸",
         "country": "japan",
+        "x": "375959.1",
+        "y": "81.07422",
+        "z": "95243.5"
+    },
+    {
+        "gameName": "kobe",
+        "realName": "神戸",
+        "country": "japan_osaka",
         "x": "375959.1",
         "y": "81.07422",
         "z": "95243.5"
@@ -15172,9 +15383,25 @@ var cities_japan = [
         "z": "72873.31"
     },
     {
+        "gameName": "kurobe",
+        "realName": "黒部",
+        "country": "japan_toyama",
+        "x": "394749.3",
+        "y": "63.20313",
+        "z": "72873.31"
+    },
+    {
         "gameName": "matsumoto",
         "realName": "松本",
         "country": "japan",
+        "x": "397450.2",
+        "y": "145.3594",
+        "z": "80232"
+    },
+    {
+        "gameName": "matsumoto",
+        "realName": "松本",
+        "country": "japan_nagano",
         "x": "397450.2",
         "y": "145.3594",
         "z": "80232"
@@ -15188,9 +15415,25 @@ var cities_japan = [
         "z": "104719.8"
     },
     {
+        "gameName": "matsuyama",
+        "realName": "松山",
+        "country": "japan_ehime",
+        "x": "354381.9",
+        "y": "61.36719",
+        "z": "104719.8"
+    },
+    {
         "gameName": "miyoshi",
         "realName": "三好",
         "country": "japan",
+        "x": "365247.3",
+        "y": "94.30469",
+        "z": "102068.7"
+    },
+    {
+        "gameName": "miyoshi",
+        "realName": "三好",
+        "country": "japan_tokushima",
         "x": "365247.3",
         "y": "94.30469",
         "z": "102068.7"
@@ -15204,9 +15447,25 @@ var cities_japan = [
         "z": "95333.13"
     },
     {
+        "gameName": "nishinomiya",
+        "realName": "西宮",
+        "country": "japan_osaka",
+        "x": "377562.4",
+        "y": "80.84375",
+        "z": "95333.13"
+    },
+    {
         "gameName": "osaka",
         "realName": "大阪",
         "country": "japan",
+        "x": "380273.6",
+        "y": "118.1563",
+        "z": "96114.58"
+    },
+    {
+        "gameName": "osaka",
+        "realName": "大阪",
+        "country": "japan_osaka",
         "x": "380273.6",
         "y": "118.1563",
         "z": "96114.58"
@@ -15220,9 +15479,25 @@ var cities_japan = [
         "z": "103686"
     },
     {
+        "gameName": "saijo",
+        "realName": "西条",
+        "country": "japan_ehime",
+        "x": "357888.3",
+        "y": "74.92969",
+        "z": "103686"
+    },
+    {
         "gameName": "seiyo",
         "realName": "西予",
         "country": "japan",
+        "x": "354895.9",
+        "y": "66.28125",
+        "z": "106829.1"
+    },
+    {
+        "gameName": "seiyo",
+        "realName": "西予",
+        "country": "japan_ehime",
         "x": "354895.9",
         "y": "66.28125",
         "z": "106829.1"
@@ -15236,9 +15511,25 @@ var cities_japan = [
         "z": "103238.8"
     },
     {
+        "gameName": "shikokuchuo",
+        "realName": "四国中央",
+        "country": "japan_ehime",
+        "x": "360769.2",
+        "y": "71.40625",
+        "z": "103238.8"
+    },
+    {
         "gameName": "shirakawa_v",
         "realName": "白川村（飛騨）",
         "country": "japan",
+        "x": "391099.1",
+        "y": "71.55469",
+        "z": "78144.34"
+    },
+    {
+        "gameName": "shirakawa_v",
+        "realName": "白川村（飛騨）",
+        "country": "japan_ishikawa",
         "x": "391099.1",
         "y": "71.55469",
         "z": "78144.34"
@@ -15252,9 +15543,33 @@ var cities_japan = [
         "z": "92762.62"
     },
     {
+        "gameName": "suita",
+        "realName": "吹田",
+        "country": "japan_osaka",
+        "x": "379125.3",
+        "y": "160.418",
+        "z": "92762.62"
+    },
+    {
         "gameName": "suzuka",
         "realName": "鈴鹿",
         "country": "japan",
+        "x": "370502.6",
+        "y": "160.0469",
+        "z": "114099.7"
+    },
+    {
+        "gameName": "suzuka",
+        "realName": "鈴鹿",
+        "country": "japan_suzuka",
+        "x": "370502.6",
+        "y": "160.0469",
+        "z": "114099.7"
+    },
+    {
+        "gameName": "suzuka",
+        "realName": "鈴鹿",
+        "country": "japan_gifu",
         "x": "370502.6",
         "y": "160.0469",
         "z": "114099.7"
@@ -15268,9 +15583,25 @@ var cities_japan = [
         "z": "79806.71"
     },
     {
+        "gameName": "takayama",
+        "realName": "高山",
+        "country": "japan_gifu",
+        "x": "394231.7",
+        "y": "73.44531",
+        "z": "79806.71"
+    },
+    {
         "gameName": "tokushima",
         "realName": "徳島",
         "country": "japan",
+        "x": "369815.4",
+        "y": "49.65625",
+        "z": "103230.8"
+    },
+    {
+        "gameName": "tokushima",
+        "realName": "徳島",
+        "country": "japan_tokushima",
         "x": "369815.4",
         "y": "49.65625",
         "z": "103230.8"
@@ -15284,9 +15615,25 @@ var cities_japan = [
         "z": "84303.38"
     },
     {
+        "gameName": "tokyo",
+        "realName": "東京",
+        "country": "japan_tokyo",
+        "x": "418610",
+        "y": "55",
+        "z": "84303.38"
+    },
+    {
         "gameName": "toyama",
         "realName": "富山",
         "country": "japan",
+        "x": "393468.8",
+        "y": "60.24219",
+        "z": "74018.3"
+    },
+    {
+        "gameName": "toyama",
+        "realName": "富山",
+        "country": "japan_toyama",
         "x": "393468.8",
         "y": "60.24219",
         "z": "74018.3"
@@ -15300,13 +15647,29 @@ var cities_japan = [
         "z": "94565.09"
     },
     {
+        "gameName": "toyonaka",
+        "realName": "豊中",
+        "country": "japan_osaka",
+        "x": "378648.5",
+        "y": "127.5352",
+        "z": "94565.09"
+    },
+    {
         "gameName": "yokohama",
         "realName": "横浜",
         "country": "japan",
         "x": "415434.7",
         "y": "55",
         "z": "91503.34"
-    }
+    },
+    {
+        "gameName": "yokohama",
+        "realName": "横浜",
+        "country": "japan_tokyo",
+        "x": "415434.7",
+        "y": "55",
+        "z": "91503.34"
+    },
 ];
 
 var cities_sibir = [
