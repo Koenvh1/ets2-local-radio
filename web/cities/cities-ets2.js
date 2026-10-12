@@ -521,6 +521,12 @@ var country_properties = {
         code: "jp",
         relative_radius: 0.6,
     },
+    "japan_hokkaido": {
+        name: "北海道",
+        name_english: "Hokkaido",
+        code: "jp",
+        relative_radius: 0.6,
+    },
     "japan_ishikawa": {
         name: "石川",
         name_english: "Ishikawa",
@@ -15154,6 +15160,529 @@ var cities_japan = [
         "gameName": "amagasaki",
         "realName": "尼崎",
         "country": "japan",
+        "x": "367667.9",
+        "y": "78.88672",
+        "z": "-286788"
+    },
+    {
+        "gameName": "amagasaki",
+        "realName": "尼崎",
+        "country": "japan_osaka",
+        "x": "367667.9",
+        "y": "78.88672",
+        "z": "-286788"
+    },
+    {
+        "gameName": "awaji",
+        "realName": "淡路",
+        "country": "japan",
+        "x": "369363.9",
+        "y": "50.84766",
+        "z": "-280976.5"
+    },
+    {
+        "gameName": "awaji",
+        "realName": "淡路",
+        "country": "japan_osaka",
+        "x": "369363.9",
+        "y": "50.84766",
+        "z": "-280976.5"
+    },
+    {
+        "gameName": "daikoku",
+        "realName": "大黒",
+        "country": "japan",
+        "x": "357998.8",
+        "y": "50",
+        "z": "-311398.9"
+    },
+    {
+        "gameName": "daikoku",
+        "realName": "大黒",
+        "country": "japan_tokyo",
+        "x": "357998.8",
+        "y": "50",
+        "z": "-311398.9"
+    },
+    {
+        "gameName": "hakusan",
+        "realName": "白山",
+        "country": "japan",
+        "x": "357161.7",
+        "y": "52.96875",
+        "z": "-290971.4"
+    },
+    {
+        "gameName": "hakusan",
+        "realName": "白山",
+        "country": "japan_ishikawa",
+        "x": "357161.7",
+        "y": "52.96875",
+        "z": "-290971.4"
+    },
+    {
+        "gameName": "hida",
+        "realName": "飛騨",
+        "country": "japan",
+        "x": "358596.8",
+        "y": "80.80078",
+        "z": "-297552.1"
+    },
+    {
+        "gameName": "hida",
+        "realName": "飛騨",
+        "country": "japan_gifu",
+        "x": "358596.8",
+        "y": "80.80078",
+        "z": "-297552.1"
+    },
+    {
+        "gameName": "ikata",
+        "realName": "伊方",
+        "country": "japan",
+        "x": "381241.9",
+        "y": "17",
+        "z": "-257161.7"
+    },
+    {
+        "gameName": "ikata",
+        "realName": "伊方",
+        "country": "japan_ehime",
+        "x": "381241.9",
+        "y": "17",
+        "z": "-257161.7"
+    },
+    {
+        "gameName": "imabari",
+        "realName": "今治",
+        "country": "japan",
+        "x": "374837.6",
+        "y": "57.19141",
+        "z": "-263715.9"
+    },
+    {
+        "gameName": "imabari",
+        "realName": "今治",
+        "country": "japan_ehime",
+        "x": "374837.6",
+        "y": "57.19141",
+        "z": "-263715.9"
+    },
+    {
+        "gameName": "innoshima",
+        "realName": "因島",
+        "country": "japan",
+        "x": "372645.9",
+        "y": "53.65625",
+        "z": "-265696"
+    },
+    {
+        "gameName": "innoshima",
+        "realName": "因島",
+        "country": "japan_hiroshima",
+        "x": "372645.9",
+        "y": "53.65625",
+        "z": "-265696"
+    },
+    {
+        "gameName": "itoigawa",
+        "realName": "糸魚川",
+        "country": "japan",
+        "x": "350997.2",
+        "y": "54.8125",
+        "z": "-301556.5"
+    },
+    {
+        "gameName": "itoigawa",
+        "realName": "糸魚川",
+        "country": "japan_niigata",
+        "x": "350997.2",
+        "y": "54.8125",
+        "z": "-301556.5"
+    },
+    {
+        "gameName": "joetsu",
+        "realName": "上越",
+        "country": "japan",
+        "x": "350412.9",
+        "y": "54.8125",
+        "z": "-302480.7"
+    },
+    {
+        "gameName": "joetsu",
+        "realName": "上越",
+        "country": "japan_niigata",
+        "x": "350412.9",
+        "y": "54.8125",
+        "z": "-302480.7"
+    },
+    {
+        "gameName": "kanazawa",
+        "realName": "金沢",
+        "country": "japan",
+        "x": "355990.4",
+        "y": "55.55469",
+        "z": "-292309.4"
+    },
+    {
+        "gameName": "kanazawa",
+        "realName": "金沢",
+        "country": "japan_ishikawa",
+        "x": "355990.4",
+        "y": "55.55469",
+        "z": "-292309.4"
+    },
+    {
+        "gameName": "kawasaki",
+        "realName": "川崎",
+        "country": "japan",
+        "x": "355471.8",
+        "y": "62.64844",
+        "z": "-313304.8"
+    },
+    {
+        "gameName": "kawasaki",
+        "realName": "川崎",
+        "country": "japan_tokyo",
+        "x": "355471.8",
+        "y": "62.64844",
+        "z": "-313304.8"
+    },
+    {
+        "gameName": "kitakyusyu",
+        "realName": "北九州",
+        "country": "japan",
+        "x": "384325",
+        "y": "85.52344",
+        "z": "-266398.2"
+    },
+    {
+        "gameName": "kitakyusyu",
+        "realName": "北九州",
+        "country": "japan_kitakyushu",
+        "x": "384325",
+        "y": "85.52344",
+        "z": "-266398.2"
+    },
+    {
+        "gameName": "kobe",
+        "realName": "神戸",
+        "country": "japan",
+        "x": "367223.5",
+        "y": "81.07422",
+        "z": "-283939.1"
+    },
+    {
+        "gameName": "kobe",
+        "realName": "神戸",
+        "country": "japan_osaka",
+        "x": "367223.5",
+        "y": "81.07422",
+        "z": "-283939.1"
+    },
+    {
+        "gameName": "kurobe",
+        "realName": "黒部",
+        "country": "japan",
+        "x": "352853.3",
+        "y": "63.20313",
+        "z": "-298729.3"
+    },
+    {
+        "gameName": "kurobe",
+        "realName": "黒部",
+        "country": "japan_toyama",
+        "x": "352853.3",
+        "y": "63.20313",
+        "z": "-298729.3"
+    },
+    {
+        "gameName": "matsumoto",
+        "realName": "松本",
+        "country": "japan",
+        "x": "360212",
+        "y": "145.3594",
+        "z": "-301430.2"
+    },
+    {
+        "gameName": "matsumoto",
+        "realName": "松本",
+        "country": "japan_nagano",
+        "x": "360212",
+        "y": "145.3594",
+        "z": "-301430.2"
+    },
+    {
+        "gameName": "matsuyama",
+        "realName": "松山",
+        "country": "japan",
+        "x": "376699.8",
+        "y": "61.36719",
+        "z": "-262361.9"
+    },
+    {
+        "gameName": "matsuyama",
+        "realName": "松山",
+        "country": "japan_ehime",
+        "x": "376699.8",
+        "y": "61.36719",
+        "z": "-262361.9"
+    },
+    {
+        "gameName": "miyoshi",
+        "realName": "三好",
+        "country": "japan",
+        "x": "374048.8",
+        "y": "94.30469",
+        "z": "-273227.3"
+    },
+    {
+        "gameName": "miyoshi",
+        "realName": "三好",
+        "country": "japan_tokushima",
+        "x": "374048.8",
+        "y": "94.30469",
+        "z": "-273227.3"
+    },
+    {
+        "gameName": "nishinomiya",
+        "realName": "西宮",
+        "country": "japan",
+        "x": "367313.1",
+        "y": "80.84375",
+        "z": "-285542.4"
+    },
+    {
+        "gameName": "nishinomiya",
+        "realName": "西宮",
+        "country": "japan_osaka",
+        "x": "367313.1",
+        "y": "80.84375",
+        "z": "-285542.4"
+    },
+    {
+        "gameName": "osaka",
+        "realName": "大阪",
+        "country": "japan",
+        "x": "368094.6",
+        "y": "118.1563",
+        "z": "-288253.6"
+    },
+    {
+        "gameName": "osaka",
+        "realName": "大阪",
+        "country": "japan_osaka",
+        "x": "368094.6",
+        "y": "118.1563",
+        "z": "-288253.6"
+    },
+    {
+        "gameName": "saijo",
+        "realName": "西条",
+        "country": "japan",
+        "x": "375666",
+        "y": "74.92969",
+        "z": "-265868.3"
+    },
+    {
+        "gameName": "saijo",
+        "realName": "西条",
+        "country": "japan_ehime",
+        "x": "375666",
+        "y": "74.92969",
+        "z": "-265868.3"
+    },
+    {
+        "gameName": "seiyo",
+        "realName": "西予",
+        "country": "japan",
+        "x": "378809.1",
+        "y": "66.28125",
+        "z": "-262875.9"
+    },
+    {
+        "gameName": "seiyo",
+        "realName": "西予",
+        "country": "japan_ehime",
+        "x": "378809.1",
+        "y": "66.28125",
+        "z": "-262875.9"
+    },
+    {
+        "gameName": "shikokuchuo",
+        "realName": "四国中央",
+        "country": "japan",
+        "x": "375218.8",
+        "y": "71.40625",
+        "z": "-268749.2"
+    },
+    {
+        "gameName": "shikokuchuo",
+        "realName": "四国中央",
+        "country": "japan_ehime",
+        "x": "375218.8",
+        "y": "71.40625",
+        "z": "-268749.2"
+    },
+    {
+        "gameName": "shirakawa_v",
+        "realName": "白川村（飛騨）",
+        "country": "japan",
+        "x": "358124.3",
+        "y": "71.55469",
+        "z": "-295079.1"
+    },
+    {
+        "gameName": "shirakawa_v",
+        "realName": "白川村（飛騨）",
+        "country": "japan_ishikawa",
+        "x": "358124.3",
+        "y": "71.55469",
+        "z": "-295079.1"
+    },
+    {
+        "gameName": "suita",
+        "realName": "吹田",
+        "country": "japan",
+        "x": "364742.6",
+        "y": "160.418",
+        "z": "-287105.3"
+    },
+    {
+        "gameName": "suita",
+        "realName": "吹田",
+        "country": "japan_osaka",
+        "x": "364742.6",
+        "y": "160.418",
+        "z": "-287105.3"
+    },
+    {
+        "gameName": "suzuka",
+        "realName": "鈴鹿",
+        "country": "japan",
+        "x": "366079.7",
+        "y": "160.0469",
+        "z": "-294482.6"
+    },
+    {
+        "gameName": "suzuka",
+        "realName": "鈴鹿",
+        "country": "japan_suzuka",
+        "x": "366079.7",
+        "y": "160.0469",
+        "z": "-294482.6"
+    },
+    {
+        "gameName": "suzuka",
+        "realName": "鈴鹿",
+        "country": "japan_gifu",
+        "x": "366079.7",
+        "y": "160.0469",
+        "z": "-294482.6"
+    },
+    {
+        "gameName": "takayama",
+        "realName": "高山",
+        "country": "japan",
+        "x": "359786.7",
+        "y": "73.44531",
+        "z": "-298211.7"
+    },
+    {
+        "gameName": "takayama",
+        "realName": "高山",
+        "country": "japan_gifu",
+        "x": "359786.7",
+        "y": "73.44531",
+        "z": "-298211.7"
+    },
+    {
+        "gameName": "tokushima",
+        "realName": "徳島",
+        "country": "japan",
+        "x": "375210.8",
+        "y": "49.65625",
+        "z": "-277795.4"
+    },
+    {
+        "gameName": "tokushima",
+        "realName": "徳島",
+        "country": "japan_tokushima",
+        "x": "375210.8",
+        "y": "49.65625",
+        "z": "-277795.4"
+    },
+    {
+        "gameName": "tokyo",
+        "realName": "東京",
+        "country": "japan",
+        "x": "352283.4",
+        "y": "55",
+        "z": "-314590"
+    },
+    {
+        "gameName": "tokyo",
+        "realName": "東京",
+        "country": "japan_tokyo",
+        "x": "352283.4",
+        "y": "55",
+        "z": "-314590"
+    },
+    {
+        "gameName": "toyama",
+        "realName": "富山",
+        "country": "japan",
+        "x": "353998.3",
+        "y": "60.24219",
+        "z": "-297448.8"
+    },
+    {
+        "gameName": "toyama",
+        "realName": "富山",
+        "country": "japan_toyama",
+        "x": "353998.3",
+        "y": "60.24219",
+        "z": "-297448.8"
+    },
+    {
+        "gameName": "toyonaka",
+        "realName": "豊中",
+        "country": "japan",
+        "x": "366545.1",
+        "y": "127.5352",
+        "z": "-286628.5"
+    },
+    {
+        "gameName": "toyonaka",
+        "realName": "豊中",
+        "country": "japan_osaka",
+        "x": "366545.1",
+        "y": "127.5352",
+        "z": "-286628.5"
+    },
+    {
+        "gameName": "yokohama",
+        "realName": "横浜",
+        "country": "japan",
+        "x": "359483.3",
+        "y": "55",
+        "z": "-311414.7"
+    },
+    {
+        "gameName": "yokohama",
+        "realName": "横浜",
+        "country": "japan_tokyo",
+        "x": "359483.3",
+        "y": "55",
+        "z": "-311414.7"
+    },
+];
+
+var cities_japan_standalone = [
+    {
+        "gameName": "amagasaki",
+        "realName": "尼崎",
+        "country": "japan",
         "x": "378808",
         "y": "78.88672",
         "z": "95687.92"
@@ -17958,6 +18487,14 @@ var cities_trans_siberian = [
         "z": "-308321.5"
     },
     {
+        "gameName": "vakkanai",
+        "realName": "稚内市",
+        "country": "japan_hokkaido",
+        "x": "304011.5",
+        "y": "99.25",
+        "z": "-308321.5"
+    },
+    {
       "gameName": "vanino",
       "realName": "Ванино",
       "country": "russia",
@@ -20685,7 +21222,8 @@ cities = cities.concat(cities_balkan_e); //Road to the Black Sea DLC
 cities = cities.concat(cities_italy_map); //Italy Map / Italy DLC
 cities = cities.concat(cities_kz); //ProMods The Great Steppe
 cities = cities.concat(cities_afromap); //AfroMap
-cities = cities.concat(cities_japan); //Project Japan
+cities = cities.concat(cities_japan); //Project Japan (Relocated)
+// cities = cities.concat(cities_japan_standalone); //Project Japan (Standalone)
 cities = cities.concat(cities_tsm); //TruckSim-Map
 cities = cities.concat(cities_roextended_turkey); //RoExtended Turkey (v4.9)
 cities = cities.concat(cities_roextended_ua); //RoExtended UA/RU/BY (v4.9)

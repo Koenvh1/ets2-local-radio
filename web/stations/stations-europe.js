@@ -6117,11 +6117,6 @@ var stations = {/*
             url: "http://89.168.75.18/redir/radiko/OBS.m3u8"
         },
         {
-            name: "RCCラジオ",
-            logo: "stations/images-europe/japan/chugoku/RCCラジオ.png",
-            url: "http://89.168.75.18/redir/radiko/RCC.m3u8"
-        },
-        {
             name: "RNB南海放送",
             logo: "stations/images-europe/japan/shikoku/RNB南海放送.png",
             url: "http://89.168.75.18/redir/radiko/RNB.m3u8"
@@ -6161,6 +6156,28 @@ var stations = {/*
             url: "http://89.168.75.18/redir/radiko/RCC.m3u8"
         },
     ],
+    "japan_hokkaido": [
+        {
+            name: "AIR-G'",
+            logo: "stations/images-europe/japan/hokkaido/AIR-G'.png",
+            url: "http://89.168.75.18/redir/radiko/AIR-G.m3u8"
+        },
+        {
+            name: "FM North Wave",
+            logo: "stations/images-europe/japan/hokkaido/FM North Wave.png",
+            url: "http://89.168.75.18/redir/radiko/NORTHWAVE.m3u8"
+        },
+        {
+            name: "HBCラジオ",
+            logo: "stations/images-europe/japan/hokkaido/HBCラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/HBC.m3u8"
+        },
+        {
+            name: "STVラジオ",
+            logo: "stations/images-europe/japan/hokkaido/STVラジオ.png",
+            url: "http://89.168.75.18/redir/radiko/STV.m3u8"
+        },
+    ],
     "japan_ishikawa": [
         {
             name: "エフエム石川",
@@ -6188,12 +6205,12 @@ var stations = {/*
             name: "Love FM 82.7",
             logo: "stations/images-europe/japan/kyushu/LOVE FM.png",
             url: "http://89.168.75.18/redir/radiko/LOVEFM.m3u8"
-        },
+        },/*
         {
             name: "Air Station Hibiki 88.2",
             logo: "stations/images-europe/japan/kyushu/Air Station Hibiki.png",
             url: "https://mtist.as.smartstream.ne.jp/30052/livestream/playlist.m3u8"
-        },
+        },*/
         {
             name: "RKBラジオ 91.5",
             logo: "stations/images-europe/japan/kyushu/RKBラジオ.png",
@@ -6333,12 +6350,12 @@ var stations = {/*
             url: "http://89.168.75.18/redir/radiko/ZIP-FM.m3u8"
         },
     ],
-    "japan_tokushima": [
+    "japan_tokushima": [/*
         {
             name: "BFM 79.1",
             logo: "stations/images-europe/japan/shikoku/BFM 79.1.png",
             url: "https://mtist.as.smartstream.ne.jp/30010/livestream/playlist.m3u8"
-        },
+        },*/
         {
             name: "FM Tokushima",
             logo: "stations/images-europe/japan/shikoku/FM Tokushima.png",
