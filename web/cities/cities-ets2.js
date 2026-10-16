@@ -905,6 +905,12 @@ var country_properties = {
         code: "uz",
         relative_radius: 0.8,
     },
+    "valencia": {
+        name: "València",
+        name_english: "Valencia",
+        code: "es-val",
+        relative_radius: 1,
+    },
     "wales": {
         name: "Cymru",
         name_english: "Wales",
@@ -9105,6 +9111,14 @@ var cities_pm230 = [
         "z": "58089.9"
     },
     {
+        "gameName": "valencia",
+        "realName": "Valencia",
+        "country": "valencia",
+        "x": "-51181.4",
+        "y": "51.6953",
+        "z": "58089.9"
+    },
+    {
         "gameName": "vidin",
         "realName": "Видин (Vidin)",
         "country": "bulgaria",
@@ -9116,6 +9130,14 @@ var cities_pm230 = [
         "gameName": "vinaros",
         "realName": "Vinaròs",
         "country": "spain",
+        "x": "-46540.2",
+        "y": "61.7422",
+        "z": "54007.8"
+    },
+    {
+        "gameName": "vinaros",
+        "realName": "Vinaròs",
+        "country": "valencia",
         "x": "-46540.2",
         "y": "61.7422",
         "z": "54007.8"

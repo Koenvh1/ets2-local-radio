@@ -100,7 +100,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],
+    ],*/
     "halloween": [
         {
             name: "Halloween Radio",
@@ -172,7 +172,7 @@ var stations = {/*
             logo: "stations/images-europe/0_christmas/181.fm.png",
             url: "http://listen.livestreamingservice.com/181-beat_64k.aac"
         },
-    ],*/
+    ],
     "afghanistan": [
         {
             name: "Ariana FM",
@@ -3140,7 +3140,7 @@ var stations = {/*
             url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid"
         },
         {
-            name: "BR Schlager",
+            name: "BR Schlager", // shutting down on 09.11.2026
             logo: "stations/images-europe/germany-br/BR Schlager.png",
             url: "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
         },
@@ -3597,9 +3597,9 @@ var stations = {/*
             url: "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3"
         },
         {
-            name: "MDR Klassik",
-            logo: "stations/images-europe/germany-mdr/MDR Klassik.png",
-            url: "http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3"
+            name: "BR Klassik",
+            logo: "stations/images-europe/germany-br/BR-Klassik.png",
+            url: "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high"
         },
         {
             name: "MDR Kultur",
@@ -5702,11 +5702,6 @@ var stations = {/*
             name: "GHR",
             logo: "stations/images-europe/ireland/GHR.png",
             url: "https://live-bauerie.sharp-stream.com/GHRLIVE"
-        },
-        {
-            name: "GoLoud Radio",
-            logo: "stations/images-europe/ireland/GoLoud Radio.png",
-            url: "https://live-bauerie.sharp-stream.com/GLR"
         },
         {
             name: "Gravity Hits",
@@ -11110,6 +11105,28 @@ var stations = {/*
             logo: "stations/images-europe/uzbekistan/Vodiy Sadosi.png",
             url: "http://89.168.75.18/redir/mediabay/339.m3u8"
         }
+    ],
+    "valencia": [
+        {
+            name: "À Punt Ràdio",
+            logo: "stations/images-europe/valencia/À Punt Ràdio.png",
+            url: "https://fastly.live.brightcove.com/1854461588069069227/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NTQ0NjE1ODgwNjkwNjkyMjcifQ.RKqA-z0MRntFVph2G3tE9YzBp7vfdMXcynOKpyqvZTg/playlist-hls-dvr.m3u8"
+        },
+        {
+            name: "Activa FM",
+            logo: "stations/images-europe/valencia/Activa FM.png",
+            url: "https://stream.emisorasmusicales.net/listen/activa_fm/activafm.mp3"
+        },
+        {
+            name: "Bikini FM",
+            logo: "stations/images-europe/valencia/Bikini FM.png",
+            url: "https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3"
+        },
+        {
+            name: "Muy Buena",
+            logo: "stations/images-europe/valencia/Muy Buena.png",
+            url: "https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3"
+        },
     ],
     "wales": [
         {

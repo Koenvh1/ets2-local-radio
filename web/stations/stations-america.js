@@ -85,7 +85,7 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
-    ],
+    ],*/
     "halloween": [
         {
             name: "iHeart Halloween Radio",
@@ -152,7 +152,7 @@ var stations = {/*
             logo: "stations/images-america/0_general_logos/iHeart Classic Rock.png",
             url: "https://stream.revma.ihrhls.com/zc4426/hls.m3u8"
         }, 
-    ],*/
+    ],
     "aberdeen": [
         {
             name: "Air1 88.1",
