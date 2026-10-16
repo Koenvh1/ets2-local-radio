@@ -4811,8 +4811,8 @@ var stations = {/*
             url: "https://ice.wbcengineering.com:8109/stream"
         },
         {
-            name: "Real Rock 99.3",
-            logo: "stations/images-america/cape_girardeau/Real Rock 99.3.png",
+            name: "99X",
+            logo: "stations/images-america/cape_girardeau/99X.png",
             url: "https://ice23.securenetsystems.net/KCGQ"
         },
         {
@@ -36540,9 +36540,9 @@ var stations = {/*
             url: "https://live.amperwave.net/manifest/unionbroadcasting-kkgqfmaac-ibc2"
         },
         {
-            name: "92.7 The River",
-            logo: "stations/images-america/wichita/92.7 The River.png",
-            url: "https://ice25.securenetsystems.net/KWME"
+            name: "The Keeper 92.7",
+            logo: "stations/images-america/wichita/The Keeper 92.7.png",
+            url: "http://162.244.80.178:8002/stream"
         },
         {
             name: "Power 93.5",
