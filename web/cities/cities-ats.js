@@ -2147,12 +2147,6 @@ var country_properties = {
         code: "us-ca",
         relative_radius: 0.6
     },
-    "salem_sd": {
-        name: "Salem",
-        name_english: "Salem",
-        code: "us-sd",
-        relative_radius: 1.0
-    },
     "salina_ks": {
         name: "Salina",
         name_english: "Salina",
@@ -2361,7 +2355,7 @@ var country_properties = {
         name: "Sioux Falls",
         name_english: "Sioux Falls",
         code: "us-sd",
-        relative_radius: 1.0
+        relative_radius: 0.8
     },
     "socorro": {
         name: "Socorro",
@@ -2674,12 +2668,6 @@ var country_properties = {
         name_english: "Yankton",
         code: "us-sd",
         relative_radius: 0.6
-    },
-    "yankton_the_wolf": {
-        name: "Yankton",
-        name_english: "Yankton",
-        code: "us-sd",
-        relative_radius: 0.9
     },
     "yuma": {
         name: "Yuma",
@@ -3877,9 +3865,6 @@ var city_properties = {
 		relative_radius: 0.6,
         relative_whitenoise: 0.98
     },
-    "salem_sd": {
-        relative_whitenoise: 0.95
-    },
     "salina_ks": {
         relative_whitenoise: 0.95
     },
@@ -3992,7 +3977,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "sioux_falls": {
-        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "socorro": {
@@ -4166,9 +4150,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "yankton": {
-        relative_whitenoise: 0.95
-    },
-    "yankton_the_wolf": {
         relative_whitenoise: 0.95
     },
     "yuma": {
@@ -7446,14 +7427,6 @@ var cities = [
         "z": "-11257.7"
     },
     {
-        "gameName": "salem_sd",
-        "realName": "Salem",
-        "country": "salem_sd",
-        "x": "-5707.6",
-        "y": "163.37",
-        "z": "-26915.4"
-    },
-    {
         "gameName": "salida",
         "realName": "Salida",
         "country": "salida",
@@ -7738,14 +7711,6 @@ var cities = [
         "realName": "Sioux Falls",
         "country": "sioux_falls",
         "x": "-4201.07",
-        "y": "100",
-        "z": "-26315.5"
-    },
-    {
-        "gameName": "sioux_falls",
-        "realName": "Sioux Falls",
-        "country": "salem_sd",
-        "x": "-4901.07",
         "y": "100",
         "z": "-26315.5"
     },
@@ -8244,14 +8209,6 @@ var cities = [
         "x": "-6014.09",
         "y": "76",
         "z": "-22628.6"
-    },
-    {
-        "gameName": "yankton_the_wolf",
-        "realName": "Yankton",
-        "country": "yankton_the_wolf",
-        "x": "-4035.406",
-        "y": "91.38281",
-        "z": "-20946.23"
     },
     {
         "gameName": "yuma",
