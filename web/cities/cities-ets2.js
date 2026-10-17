@@ -46,13 +46,13 @@ var country_properties = {
         name_english: "Armenia",
         code: "am",
         relative_radius: 1,
-    },
+    },/*
     "armenia_yerevan": {
         name: "Երևան",
         name_english: "Yerevan",
         code: "am",
         relative_radius: 0.7,
-    },
+    },*/
     "austria": {
         name: "Österreich",
         name_english: "Austria",
@@ -66,8 +66,8 @@ var country_properties = {
         relative_radius: 1,
     },
     "basque": {
-        name: "Euskadi",
-        name_english: "Basque Country",
+        name: "Euskadi/Nafarroa",
+        name_english: "Basque Country/Navarre",
         code: "es-bas",
         relative_radius: 1,
     },
@@ -208,6 +208,12 @@ var country_properties = {
         name_english: "France",
         code: "fr",
         relative_radius: 1.05,
+    },
+    "galicia": {
+        name: "Galicia",
+        name_english: "Galicia",
+        code: "es-gal",
+        relative_radius: 1,
     },
     "georgia": {
         name: "საქართველო",
@@ -2499,7 +2505,7 @@ var city_properties = {
         relative_radius: 0.77,
     },
     "vigo": {
-        relative_radius: 0.5,
+        relative_radius: 0.65,
     },
     "vik": {
         relative_radius: 1.4,
@@ -2680,6 +2686,14 @@ var cities = [
         "gameName": "a_coruna",
         "realName": "A Coruna",
         "country": "spain",
+        "x": "-82022.2",
+        "y": "82.3516",
+        "z": "26714.3"
+    },
+    {
+        "gameName": "a_coruna",
+        "realName": "A Coruna",
+        "country": "galicia",
         "x": "-82022.2",
         "y": "82.3516",
         "z": "26714.3"
@@ -6693,6 +6707,14 @@ var cities = [
         "z": "32600.7"
     },
     {
+        "gameName": "vigo",
+        "realName": "Vigo",
+        "country": "galicia",
+        "x": "-84721.4",
+        "y": "82.9922",
+        "z": "32600.7"
+    },
+    {
         "gameName": "vik",
         "realName": "Vík",
         "country": "iceland",
@@ -9055,6 +9077,14 @@ var cities_pm230 = [
         "z": "38359.3"
     },
     {
+        "gameName": "pamplona",
+        "realName": "Pamplona-Iruña",
+        "country": "basque",
+        "x": "-52500.4",
+        "y": "60",
+        "z": "38359.3"
+    },
+    {
         "gameName": "pleven",
         "realName": "Плевен (Pleven)",
         "country": "bulgaria",
@@ -9130,14 +9160,6 @@ var cities_pm230 = [
         "gameName": "vinaros",
         "realName": "Vinaròs",
         "country": "spain",
-        "x": "-46540.2",
-        "y": "61.7422",
-        "z": "54007.8"
-    },
-    {
-        "gameName": "vinaros",
-        "realName": "Vinaròs",
-        "country": "valencia",
         "x": "-46540.2",
         "y": "61.7422",
         "z": "54007.8"
@@ -10746,7 +10768,7 @@ var cities_pm274 = [
         "x": "144184.9",
         "y": "110",
         "z": "30097.3"
-    },
+    },/*
     {
         "gameName": "yerevan",
         "realName": "Yerevan",
@@ -10754,7 +10776,7 @@ var cities_pm274 = [
         "x": "142801",
         "y": "62.37109",
         "z": "33696.29"
-    },
+    },*/
     {
         "gameName": "yerevan",
         "realName": "Yerevan",
@@ -13412,6 +13434,14 @@ var cities_tsm = [
         "gameName": "o_barco",
         "realName": "O Barco",
         "country": "spain",
+        "x": "-77271.8",
+        "y": "67.8281",
+        "z": "34199.9"
+    },
+    {
+        "gameName": "o_barco",
+        "realName": "O Barco",
+        "country": "galicia",
         "x": "-77271.8",
         "y": "67.8281",
         "z": "34199.9"

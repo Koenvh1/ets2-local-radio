@@ -179,11 +179,6 @@ var stations = {/*
             logo: "stations/images-europe/afghanistan/Ariana FM.png",
             url: "https://streams.radio.co/sa3345aaa8/listen"
         },
-        {
-            name: "BBC Pashto",
-            logo: "stations/images-europe/afghanistan/BBC Pashto.png",
-            url: "https://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio"
-        },
         /*{
             name: "Radio Killid",
             logo: "stations/images-europe/afghanistan/Radio Killid.png",
@@ -435,103 +430,103 @@ var stations = {/*
             url: "https://eu1.stream4cast.com/proxy/arradioi/stream"
         },
     ],
-    "armenia_yerevan": [
-        {
-            name: "Europa Plus 87.5",
-            logo: "stations/images-europe/armenia/yerevan/Europa Plus 87.5.png",
-            url: "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
-        },
-        {
-            name: "KISS FM 88.3",
-            logo: "stations/images-europe/armenia/yerevan/KISS FM 88.3.png",
-            url: "https://de.auroramedia.am/kissfm.mp3"
-        },/*
-        {
-            name: "POP FM 89.3",
-            logo: "stations/images-europe/armenia/yerevan/POP FM 89.3.png",
-            url: "https://eu1.stream4cast.com/proxy/pop/stream"
-        },*/
-        {
-            name: "Авторадио Ереван 89.7",
-            logo: "stations/images-europe/armenia/yerevan/Авторадио Ереван 89.7.png",
-            url: "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8"
-        },
-        {
-            name: "Радио Шансон FM 90.1",
-            logo: "stations/images-europe/armenia/yerevan/Радио Шансон FM 90.1.png",
-            url: "https://srv01.gpmradio.ru/stream/pro/aac/64/50"
-        },
-        {
-            name: "Vem Radio 91.1",
-            logo: "stations/images-europe/armenia/yerevan/Vem Radio 91.1.png",
-            url: "https://eu1.stream4cast.com/proxy/vemradio/stream"
-        },
-        {
-            name: "Радио МИР 93.7",
-            logo: "stations/images-europe/armenia/yerevan/Радио МИР 93.7.png",
-            url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
-        },
-        {
-            name: "Go.Sport FM 96.3",
-            logo: "stations/images-europe/armenia/yerevan/Go.Sport FM 96.3.png",
-            url: "https://gosport.webcaramba.com/gosport128.mp3"
-        },
-        {
-            name: "Ռադիո Արևիկ FM 97.3",
-            logo: "stations/images-europe/armenia/yerevan/Ռադիո Արևիկ FM 97.3.png",
-            url: "https://eu1.stream4cast.com/proxy/aamiryan/stream"
-        },
-        {
-            name: "Իմ Ռադիո 98.3",
-            logo: "stations/images-europe/armenia/yerevan/Իմ Ռադիո 98.3.png",
-            url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
-        },
-        {
-            name: "Radio Comedy 99.7",
-            logo: "stations/images-europe/armenia/yerevan/Radio Comedy 99.7.png",
-            url: "https://s6.voscast.com:11537/1fm"
-        },
-        {
-            name: "Radio Aurora 100.7",
-            logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
-            url: "https://de.auroramedia.am/aurora.mp3"
-        },
-        {
-            name: "RFI Monde 102.4",
-            logo: "stations/images-europe/armenia/yerevan/RFI Monde 102.4.png",
-            url: "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3"
-        },
-        {
-            name: "Radio Van 103.1",
-            logo: "stations/images-europe/armenia/yerevan/Radio Van 103.1.png",
-            url: "https://radiovan.webcaramba.com/radiovan160.aacp"
-        },
-        {
-            name: "Radio Marshall 103.5",
-            logo: "stations/images-europe/armenia/yerevan/Radio Marshall 103.5.png",
-            url: "https://eu.stream4cast.com/proxy/marshallfm/stream"
-        },
-        {
-            name: "Русское Радио Армения 104.9",
-            logo: "stations/images-europe/armenia/yerevan/Русское Радио Армения 104.9.png",
-            url: "https://hls-01-rusradio.webcaramba.com/rusradio-yerevan/playlist.m3u8"
-        },
-        {
-            name: "FM 105.5",
-            logo: "stations/images-europe/armenia/yerevan/FM 105.5.png",
-            url: "http://144.217.233.87:9178/live"
-        },
-        {
-            name: "Radio Sputnik 106.0",
-            logo: "stations/images-europe/armenia/yerevan/Radio Sputnik 106.0.png",
-            url: "https://icecast-rian.cdnvideo.ru/voicearm1"
-        },
-        {
-            name: "Lratvakan Radio 106.5",
-            logo: "stations/images-europe/armenia/yerevan/Lratvakan Radio 106.5.png",
-            url: "http://212.34.233.78:8000/live"
-        },
-    ],
+    // "armenia_yerevan": [
+    //     {
+    //         name: "Europa Plus 87.5",
+    //         logo: "stations/images-europe/armenia/yerevan/Europa Plus 87.5.png",
+    //         url: "https://europaplus.hostingradio.ru:8014/europaplus320.mp3"
+    //     },
+    //     {
+    //         name: "KISS FM 88.3",
+    //         logo: "stations/images-europe/armenia/yerevan/KISS FM 88.3.png",
+    //         url: "https://de.auroramedia.am/kissfm.mp3"
+    //     },/*
+    //     {
+    //         name: "POP FM 89.3",
+    //         logo: "stations/images-europe/armenia/yerevan/POP FM 89.3.png",
+    //         url: "https://eu1.stream4cast.com/proxy/pop/stream"
+    //     },*/
+    //     {
+    //         name: "Авторадио Ереван 89.7",
+    //         logo: "stations/images-europe/armenia/yerevan/Авторадио Ереван 89.7.png",
+    //         url: "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8"
+    //     },
+    //     {
+    //         name: "Радио Шансон FM 90.1",
+    //         logo: "stations/images-europe/armenia/yerevan/Радио Шансон FM 90.1.png",
+    //         url: "https://srv01.gpmradio.ru/stream/pro/aac/64/50"
+    //     },
+    //     {
+    //         name: "Vem Radio 91.1",
+    //         logo: "stations/images-europe/armenia/yerevan/Vem Radio 91.1.png",
+    //         url: "https://eu1.stream4cast.com/proxy/vemradio/stream"
+    //     },
+    //     {
+    //         name: "Радио МИР 93.7",
+    //         logo: "stations/images-europe/armenia/yerevan/Радио МИР 93.7.png",
+    //         url: "https://icecast-mirtv.cdnvideo.ru/radio_mir_256"
+    //     },
+    //     {
+    //         name: "Go.Sport FM 96.3",
+    //         logo: "stations/images-europe/armenia/yerevan/Go.Sport FM 96.3.png",
+    //         url: "https://gosport.webcaramba.com/gosport128.mp3"
+    //     },
+    //     {
+    //         name: "Ռադիո Արևիկ FM 97.3",
+    //         logo: "stations/images-europe/armenia/yerevan/Ռադիո Արևիկ FM 97.3.png",
+    //         url: "https://eu1.stream4cast.com/proxy/aamiryan/stream"
+    //     },
+    //     {
+    //         name: "Իմ Ռադիո 98.3",
+    //         logo: "stations/images-europe/armenia/yerevan/Իմ Ռադիո 98.3.png",
+    //         url: "https://eu1.stream4cast.com/proxy/aamiry02/stream"
+    //     },
+    //     {
+    //         name: "Radio Comedy 99.7",
+    //         logo: "stations/images-europe/armenia/yerevan/Radio Comedy 99.7.png",
+    //         url: "https://s6.voscast.com:11537/1fm"
+    //     },
+    //     {
+    //         name: "Radio Aurora 100.7",
+    //         logo: "stations/images-europe/armenia/yerevan/Radio Aurora 100.7.png",
+    //         url: "https://de.auroramedia.am/aurora.mp3"
+    //     },
+    //     {
+    //         name: "RFI Monde 102.4",
+    //         logo: "stations/images-europe/armenia/yerevan/RFI Monde 102.4.png",
+    //         url: "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3"
+    //     },
+    //     {
+    //         name: "Radio Van 103.1",
+    //         logo: "stations/images-europe/armenia/yerevan/Radio Van 103.1.png",
+    //         url: "https://radiovan.webcaramba.com/radiovan160.aacp"
+    //     },
+    //     {
+    //         name: "Radio Marshall 103.5",
+    //         logo: "stations/images-europe/armenia/yerevan/Radio Marshall 103.5.png",
+    //         url: "https://eu.stream4cast.com/proxy/marshallfm/stream"
+    //     },
+    //     {
+    //         name: "Русское Радио Армения 104.9",
+    //         logo: "stations/images-europe/armenia/yerevan/Русское Радио Армения 104.9.png",
+    //         url: "https://hls-01-rusradio.webcaramba.com/rusradio-yerevan/playlist.m3u8"
+    //     },
+    //     {
+    //         name: "FM 105.5",
+    //         logo: "stations/images-europe/armenia/yerevan/FM 105.5.png",
+    //         url: "http://144.217.233.87:9178/live"
+    //     },
+    //     {
+    //         name: "Radio Sputnik 106.0",
+    //         logo: "stations/images-europe/armenia/yerevan/Radio Sputnik 106.0.png",
+    //         url: "https://icecast-rian.cdnvideo.ru/voicearm1"
+    //     },
+    //     {
+    //         name: "Lratvakan Radio 106.5",
+    //         logo: "stations/images-europe/armenia/yerevan/Lratvakan Radio 106.5.png",
+    //         url: "http://212.34.233.78:8000/live"
+    //     },
+    // ],
     "austria": [
         {
             name: "ORF Ö1",
@@ -2815,6 +2810,33 @@ var stations = {/*
             name: "Virgin Radio",
             logo: "stations/images-europe/france/Virgin Radio.png",
             url: "https://virginradio.ice.infomaniak.ch/virgin-radio.mp3"
+        },
+    ],
+    "galicia": [
+        {
+            name: "Radio Galega",
+            logo: "stations/images-europe/galicia/Radio Galega.png",
+            url: "https://crtvg-radiogalega-hls.flumotion.cloud/playlist_dvr.m3u8"
+        },
+        {
+            name: "Radio Galega Música",
+            logo: "stations/images-europe/galicia/Radio Galega Música.png",
+            url: "https://crtvg-radiogalega-musica-hls.flumotion.cloud/playlist_DVR.m3u8"
+        },
+        {
+            name: "Radio Voz",
+            logo: "stations/images-europe/galicia/Radio Voz.png",
+            url: "https://live.radiovoz.es/lugo/index.m3u?format=m3u8"
+        },
+        {
+            name: "Si Radio",
+            logo: "stations/images-europe/galicia/Si Radio.png",
+            url: "http://82.223.29.65:8080/Galicia"
+        },
+        {
+            name: "Verbena FM",
+            logo: "stations/images-europe/galicia/Verbena FM.png",
+            url: "https://streaming12.elitecomunicacion.es:8222/stream"
         },
     ],
     "georgia": [
@@ -11123,9 +11145,29 @@ var stations = {/*
             url: "https://stream.emisorasmusicales.net/listen/bikini_fm/bikinifm.mp3"
         },
         {
+            name: "Comboi",
+            logo: "stations/images-europe/valencia/Comboi.png",
+            url: "https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3"
+        },
+        {
+            name: "La Flamenca",
+            logo: "stations/images-europe/valencia/La Flamenca.png",
+            url: "https://stream.emisorasmusicales.net/listen/la_flamenca/laflamenca.mp3"
+        },
+        {
+            name: "MDT Radio",
+            logo: "stations/images-europe/valencia/MDT Radio.png",
+            url: "https://streams1.mdtradio.com:8443/mdtnewapp"
+        },
+        {
             name: "Muy Buena",
             logo: "stations/images-europe/valencia/Muy Buena.png",
             url: "https://stream.emisorasmusicales.net/listen/muybuena/muybuena.mp3"
+        },
+        {
+            name: "Spektra FM",
+            logo: "stations/images-europe/valencia/Spektra FM.png",
+            url: "https://stm2.emiteonline.com:9008/spektrafm"
         },
     ],
     "wales": [
