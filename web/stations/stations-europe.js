@@ -105,22 +105,37 @@ var stations = {/*
         {
             name: "Halloween Radio",
             logo: "stations/images-europe/1_halloween/Halloween Radio.png",
-            url: "https://listen.halloweenradio.net"
+            url: "https://radio1.streamserver.link/radio/8000/hrm-aac"
         }, 
         {
             name: "Halloween Radio Oldies",
             logo: "stations/images-europe/1_halloween/Halloween Radio Oldies.png",
-            url: "https://listen.halloweenradio.net/oldies"
+            url: "https://radio1.streamserver.link/radio/8020/hro-aac"
         }, 
         {
-            name: "Halloween Radio Movies",
-            logo: "stations/images-europe/1_halloween/Halloween Radio Movies.png",
-            url: "https://listen.halloweenradio.net/movies"
+            name: "Halloween Radio Kids",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Kids.png",
+            url: "https://radio1.streamserver.link/radio/8030/hrk-aac"
+        }, 
+        {
+            name: "Halloween Radio Soundtracks",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Soundtracks.png",
+            url: "https://radio1.streamserver.link/radio/8050/hrs-aac"
         }, 
         {
             name: "Halloween Radio Atmosphere",
             logo: "stations/images-europe/1_halloween/Halloween Radio Atmosphere.png",
-            url: "https://listen.halloweenradio.net/atmosphere"
+            url: "https://radio1.streamserver.link:8040/hra-aac"
+        }, 
+        {
+            name: "Halloween Radio Instrumental",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Instrumental.png",
+            url: "https://radio1.streamserver.link/radio/8100/hri-aac"
+        }, 
+        {
+            name: "Halloween Radio Cauldron",
+            logo: "stations/images-europe/1_halloween/Halloween Radio Cauldron.png",
+            url: "https://stream.halloweenradio.net/listen/halloween_radio_cauldron/aac"
         }, 
         {
             name: "Less scary stations follow...",
