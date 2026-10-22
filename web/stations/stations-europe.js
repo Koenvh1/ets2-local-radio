@@ -4387,8 +4387,8 @@ var stations = {/*
     ],
     "greece_ert": [
         {
-            name: "ΕΡΤ Πρώτο πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
+            name: "ΕΡΤnews Radio",
+            logo: "stations/images-europe/greece/ΕΡΤnews Radio.png",
             url: "http://radiostreaming.ert.gr/ert-proto"
         },
         {
@@ -4620,8 +4620,8 @@ var stations = {/*
     ],
     "greece_chios": [
         {
-            name: "ΕΡΤ Πρώτο πρόγραμμα",
-            logo: "stations/images-europe/greece/ΕΡΤ Πρώτο πρόγραμμα.png",
+            name: "ΕΡΤnews Radio",
+            logo: "stations/images-europe/greece/ΕΡΤnews Radio.png",
             url: "http://radiostreaming.ert.gr/ert-proto"
         },
         {
@@ -4687,8 +4687,8 @@ var stations = {/*
             url: "https://sh.onweb.gr:7052/;"
         },
         {
-            name: "KIIS Extra 95.8",
-            logo: "stations/images-europe/greece/corfu/KIIS Extra 95.8.png",
+            name: "Extra 95.8",
+            logo: "stations/images-europe/greece/corfu/Extra 95.8.png",
             url: "https://streams.enjoyfm.gr:48502/kiis958.mp3"
         },
         {
