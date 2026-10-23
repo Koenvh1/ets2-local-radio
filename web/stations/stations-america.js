@@ -2461,7 +2461,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -2513,7 +2513,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -4253,7 +4253,7 @@ var stations = {/*
 		},
 		{
 			name: "570 WNAX",
-			logo: "stations/images-america/mitchell/570 WNAX.png",
+			logo: "stations/images-america/yankton/570 WNAX.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1",
 		},
 		{
@@ -4268,7 +4268,7 @@ var stations = {/*
 		},
 		{
 			name: "KLOH 1050",
-			logo: "stations/images-america/sioux_falls/KLOH 1050.png",
+			logo: "stations/images-america/brookings/KLOH 1050.png",
 			url: "https://stream.surfernetwork.com/8kya3yk1qyuuv",
 		},
 		{
@@ -11293,15 +11293,15 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice9.securenetsystems.net/KVNU"
         },
     ],
-	"faith_eagle_butte": [
+	"faith": [
 		{
 			name: "KIPI 93.5",
-			logo: "stations/images-america/faith_eagle_butte/KIPI 93.5.png",
+			logo: "stations/images-america/faith/KIPI 93.5.png",
 			url: "https://streams.kipiradio.com/hd1",
 		},
 		{
 			name: "KIPI 93.5-HD2",
-			logo: "stations/images-america/faith_eagle_butte/KIPI 93.5.png",
+			logo: "stations/images-america/faith/KIPI 93.5.png",
 			url: "https://streams.kipiradio.com/hd2",
 		},
 		{
@@ -21431,7 +21431,7 @@ var stations = {/*
 		},
 		{
 			name: "570 WNAX",
-			logo: "stations/images-america/mitchell/570 WNAX.png",
+			logo: "stations/images-america/yankton/570 WNAX.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1",
 		},
 		{
@@ -23037,7 +23037,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -23909,7 +23909,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -24991,7 +24991,7 @@ var stations = {/*
         },
         {
             name: "HOT 103.9",
-            logo: "stations/images-america/phoenix/HOT 97.5_103.9.png",
+            logo: "stations/images-america/phoenix/HOT 103.9.png",
             url: "http://ais-sa1.streamon.fm/7855_96k.aac"
         },
         {
@@ -25744,11 +25744,6 @@ var stations = {/*
             name: "95.1 The Wow Factor",
             logo: "stations/images-america/phoenix/95.1 The Wow Factor.png",
             url: "https://ais-sa1.streamon.fm/7857_96k.aac"
-        },
-        {
-            name: "HOT 97.5",
-            logo: "stations/images-america/phoenix/HOT 97.5_103.9.png",
-            url: "http://ais-sa1.streamon.fm/7855_96k.aac"
         },
         {
             name: "Power 98.3",
@@ -30978,7 +30973,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -31602,7 +31597,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -31794,7 +31789,7 @@ var stations = {/*
 		},
 		{
 			name: "KLOH 1050",
-			logo: "stations/images-america/sioux_falls/KLOH 1050.png",
+			logo: "stations/images-america/brookings/KLOH 1050.png",
 			url: "https://stream.surfernetwork.com/8kya3yk1qyuuv",
 		},
 		{
@@ -36896,7 +36891,7 @@ var stations = {/*
 		},
 		{
 			name: "96.9 K245DA",
-			logo: "stations/images-america/mitchell/570 WNAX.png",
+			logo: "stations/images-america/yankton/570 WNAX.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1",
 		},
 		{
@@ -36921,7 +36916,7 @@ var stations = {/*
 		},
 		{
 			name: "570 WNAX",
-			logo: "stations/images-america/mitchell/570 WNAX.png",
+			logo: "stations/images-america/yankton/570 WNAX.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/saga-wnaxamaac-ibc1",
 		},
 		{
@@ -50482,7 +50477,7 @@ var stations = {/*
         },
         {
             name: "570 WNAX",
-            logo: "stations/images-america/mitchell/570 WNAX.png",
+            logo: "stations/images-america/yankton/570 WNAX.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/saga-wnaxamaac-ibc1"
         },
         {
@@ -57876,8 +57871,8 @@ var stations = {/*
             url: "https://wurd.streamguys1.com/live"
         },
         {
-            name: "The New 96.5",
-            logo: "stations/images-america/c2c/philadelphia_pa/The New 96.5.png",
+            name: "US 96.5",
+            logo: "stations/images-america/c2c/philadelphia_pa/US 96.5.png",
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/audacy-wtdyfmaac-imc"
         },
         {
