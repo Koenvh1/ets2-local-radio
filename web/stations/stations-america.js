@@ -2248,7 +2248,7 @@ var stations = {/*
         {
             name: "Kalor 104.3",
             logo: "stations/images-america/bakersfield/Kalor 104.3.png",
-            url: "https://stream.zeno.fm/efhng47wf4mvv"
+            url: "https://cast.streamkast.co/kwnz"
         },
         {
             name: "Air1 104.7",
@@ -3404,7 +3404,7 @@ var stations = {/*
         {
             name: "98.5 The Wolf",
             logo: "stations/images-america/billings/98.5 The Wolf.png",
-            url: "https://ice1.amtstreaming.com:8443/kewf-air"
+            url: "https://ice.loudclouddigital.com:8443/kewf-stream"
         },
         {
             name: "FM 99 The Mountain",
@@ -4858,7 +4858,7 @@ var stations = {/*
         {
             name: "106.9 K295FB",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "ROCK 107",
@@ -5442,7 +5442,7 @@ var stations = {/*
         {
             name: "WBGL 91.7",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "Rewind 92.5",
@@ -10113,7 +10113,7 @@ var stations = {/*
         {
             name: "93.9 W230BS",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "95.7 WCRC",
@@ -16997,7 +16997,7 @@ var stations = {/*
         {
             name: "104.7 WCFL",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "Classic Hits 106",
@@ -22257,7 +22257,7 @@ var stations = {/*
         {
             name: "89.7 WBMV",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "afr Talk 90.5",
@@ -23681,7 +23681,7 @@ var stations = {/*
         {
             name: "Sweet 98.5",
             logo: "stations/images-america/omaha/Sweet 98.5.png",
-            url: "http://84.32.44.251/index.php?u=https://playerservices.streamtheworld.com/api/livestream-redirect/KQKQFMAAC_SC"
+            url: "http://84.32.44.251/index.php?u=https://ice25.securenetsystems.net/KQKQ"
         },
         {
             name: "La Nueva 99.5",
@@ -26178,8 +26178,8 @@ var stations = {/*
 		},
 		{
 			name: "97.5 K248BT",
-			logo: "stations/images-america/rapid_city/Cowboy 104.7.png",
-			url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/homeslice-kklsamaac-ibc4",
+			logo: "stations/images-america/rapid_city/HOT 93.1.png",
+			url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/homeslice-krcsfmaac-ibc4",
 		},
 		{
 			name: "VCY America 97.9",
@@ -33226,7 +33226,7 @@ var stations = {/*
         {
             name: "89.7 WCBW",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "KWUR 90.3",
@@ -45941,7 +45941,7 @@ var stations = {/*
         {
             name: "88.5 WCRT",
             logo: "stations/images-america/champaign/WBGL 91.7.png",
-            url: "https://nwm-lb-7.streamguys1.com/WBGL-AAC"
+            url: "https://nwm-lb-4.streamguys1.com/WBGL-AAC"
         },
         {
             name: "Calvary Radio Network 88.9",
@@ -52297,6 +52297,11 @@ var stations = {/*
             url: "http://playerservices.streamtheworld.com/api/livestream-redirect/WBFO_THE_BRIDGEAAC_SC"
         },
         {
+            name: "US Country 95.1",
+            logo: "stations/images-america/c2c/buffalo_ny/US Country.png",
+            url: "https://live.amperwave.net/manifest/radioonebuffalo-wuswamaac-ibc"
+        },
+        {
             name: "Energy 95.3",
             logo: "stations/images-america/c2c/buffalo_ny/Energy 95.3.png",
             url: "https://corus.leanstream.co/CINGFM"
@@ -52387,9 +52392,9 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=http://playerservices.streamtheworld.com/api/livestream-redirect/WBBFAMAAC_SC"
         },
         {
-            name: "1270 The Patriot",
-            logo: "stations/images-america/c2c/buffalo_ny/1270 The Patriot.png",
-            url: "https://live.amperwave.net/manifest/radioonebuffalo-wuswamaac-hlsc.m3u8"
+            name: "US Country 1270",
+            logo: "stations/images-america/c2c/buffalo_ny/US Country.png",
+            url: "http://live.amperwave.net/manifest/radioonebuffalo-wuswamaac-ibc"
         },
         {
             name: "The Breeze 1440",
@@ -55134,11 +55139,6 @@ var stations = {/*
             name: "Y94",
             logo: "stations/images-america/c2c/fargo_nd/Y94.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KOYYFMAAC_SC"
-        },
-        {
-            name: "The City 94.5",
-            logo: "stations/images-america/c2c/fargo_nd/The City 94.5.png",
-            url: "http://ice10.securenetsystems.net/KBVBHD2"
         },
         {
             name: "BOB 95 FM",

@@ -797,9 +797,9 @@ var country_properties = {
         code: "us-wy",
         relative_radius: 0.5
     },
-    "faith_eagle_butte": {
-        name: "Faith/Eagle Butte",
-        name_english: "Faith/Eagle Butte",
+    "faith": {
+        name: "Faith",
+        name_english: "Faith",
         code: "us-sd",
         relative_radius: 0.5
     },
@@ -3120,7 +3120,7 @@ var city_properties = {
     "evanston": {
         relative_whitenoise: 0.85
     },
-    "faith_eagle_butte": {
+    "faith": {
         relative_whitenoise: 0.95
     },
     "fallon": {
@@ -5403,9 +5403,9 @@ var cities = [
         "z": "-18638.7"
     },
     {
-        "gameName": "faith_eagle_butte",
-        "realName": "Faith/Eagle Butte",
-        "country": "faith_eagle_butte",
+        "gameName": "faith",
+        "realName": "Faith",
+        "country": "faith",
         "x": "-21940.16",
         "y": "100",
         "z": "-35025.98"
