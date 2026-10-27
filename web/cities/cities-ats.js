@@ -329,12 +329,6 @@ var country_properties = {
         code: "us-ut",
         relative_radius: 0.5
     },
-    "buffalo_sd": {
-        name: "Buffalo",
-        name_english: "Buffalo",
-        code: "us-sd",
-        relative_radius: 0.7
-    },
     "buffalo_tx": {
         name: "Buffalo",
         name_english: "Buffalo",
@@ -2867,9 +2861,6 @@ var city_properties = {
     "bryce_escalante": {
         relative_whitenoise: 0.9
     },
-    "buffalo_sd": {
-        relative_whitenoise: 0.95
-    },
     "buffalo_tx": {
         relative_whitenoise: 0.95
     },
@@ -4697,14 +4688,6 @@ var cities = [
         "x": "-69039.188",
         "y": "163.0547",
         "z": "1567.81"
-    },
-    {
-        "gameName": "buffalo_sd",
-        "realName": "Buffalo",
-        "country": "buffalo_sd",
-        "x": "-29601.9",
-        "y": "90",
-        "z": "-38870.7"
     },
     {
         "gameName": "buffalo_tx",
