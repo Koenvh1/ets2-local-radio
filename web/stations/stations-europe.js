@@ -2617,6 +2617,11 @@ var stations = {/*
             url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
         },
         {
+            name: "Mon petit France Inter",
+            logo: "stations/images-europe/france/Mon Petit France Inter.png",
+            url: "https://icecast.radiofrance.fr/monpetitfranceinter-midfi.mp3"
+        },
+        {
             name: "France Musique",
             logo: "stations/images-europe/france/France Musique.png",
             url: "http://direct.francemusique.fr/live/francemusique-midfi.mp3"
@@ -2715,11 +2720,6 @@ var stations = {/*
             name: "Melody Vintage Radio",
             logo: "stations/images-europe/france/Melody Vintage Radio.png",
             url: "https://stream.rcs.revma.com/5a05fstup42vv"
-        },
-        {
-            name: "Mouv'", // to be replaced by Mon Petit France Inter on DAB+
-            logo: "stations/images-europe/france/Mouv'.png",
-            url: "https://direct.mouv.fr/live/mouv-midfi.mp3"
         },
         {
             name: "Nostalgie",

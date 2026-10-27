@@ -14129,6 +14129,12 @@ var country_properties_canada = {
         code: "ca-nt",
         relative_radius: 1.0
     },
+    "hazelton": {
+        name: "Hazelton",
+        name_english: "Hazelton",
+        code: "ca-bc",
+        relative_radius: 0.75
+    },
     "hearst": {
         name: "Hearst",
         name_english: "Hearst",
@@ -14153,11 +14159,23 @@ var country_properties_canada = {
         code: "ca-bc",
         relative_radius: 1.2
     },
+    "gitanyow": {
+        name: "Gitanyow",
+        name_english: "Gitanyow",
+        code: "ca-bc",
+        relative_radius: 0.5
+    },
     "iroquoisfall": {
         name: "Iroquois Falls",
         name_english: "Iroquois Falls",
         code: "ca-on",
         relative_radius: 0.8
+    },
+    "iskut": {
+        name: "Iskut",
+        name_english: "Iskut",
+        code: "ca-bc",
+        relative_radius: 0.75
     },
     "jasper": {
         name: "Jasper",
@@ -14367,7 +14385,7 @@ var country_properties_canada = {
         name: "Prince Rupert",
         name_english: "Prince Rupert",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "princeton": {
         name: "Princeton",
@@ -14457,7 +14475,7 @@ var country_properties_canada = {
         name: "Stewart",
         name_english: "Stewart",
         code: "ca-bc",
-        relative_radius: 1.2
+        relative_radius: 0.85
     },
     "stjohns": {
         name: "St. John's",
@@ -14482,6 +14500,12 @@ var country_properties_canada = {
         name_english: "Swift Current",
         code: "ca-sk",
         relative_radius: 1.1    
+    },
+    "terrace": {
+        name: "Terrace",
+        name_english: "Terrace",
+        code: "ca-bc",
+        relative_radius: 0.9
     },
     "thunderbay": {
         name: "Thunder Bay",
@@ -14691,6 +14715,9 @@ var city_properties_canada = {
     "hayriver": {
         relative_whitenoise: 0.95
     },
+    "hazelton_bc": {
+        relative_whitenoise: 0.95
+    },
     "hearst": {
         relative_whitenoise: 0.95
     },
@@ -14703,7 +14730,13 @@ var city_properties_canada = {
     "houstoncan": {
         relative_whitenoise: 0.95
     },
+    "gitanyow_bc": {
+        relative_whitenoise: 0.95
+    },
     "iroquoisfall": {
+        relative_whitenoise: 0.95
+    },
+    "iskut": {
         relative_whitenoise: 0.95
     },
     "jasper": {
@@ -14804,6 +14837,9 @@ var city_properties_canada = {
     "port_hardy": {
         relative_whitenoise: 0.95
     },
+    "prerupert_bc": {
+        relative_whitenoise: 0.95
+    },
     "princegeorge": {
         relative_whitenoise: 0.95
     },
@@ -14878,6 +14914,9 @@ var city_properties_canada = {
     },
     "swift": {
         relative_whitenoise: 0.9
+    },
+    "terrace_bc": {
+        relative_whitenoise: 0.95
     },
     "thunderbay": {
         relative_whitenoise: 0.95
@@ -15165,6 +15204,14 @@ var cities_canada = [
         "z": "-131289"
     },
     {
+        "gameName": "hazelton_bc",
+        "realName": "Hazelton",
+        "country": "hazelton",
+        "x": "-103973.9",
+        "y": "69.8125",
+        "z": "-114218.3"
+    },
+    {
         "gameName": "hearst",
         "realName": "Hearst",
         "country": "hearst",
@@ -15197,12 +15244,28 @@ var cities_canada = [
         "z": "-104145"
     },
     {
+        "gameName": "gitanyow_bc",
+        "realName": "Gitanyow",
+        "country": "gitanyow",
+        "x": "-106230.4",
+        "y": "50.35938",
+        "z": "-115941.7"
+    },
+    {
         "gameName": "iroquoisfall",
         "realName": "Iroquois Falls",
         "country": "timmins",
         "x": "57355.1",
         "y": "104.055",
         "z": "-60873.2"
+    },
+    {
+        "gameName": "iskut",
+        "realName": "Iskut",
+        "country": "iskut",
+        "x": "-100618",
+        "y": "100",
+        "z": "-124408.93"
     },
     {
         "gameName": "jasper",
@@ -15469,21 +15532,29 @@ var cities_canada = [
         "z": "-85382.9"
     },
     {
+        "gameName": "prerupert_bc", // ProMods Canada def
+        "realName": "Prince Rupert",
+        "country": "princerupert",
+        "x": "-114110",
+        "y": "50",
+        "z": "-110289.5"
+    },
+    {
         "gameName": "princegeorge",
         "realName": "Prince George",
         "country": "princegeorge",
         "x": "-87517.5",
         "y": "85.8359",
         "z": "-99375.6"
-    },
+    },/*
     {
-        "gameName": "princerupert",
+        "gameName": "princerupert", // CanaMania def
         "realName": "Prince Rupert",
         "country": "princerupert",
         "x": "-108895",
         "y": "88",
         "z": "-107909"
-    },
+    },*/
     {
         "gameName": "princeton",
         "realName": "Princeton",
@@ -15627,14 +15698,22 @@ var cities_canada = [
         "x": "94917",
         "y": "69.5156",
         "z": "-49305.4"
-    },
+    },/*
     {
-        "gameName": "stewart",
+        "gameName": "stewart", // CanaMania def
         "realName": "Stewart",
         "country": "stewart",
         "x": "-102241",
         "y": "98.5313",
         "z": "-115701"
+    },*/
+    {
+        "gameName": "stewart_bc", // ProMods Canada def
+        "realName": "Stewart",
+        "country": "stewart",
+        "x": "-109157.9",
+        "y": "53.5",
+        "z": "-118819.5"
     },
     {
         "gameName": "stjohns",
@@ -15667,6 +15746,14 @@ var cities_canada = [
         "x": "-42865.4",
         "y": "50",
         "z": "-66245.86"
+    },
+    {
+        "gameName": "terrace_bc",
+        "realName": "Terrace",
+        "country": "terrace",
+        "x": "-109193.9",
+        "y": "48.39063",
+        "z": "-109909.8"
     },
     {
         "gameName": "thunderbay",

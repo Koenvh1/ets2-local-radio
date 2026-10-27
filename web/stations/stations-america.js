@@ -64357,6 +64357,38 @@ var stations = {/*
             url: "https://ais-sa1.streamon.fm/7187_24k.aac"
         },
     ],
+    "hazelton": [
+        {
+            name: "CBC Music 89.7",
+            logo: "stations/images-america/canada/CBC Music.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFM_CBC_SC"
+        },
+        {
+            name: "CBC Radio One 91.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "http://playerservices.streamtheworld.com/api/livestream-redirect/CBYGFM_CBC_SC"
+        },
+        {
+            name: "Lighthouse FM 92.3",
+            logo: "stations/images-america/canada/Lighthouse FM.png",
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
+        },
+        {
+            name: "101.9 CJFW-FM-8",
+            logo: "stations/images-america/canada/terrace/103.1 The River.png",
+            url: "https://vistaradio.streamb.live/SB00401"
+        },
+        {
+            name: "105.9 VF2470",
+            logo: "stations/images-america/canada/vancouver/Move 103.5.png",
+            url: "http://192.99.6.159:3900/index.php?ats=https://playerservices.streamtheworld.com/api/livestream-redirect/CHQMFMAAC_SC"
+        },
+        {
+            name: "CBC Radio One 1170",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBYGFM_CBC_SC"
+        },
+    ],
     "hearst": [
         {
             name: "ICI Première 90.3",
@@ -64463,6 +64495,25 @@ var stations = {/*
             name: "106.5 Moose FM",
             logo: "stations/images-america/canada/houstoncan/106.5 Moose FM.png",
             url: "https://vistaradio.streamb.live/SB00109"
+        },
+    ],
+    "gitanyow": [
+        {
+            name: "CBC Radio One 94.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBYGFM_CBC_SC"
+        },
+        {
+            name: "CFNR 96.1",
+            logo: "stations/images-america/canada/CFNR.png",
+            url: "http://nnb.leanstream.co/CFNRFM"
+        },
+    ],
+    "iskut": [
+        {
+            name: "CFNR 96.1",
+            logo: "stations/images-america/canada/CFNR.png",
+            url: "http://nnb.leanstream.co/CFNRFM"
         },
     ],
     "jasper": [
@@ -66104,7 +66155,7 @@ var stations = {/*
         },
         {
             name: "101.9 CJFW-FM-2",
-            logo: "stations/images-america/canada/princerupert/103.1 The River.png",
+            logo: "stations/images-america/canada/terrace/103.1 The River.png",
             url: "https://vistaradio.streamb.live/SB00401"
         },
         {
@@ -66853,8 +66904,8 @@ var stations = {/*
     ],
     "stewart": [
         {
-            name: "CJFW 92.1",
-            logo: "stations/images-america/canada/princerupert/103.1 The River.png",
+            name: "92.9 VF2496",
+            logo: "stations/images-america/canada/terrace/103.1 The River.png",
             url: "https://vistaradio.streamb.live/SB00401"
         },
         {
@@ -66863,7 +66914,7 @@ var stations = {/*
             url: "http://nnb.leanstream.co/CFNRFM"
         },
         {
-            name: "CBC Radio One 1450",
+            name: "CBC Radio One 98.1",
             logo: "stations/images-america/canada/CBC Radio One.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBKRFM_CBC_SC"
         },
@@ -67064,6 +67115,38 @@ var stations = {/*
             name: "CKSW 570",
             logo: "stations/images-america/canada/swift/CKSW 570.png",
             url: "https://goldenwest.leanstream.co/CKSWAM"
+        },
+    ],
+    "terrace": [
+        {
+            name: "CFNR 92.1",
+            logo: "stations/images-america/canada/CFNR.png",
+            url: "http://nnb.leanstream.co/CFNRFM"
+        },
+        {
+            name: "CBC Radio One 95.3",
+            logo: "stations/images-america/canada/CBC Radio One.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBYGFM_CBC_SC"
+        },
+        {
+            name: "ICI Première 96.9",
+            logo: "stations/images-america/canada/ICI Première.png",
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/CBUFFM_SRC_SC"
+        },
+        {
+            name: "Lighthouse FM 101.5",
+            logo: "stations/images-america/canada/Lighthouse FM.png",
+            url: "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1"
+        },
+        {
+            name: "103.1 The River",
+            logo: "stations/images-america/canada/terrace/103.1 The River.png",
+            url: "https://vistaradio.streamb.live/SB00401"
+        },
+        {
+            name: "590 Summit",
+            logo: "stations/images-america/canada/terrace/590 Summit.png",
+            url: "https://vistaradio.streamb.live/SB00400"
         },
     ],
     "thunderbay": [
