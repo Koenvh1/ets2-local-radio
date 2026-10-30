@@ -5362,6 +5362,11 @@ var stations = {/*
             url: "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
         },
         {
+            name: "Nemzetiségi Rádió",
+            logo: "stations/images-europe/hungary/Nemzetiségi Rádió.png",
+            url: "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
+        },
+        {
             name: "Best FM",
             logo: "stations/images-europe/hungary/Best FM.png",
             url: "https://icast.connectmedia.hu/5101/live.mp3/"
