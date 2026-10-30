@@ -5393,13 +5393,8 @@ var stations = {/*
         },
         {
             name: "Nemzetiségi Rádió",
-            logo: 
+            logo: "stations/images-europe/hungary/Nemzetiségi Rádió.png",
             url: "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
-        },
-        {
-            name: "Nemzeti Sportrádió",
-            logo: 
-            url: "https://icast.connectmedia.hu/4657/mr11.mp3"
         },
         {
             name: "Best FM",
