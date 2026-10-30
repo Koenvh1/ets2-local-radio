@@ -2447,12 +2447,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
-    "thedford": {
-        name: "Thedford",
-        name_english: "The Thedford",
-        code: "us-ne",
-        relative_radius: 0.5
-    },
     "tierra_amarilla": {
         name: "Tierra Amarilla",
         name_english: "Tierra Amarilla",
@@ -4027,9 +4021,6 @@ var city_properties = {
     "the_dalles": {
         relative_whitenoise: 0.85
     },
-    "thedford": {
-        relative_whitenoise: 0.95
-    },
     "tierra_amarilla": {
         relative_whitenoise: 0.95
     },
@@ -4268,7 +4259,7 @@ var cities = [
     {
         "gameName": "alliance",
         "realName": "Alliance",
-        "country": "scottsbluff",
+        "country": "alliance",
         "x": "-28456.6",
         "y": "117.199",
         "z": "-19081.8"
@@ -4428,7 +4419,7 @@ var cities = [
     {
         "gameName": "bassett",
         "realName": "Bassett",
-        "country": "oneill",
+        "country": "bassett",
         "x": "-14995.5",
         "y": "52.6483",
         "z": "-20549"
@@ -4452,7 +4443,7 @@ var cities = [
     {
         "gameName": "beatrice",
         "realName": "Beatrice",
-        "country": "lincoln_ne",
+        "country": "beatrice",
         "x": "-3938.86",
         "y": "46.0063",
         "z": "-7144.62"
@@ -4460,7 +4451,7 @@ var cities = [
     {
         "gameName": "beatrice",
         "realName": "Beatrice",
-        "country": "marysville",
+        "country": "beatrice",
         "x": "-3938.86",
         "y": "46.0063",
         "z": "-8144.62"
@@ -7880,14 +7871,6 @@ var cities = [
         "x": "-96967.8",
         "y": "79.5923",
         "z": "-50162.2"
-    },
-    {
-        "gameName": "thedford",
-        "realName": "Thedford",
-        "country": "thedford",
-        "x": "-19709.7",
-        "y": "106.353",
-        "z": "-17464"
     },
     {
         "gameName": "tierra_amarilla",
