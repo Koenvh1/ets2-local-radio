@@ -1805,9 +1805,9 @@ var stations = {/*
     ],
     "czech": [
         {
-            name: "ČRo D-dur",
-            logo: "stations/images-europe/czech/ČRo D-dur.png",
-            url: "https://rozhlas.stream/ddur_high.aac"
+            name: "ČRo Radiožurnál",
+            logo: "stations/images-europe/czech/ČRo Radiožurnál.png",
+            url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
         },
         {
             name: "ČRo Dvojka",
@@ -1815,9 +1815,9 @@ var stations = {/*
             url: "http://amp.cesnet.cz:8000/cro2-256.ogg"
         },
         {
-            name: "ČRo Jazz",
-            logo: "stations/images-europe/czech/ČRo Jazz.png",
-            url: "https://rozhlas.stream/jazz_high.aac"
+            name: "ČRo Vltava",
+            logo: "stations/images-europe/czech/ČRo Vltava.png",
+            url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
         },
         {
             name: "ČRo Plus",
@@ -1825,59 +1825,14 @@ var stations = {/*
             url: "https://rozhlas.stream/plus_high.aac"
         },
         {
-            name: "ČRo Pohoda",
-            logo: "stations/images-europe/czech/ČRo Pohoda.png",
-            url: "https://rozhlas.stream/pohoda_high.aac"
+            name: "ČRo D-dur",
+            logo: "stations/images-europe/czech/ČRo D-dur.png",
+            url: "https://rozhlas.stream/ddur_high.aac"
         },
         {
-            name: "ČRo Radiožurnál",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál.png",
-            url: "http://amp.cesnet.cz:8000/cro1-256.ogg"
-        },
-        {
-            name: "ČRo Radiožurnál Sport",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál Sport.png",
-            url: "https://rozhlas.stream/radiozurnal_sport_high.aac"
-        },
-        {
-            name: "ČRo Brno",
-            logo: "stations/images-europe/czech/ČRo Brno.png",
-            url: "https://rozhlas.stream/brno_high.aac"
-        },
-        {
-            name: "ČRo České Budějovice",
-            logo: "stations/images-europe/czech/ČRo České Budějovice.png",
-            url: "https://rozhlas.stream/ceske_budejovice_high.aac"
-        },
-        {
-            name: "ČRo Liberec",
-            logo: "stations/images-europe/czech/ČRo Liberec.png",
-            url: "https://rozhlas.stream/liberec_high.aac"
-        },
-        {
-            name: "ČRo Pardubice",
-            logo: "stations/images-europe/czech/ČRo Pardubice.png",
-            url: "https://rozhlas.stream/pardubice_high.aac"
-        },
-        {
-            name: "ČRo Plzeň",
-            logo: "stations/images-europe/czech/ČRo Plzeň.png",
-            url: "https://rozhlas.stream/plzen_high.aac"
-        },
-        {
-            name: "ČRo Střední Čechy",
-            logo: "stations/images-europe/czech/ČRo Střední Čechy.png",
-            url: "https://rozhlas.stream/region_high.aac"
-        },
-        {
-            name: "ČRo Vltava",
-            logo: "stations/images-europe/czech/ČRo Vltava.png",
-            url: "http://amp.cesnet.cz:8000/cro3-256.ogg"
-        },
-        {
-            name: "Radio Wave",
-            logo: "stations/images-europe/czech/Radio Wave.png",
-            url: "https://rozhlas.stream/radio_wave_high.aac"
+            name: "ČRo Jazz",
+            logo: "stations/images-europe/czech/ČRo Jazz.png",
+            url: "https://rozhlas.stream/jazz_high.aac"
         },
         {
             name: "Rádio Junior",
@@ -1885,9 +1840,24 @@ var stations = {/*
             url: "https://rozhlas.stream/radio_junior_high.aac"
         },
         {
+            name: "ČRo Pohoda",
+            logo: "stations/images-europe/czech/ČRo Pohoda.png",
+            url: "https://rozhlas.stream/pohoda_high.aac"
+        },
+        {
             name: "Rádio Praha",
             logo: "stations/images-europe/czech/Rádio Praha.png",
             url: "https://rozhlas.stream/radio_dab_praha_high.aac"
+        },
+        {
+            name: "ČRo Radiožurnál Sport",
+            logo: "stations/images-europe/czech/ČRo Radiožurnál Sport.png",
+            url: "https://rozhlas.stream/radiozurnal_sport_high.aac"
+        },
+        {
+            name: "Radio Wave",
+            logo: "stations/images-europe/czech/Radio Wave.png",
+            url: "https://rozhlas.stream/radio_wave_high.aac"
         },
         {
             name: "Country Radio",
@@ -5390,6 +5360,11 @@ var stations = {/*
             name: "Dankó Rádió",
             logo: "stations/images-europe/hungary/Dankó Rádió.png",
             url: "https://mr-stream.connectmedia.hu/4748/mr7.mp3"
+        },
+        {
+            name: "Nemzetiségi Rádió",
+            logo: "stations/images-europe/hungary/Nemzetiségi Rádió.png",
+            url: "https://mr-stream.connectmedia.hu/4744/mr4.mp3"
         },
         {
             name: "Best FM",
