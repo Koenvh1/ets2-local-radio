@@ -1825,21 +1825,6 @@ var stations = {/*
             url: "https://rozhlas.stream/plus_high.aac"
         },
         {
-            name: "ČRo Radiožurnál Sport",
-            logo: "stations/images-europe/czech/ČRo Radiožurnál Sport.png",
-            url: "https://rozhlas.stream/radiozurnal_sport_high.aac"
-        },
-        {
-            name: "Radio Wave",
-            logo: "stations/images-europe/czech/Radio Wave.png",
-            url: "https://rozhlas.stream/radio_wave_high.aac"
-        },
-        {
-            name: "Rádio Junior",
-            logo: "stations/images-europe/czech/Rádio Junior.png",
-            url: "https://rozhlas.stream/radio_junior_high.aac"
-        },
-        {
             name: "ČRo D-dur",
             logo: "stations/images-europe/czech/ČRo D-dur.png",
             url: "https://rozhlas.stream/ddur_high.aac"
@@ -1850,6 +1835,11 @@ var stations = {/*
             url: "https://rozhlas.stream/jazz_high.aac"
         },
         {
+            name: "Rádio Junior",
+            logo: "stations/images-europe/czech/Rádio Junior.png",
+            url: "https://rozhlas.stream/radio_junior_high.aac"
+        },
+        {
             name: "ČRo Pohoda",
             logo: "stations/images-europe/czech/ČRo Pohoda.png",
             url: "https://rozhlas.stream/pohoda_high.aac"
@@ -1858,6 +1848,16 @@ var stations = {/*
             name: "Rádio Praha",
             logo: "stations/images-europe/czech/Rádio Praha.png",
             url: "https://rozhlas.stream/radio_dab_praha_high.aac"
+        },
+        {
+            name: "ČRo Radiožurnál Sport",
+            logo: "stations/images-europe/czech/ČRo Radiožurnál Sport.png",
+            url: "https://rozhlas.stream/radiozurnal_sport_high.aac"
+        },
+        {
+            name: "Radio Wave",
+            logo: "stations/images-europe/czech/Radio Wave.png",
+            url: "https://rozhlas.stream/radio_wave_high.aac"
         },
         {
             name: "Country Radio",
