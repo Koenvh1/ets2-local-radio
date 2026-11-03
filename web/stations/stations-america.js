@@ -15908,9 +15908,9 @@ var stations = {/*
             url: "http://ice24.securenetsystems.net/KPKY"
         },
         {
-            name: "NOW 105.1",
-            logo: "stations/images-america/idaho_falls/NOW 105.1.png",
-            url: "http://84.32.44.251/index.php?u=https://ice8.securenetsystems.net/KAOXHD2"
+            name: "NewsTalk 2 105.1",
+            logo: "stations/images-america/idaho_falls/NewsTalk 2 105.1.png",
+            url: "https://cc181.cir.st/NEWS2"
         },
         {
             name: "105 The GOAT",
@@ -20741,9 +20741,9 @@ var stations = {/*
 			url: "https://stream.rcast.net/72974"
         },
         {
-            name: "K-Mozart AM 1260",
-            logo: "stations/images-america/los_angeles/K-Mozart.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://streaming.live365.com/a28050"
+            name: "KKAR 1260",
+            logo: "stations/images-america/los_angeles/KKAR 1260.png",
+            url: "https://streaming.live365.com/a40194_2"
         },
         {
             name: "Tu Liga Radio 1330",
@@ -25950,8 +25950,8 @@ var stations = {/*
             url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphamidwest-kfbdfmaac-ibc2"
         },
         {
-            name: "98.7 FOX Sports",
-            logo: "stations/images-america/osage_beach/98.7 FOX Sports.png",
+            name: "98.7 The Christmas Station",
+            logo: "stations/images-america/osage_beach/98.7 The Christmas Station.png",
             url: "http://84.32.44.251/index.php?u=https://ice24.securenetsystems.net/THECOVE"
         },
         {
@@ -62838,11 +62838,6 @@ var stations = {/*
             url: "http://84.32.44.251/index.php?u=https://ice23.securenetsystems.net/WHHM"
         },*/
         {
-            name: "Sports 56",
-            logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
-            url: "https://securenetg.com/listen/sports56/sports56.aac"
-        },
-        {
             name: "Bott Radio 640",
             logo: "stations/images-america/0_general_logos/Bott Radio Network.png",
             url: "http://streaming.live365.com/a71179_2"
@@ -63174,19 +63169,14 @@ var stations = {/*
             url: "https://stream.revma.ihrhls.com/zc2141/hls.m3u8"
         },
         {
-            name: "The Beat Top 20 97.1-HD2",
-            logo: "stations/images-america/c2c/memphis_tn/The Beat Top 20 97.1-HD2.png",
-            url: "https://stream.revma.ihrhls.com/zc4886/hls.m3u8"
-        },
-        {
-            name: "Radio Pig 97.7",
-            logo: "stations/images-america/c2c/memphis_tn/Radio Pig 97.7.png",
-            url: "https://securenetg.com:8260/radio.aac"
-        },
-        {
             name: "98.1 The Max",
             logo: "stations/images-america/c2c/memphis_tn/98.1 The Max.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WXMXFMAAC_SC"
+        },
+        {
+            name: "Radio Pig 98.5",
+            logo: "stations/images-america/c2c/memphis_tn/Radio Pig 98.5.png",
+            url: "https://securenetg.com/listen/985_the_pig/stream.aac"
         },
         {
             name: "News Talk 98.9",
@@ -63254,8 +63244,8 @@ var stations = {/*
             url: "https://securenetg.com/listen/hot1071/hot.aac"
         },
         {
-            name: "107.5 WHBQ",
-            logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
+            name: "107.5 The Memphis Sports Hub",
+            logo: "stations/images-america/c2c/memphis_tn/107.5 The Memphis Sports Hub.png",
             url: "http://securenetg.com/listen/sports56/sports56.aac"
         },
         {
@@ -63264,9 +63254,9 @@ var stations = {/*
             url: "https://ice24.securenetsystems.net/KWAM"
         },
         {
-            name: "Sports 56",
-            logo: "stations/images-america/c2c/memphis_tn/Sports 56.png",
-            url: "https://securenetg.com/listen/sports56/sports56.aac"
+            name: "560 WHBQ",
+            logo: "stations/images-america/c2c/memphis_tn/Radio Pig 98.5.png",
+            url: "http://securenetg.com/listen/985_the_pig/stream.aac"
         },
         {
             name: "Inside the Game 730",
