@@ -287,12 +287,6 @@ var country_properties = {
         code: "us-mt",
         relative_radius: 1.0
     },
-    "bozeman_kzmy": {
-        name: "Bozeman",
-        name_english: "Bozeman",
-        code: "us-mt",
-        relative_radius: 1.0
-    },
     "brawley": {
         name: "Brawley",
         name_english: "Brawley",
@@ -354,12 +348,6 @@ var country_properties = {
         relative_radius: 0.85
     },
     "butte": {
-        name: "Butte",
-        name_english: "Butte",
-        code: "us-mt",
-        relative_radius: 1.0
-    },
-    "butte_north": {
         name: "Butte",
         name_english: "Butte",
         code: "us-mt",
@@ -653,12 +641,6 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.5
     },
-    "dillon": {
-        name: "Dillon",
-        name_english: "Dillon",
-        code: "us-mt",
-        relative_radius: 1.0
-    },
     "dodge_city": {
         name: "Dodge City",
         name_english: "Dodge City",
@@ -808,12 +790,6 @@ var country_properties = {
         name_english: "Flagstaff",
         code: "us-az",
         relative_radius: 0.9
-    },
-    "forsyth": {
-        name: "Forsyth",
-        name_english: "Forsyth",
-        code: "us-mt",
-        relative_radius: 0.6
     },
     "fort_collins": {
         name: "Fort Collins",
@@ -1228,12 +1204,6 @@ var country_properties = {
         name_english: "Kansas City",
         code: "us-mo",
         relative_radius: 0.9
-    },
-    "katl": {
-        name: "770 KATL",
-        name_english: "770 KATL",
-        code: "us-mt",
-        relative_radius: 0.6
     },
     "kayenta": {
         name: "Kayenta",
@@ -2615,12 +2585,6 @@ var country_properties = {
         code: "us-sd",
         relative_radius: 0.7
     },
-    "wolfpoint": {
-        name: "Wolf Point",
-        name_english: "Wolf Point",
-        code: "us-mt",
-        relative_radius: 0.7
-    },
     "woodward": {
         name: "Woodward",
         name_english: "Woodward",
@@ -2820,9 +2784,6 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
-    "bozeman_kzmy": {
-        relative_whitenoise: 0.85
-    },
     "brawley": {
 		relative_radius: 0.8,
         relative_whitenoise: 0.95
@@ -2857,12 +2818,7 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "butte": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.9
-    },
-    "butte_north": {
-		relative_radius: 0.4,
-        relative_whitenoise: 0.85
     },
     "canadian": {
         relative_whitenoise: 0.95
@@ -3021,10 +2977,6 @@ var city_properties = {
     "diablo": {
         relative_whitenoise: 0.95
     },
-    "dillon": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "dodge_city": {
         relative_radius: 0.9,
         relative_whitenoise: 0.95
@@ -3119,10 +3071,6 @@ var city_properties = {
     },
     "fresno": {
         relative_whitenoise: 0.95
-    },
-    "forsyth": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.85
     },
     "fort_collins": {
         relative_whitenoise: 0.85
@@ -3345,9 +3293,6 @@ var city_properties = {
     "kansas_city_terrastore": {
 		relative_radius: 0.3,
         relative_whitenoise: 0.95
-    },
-    "katl": {
-        relative_whitenoise: 0.85
     },
     "kayenta": {
         relative_whitenoise: 0.95
@@ -4100,10 +4045,6 @@ var city_properties = {
     "willow_springs": {
         relative_whitenoise: 0.95
     },
-    "wolfpoint": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.85
-    },
     "woodward": {
         relative_whitenoise: 0.95
     },
@@ -4585,18 +4526,10 @@ var cities = [
     {
         "gameName": "bozeman",
         "realName": "Bozeman",
-        "country": "bozeman_kzmy",
+        "country": "bozeman",
         "x": "-57979.1",
         "y": "124.777",
         "z": "-41966.3"
-    },
-    {
-        "gameName": "bozeman_kzmy",
-        "realName": "Bozeman",
-        "country": "bozeman_kzmy",
-        "x": "-60079.1",
-        "y": "124.777",
-        "z": "-44066.3"
     },
     {
         "gameName": "brawley",
@@ -4625,7 +4558,7 @@ var cities = [
     {
         "gameName": "broadus",
         "realName": "Broadus",
-        "country": "katl",
+        "country": "broadus",
         "x": "-37438.1",
         "y": "87.7157",
         "z": "-39430.3"
@@ -4701,22 +4634,6 @@ var cities = [
         "x": "-65388.6",
         "y": "128.582",
         "z": "-44535.3"
-    },
-    {
-        "gameName": "butte_north",
-        "realName": "Butte",
-        "country": "butte",
-        "x": "-63813.1",
-        "y": "155.58",
-        "z": "-46794"
-    },
-    {
-        "gameName": "butte_north",
-        "realName": "Butte",
-        "country": "helena",
-        "x": "-63813.1",
-        "y": "155.58",
-        "z": "-46794"
     },
     {
         "gameName": "canadian",
@@ -5167,14 +5084,6 @@ var cities = [
         "z": "-67364.4"
     },
     {
-        "gameName": "dillon",
-        "realName": "Dillon",
-        "country": "butte",
-        "x": "-65859.8",
-        "y": "372.834",
-        "z": "-39032.8"
-    },
-    {
         "gameName": "dodge_city",
         "realName": "Dodge City",
         "country": "dodge_garden_city",
@@ -5407,22 +5316,6 @@ var cities = [
         "z": "16275.2"
     },
     {
-        "gameName": "forsyth",
-        "realName": "Forsyth",
-        "country": "milescity",
-        "x": "-42303.6",
-        "y": "303.387",
-        "z": "-44059.5"
-    },
-    {
-        "gameName": "forsyth",
-        "realName": "Forsyth",
-        "country": "katl",
-        "x": "-42303.6",
-        "y": "303.387",
-        "z": "-44059.5"
-    },
-    {
         "gameName": "fort_collins",
         "realName": "Fort Collins",
         "country": "fort_collins",
@@ -5569,7 +5462,7 @@ var cities = [
     {
         "gameName": "glendive",
         "realName": "Glendive",
-        "country": "katl",
+        "country": "glendive",
         "x": "-33819.1",
         "y": "89.2656",
         "z": "-47322.6"
@@ -5967,14 +5860,6 @@ var cities = [
         "z": "11367.4"
     },
     {
-        "gameName": "jordan",
-        "realName": "Jordan",
-        "country": "katl",
-        "x": "-41930.1",
-        "y": "76.3096",
-        "z": "-49571.2"
-    },
-    {
         "gameName": "junction",
         "realName": "Junction",
         "country": "kerrville",
@@ -6021,14 +5906,6 @@ var cities = [
         "x": "34753.1",
         "y": "68.5694",
         "z": "-12977.8"
-    },
-    {
-        "gameName": "katl",
-        "realName": "770 KATL",
-        "country": "katl",
-        "x": "-38197.5",
-        "y": "78.9609",
-        "z": "-45381.5"
     },
     {
         "gameName": "kayenta",
@@ -6289,7 +6166,7 @@ var cities = [
     {
         "gameName": "lincoln_mt",
         "realName": "Lincoln",
-        "country": "helena",
+        "country": "lincoln_mt",
         "x": "-64169.8",
         "y": "53.5895",
         "z": "-53153.1"
@@ -6554,14 +6431,6 @@ var cities = [
         "gameName": "milescity",
         "realName": "Miles City",
         "country": "milescity",
-        "x": "-38197.5",
-        "y": "78.9609",
-        "z": "-45381.5"
-    },
-    {
-        "gameName": "milescity",
-        "realName": "Miles City",
-        "country": "katl",
         "x": "-38197.5",
         "y": "78.9609",
         "z": "-45381.5"
@@ -8101,14 +7970,6 @@ var cities = [
         "x": "-16451.1",
         "y": "153.938",
         "z": "-25190.3"
-    },
-    {
-        "gameName": "wolfpoint",
-        "realName": "Wolf Point",
-        "country": "glasgow",
-        "x": "-36778.1",
-        "y": "266.906",
-        "z": "-53491"
     },
     {
         "gameName": "woodward",
