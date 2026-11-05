@@ -2457,7 +2457,7 @@ var stations = {/*
         },
         {
             name: "1270 KVMI",
-            logo: "stations/images-america/fresno/My 97.5_Christmas.png",
+            logo: "stations/images-america/fresno/My 97.5_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2",
             format: ["seasonal", "christmas_music"]
         },
@@ -13528,7 +13528,7 @@ var stations = {/*
         },
         {
             name: "KVMI 1270",
-            logo: "stations/images-america/fresno/My 97.5_Christmas.png",
+            logo: "stations/images-america/fresno/My 97.5_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/momentum-kvmifmaac-ibc2",
             format: ["seasonal", "christmas_music"]
         },
@@ -18925,7 +18925,7 @@ var stations = {/*
         },
         {
             name: "99.3 WAJK",
-            logo: "stations/images-america/la_salle/99.3 WAJK_Christmas.png",
+            logo: "stations/images-america/la_salle/99.3 WAJK_christmas.png",
             url: "http://ice5.securenetsystems.net/WAJK",
             format: ["seasonal", "christmas_music"]
         },
@@ -26762,7 +26762,7 @@ var stations = {/*
 		},
         {
 			name: "Star 104.5",
-			logo: "stations/images-america/omaha/Star 104.5_Christmas.png",
+			logo: "stations/images-america/omaha/Star 104.5_christmas.png",
 			url: "https://stream.rcs.revma.com/1bpp8ncyu7uvv",
 			callsign: "KSRZ",
 			frequency: "104.5",
@@ -36353,7 +36353,7 @@ var stations = {/*
         },
         {
             name: "98.7 WNNS",
-            logo: "stations/images-america/springfield_il/98.7 WNNS_Christmas.png",
+            logo: "stations/images-america/springfield_il/98.7 WNNS_christmas.png",
             url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFMAAC_SC",
             format: ["seasonal", "christmas_music"]
         },
@@ -49814,7 +49814,7 @@ var stations = {/*
         },
         {
             name: "103.9 Wayne FM",
-            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM_Christmas.png",
+            logo: "stations/images-america/c2c/fort_wayne_in/103.9 Wayne FM_christmas.png",
             url: "https://live.amperwave.net/manifest/adamsradio-wwfwfmaac-ibc1",
             format: ["seasonal", "christmas_music"]
         },
@@ -50559,7 +50559,7 @@ var stations = {/*
         },
         {
             name: "Mix 94.5",
-            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5_Christmas.png",
+            logo: "stations/images-america/c2c/lexington_ky/Mix 94.5_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc3552/hls.m3u8",
             format: ["seasonal", "christmas_music"]
         },
@@ -52969,7 +52969,7 @@ var stations = {/*
         },
         {
             name: "Star 105.7",
-            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7_Christmas.png",
+            logo: "stations/images-america/c2c/grand_rapids_mi/Star 105.7_christmas.png",
             url: "https://stream.revma.ihrhls.com/zc1169/hls.m3u8",
             format: ["seasonal", "christmas_music"]
         },
@@ -56636,7 +56636,7 @@ var stations = {/*
         },
         {
             name: "The New 96.1",
-            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1_Christmas.png",
+            logo: "stations/images-america/c2c/buffalo_ny/The New 96.1_christmas.png",
             url: "https://live.amperwave.net/manifest/townsquare-wtssfmaac-ibc3",
             format: ["seasonal", "christmas_music"]
         },
@@ -61005,7 +61005,7 @@ var stations = {/*
         },
         {
             name: "STAR 93.3",
-            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_Christmas.png",
+            logo: "stations/images-america/c2c/cincinnati_oh/Star 93.3_christmas.png",
             url: "https://pillar.streamguys1.com/WAKW",
             format: ["seasonal", "christmas_music"]
         },
@@ -67848,7 +67848,7 @@ var stations = {/*
         },
         {
             name: "107.3 WSJY",
-            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_Christmas.png",
+            logo: "stations/images-america/c2c/madison_wi/107.3 WSJY_christmas.png",
             url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/magnumbroadcasting-wsjyfmaac-ibc1",
             format: ["seasonal", "christmas_music"]
         },
