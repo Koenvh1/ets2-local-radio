@@ -3261,8 +3261,9 @@ var stations = {/*
         },
         {
             name: "The Peak 104.1",
-            logo: "stations/images-america/bend/The Peak 104.1.png",
-            url: "https://live.amperwave.net/direct/horizonbroadcasting-kwpkfmaac-ibc1"
+            logo: "stations/images-america/bend/The Peak 104.1_christmas.png",
+            url: "https://live.amperwave.net/direct/horizonbroadcasting-kwpkfmaac-ibc1",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "104.5 KBNW",
@@ -9831,8 +9832,9 @@ var stations = {/*
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/denver/Star 101.5.png",
-            url: "https://pillar.streamguys1.com/KSRC"
+            logo: "stations/images-america/denver/Star 101.5_christmas.png",
+            url: "https://pillar.streamguys1.com/KSRC",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "101.9 Way FM",
@@ -17165,7 +17167,8 @@ var stations = {/*
         {
             name: "Jill @ 99.3",
             logo: "stations/images-america/jonesboro/Jill @ 99.3.png",
-            url: "https://ice23.securenetsystems.net/KTPG"
+            url: "https://ice23.securenetsystems.net/KTPG",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "100.5 The Eagle",
@@ -22522,7 +22525,8 @@ var stations = {/*
         {
             name: "Hope 94.3",
             logo: "stations/images-america/mcalester/Hope 94.3.png",
-            url: "https://ice24.securenetsystems.net/KPOP"
+            url: "https://ice24.securenetsystems.net/KPOP",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "Bott Radio 95.1",
@@ -28058,8 +28062,9 @@ var stations = {/*
         },*/
         {
             name: "99.9 KEZ",
-            logo: "stations/images-america/phoenix/99.9 KEZ.png",
-            url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8"
+            logo: "stations/images-america/phoenix/99.9 KEZ_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc33/hls.m3u8",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "Magic 99.9-HD2",
@@ -28282,6 +28287,17 @@ var stations = {/*
 			tower: "-17806.745;0;-30645.33",
 			radius: 0.51138404,
 			coverage: {"local":[0.30747737,0.32743165,0.31747725,0.27944467,0.2520371,0.23554318,0.25039884,0.29040487,0.31128373,0.354788,0.39374151,0.33141516,0.2774148,0.27369605,0.27409461,0.2623196,0.26970884,0.26557839,0.25035581,0.28075855,0.31311828,0.2858977,0.23138194,0.20669125,0.20119464,0.20225109,0.20588768,0.22836336,0.25319882,0.24617514,0.25774786,0.27248467],"distant":[0.52393209,0.54789013,0.53429189,0.48590427,0.44092659,0.41532387,0.44239662,0.49856728,0.52783867,0.58699314,0.65520412,0.55673913,0.48334708,0.47684839,0.47715255,0.45733402,0.4638403,0.46182162,0.44400686,0.48734598,0.52791767,0.49402086,0.40546825,0.36600927,0.36010556,0.36325499,0.37054051,0.4109372,0.45278615,0.43645854,0.45200982,0.47250048],"fringe":[0.85109001,0.88253436,0.86162313,0.79491241,0.72409359,0.68582062,0.73069431,0.81282006,0.85192497,0.92774758,1.0,0.88898575,0.79247826,0.78359955,0.78481548,0.75050873,0.7634444,0.76047095,0.72525083,0.79099476,0.85447758,0.80920365,0.68333663,0.61674465,0.60395423,0.60501936,0.61806334,0.68666155,0.74896534,0.72325086,0.74890414,0.780426]},
+		},
+		{
+			name: "SDPB 91.1",
+			logo: "stations/images-america/0_general_logos/SDPB.png",
+			url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC",
+			callsign: "KTSD",
+			frequency: "91.1",
+			format: ["public_radio","news_talk"],
+			tower: "-14631.973;0;-28211.623",
+			radius: 1.35712759,
+			coverage: {"local":[0.60345585,0.61063973,0.61506946,0.6188166,0.61976546,0.61711515,0.61081875,0.60941227,0.60368185,0.60497597,0.59688733,0.60022706,0.60138666,0.60110297,0.59799204,0.59997365,0.60062987,0.59781721,0.59723348,0.59745933,0.5948866,0.59729217,0.59543858,0.59778594,0.60151503,0.60226985,0.59931931,0.60137523,0.59609675,0.59162297,0.58786273,0.5956194],"distant":[0.76857583,0.77860508,0.77811187,0.78039762,0.78421293,0.78235254,0.77322348,0.77390705,0.77176846,0.77658051,0.76917432,0.76380985,0.77129582,0.77021919,0.76632272,0.76539363,0.76815937,0.7632309,0.76197065,0.76226797,0.75978404,0.76228993,0.76338875,0.766548,0.77033768,0.77400835,0.76596618,0.76952367,0.76200537,0.75391097,0.75519024,0.76148465],"fringe":[0.98900624,0.99842169,0.99148941,0.99798066,0.99768578,1.0,0.9866997,0.98869671,0.9872726,0.98914494,0.98378081,0.98758293,0.98851716,0.98801645,0.98186325,0.98015358,0.9828929,0.97798587,0.97678662,0.9800273,0.97554712,0.97461197,0.97796723,0.98197424,0.98585626,0.98090873,0.97949213,0.98224216,0.97689556,0.96654303,0.96998461,0.97409572]},
 		},
 		{
 			name: "SDPB Classical 91.1-HD2",
@@ -36898,8 +36914,9 @@ var stations = {/*
         },
         {
             name: "Star 101.5",
-            logo: "stations/images-america/denver/Star 101.5.png",
-            url: "https://pillar.streamguys1.com/KSRC"
+            logo: "stations/images-america/denver/Star 101.5_christmas.png",
+            url: "https://pillar.streamguys1.com/KSRC",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "102.5 K273DC",
@@ -40781,17 +40798,6 @@ var stations = {/*
 			tower: "-14012.101;0;-24924.669",
 			radius: 0.83679247,
 			coverage: {"local":[0.39096295,0.42368025,0.45261618,0.4667523,0.49151833,0.48943054,0.47609712,0.45360225,0.42410386,0.39851853,0.37056891,0.34190714,0.32510457,0.30060204,0.26029986,0.24820368,0.25193902,0.26607735,0.2839569,0.30232981,0.32709815,0.33768229,0.35999536,0.37859614,0.38190697,0.38354951,0.3969966,0.40498557,0.39599842,0.37524973,0.34430086,0.35482793],"distant":[0.6118252,0.64850291,0.68151714,0.69648999,0.73098627,0.7282465,0.70759869,0.68529746,0.64785172,0.6253867,0.5917931,0.55827775,0.53389028,0.49782181,0.42280403,0.40454483,0.40826219,0.44000275,0.47391229,0.50497887,0.53887488,0.55116501,0.57851021,0.60001127,0.60372652,0.61032093,0.6200317,0.63169447,0.61375325,0.59584142,0.56092408,0.57191405],"fringe":[0.87610137,0.91808093,0.9503567,0.96653536,1.0,0.99519627,0.97422405,0.94864093,0.91383078,0.88531378,0.85188846,0.81190102,0.78424786,0.74443942,0.67094465,0.64889603,0.65671888,0.68185139,0.71681,0.75040199,0.78966243,0.80324186,0.83725326,0.86535653,0.87031825,0.86869422,0.88306099,0.89788529,0.8785892,0.85520858,0.81584678,0.82765563]},
-		},
-		{
-			name: "SDPB 91.1",
-			logo: "stations/images-america/0_general_logos/SDPB.png",
-			url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSDFMAAC_SC",
-			callsign: "KTSD",
-			frequency: "91.1",
-			format: ["public_radio","news_talk"],
-			tower: "-14631.973;0;-28211.623",
-			radius: 1.35712759,
-			coverage: {"local":[0.60345585,0.61063973,0.61506946,0.6188166,0.61976546,0.61711515,0.61081875,0.60941227,0.60368185,0.60497597,0.59688733,0.60022706,0.60138666,0.60110297,0.59799204,0.59997365,0.60062987,0.59781721,0.59723348,0.59745933,0.5948866,0.59729217,0.59543858,0.59778594,0.60151503,0.60226985,0.59931931,0.60137523,0.59609675,0.59162297,0.58786273,0.5956194],"distant":[0.76857583,0.77860508,0.77811187,0.78039762,0.78421293,0.78235254,0.77322348,0.77390705,0.77176846,0.77658051,0.76917432,0.76380985,0.77129582,0.77021919,0.76632272,0.76539363,0.76815937,0.7632309,0.76197065,0.76226797,0.75978404,0.76228993,0.76338875,0.766548,0.77033768,0.77400835,0.76596618,0.76952367,0.76200537,0.75391097,0.75519024,0.76148465],"fringe":[0.98900624,0.99842169,0.99148941,0.99798066,0.99768578,1.0,0.9866997,0.98869671,0.9872726,0.98914494,0.98378081,0.98758293,0.98851716,0.98801645,0.98186325,0.98015358,0.9828929,0.97798587,0.97678662,0.9800273,0.97554712,0.97461197,0.97796723,0.98197424,0.98585626,0.98090873,0.97949213,0.98224216,0.97689556,0.96654303,0.96998461,0.97409572]},
 		},
 		{
 			name: "Magic 93",
@@ -50889,8 +50895,9 @@ var stations = {/*
         },
         {
             name: "Mix 106.9",
-            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9.png",
-            url: "https://stream.rcs.revma.com/276q9hbhz7uvv"
+            logo: "stations/images-america/c2c/louisville_ky/Mix 106.9_christmas.png",
+            url: "https://stream.rcs.revma.com/276q9hbhz7uvv",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "Pure Radio 106.9-HD2",
@@ -52665,8 +52672,9 @@ var stations = {/*
         },
         {
             name: "100.3 WNIC",
-            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC.png",
-            url: "https://stream.revma.ihrhls.com/zc1153/hls.m3u8"
+            logo: "stations/images-america/c2c/detroit_mi/100.3 WNIC_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc1153/hls.m3u8",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "TikTok Radio 100.3-HD2",
@@ -55510,8 +55518,9 @@ var stations = {/*
         },
         {
             name: "Mix 98.7",
-            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wjkkfmaac-ibc3"
+            logo: "stations/images-america/c2c/jackson_ms/Mix 98.7_christmas.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/newsouth-wjkkfmaac-ibc3",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "99 Jams",
@@ -56301,8 +56310,9 @@ var stations = {/*
         },
         {
             name: "B95.5",
-            logo: "stations/images-america/c2c/albany_ny/B95.5.png",
-            url: "https://ais-sa1.streamon.fm/7821_128k.aac"
+            logo: "stations/images-america/c2c/albany_ny/B95.5_christmas.png",
+            url: "https://ais-sa1.streamon.fm/7821_128k.aac",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "FOX Sports 95.9",
@@ -56331,8 +56341,9 @@ var stations = {/*
         },
         {
             name: "98.3 TRY",
-            logo: "stations/images-america/c2c/albany_ny/98.3 TRY.png",
-            url: "https://stream.revma.ihrhls.com/zc1437/hls.m3u8"
+            logo: "stations/images-america/c2c/albany_ny/98.3 TRY_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc1437/hls.m3u8",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "98.5 The Cat",
@@ -56387,7 +56398,8 @@ var stations = {/*
         {
             name: "Zoey 103.9",
             logo: "stations/images-america/c2c/albany_ny/Zoey 103.9.png",
-            url: "https://live.amperwave.net/manifest/townsquare-wpbzfmaac-ibc3"
+            url: "https://live.amperwave.net/manifest/townsquare-wpbzfmaac-ibc3",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "104.5 The Team",
@@ -57470,8 +57482,9 @@ var stations = {/*
         },
         {
             name: "Q92",
-            logo: "stations/images-america/c2c/poughkeepsie_ny/Q92.png",
-            url: "https://stream.revma.ihrhls.com/zc1489/hls.m3u8"
+            logo: "stations/images-america/c2c/poughkeepsie_ny/Q92_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc1489/hls.m3u8",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "Z93",
@@ -58762,8 +58775,9 @@ var stations = {/*
         },
         {
             name: "Mix 99.5",
-            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5.png",
-            url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8"
+            logo: "stations/images-america/c2c/greensboro_nc/Mix 99.5_christmas.png",
+            url: "https://stream.revma.ihrhls.com/zc1621/hls.m3u8",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "HITS 100.3",
@@ -67666,8 +67680,9 @@ var stations = {/*
         },
         {
             name: "Mix 96.1",
-            logo: "stations/images-america/c2c/la_crosse_wi/Mix.png",
-            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/magnumbroadcasting-wkbhhd2aac-ibc1"
+            logo: "stations/images-america/c2c/la_crosse_wi/Mix_christmas.png",
+            url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/magnumbroadcasting-wkbhhd2aac-ibc1",
+            format: ["seasonal", "christmas_music"]
         }, 
         {
             name: "WKTY 96.7",
@@ -69055,8 +69070,9 @@ var stations = {/*
         },
         {
             name: "MIX 107.9",
-            logo: "stations/images-america/canada/edmonton/MIX 107.9.png",
-            url: "https://goldenwest.leanstream.co/CKFTFM"
+            logo: "stations/images-america/canada/edmonton/MIX 107.9_christmas.png",
+            url: "https://goldenwest.leanstream.co/CKFTFM",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "630 CHED",
@@ -69933,8 +69949,9 @@ var stations = {/*
         },
         {
             name: "Magic 103.1",
-            logo: "stations/images-america/canada/kingston/Magic 103.1.png",
-            url: "https://cb.streamguys1.com/wtoj.aac"
+            logo: "stations/images-america/canada/kingston/Magic 103.1_christmas.png",
+            url: "https://cb.streamguys1.com/wtoj.aac",
+            format: ["seasonal", "christmas_music"]
         },
         {
             name: "103.7 GIANT FM",
