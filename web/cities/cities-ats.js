@@ -113,12 +113,6 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.5
     },
-    "audubon": {
-        name: "Audubon",
-        name_english: "Audubon",
-        code: "us-ia",
-        relative_radius: 0.5
-    },
     "austin": {
         name: "Austin",
         name_english: "Austin",
@@ -398,12 +392,6 @@ var country_properties = {
     "cedar_rapids": {
         name: "Cedar Rapids",
         name_english: "Cedar Rapids",
-        code: "us-ia",
-        relative_radius: 0.9
-    },
-    "cedar_valley": {
-        name: "Cedar Valley",
-        name_english: "Cedar Valley",
         code: "us-ia",
         relative_radius: 0.9
     },
@@ -856,12 +844,6 @@ var country_properties = {
         name_english: "Garden City",
         code: "us-ks",
         relative_radius: 0.7
-    },
-    "garner": {
-        name: "Garner",
-        name_english: "Garner",
-        code: "us-ia",
-        relative_radius: 0.5
     },
     "gila_bend": {
         name: "Gila Bend",
@@ -1745,7 +1727,7 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.7
     },
-    "oskaloosa_ottumwa": {
+    "oskaloosa": {
         name: "Oskaloosa",
         name_english: "Oskaloosa",
         code: "us-ia",
@@ -1924,12 +1906,6 @@ var country_properties = {
         name_english: "Princeton",
         code: "us-mo",
         relative_radius: 0.5
-    },
-    "quad_cities_ia": {
-        name: "Quad Cities",
-        name_english: "Quad Cities",
-        code: "us-ia",
-        relative_radius: 0.8
     },
     "quartzsite": {
         name: "Quartzsite",
@@ -2686,10 +2662,6 @@ var city_properties = {
     "auburn_ne": {
         relative_whitenoise: 0.95
     },
-    "audubon": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "austin": {
         relative_whitenoise: 0.95
     },
@@ -2850,9 +2822,6 @@ var city_properties = {
     "cedar_rapids": {
         relative_radius: 0.5,
         relative_whitenoise: 0.95
-    },
-    "cedar_valley": {
-        relative_whitenoise: 0.85
     },
     "chadron": {
         relative_whitenoise: 0.95
@@ -3097,10 +3066,6 @@ var city_properties = {
     },
     "garden_city": {
         relative_radius: 0.9,
-        relative_whitenoise: 0.95
-    },
-    "garner": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "gila_bend": {
@@ -3579,7 +3544,7 @@ var city_properties = {
     "osage_beach": {
         relative_whitenoise: 0.95
     },
-    "oskaloosa_ottumwa": {
+    "oskaloosa": {
 		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
@@ -3683,9 +3648,6 @@ var city_properties = {
     "princeton": {
 		relative_radius: 0.5,
         relative_whitenoise: 0.95
-    },
-    "quad_cities_ia": {
-        relative_whitenoise: 0.85
     },
     "quartzsite": {
         relative_whitenoise: 0.95
@@ -4244,14 +4206,6 @@ var cities = [
         "z": "-7988.69"
     },
     {
-        "gameName": "audubon",
-        "realName": "Audubon",
-        "country": "sac_city",
-        "x": "4568.95",
-        "y": "17.5566",
-        "z": "-16273"
-    },
-    {
         "gameName": "austin",
         "realName": "Austin",
         "country": "austin",
@@ -4702,26 +4656,10 @@ var cities = [
     {
         "gameName": "cedar_rapids",
         "realName": "Cedar Rapids",
-        "country": "cedar_valley",
-        "x": "17420.8",
-        "y": "61.1797",
-        "z": "-17290.5"
-    },
-    {
-        "gameName": "cedar_rapids",
-        "realName": "Cedar Rapids",
         "country": "cedar_rapids",
         "x": "17420.8",
         "y": "61.1797",
         "z": "-17290.5"
-    },
-    {
-        "gameName": "cedar_valley",
-        "realName": "Cedar Valley",
-        "country": "cedar_valley",
-        "x": "17820.8",
-        "y": "61.1797",
-        "z": "-17490.5"
     },
     {
         "gameName": "chadron",
@@ -4978,14 +4916,6 @@ var cities = [
         "x": "-81820.2",
         "y": "24.894",
         "z": "28604.3"
-    },
-    {
-        "gameName": "davenport",
-        "realName": "Davenport",
-        "country": "quad_cities_ia",
-        "x": "23254.2",
-        "y": "81.375",
-        "z": "-15124.5"
     },
     {
         "gameName": "davenport",
@@ -5418,14 +5348,6 @@ var cities = [
         "x": "-21687.2",
         "y": "86.9297",
         "z": "5757.88"
-    },
-    {
-        "gameName": "garner",
-        "realName": "Garner",
-        "country": "mason_city",
-        "x": "8608.87",
-        "y": "17.4969",
-        "z": "-23581.7"
     },
     {
         "gameName": "gila_bend",
@@ -6716,7 +6638,7 @@ var cities = [
         "z": "3829.92"
     },
     {
-        "gameName": "oskaloosa_ottumwa",
+        "gameName": "oskaloosa",
         "realName": "Oskaloosa",
         "country": "ottumwa",
         "x": "14412.6",
@@ -6978,14 +6900,6 @@ var cities = [
         "x": "12466.2",
         "y": "16.5166",
         "z": "-8722.28"
-    },
-    {
-        "gameName": "quad_cities_ia",
-        "realName": "Quad Cities",
-        "country": "quad_cities_ia",
-        "x": "21254.2",
-        "y": "81.375",
-        "z": "-15424.5"
     },
     {
         "gameName": "quartzsite",
