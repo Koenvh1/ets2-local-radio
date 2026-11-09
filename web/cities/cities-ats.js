@@ -197,12 +197,6 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.5
     },
-    "belleville_ks": {
-        name: "Belleville",
-        name_english: "Belleville",
-        code: "us-ks",
-        relative_radius: 0.5
-    },
     "bend": {
         name: "Bend",
         name_english: "Bend",
@@ -632,12 +626,6 @@ var country_properties = {
     "dodge_city": {
         name: "Dodge City",
         name_english: "Dodge City",
-        code: "us-ks",
-        relative_radius: 0.7
-    },
-    "dodge_garden_city": {
-        name: "Dodge City/Garden City",
-        name_english: "Dodge City/Garden City",
         code: "us-ks",
         relative_radius: 0.7
     },
@@ -2327,12 +2315,6 @@ var country_properties = {
         code: "us-ut",
 		relative_radius: 0.8
     },
-    "st_john": {
-        name: "Saint John",
-        name_english: "Saint John",
-        code: "us-ks",
-        relative_radius: 0.6,
-    },
     "st_joseph": {
         name: "St. Joseph",
         name_english: "St. Joseph",
@@ -2488,12 +2470,6 @@ var country_properties = {
         name_english: "Waco",
         code: "us-tx",
         relative_radius: 0.7
-    },
-    "wakeeney": {
-        name: "WaKeeney",
-        name_english: "WaKeeney",
-        code: "us-ks",
-        relative_radius: 0.6
     },
     "wallace": {
         name: "Wallace",
@@ -2709,10 +2685,6 @@ var city_properties = {
     },
     "bellingham": {
         relative_whitenoise: 0.85
-    },
-    "belleville_ks": {
-		relative_radius: 0.8,
-        relative_whitenoise: 0.95
     },
     "bend": {
         relative_whitenoise: 0.85
@@ -2947,7 +2919,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "dodge_city": {
-        relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "dubuque": {
@@ -3065,7 +3036,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "garden_city": {
-        relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "gila_bend": {
@@ -3875,10 +3845,6 @@ var city_properties = {
     "st_george": {
         relative_whitenoise: 0.85
     },
-    "st_john": {
-		relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "st_joseph": {
         relative_radius: 0.4,
         relative_whitenoise: 0.85
@@ -3965,10 +3931,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "waco": {
-        relative_whitenoise: 0.95
-    },
-    "wakeeney": {
-		relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "wallace": {
@@ -4348,14 +4310,6 @@ var cities = [
         "x": "-98654.2",
         "y": "55.59",
         "z": "-69115"
-    },
-    {
-        "gameName": "belleville_ks",
-        "realName": "Belleville",
-        "country": "mankato",
-        "x": "-6183.93",
-        "y": "16.2227",
-        "z": "-4672.59"
     },
     {
         "gameName": "bend",
@@ -5016,7 +4970,7 @@ var cities = [
     {
         "gameName": "dodge_city",
         "realName": "Dodge City",
-        "country": "dodge_garden_city",
+        "country": "dodge_city",
         "x": "-17483.2",
         "y": "90.8164",
         "z": "6177.79"
@@ -5344,7 +5298,7 @@ var cities = [
     {
         "gameName": "garden_city",
         "realName": "Garden City",
-        "country": "dodge_garden_city",
+        "country": "garden_city",
         "x": "-21687.2",
         "y": "86.9297",
         "z": "5757.88"
@@ -7534,14 +7488,6 @@ var cities = [
         "z": "3000.27"
     },
     {
-        "gameName": "st_john",
-        "realName": "Saint John",
-        "country": "hutchinson",
-        "x": "-12390.6",
-        "y": "188",
-        "z": "6328.88"
-    },
-    {
         "gameName": "st_joseph_kkjo",
         "realName": "St. Joseph",
         "country": "st_joseph_kkjo",
@@ -7772,14 +7718,6 @@ var cities = [
         "x": "-5465.2",
         "y": "113.414",
         "z": "42150.9"
-    },
-    {
-        "gameName": "wakeeney",
-        "realName": "WaKeeney",
-        "country": "hays",
-        "x": "-17524.2",
-        "y": "70.8681",
-        "z": "-567.434"
     },
     {
         "gameName": "wallace",
@@ -10474,12 +10412,6 @@ var country_properties_c2c = {
         code: "us-in",
         relative_radius: 0.5
     },
-    "greatbend_ks": {
-        name: "Great Bend",
-        name_english: "Great Bend",
-        code: "us-ks",
-        relative_radius: 0.6
-    },
     "liberal_ks": {
         name: "liberal_ks",
         name_english: "liberal_ks",
@@ -11562,10 +11494,6 @@ var city_properties_c2c = {
     "terre_haute": {
         relative_whitenoise: 0.85
     },
-    "greatbend_ks": {
-		relative_radius: 0.7,
-        relative_whitenoise: 0.95
-    },
     "liberal_ks": {
         relative_whitenoise: 0.95
     },
@@ -12396,14 +12324,6 @@ var cities_c2c = [
         "x": "37291.1",
         "y": "81.0106",
         "z": "-2089.7"
-    },
-    {
-        "gameName": "greatbend_ks",
-        "realName": "Great Bend",
-        "country": "hays",
-        "x": "-12390.6",
-        "y": "188",
-        "z": "3328.88"
     },
     {
         "gameName": "liberal_ks",
