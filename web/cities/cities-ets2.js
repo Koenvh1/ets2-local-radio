@@ -2190,6 +2190,9 @@ var city_properties = {
     "schumen": {
         relative_radius: 1.0,
     },
+    "selfoss": {
+        relative_radius: 1.15,
+    },
     "senj": {
         relative_whitenoise: 0.85,
     },
@@ -2707,20 +2710,12 @@ var cities = [
         "z": "22977"
     },
     {
-        "gameName": "akranes",
-        "realName": "Akranes",
-        "country": "iceland",
-        "x": "-91465",
-        "y": "61.9805",
-        "z": "-101511"
-    },
-    {
         "gameName": "akureyri",
         "realName": "Akureyri",
         "country": "iceland",
-        "x": "-77145.7",
-        "y": "70.7461",
-        "z": "-101575"
+        "x": "-61543.32",
+        "y": "93",
+        "z": "-103959.3"
     },
     {
         "gameName": "alajarvi",
@@ -3118,9 +3113,9 @@ var cities = [
         "gameName": "blonduos",
         "realName": "Blönduós",
         "country": "iceland",
-        "x": "-82233.6",
-        "y": "61.9805",
-        "z": "-104774"
+        "x": "-65428.66",
+        "y": "93.72656",
+        "z": "-105882.3"
     },
     {
         "gameName": "bodo",
@@ -3137,14 +3132,6 @@ var cities = [
         "x": "1914.67",
         "y": "80.3516",
         "z": "35291"
-    },
-    {
-        "gameName": "bolungarvik",
-        "realName": "Bolungarvík",
-        "country": "iceland",
-        "x": "-87256.1",
-        "y": "76.207",
-        "z": "-112100"
     },
     {
         "gameName": "bonn",
@@ -3174,9 +3161,9 @@ var cities = [
         "gameName": "borgarnes",
         "realName": "Borgarnes",
         "country": "iceland",
-        "x": "-89285.6",
-        "y": "79.3555",
-        "z": "-102462"
+        "x": "-71850.55",
+        "y": "70",
+        "z": "-101971.5"
     },
     {
         "gameName": "borlange",
@@ -3705,6 +3692,14 @@ var cities = [
         "x": "-44900.7",
         "y": "139",
         "z": "-47219.7"
+    },
+    {
+        "gameName": "egilsstadir",
+        "realName": "Egilsstaðir",
+        "country": "iceland",
+        "x": "-54785.67",
+        "y": "72.22266",
+        "z": "-97784.95"
     },
     {
         "gameName": "eindhoven",
@@ -4324,19 +4319,19 @@ var cities = [
     },
     {
         "gameName": "hofn",
-        "realName": "Höfn",
+        "realName": "Höfn í Hornafirði",
         "country": "iceland",
-        "x": "-73990.5",
-        "y": "50",
-        "z": "-88514.8"
+        "x": "-58623.05",
+        "y": "53.13281",
+        "z": "-93245.16"
     },
     {
         "gameName": "holmavik",
         "realName": "Hólmavík",
         "country": "iceland",
-        "x": "-84765.7",
-        "y": "77.4609",
-        "z": "-106902"
+        "x": "-68085.8",
+        "y": "58.59766",
+        "z": "-107710.5"
     },
     {
         "gameName": "holstebro",
@@ -4393,6 +4388,14 @@ var cities = [
         "x": "-35543.9",
         "y": "121.809",
         "z": "-29239.1"
+    },
+    {
+        "gameName": "husavik",
+        "realName": "Húsavík",
+        "country": "iceland",
+        "x": "-58118.62",
+        "y": "52.74219",
+        "z": "-106139.9"
     },
     {
         "gameName": "ijmuiden",
@@ -4462,9 +4465,9 @@ var cities = [
         "gameName": "isafjordur",
         "realName": "Ísafjörður",
         "country": "iceland",
-        "x": "-87022.4",
-        "y": "76.207",
-        "z": "-111213"
+        "x": "-71044.28",
+        "y": "100.8867",
+        "z": "-112479.1"
     },
     {
         "gameName": "ivalo",
@@ -4652,11 +4655,11 @@ var cities = [
     },
     {
         "gameName": "keflavik",
-        "realName": "Keflavík Airport",
+        "realName": "Keflavík",
         "country": "iceland",
-        "x": "-94118.3",
-        "y": "57.3203",
-        "z": "-98004"
+        "x": "-76116.43",
+        "y": "89.92188",
+        "z": "-99235.52"
     },
     {
         "gameName": "kemi",
@@ -4849,14 +4852,6 @@ var cities = [
         "x": "20321.5",
         "y": "125.449",
         "z": "-19548.9"
-    },
-    {
-        "gameName": "krafla",
-        "realName": "Krafla",
-        "country": "iceland",
-        "x": "-72508.4",
-        "y": "96.1875",
-        "z": "-99684.3"
     },
     {
         "gameName": "krakow",
@@ -5523,6 +5518,14 @@ var cities = [
         "z": "-35785.24"
     },
     {
+        "gameName": "olafsvik",
+        "realName": "Ólafsvík",
+        "country": "iceland",
+        "x": "-75841.27",
+        "y": "61.38281",
+        "z": "-105581.4"
+    },
+    {
         "gameName": "olsztyn",
         "realName": "Olsztyn",
         "country": "poland",
@@ -5705,6 +5708,14 @@ var cities = [
         "x": "46684.7",
         "y": "144.914",
         "z": "71014.3"
+    },
+    {
+        "gameName": "patreksfjord",
+        "realName": "Patreksfjörður",
+        "country": "iceland",
+        "x": "-75708.7",
+        "y": "147.3477",
+        "z": "-110660.5"
     },
     {
         "gameName": "pau",
@@ -5891,20 +5902,12 @@ var cities = [
         "z": "5799.34"
     },
     {
-        "gameName": "reydar",
-        "realName": "Reyðarfjörður",
-        "country": "iceland",
-        "x": "-69235.1",
-        "y": "50",
-        "z": "-92368.9"
-    },
-    {
         "gameName": "reykjavik",
         "realName": "Reykjavík",
         "country": "iceland",
-        "x": "-90723.9",
-        "y": "57.3203",
-        "z": "-98482.6"
+        "x": "-73021.5",
+        "y": "55.60547",
+        "z": "-98932.62"
     },
     {
         "gameName": "rhodes",
@@ -6046,17 +6049,9 @@ var cities = [
         "gameName": "selfoss",
         "realName": "Selfoss",
         "country": "iceland",
-        "x": "-89796.2",
-        "y": "49.3047",
-        "z": "-95809.1"
-    },
-    {
-        "gameName": "seydis",
-        "realName": "Seyðisfjörður",
-        "country": "iceland",
-        "x": "-68112.5",
-        "y": "46.3789",
-        "z": "-93717.5"
+        "x": "-70767",
+        "y": "88.05469",
+        "z": "-96422.56"
     },
     {
         "gameName": "sheffield",
@@ -6345,6 +6340,14 @@ var cities = [
         "x": "51623.8",
         "y": "68.1992",
         "z": "55931.2"
+    },
+    {
+        "gameName": "thorshofn",
+        "realName": "Þórshöfn",
+        "country": "iceland",
+        "x": "-52888.59",
+        "y": "53",
+        "z": "-104170.3"
     },
     {
         "gameName": "thurso",
@@ -6667,14 +6670,6 @@ var cities = [
         "z": "29453.3"
     },
     {
-        "gameName": "vestmannaeyjar",
-        "realName": "Vestmannaeyjar",
-        "country": "iceland",
-        "x": "-90650.19",
-        "y": "0",
-        "z": "-91439.36"
-    },
-    {
         "gameName": "viborg",
         "realName": "Viborg",
         "country": "denmark",
@@ -6713,14 +6708,6 @@ var cities = [
         "x": "-84721.4",
         "y": "82.9922",
         "z": "32600.7"
-    },
-    {
-        "gameName": "vik",
-        "realName": "Vík",
-        "country": "iceland",
-        "x": "-86702.3",
-        "y": "65.4219",
-        "z": "-89729.3"
     },
     {
         "gameName": "villach",
@@ -9670,22 +9657,6 @@ var cities_pm250 = [
         "z": "19867.5"
     },
     {
-        "gameName": "thorlakshofn",
-        "realName": "Þorlákshöfn",
-        "country": "iceland",
-        "x": "-91379",
-        "y": "49.7656",
-        "z": "-95046.1"
-    },
-    {
-        "gameName": "varmahlid",
-        "realName": "Varmahlíð",
-        "country": "iceland",
-        "x": "-80411.98",
-        "y": "70.04688",
-        "z": "-102474.7"
-    },
-    {
         "gameName": "vestero_havn",
         "realName": "Vesterø Havn",
         "country": "denmark",
@@ -9921,22 +9892,6 @@ var cities_pm260 = [
         "z": "-15517.18"
     },
     {
-        "gameName": "nordurfjord",
-        "realName": "Norðurfjörður",
-        "country": "iceland",
-        "x": "-83583.28",
-        "y": "59.57422",
-        "z": "-109283.3"
-    },
-    {
-        "gameName": "olafsvik",
-        "realName": "Ólafsvík",
-        "country": "iceland",
-        "x": "-94035.47",
-        "y": "56.20313",
-        "z": "-106360.8"
-    },
-    {
         "gameName": "pello",
         "realName": "Pello",
         "country": "finland",
@@ -9983,14 +9938,6 @@ var cities_pm260 = [
         "x": "28152.17",
         "y": "96.62891",
         "z": "-110156"
-    },
-    {
-        "gameName": "stykkisholmur",
-        "realName": "Stykkishólmur",
-        "country": "iceland",
-        "x": "-90510.41",
-        "y": "49.09766",
-        "z": "-104725.6"
     },
     {
         "gameName": "valenciennes",

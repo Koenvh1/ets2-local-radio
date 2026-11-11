@@ -702,7 +702,12 @@ var stations = {/*
             name: "Rot Weiss Rot",
             logo: "stations/images-europe/austria/Rot Weiss Rot.png",
             url: "https://secureonair.krone.at/rwr.aac"
-        },
+        },/*
+        {
+            name: "Servus Radio", // blocked outside Austria
+            logo: "stations/images-europe/austria/Servus Radio.png",
+            url: "https://stream.servusradio.at/listen/servusradio/live128.mp3"
+        },*/
         {
             name: "Super 80s",
             logo: "stations/images-europe/austria/Super 80s.png",
@@ -3145,11 +3150,6 @@ var stations = {/*
             name: "Bayern 3",
             logo: "stations/images-europe/germany-br/Bayern 3.png",
             url: "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid"
-        },
-        {
-            name: "BR Schlager", // shutting down on 09.11.2026
-            logo: "stations/images-europe/germany-br/BR Schlager.png",
-            url: "https://dispatcher.rndfnk.com/br/brschlager/live/mp3/mid"
         },
         {
             name: "BR Heimat",
@@ -9537,11 +9537,6 @@ var stations = {/*
             name: "Bandit Rock",
             logo: "stations/images-europe/sweden/Bandit Rock.png",
             url: "https://fm02-ice.stream.khz.se/fm02_mp3"
-        },
-        {
-            name: "Bandit Classic Rock",
-            logo: "stations/images-europe/sweden/Bandit Classic Rock.png",
-            url: "https://wr11-ice.stream.khz.se/wr11_mp3"
         },
         {
             name: "Dansbandskanalen",
