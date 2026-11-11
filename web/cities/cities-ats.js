@@ -77,23 +77,11 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.7
     },
-    "alma": {
-        name: "Alma",
-        name_english: "Alma",
-        code: "us-ne",
-        relative_radius: 0.7
-    },
     "amarillo": {
         name: "Amarillo",
         name_english: "Amarillo",
         code: "us-tx",
         relative_radius: 1.1
-    },
-    "ansley": {
-        name: "Ansley",
-        name_english: "Ansley",
-        code: "us-ne",
-        relative_radius: 0.7
     },
     "ardmore": {
         name: "Ardmore",
@@ -1517,12 +1505,6 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.7
     },
-    "merriman": {
-        name: "Merriman",
-        name_english: "Merriman",
-        code: "us-ne",
-        relative_radius: 0.7
-    },
     "midland_odessa": {
         name: "Midland/Odessa",
         name_english: "Midland/Odessa",
@@ -1672,12 +1654,6 @@ var country_properties = {
         name_english: "Odessa",
         code: "us-tx",
         relative_radius: 0.7
-    },
-    "ogallala_ne": {
-        name: "Ogallala",
-        name_english: "Ogallala",
-        code: "us-ne",
-        relative_radius: 0.6
     },
     "oklahoma_city": {
         name: "Oklahoma City",
@@ -1948,12 +1924,6 @@ var country_properties = {
         name_english: "Red Bluff",
         code: "us-ca",
         relative_radius: 0.6
-    },
-    "red_cloud": {
-        name: "Red Cloud",
-        name_english: "Red Cloud",
-        code: "us-ne",
-        relative_radius: 0.7
     },
     "redding": {
         name: "Redding",
@@ -2618,15 +2588,7 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
-    "alma": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
-    },
     "amarillo": {
-        relative_whitenoise: 0.95
-    },
-    "ansley": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "ardmore": {
@@ -3413,10 +3375,6 @@ var city_properties = {
     "medford": {
         relative_whitenoise: 0.85
     },
-    "merriman": {
-        relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
     "midland_odessa": {
         relative_whitenoise: 0.95
     },
@@ -3490,10 +3448,6 @@ var city_properties = {
     "odessa": {
         relative_radius: 0.6,
         relative_whitenoise: 0.85
-    },
-    "ogallala_ne": {
-        relative_radius: 0.7,
-        relative_whitenoise: 0.95
     },
     "oklahoma_city": {
         relative_whitenoise: 0.95
@@ -3647,10 +3601,6 @@ var city_properties = {
     "redbluff": {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
-    },
-    "red_cloud": {
-        relative_radius: 0.6,
-        relative_whitenoise: 0.95
     },
     "redding": {
         relative_whitenoise: 0.75
@@ -4112,36 +4062,12 @@ var cities = [
         "z": "-19081.8"
     },
     {
-        "gameName": "alma",
-        "realName": "Alma",
-        "country": "grand_island",
-        "x": "-14586",
-        "y": "61.3728",
-        "z": "-6918.97"
-    },
-    {
         "gameName": "amarillo",
         "realName": "Amarillo",
         "country": "amarillo",
         "x": "-26731.8",
         "y": "100.102",
         "z": "20312.9"
-    },
-    {
-        "gameName": "ansley",
-        "realName": "Ansley",
-        "country": "ansley",
-        "x": "-14790.9",
-        "y": "65.2003",
-        "z": "-13779.6"
-    },
-    {
-        "gameName": "ansley",
-        "realName": "Ansley",
-        "country": "grand_island",
-        "x": "-14790.9",
-        "y": "65.2003",
-        "z": "-13779.6"
     },
     {
         "gameName": "ardmore",
@@ -5058,7 +4984,7 @@ var cities = [
     {
         "gameName": "elm_creek",
         "realName": "Elm Creek",
-        "country": "ansley",
+        "country": "elm_creek",
         "x": "-15649.8",
         "y": "63.9518",
         "z": "-10331.8"
@@ -5066,7 +4992,7 @@ var cities = [
     {
         "gameName": "elm_creek",
         "realName": "Elm Creek",
-        "country": "grand_island",
+        "country": "elm_creek",
         "x": "-15649.8",
         "y": "63.9518",
         "z": "-10331.8"
@@ -6288,14 +6214,6 @@ var cities = [
         "z": "-35739.2"
     },
     {
-        "gameName": "merriman",
-        "realName": "Merriman",
-        "country": "valentine",
-        "x": "-23476.4",
-        "y": "78.6246",
-        "z": "-22963.8"
-    },
-    {
         "gameName": "midland_odessa",
         "realName": "Midland",
         "country": "midland_odessa",
@@ -6552,14 +6470,6 @@ var cities = [
         "z": "-61813"
     },
     {
-        "gameName": "ogallala_ne",
-        "realName": "Ogallala",
-        "country": "north_platte",
-        "x": "-25219.9",
-        "y": "66.012",
-        "z": "-12820"
-    },
-    {
         "gameName": "omaha",
         "realName": "Omaha",
         "country": "omaha",
@@ -6594,7 +6504,7 @@ var cities = [
     {
         "gameName": "oskaloosa",
         "realName": "Oskaloosa",
-        "country": "ottumwa",
+        "country": "oskaloosa",
         "x": "14412.6",
         "y": "15.001",
         "z": "-14084.6"
@@ -6926,14 +6836,6 @@ var cities = [
         "x": "-112992",
         "y": "153.224",
         "z": "-20492.6"
-    },
-    {
-        "gameName": "red_cloud",
-        "realName": "Red Cloud",
-        "country": "grand_island",
-        "x": "-11109.8",
-        "y": "56.4332",
-        "z": "-6343.74"
     },
     {
         "gameName": "redding",
@@ -7282,7 +7184,7 @@ var cities = [
     {
         "gameName": "scottsbluff",
         "realName": "Scottsbluff",
-        "country": "alliance",
+        "country": "scottsbluff",
         "x": "-32898",
         "y": "121.211",
         "z": "-19348.7"
