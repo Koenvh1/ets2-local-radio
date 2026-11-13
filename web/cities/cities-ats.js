@@ -509,6 +509,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 0.4
     },
+    "council_bluf": {
+		name: "Council Bluffs", 
+		name_english: "Council Bluffs", 
+		code: "us-ia", 
+		relative_radius: 1
+	},
     "crescent_city": {
         name: "Crescent City",
         name_english: "Crescent City",
@@ -2111,6 +2117,7 @@ var country_properties = {
         code: "us-ne",
         relative_radius: 0.6
     },
+    "spearfish": {"name": "Spearfish", "name_english": "Spearfish", "code": "us-sd", "relative_radius": 1},
     "steamboat_sp": {
         name: "Steamboat Springs",
         name_english: "Steamboat Springs",
@@ -2820,6 +2827,9 @@ var city_properties = {
     "cotulla": {
         relative_whitenoise: 0.95
     },
+    "council_bluf": {
+		"relative_whitenoise": 1
+	},
     "crescent_city": {
         relative_whitenoise: 0.85
     },
@@ -3688,6 +3698,7 @@ var city_properties = {
     "sheridan": {
         relative_whitenoise: 0.85
     },
+    "spearfish": {"relative_whitenoise": 1},
     "steamboat_sp": {
         relative_whitenoise: 0.85
     },
@@ -4728,6 +4739,14 @@ var cities = [
         "y": "14.71",
         "z": "58529.4"
     },
+    {
+		"gameName": "council_bluf", 
+		"realName": "Council Bluffs", 
+		"country": "council_bluf", 
+		"x": "-6432.1367", 
+		"y": "25", 
+		"z": "-17512.852"
+	},
     {
         "gameName": "crescent_city",
         "realName": "Crescent City",
@@ -7280,6 +7299,7 @@ var cities = [
         "y": "128.301",
         "z": "1743"
     },
+    {"gameName": "spearfish", "realName": "Spearfish", "country": "spearfish", "x": "-31318.945", "y": "100", "z": "-32576.91"},
     {
         "gameName": "spencer",
         "realName": "Spencer",
