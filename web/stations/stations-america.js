@@ -1389,7 +1389,7 @@ var stations = {/*
 		},
         {
 			name: "95.7 K296DS",
-			logo: "stations/images-america/rapid_city/KSLT 107.1.png",
+			logo: "stations/images-america/spearfish/KSLT 107.1.png",
 			url: "https://nwm.streamguys1.com/kslt-mp3",
 			band: "FX",
 			callsign: "K239DC",
@@ -31384,7 +31384,7 @@ var stations = {/*
 		},
         {
             name: "90.3 KSLP",
-            logo: "stations/images-america/rapid_city/KSLT 107.1.png",
+            logo: "stations/images-america/spearfish/KSLT 107.1.png",
             url: "https://nwm.streamguys1.com/kslt-mp3",
             callsign: "KSLP",
             frequency: "90.3",
@@ -33004,7 +33004,7 @@ var stations = {/*
         },
         {
 			name: "X-ROCK 103.7",
-			logo: "stations/images-america/rapid_city/X-ROCK 101.1.png",
+			logo: "stations/images-america/spearfish/X-ROCK 101.1.png",
 			url: "http://ais-sa1.streamon.fm/7771_96k.aac",
 			callsign: "K279DF",
 			frequency: "103.7",
@@ -65122,7 +65122,7 @@ var stations = {/*
 		},
         {
 			name: "106.5 K293BN",
-			logo: "stations/images-america/rapid_city/KSLT 107.1.png",
+			logo: "stations/images-america/spearfish/KSLT 107.1.png",
 			url: "https://nwm.streamguys1.com/kslt-mp3",
 			band: "FX",
 			callsign: "K293BN",
