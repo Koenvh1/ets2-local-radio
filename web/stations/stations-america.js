@@ -8312,7 +8312,7 @@ var stations = {/*
 		},
 		{
 			name: "KBIA 91.3",
-			logo: "stations/images-america/columbia/KBIA.png",
+			logo: "stations/images-america/kirksville/KBIA.png",
 			url: "https://das-sa43.cdnstream1.com/6062",
 			band: "FM",
 			callsign: "KBIA",
@@ -8516,7 +8516,7 @@ var stations = {/*
 		},
 		{
 			name: "104.7 KRES",
-			logo: "stations/images-america/columbia/104.7 KRES.png",
+			logo: "stations/images-america/kirksville/104.7 KRES.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=http://live.amperwave.net/direct/alphacorporate-kresfmaac-ibc2",
 			band: "FM",
 			callsign: "KRES",
@@ -8564,7 +8564,7 @@ var stations = {/*
 		},
 		{
 			name: "KWIX 1230",
-			logo: "stations/images-america/columbia/KWIX 1230.png",
+			logo: "stations/images-america/kirksville/KWIX 1230.png",
 			url: "http://84.32.44.251/amperwave/index.php?q=https://live.amperwave.net/direct/alphacorporate-kwixamaac-ibc2",
 			band: "AM",
 			callsign: "KWIX",
