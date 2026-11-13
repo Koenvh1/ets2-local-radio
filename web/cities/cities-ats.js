@@ -360,8 +360,8 @@ var country_properties = {
         relative_radius: 0.8
     },
     "cda": {
-        name: "Couer d'Alene",
-        name_english: "Couer d'Alene",
+        name: "Coeur d'Alene",
+        name_english: "Coeur d'Alene",
         code: "us-id",
         relative_radius: 0.8
     },
@@ -467,12 +467,12 @@ var country_properties = {
         code: "us-co",
         relative_radius: 0.9
     },
-    "columbia_jcmo": {
-        name: "Columbia / Jefferson City",
-        name_english: "Columbia / Jefferson City",
-        code: "us-mo",
-        relative_radius: 0.7
-    },
+    "columbia": {
+		name: "Columbia", 
+		name_english: "Columbia", 
+		code: "us-mo", 
+		relative_radius: 1
+	},
     "columbus": {
         name: "Columbus",
         name_english: "Columbus",
@@ -824,7 +824,7 @@ var country_properties = {
     "gila_bend": {
         name: "Gila Bend",
         name_english: "Gila Bend",
-        code: "us-wy",
+        code: "us-az",
         relative_radius: 1.0
     },
     "gillette": {
@@ -950,12 +950,6 @@ var country_properties = {
     "hannibal": {
         name: "Hannibal",
         name_english: "Hannibal",
-        code: "us-mo",
-        relative_radius: 0.7
-    },
-    "hannibal_quincy": {
-        name: "Hannibal/Quincy",
-        name_english: "Hannibal/Quincy",
         code: "us-mo",
         relative_radius: 0.7
     },
@@ -1157,12 +1151,6 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.9
     },
-    "kansas_city_terrastore": {
-        name: "Kansas City",
-        name_english: "Kansas City",
-        code: "us-mo",
-        relative_radius: 0.9
-    },
     "kayenta": {
         name: "Kayenta",
         name_english: "Kayenta",
@@ -1170,8 +1158,8 @@ var country_properties = {
         relative_radius: 0.5
     },
     "kennewick_pendleton": {
-        name: "Tri Cities",
-        name_english: "Tri Cities",
+        name: "Kennewick/Pendleton",
+        name_english: "Kennewick/Pendleton",
         code: "us-wa",
         relative_radius: 0.7
     },
@@ -1631,6 +1619,12 @@ var country_properties = {
         code: "us-or",
         relative_radius: 0.6
     },
+    "norfolk_va": {
+        name: "Norfolk",
+        name_english: "Norfolk",
+        code: "us-va",
+        relative_radius: 0.7
+    },
     "norfolk_ne": {
         name: "Norfolk",
         name_english: "Norfolk",
@@ -1992,8 +1986,8 @@ var country_properties = {
         relative_radius: 0.3
     },
     "russelville": {
-        name: "Russelville",
-        name_english: "Russelville",
+        name: "Russellville",
+        name_english: "Russellville",
         code: "us-ar",
         relative_radius: 0.5
     },
@@ -2291,12 +2285,6 @@ var country_properties = {
         code: "us-mo",
         relative_radius: 0.9
     },
-    "st_joseph_kkjo": {
-        name: "St. Joseph",
-        name_english: "St. Joseph",
-        code: "us-mo",
-        relative_radius: 0.9
-    },
     "st_louis": {
         name: "St. Louis",
         name_english: "St. Louis",
@@ -2308,6 +2296,12 @@ var country_properties = {
         name_english: "Susanville",
         code: "us-ca",
         relative_radius: 0.5
+    },
+    "soldotna": {
+        name: "Soldotna",
+        name_english: "Soldotna",
+        code: "us-ak",
+        relative_radius: 0.6
     },
     "sweetwater": {
         name: "Sweetwater",
@@ -2804,9 +2798,9 @@ var city_properties = {
     "colorado_springs_pueblo": {
         relative_whitenoise: 0.85
     },
-    "columbia_jcmo": {
-        relative_whitenoise: 0.85
-    },
+    "columbia": {
+		relative_whitenoise: 1
+	},
     "columbus": {
         relative_whitenoise: 0.95
     },
@@ -3072,10 +3066,6 @@ var city_properties = {
         relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
-    "hannibal_north": {
-        relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
     "harrison": {
         relative_whitenoise: 0.95
     },
@@ -3142,7 +3132,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "iowa_city": {
-		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "jackson": {
@@ -3187,12 +3176,11 @@ var city_properties = {
     "kansas_city": {
         relative_whitenoise: 0.95
     },
-    "kansas_city_terrastore": {
-		relative_radius: 0.3,
-        relative_whitenoise: 0.95
-    },
     "kayenta": {
         relative_whitenoise: 0.95
+    },
+    "kennewick_pendleton": {
+        relative_whitenoise: 0.85
     },
     "kennewick": {
         relative_radius: 0.8,
@@ -3434,6 +3422,9 @@ var city_properties = {
     },
     "newport": {
         relative_whitenoise: 0.85
+    },
+    "norfolk_va": {
+        relative_whitenoise: 0.9
     },
     "norfolk_ne": {
         relative_whitenoise: 0.95
@@ -3797,10 +3788,6 @@ var city_properties = {
     },
     "st_joseph": {
         relative_radius: 0.4,
-        relative_whitenoise: 0.85
-    },
-    "st_joseph_kkjo": {
-        relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
     "st_louis": {
@@ -4600,7 +4587,7 @@ var cities = [
     {
         "gameName": "chillicothe",
         "realName": "Chillicothe",
-        "country": "bethany",
+        "country": "chillicothe",
         "x": "11256.2",
         "y": "44.2803",
         "z": "-4720.42"
@@ -4686,13 +4673,13 @@ var cities = [
         "z": "528.353"
     },
     {
-        "gameName": "columbia_jcmo",
-        "realName": "Columbia / Jefferson City",
-        "country": "columbia_jcmo",
-        "x": "15450.5",
-        "y": "120",
-        "z": "-812.559"
-    },
+		"gameName": "columbia", 
+		"realName": "Columbia", 
+		"country": "columbia", 
+		"x": "15450.469", 
+		"y": "70", 
+		"z": "-832.5586"
+	},
     {
         "gameName": "columbus",
         "realName": "Columbus",
@@ -5416,18 +5403,10 @@ var cities = [
     {
         "gameName": "hannibal",
         "realName": "Hannibal",
-        "country": "hannibal_quincy",
+        "country": "hannibal",
         "x": "19841.1",
         "y": "77.3459",
         "z": "-4531.3"
-    },
-    {
-        "gameName": "hannibal_north",
-        "realName": "Hannibal",
-        "country": "hannibal_quincy",
-        "x": "19841.1",
-        "y": "77.3459",
-        "z": "-7531.3"
     },
     {
         "gameName": "harrison",
@@ -5632,7 +5611,7 @@ var cities = [
     {
         "gameName": "jefferson_city",
         "realName": "Jefferson City",
-        "country": "columbia_jcmo",
+        "country": "jefferson_city",
         "x": "17008.3",
         "y": "77.4219",
         "z": "2437.67"
@@ -5724,14 +5703,6 @@ var cities = [
         "x": "6693.1",
         "y": "85.3633",
         "z": "-114.828"
-    },
-    {
-        "gameName": "kansas_city_terrastore",
-        "realName": "Kansas City",
-        "country": "kansas_city",
-        "x": "10362.9",
-        "y": "7.3158",
-        "z": "-1470.25"
     },
     {
         "gameName": "kennewick",
@@ -6640,7 +6611,7 @@ var cities = [
     {
         "gameName": "pittsburg",
         "realName": "Pittsburg",
-        "country": "joplin",
+        "country": "pittsburg",
         "x": "5682.23",
         "y": "67.9766",
         "z": "8593.65"
@@ -6784,7 +6755,7 @@ var cities = [
     {
         "gameName": "quincy_il",
         "realName": "Quincy",
-        "country": "hannibal_quincy",
+        "country": "quincy_il",
         "x": "20943.6",
         "y": "24.2412",
         "z": "-6489.52"
@@ -7344,7 +7315,7 @@ var cities = [
     {
         "gameName": "springfield_mo",
         "realName": "Springfield",
-        "country": "harrison_khbz",
+        "country": "springfield_mo",
         "x": "12754.8",
         "y": "75.8594",
         "z": "9791.22"
@@ -7390,14 +7361,6 @@ var cities = [
         "z": "3000.27"
     },
     {
-        "gameName": "st_joseph_kkjo",
-        "realName": "St. Joseph",
-        "country": "st_joseph_kkjo",
-        "x": "4320.43",
-        "y": "136.541",
-        "z": "-4234.05"
-    },
-    {
         "gameName": "st_joseph",
         "realName": "St. Joseph",
         "country": "st_joseph",
@@ -7408,7 +7371,7 @@ var cities = [
     {
         "gameName": "st_joseph",
         "realName": "St. Joseph",
-        "country": "kansas_city",
+        "country": "st_joseph",
         "x": "4544.22",
         "y": "67.7188",
         "z": "-4752.35"
@@ -15949,6 +15912,7 @@ var country_properties_alaska = {
 };
 
 var city_properties_alaska = {
+    "soldotna": { relative_whitenoise: 0.9 },
     "alcan": {
         relative_whitenoise: 0.80
     },
