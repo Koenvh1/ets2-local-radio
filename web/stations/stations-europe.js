@@ -8486,6 +8486,11 @@ var stations = {/*
             logo: "stations/images-europe/romania/Radio România Satelor.png",
             url: "http://stream2.srr.ro:8046/;"
         },
+         {
+            name: "București FM",
+            logo: 
+            url: "http://stream2.srr.ro:8032/;"
+        },
         {
             name: "DigiFM",
             logo: "stations/images-europe/romania/DigiFM.png",
