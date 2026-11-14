@@ -10014,12 +10014,6 @@ var country_properties_c2c = {
         code: "us-mn",
         relative_radius: 0.8
     },
-    "albert_lea_kaus": {
-        name: "Albert Lea",
-        name_english: "Albert Lea",
-        code: "us-mn",
-        relative_radius: 0.8
-    },
     "allentown": {
         name: "allentown",
         name_english: "allentown",
@@ -10986,12 +10980,6 @@ var country_properties_c2c = {
         code: "us-va",
         relative_radius: 0.6
     },
-    "rochester_kroc": {
-        name: "Rochester",
-        name_english: "Rochester",
-        code: "us-mn",
-        relative_radius: 1.0
-    },
     "rochester_mn": {
         name: "Rochester",
         name_english: "Rochester",
@@ -11003,12 +10991,6 @@ var country_properties_c2c = {
         name_english: "rochester_ny",
         code: "us-ny",
         relative_radius: 0.6
-    },
-    "rochester_y105": {
-        name: "Rochester",
-        name_english: "Rochester",
-        code: "us-mn",
-        relative_radius: 1.0
     },
     "salisbury": {
         name: "Salisbury",
@@ -11237,9 +11219,6 @@ var city_properties_c2c = {
     },
     "albert_lea": {
         relative_radius: 0.5,
-        relative_whitenoise: 0.95
-    },
-    "albert_lea_kaus": {
         relative_whitenoise: 0.95
     },
     "allentown": {
@@ -11692,19 +11671,12 @@ var city_properties_c2c = {
     "roanoke_va": {
         relative_whitenoise: 0.95
     },
-    "rochester_kroc": {
-        relative_whitenoise: 0.95
-    },
     "rochester_mn": {
         relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "rochester_ny": {
         relative_whitenoise: 0.85
-    },
-    "rochester_y105": {
-        relative_radius: 0.8,
-        relative_whitenoise: 0.95
     },
     "salisbury": {
         relative_whitenoise: 0.95
@@ -11840,16 +11812,8 @@ var cities_c2c = [
     {
         "gameName": "albert_lea",
         "realName": "Albert Lea",
-        "country": "albert_lea_kaus",
+        "country": "albert_lea",
         "x": "10904.6",
-        "y": "83.034",
-        "z": "-26538.6"
-    },
-    {
-        "gameName": "albert_lea_kaus",
-        "realName": "Albert Lea",
-        "country": "albert_lea_kaus",
-        "x": "12304.6",
         "y": "83.034",
         "z": "-26538.6"
     },
@@ -13102,14 +13066,6 @@ var cities_c2c = [
         "z": "2572.97"
     },
     {
-        "gameName": "rochester_kroc",
-        "realName": "Rochester",
-        "country": "rochester_kroc",
-        "x": "15127.4",
-        "y": "172.769",
-        "z": "-25665.2"
-    },
-    {
         "gameName": "rochester_mn",
         "realName": "Rochester",
         "country": "rochester_mn",
@@ -13120,7 +13076,7 @@ var cities_c2c = [
     {
         "gameName": "rochester_mn",
         "realName": "Rochester",
-        "country": "rochester_kroc",
+        "country": "rochester_mn",
         "x": "15607.5",
         "y": "93.4564",
         "z": "-28327"
@@ -13132,22 +13088,6 @@ var cities_c2c = [
         "x": "74809.1",
         "y": "99.2422",
         "z": "-31480.9"
-    },
-    {
-        "gameName": "rochester_y105",
-        "realName": "Rochester",
-        "country": "rochester_y105",
-        "x": "14827.4",
-        "y": "172.769",
-        "z": "-25665.2"
-    },
-    {
-        "gameName": "rochester_y105",
-        "realName": "Rochester",
-        "country": "rochester_kroc",
-        "x": "15127.4",
-        "y": "172.769",
-        "z": "-25665.2"
     },
     {
         "gameName": "salisbury",
