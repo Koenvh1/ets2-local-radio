@@ -230,12 +230,14 @@ var stations = {/*
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "92.1 K221BG",
@@ -564,12 +566,14 @@ var stations = {/*
         {
             name: "Air1 90.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "afr Hybrid 91.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "GRN 91.7",
@@ -727,17 +731,20 @@ var stations = {/*
         {
             name: "Family Life Radio 90.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "Effect Radio 91.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 91.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Coyote Country 92.7",
@@ -835,7 +842,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KHUI",
 			frequency: "89.1",
-			format: ["public_radio","native"],
+			format: ["public_radio"],
 			tower: "-43923.607;0;5996.295",
 			radius: 0.355910873643196,
 			coverage: {"local":[0.2957616,0.29885568,0.29843404,0.29889847,0.30025316,0.30134921,0.29970574,0.29513624,0.29344317,0.29330679,0.29825865,0.30468338,0.30426246,0.3081979,0.31346651,0.3074713,0.302259,0.30205046,0.30186773,0.29717057,0.29653226,0.29790954,0.29347725,0.29269018,0.29244627,0.28859446,0.28760036,0.28932659,0.29266091,0.29830593,0.29902338,0.29574941],"distant":[0.53676784,0.54121513,0.54330377,0.54336727,0.54371423,0.54380893,0.54313419,0.53794451,0.53273847,0.53048208,0.53747422,0.54774396,0.54702446,0.55694083,0.56727977,0.55546472,0.54585911,0.54590512,0.54554044,0.5356231,0.53250005,0.53839312,0.52951113,0.5284109,0.52903597,0.5214313,0.52032838,0.52464151,0.52962895,0.53884706,0.54047842,0.5378609],"fringe":[0.95306661,0.96245902,0.96415146,0.963261,0.9656047,0.9665028,0.96093145,0.95141314,0.94480115,0.9447308,0.95389453,0.96718479,0.97022281,0.98673545,1.0,0.98200881,0.96884235,0.96782352,0.96596216,0.94950371,0.94467473,0.95599012,0.94452519,0.94460345,0.9454597,0.93056611,0.9282165,0.93342114,0.94075826,0.95740703,0.96021192,0.95389259]},
@@ -1009,7 +1016,8 @@ var stations = {/*
         {
             name: "Family Life Radio 91.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "92.3 KRST",
@@ -1179,7 +1187,8 @@ var stations = {/*
         {
             name: "Fuzión 104.7",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzion-website"
+            url: "https://emg.streamguys1.com/fuzion-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Mix 105.1",
@@ -1189,7 +1198,8 @@ var stations = {/*
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Exitos 106.3",
@@ -1250,7 +1260,8 @@ var stations = {/*
         {
             name: "TUDN Radio 1450",
             logo: "stations/images-america/albuquerque/TUDN Radio 1450.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
     ],
     "alexandria_la": [
@@ -1262,7 +1273,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Red River Radio 90.7",
@@ -1287,12 +1299,14 @@ var stations = {/*
         {
             name: "BBN 91.3",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Mix 93.9",
@@ -1548,12 +1562,14 @@ var stations = {/*
         {
             name: "K-LOVE 89.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "FM90",
@@ -1563,7 +1579,8 @@ var stations = {/*
         {
             name: "afr Hybrid 90.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "The One 91.1",
@@ -1573,7 +1590,8 @@ var stations = {/*
         {
             name: "Air1 91.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "93.1 The Beat",
@@ -1624,7 +1642,8 @@ var stations = {/*
         {
             name: "Radio By Grace 99.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "100.9 The Eagle",
@@ -1694,7 +1713,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KCNP 89.3",
@@ -1714,7 +1734,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Star 92.7",
@@ -1729,7 +1750,8 @@ var stations = {/*
         {
             name: "Fuzión 94.5",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionDallas-website"
+            url: "https://emg.streamguys1.com/fuzionDallas-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "95.7 KKAJ",
@@ -1754,7 +1776,8 @@ var stations = {/*
         {
             name: "Air1 101.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "VCY America 103.3",
@@ -1815,7 +1838,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1440",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "1520 KOKC",
@@ -1827,12 +1851,14 @@ var stations = {/*
         {
             name: "K-LOVE 88.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "CSN Radio 89.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "OPB 89.7",
@@ -2012,12 +2038,14 @@ var stations = {/*
         {
             name: "Air1 92.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE POP! 92.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "Poder 93.3",
@@ -2232,17 +2260,20 @@ var stations = {/*
         {
             name: "K-LOVE 105.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 105.9-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 105.9-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Keilah 106.5",
@@ -2272,7 +2303,8 @@ var stations = {/*
         {
             name: "Relevant Radio 970",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Sun Radio 1060",
@@ -2309,7 +2341,8 @@ var stations = {/*
         {
             name: "afr Talk 90.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KESY 91.1",
@@ -2341,7 +2374,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 90.1",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Family Radio 91.3",
@@ -2456,7 +2490,8 @@ var stations = {/*
         {
             name: "Air1 104.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Sunny 105.3",
@@ -2534,7 +2569,8 @@ var stations = {/*
         {
             name: "Fuzión 89.1",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionSoCal-website"
+            url: "https://emg.streamguys1.com/fuzionSoCal-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "KNLB 90.9",
@@ -2549,7 +2585,8 @@ var stations = {/*
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KBHR 93.3",
@@ -2574,7 +2611,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 99.5",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Old School 101.3",
@@ -2690,7 +2728,8 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "SonLife Radio 88.5",
@@ -2725,7 +2764,8 @@ var stations = {/*
         {
             name: "K-LOVE 92.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WMIY 93.1",
@@ -2735,7 +2775,8 @@ var stations = {/*
         {
             name: "BBN 93.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Max 94.1",
@@ -2750,7 +2791,8 @@ var stations = {/*
         {
             name: "CSN Radio 95.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Heaven 95.7",
@@ -2765,7 +2807,8 @@ var stations = {/*
         {
             name: "Air1 96.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "WHYR 96.9",
@@ -2805,7 +2848,8 @@ var stations = {/*
         {
             name: "Air1 101.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "101.5 WYNK",
@@ -2835,7 +2879,8 @@ var stations = {/*
         {
             name: "CSN Radio 103.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            url: "http://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "104.1 The Vibe",
@@ -3010,7 +3055,8 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "91.3 KVLU",
@@ -3040,7 +3086,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "99.9 KHIH",
@@ -3070,7 +3117,8 @@ var stations = {/*
         {
             name: "Air1 103.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "104.5 KISS FM",
@@ -3085,17 +3133,20 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 105.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "K-LOVE 105.3-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 105.3-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "BIG DOG 106",
@@ -3249,22 +3300,26 @@ var stations = {/*
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "CSN Radio 89.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Effect Radio 89.9-HD2",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KWAX 91.1",
@@ -3532,12 +3587,14 @@ var stations = {/*
         {
             name: "Radio By Grace 89.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "afr Hybrid 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "94.3 The Fuse",
@@ -3552,7 +3609,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KBST 103.9",
@@ -3572,7 +3630,8 @@ var stations = {/*
         {
             name: "Family Life Radio 107.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "KBST 1490",
@@ -3894,7 +3953,8 @@ var stations = {/*
         {
             name: "K-LOVE 96.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "97.9 BOB FM",
@@ -4034,7 +4094,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K272EG",
 			frequency: "102.3",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-60063.327;0.000;5016.373",
 			radius: 0.492205550981013,
 			coverage: {"local":[0.19669766,0.20987929,0.19331117,0.18707721,0.18486253,0.19012574,0.1998599,0.24913384,0.26381234,0.20438603,0.19306887,0.19514083,0.19124852,0.1937353,0.19149413,0.19532623,0.19111527,0.19025976,0.19275958,0.19507204,0.19233419,0.21545919,0.29697627,0.30982637,0.2302618,0.19763101,0.20448832,0.19794192,0.18624981,0.18449502,0.18437653,0.18897552],"distant":[0.35949834,0.36774968,0.34162754,0.33830837,0.34051905,0.34362962,0.36212714,0.44691058,0.46288435,0.35893306,0.34459569,0.3436173,0.3451607,0.34587816,0.34408623,0.34315283,0.34520924,0.34699367,0.34412596,0.34336055,0.34634649,0.380691,0.53999749,0.55818917,0.40550841,0.34941098,0.36474069,0.36144096,0.34054611,0.33829225,0.33903711,0.34162734],"fringe":[0.65699282,0.66674793,0.61300141,0.61153945,0.61246426,0.61876541,0.64736266,0.79369666,0.81799473,0.6342274,0.61806206,0.61911834,0.61969371,0.62115743,0.61842293,0.61788543,0.61738378,0.61919583,0.61718897,0.61868981,0.62089829,0.67845308,0.95746617,1.0,0.73332818,0.62853622,0.64758416,0.65475329,0.61633973,0.61273118,0.61040517,0.62012348]},
@@ -4044,7 +4104,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.5",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "KNLB 89.3",
@@ -4069,7 +4130,8 @@ var stations = {/*
         {
             name: "CSN Radio 97.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "550 KFYI",
@@ -4126,7 +4188,8 @@ var stations = {/*
         {
             name: "Effect Radio 91.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Kissin' 92.3",
@@ -4186,7 +4249,8 @@ var stations = {/*
         {
             name: "Air1 98.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "99.1 I-Rock",
@@ -4674,7 +4738,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.7",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "JP2 Radio 93.3",
@@ -4969,7 +5034,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K216AC",
 			frequency: "91.1",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-71463.834;0.000;1505.830",
 			radius: 0.88691177,
 			coverage: {"local":[0.20646694,0.18348542,0.23358953,0.28855105,0.33280526,0.34720549,0.35190893,0.35556982,0.35813672,0.35828246,0.35954713,0.35619829,0.3451655,0.34446841,0.32960143,0.32045223,0.31959511,0.31873851,0.28829612,0.28644909,0.31271305,0.30848856,0.30726935,0.31189842,0.31040553,0.30415127,0.30967316,0.30948988,0.29678876,0.29236293,0.2712316,0.2420502],"distant":[0.36686748,0.32718787,0.41451571,0.51458376,0.60601454,0.63807042,0.64746815,0.65439282,0.65909071,0.65936194,0.66158267,0.65534585,0.63394475,0.63219097,0.59893213,0.57758144,0.57554901,0.57433753,0.51173421,0.50977194,0.55985319,0.55048609,0.54805919,0.5578996,0.55466283,0.54138563,0.55308928,0.5530016,0.52697348,0.51895031,0.48244263,0.43016866],"fringe":[0.61856259,0.55816788,0.69231988,0.839896,0.94230432,0.9756831,0.98527878,0.99249141,0.99750846,0.99794216,1.0,0.99338269,0.97117227,0.96944627,0.93464954,0.912003,0.9099111,0.90866712,0.83801746,0.83479532,0.89332221,0.88331759,0.88049612,0.89135413,0.88788723,0.87324213,0.8860051,0.88570423,0.8563282,0.84672163,0.79897048,0.71895637]},
@@ -5039,12 +5104,14 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "BBN 89.1",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Radio Aleluya 89.7",
@@ -5105,7 +5172,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K201CF",
 			frequency: "88.1",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-65110.487;0;1148.58",
 			radius: 0.59546961,
 			coverage: {"local":[0.02724476,0.03152369,0.03022933,0.02597519,0.03087926,0.03503049,0.04063273,0.04071483,0.03823562,0.04902259,0.05332604,0.05128348,0.06704979,0.10021845,0.15959587,0.23234495,0.27993559,0.29097135,0.27448339,0.22038146,0.1419914,0.07937037,0.05636187,0.04969476,0.05083479,0.0445541,0.03684864,0.0383107,0.03808241,0.02890038,0.02396174,0.02437027],"distant":[0.04023418,0.04707518,0.04709493,0.0405362,0.0512873,0.06955827,0.11638253,0.12707095,0.1145653,0.15026243,0.18606553,0.14473268,0.15219482,0.22892931,0.31088706,0.43972288,0.54767407,0.57301103,0.54969086,0.46905826,0.35335846,0.22354704,0.14943631,0.16343003,0.1819039,0.1287943,0.10526309,0.11157414,0.07318135,0.04630954,0.03633968,0.03592405],"fringe":[0.08121883,0.0896237,0.08257488,0.07525861,0.08478457,0.13480339,0.22501637,0.26634303,0.25544821,0.33950838,0.37575922,0.2906223,0.30870811,0.43664413,0.56121843,0.78581473,0.9564706,1.0,0.96464105,0.84803786,0.65977669,0.47343446,0.33473815,0.34653015,0.39447719,0.29602874,0.22900484,0.24217976,0.16227716,0.08893179,0.06454144,0.06767064]},
@@ -5243,7 +5310,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "KMHD 91.7",
@@ -5850,7 +5918,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Mix 96.7",
@@ -6182,7 +6251,7 @@ var stations = {/*
             band: "HD",
             callsign: "KXGM",
             frequency: "89.1",
-            format: ["religious", "christian_chr"],
+            format: ["religious", "christian_ac"],
             tower: "18105.386;0;-17470.381",
             radius: 0.486549,
             coverage: {"local":[0.34560829,0.34340589,0.34574263,0.345579,0.35823799,0.36722232,0.3687345,0.36901483,0.37440672,0.3807091,0.38589064,0.40621524,0.39848227,0.37520041,0.38608731,0.39673389,0.39184669,0.38161105,0.37142027,0.36744781,0.37463023,0.39381199,0.37686172,0.37603042,0.38461449,0.39750617,0.39961707,0.38962193,0.37764305,0.37584193,0.36541913,0.35400188],"distant":[0.5883355,0.58493337,0.59290335,0.59129275,0.61114096,0.62463337,0.6265277,0.62622682,0.63597072,0.64580396,0.65284471,0.6762816,0.66751203,0.63992598,0.64879668,0.66126187,0.65692057,0.64537122,0.63227618,0.62609593,0.64080688,0.66425539,0.64303374,0.63858558,0.65284713,0.66237058,0.66388362,0.65417032,0.64661234,0.63953003,0.62172878,0.6034921],"fringe":[0.9050727,0.89701951,0.90915761,0.90964291,0.92691269,0.93817305,0.94347138,0.94269834,0.9528274,0.96923282,0.97624099,1.0,0.99000078,0.95600182,0.96603454,0.96473724,0.96359445,0.96077069,0.95236603,0.94717794,0.96089535,0.9875235,0.96339867,0.95988417,0.97469964,0.98638826,0.98866863,0.9756081,0.96523532,0.95753425,0.94045325,0.92215377]}
@@ -6568,7 +6637,8 @@ var stations = {/*
         {
             name: "Air1 88.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "88.7 WPCD FM",
@@ -7011,12 +7081,14 @@ var stations = {/*
         {
             name: "Air1 94.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 94.3-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "94.7 WLS",
@@ -7066,7 +7138,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "97.9 WCKL-HD2",
@@ -7101,7 +7174,8 @@ var stations = {/*
         {
             name: "BBN 99.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Throwback 100.3",
@@ -7131,7 +7205,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 101.5",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "101.9 THE MIX",
@@ -7221,7 +7296,8 @@ var stations = {/*
         {
             name: "TUDN Radio 106.7-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "107.5 WGCI",
@@ -7292,7 +7368,8 @@ var stations = {/*
         {
             name: "Relevant Radio 930",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "ESPN 1000",
@@ -7322,7 +7399,8 @@ var stations = {/*
         {
             name: "TUDN Radio 1200",
             logo: "stations/images-america/chicago/TUDN Radio 1200.png",
-            url: "https://lmn.streamguys1.com/wrtoam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe"
+            url: "https://lmn.streamguys1.com/wrtoam-icy?key=4c77380708b876af96bab85bedf72b796fdca78b4ccf21d31f681a4a34b03afe",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "WJOB 1230",
@@ -7379,7 +7457,8 @@ var stations = {/*
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "GRN 91.7",
@@ -7604,7 +7683,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Kat Kountry 94.5",
@@ -7631,12 +7711,14 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Effect Radio 91.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "KOOL 94",
@@ -7728,12 +7810,14 @@ var stations = {/*
         {
             name: "BBN 88.1",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "http://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "http://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Family Life Radio 88.9",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "KENW 89.5",
@@ -7743,12 +7827,14 @@ var stations = {/*
         {
             name: "BBN 89.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "K-LOVE 90.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "90.7 KNKT",
@@ -7758,12 +7844,14 @@ var stations = {/*
         {
             name: "afr Hybrid 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Relevant Radio 91.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Kingdom Keys Radio 92.3",
@@ -8169,7 +8257,8 @@ var stations = {/*
         {
             name: "afr Talk 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KAMU 90.9",
@@ -8269,7 +8358,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Mix 104.7",
@@ -9071,7 +9161,8 @@ var stations = {/*
         {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Pirate 91.3",
@@ -9081,7 +9172,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-DOCK 92.9",
@@ -9153,12 +9245,14 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "K-LOVE 88.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KLUX 89.5",
@@ -9264,7 +9358,8 @@ var stations = {/*
         {
             name: "Air1 103.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Retro Tejano 104.1",
@@ -9347,7 +9442,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 90.7",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "92.5 The Bull",
@@ -9395,22 +9491,26 @@ var stations = {/*
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 89.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Fuzión 90.3",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionSoCal-website"
+            url: "https://emg.streamguys1.com/fuzionSoCal-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "JPR Classics & News 91.1",
@@ -9480,7 +9580,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1400",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "The Jukebox 1480",
@@ -9629,22 +9730,26 @@ var stations = {/*
         {
             name: "Fuzión 94.5",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionDallas-website"
+            url: "https://emg.streamguys1.com/fuzionDallas-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "K-LOVE 94.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 94.9-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 94.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "New Country 96.3",
@@ -9739,7 +9844,8 @@ var stations = {/*
         {
             name: "Air1 101.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Air1 Música de Adoración 101.7-HD2",
@@ -9749,7 +9855,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 101.7-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Star 102.1",
@@ -9849,7 +9956,8 @@ var stations = {/*
         {
             name: "TUDN Radio 107.1-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "La Grande 107.5",
@@ -9976,7 +10084,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1440",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Viet Radio 1480",
@@ -9993,7 +10102,8 @@ var stations = {/*
         {
             name: "Radio By Grace 88.7",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "HPPR 89.3",
@@ -10008,7 +10118,8 @@ var stations = {/*
         {
             name: "afr Talk 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "94.5 The Pulse",
@@ -10537,7 +10648,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K201BY",
 			frequency: "88.1",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-70248.518;0.000;-8253.131",
 			radius: 0.54040953,
 			coverage: {"local":[0.31162617,0.30654093,0.29215573,0.24617125,0.16254253,0.11737371,0.11733132,0.11733182,0.11736962,0.11742666,0.11731664,0.11725176,0.11723625,0.11725936,0.117142,0.11709593,0.11989197,0.16575112,0.23284194,0.27499738,0.29985458,0.31782695,0.32842591,0.33310377,0.33235026,0.32851524,0.32340772,0.32611867,0.32185638,0.32013715,0.31812442,0.31677324],"distant":[0.55600033,0.54702662,0.52238013,0.44288598,0.29207909,0.21191809,0.21184237,0.21184291,0.21191133,0.21201347,0.21181562,0.21169814,0.21167033,0.21171122,0.21150014,0.21141666,0.21643761,0.29846551,0.41533062,0.49386708,0.5354824,0.56691705,0.58582202,0.59414811,0.59280419,0.58596954,0.57694692,0.58173666,0.57414263,0.57103571,0.5674406,0.56504719],"fringe":[0.94517112,0.93131096,0.89086236,0.76057775,0.52025591,0.37390043,0.37376794,0.37376721,0.37388925,0.37406798,0.37371999,0.37351111,0.37346339,0.37353417,0.37316293,0.37301412,0.38221309,0.5333528,0.72310464,0.84133778,0.91255848,0.96165582,0.98852586,1.0,0.99821273,0.98888716,0.97608169,0.98272421,0.97200487,0.96758612,0.96222302,0.95865295]},
@@ -10581,7 +10692,8 @@ var stations = {/*
         {
             name: "afr Hybrid 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         /*
                 {
@@ -10685,7 +10797,8 @@ var stations = {/*
         {
             name: "Family Life Radio 89.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "KRWG 93.5",
@@ -10738,7 +10851,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K205FV",
 			frequency: "88.9",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-40062.924;0.000;-6537.982",
 			radius: 0.47424776,
 			coverage: [0.1646666,0.19987831,0.28856454,0.51194301,0.74159201,0.87146318,0.9433325,0.97941195,1.0,0.99406444,0.94663734,0.88624998,0.83932686,0.77138582,0.60797292,0.27775367,0.11806016,0.06335562,0.05127576,0.05843124,0.07132648,0.09001307,0.11569518,0.13241276,0.14048033,0.14941856,0.14659671,0.13123352,0.11392644,0.08736987,0.07496041,0.0993264],
@@ -10774,7 +10887,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KCFR-FM",
 			frequency: "90.1",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-39913.072;0;-6141.646",
 			radius: 1.04944997,
 			coverage: {"local":[0.49775376,0.53682932,0.55217017,0.57643285,0.58738171,0.59314913,0.59784964,0.59582204,0.60072188,0.59896813,0.58384099,0.56665717,0.55835534,0.55519843,0.53495588,0.45717324,0.36946199,0.27333156,0.21289737,0.22402545,0.22800284,0.19559337,0.19053883,0.18870361,0.21717598,0.28344528,0.2369211,0.19054414,0.18847307,0.19483138,0.25071954,0.38698878],"distant":[0.67964807,0.71912247,0.73192221,0.75101503,0.76470529,0.7709845,0.77437206,0.77644017,0.77952694,0.77659885,0.76644694,0.74721247,0.73577284,0.73459648,0.71238534,0.62386353,0.52780623,0.4233251,0.34208496,0.36125403,0.37094808,0.32428822,0.31840594,0.31442491,0.35897123,0.44187143,0.37362394,0.31315845,0.3131322,0.31947549,0.40045481,0.57565251],"fringe":[0.88170641,0.92449696,0.93899647,0.96704056,0.98518064,0.99048466,0.99393057,0.99508004,1.0,0.99821652,0.98104049,0.95772349,0.94617652,0.9409515,0.91574318,0.81497753,0.70553878,0.61297946,0.54004744,0.55755351,0.56180355,0.5158098,0.51383325,0.51595404,0.55683274,0.62006777,0.5677323,0.51170777,0.51350387,0.51913959,0.59480333,0.76015114]},
@@ -10978,7 +11091,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K251CV",
 			frequency: "98.1",
-			format: ["talk","sports"],
+			format: ["religious","ccm"],
 			tower: "-40582.059;0.000;-5894.550",
 			radius: 0.54915139,
 			coverage: {"local":[0.21888579,0.18258285,0.17386082,0.23959346,0.33975493,0.39459927,0.40776185,0.39188537,0.33800462,0.20539954,0.10467186,0.07190795,0.05991608,0.05040807,0.04238135,0.04023475,0.04413905,0.05310596,0.06514178,0.07629525,0.09025165,0.09442748,0.09455977,0.093951,0.10644013,0.12077373,0.10477367,0.09165771,0.09153585,0.0915841,0.10596272,0.16287542],"distant":[0.39516871,0.31979758,0.30170402,0.41714386,0.58354507,0.66046689,0.67595099,0.65633815,0.58157398,0.37068738,0.20387063,0.14818373,0.12802878,0.10932523,0.10175596,0.10063915,0.10598854,0.11202366,0.11809101,0.14008423,0.15835166,0.16764919,0.17250961,0.17369025,0.18555178,0.20418356,0.1900909,0.17249015,0.17128246,0.1689526,0.20628238,0.32447843],"fringe":[0.65668118,0.55738982,0.53149658,0.69822724,0.90160826,0.97890484,1.0,0.97604821,0.89133286,0.60409875,0.352655,0.26665845,0.23716479,0.21011766,0.19676274,0.18514943,0.1907017,0.20063352,0.20847923,0.2499162,0.2854367,0.30236812,0.30867157,0.30810547,0.31982139,0.35130436,0.3382156,0.30849289,0.30786563,0.30489108,0.36631162,0.54563731]},
@@ -11434,7 +11547,7 @@ var stations = {/*
 			band: "AM",
 			callsign: "KMXA",
 			frequency: "1090",
-			format: ["talk","sports"],
+			format: ["talk","spanish_sports"],
 			tower: "-37455.598;0;-5515.306",
 			radius: 2.30583822,
 			coverage: {"local":[0.33203185,0.34714395,0.36561928,0.38203504,0.39413214,0.39913537,0.40472671,0.37009325,0.29822316,0.2526728,0.23103742,0.1957806,0.1500378,0.1524948,0.19361009,0.21664456,0.22583336,0.24172396,0.2656983,0.27905013,0.27853975,0.2892323,0.32581053,0.37553205,0.41401389,0.42192765,0.40791461,0.38514631,0.36193758,0.34298073,0.33021352,0.32602855],"distant":[0.54226478,0.56598806,0.59486398,0.61998507,0.63978142,0.66319508,0.68957515,0.62999905,0.50967277,0.43906,0.40998872,0.36151502,0.28668535,0.29126056,0.35695305,0.38834176,0.40238288,0.42169022,0.45256863,0.45962202,0.43789933,0.44474961,0.48755558,0.52994233,0.56115377,0.57348481,0.56945213,0.56333604,0.55599443,0.54540152,0.53504587,0.53247928],"fringe":[0.8035383,0.83117183,0.86111058,0.88792702,0.90721256,0.95105868,1.0,0.9200368,0.76407917,0.66790704,0.62972446,0.56307094,0.45870164,0.46261207,0.55314443,0.59853367,0.61578205,0.63954205,0.6619588,0.653354,0.62084603,0.6143907,0.65250004,0.70773745,0.75325933,0.77155064,0.76744886,0.75561923,0.74190228,0.74877562,0.78742584,0.80175832]},
@@ -11529,7 +11642,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Today's Country 105.7",
@@ -11561,7 +11675,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 91.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "KNLB 96.9",
@@ -11598,7 +11713,8 @@ var stations = {/*
         {
             name: "Radio By Grace 89.9",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         /*
                 {
@@ -12042,7 +12158,7 @@ var stations = {/*
             url: "https://streaming.live365.com/a52879",
             callsign: "KIHS",
             frequency: "105.5",
-            format: ["latin", "regional_mexican"],
+            format: ["religious", "religious_talk"],
             tower: "8995.302;0;-15424.447",
             radius: 0.64724333,
             coverage: {"local":[0.46964178,0.46425004,0.46876274,0.471935,0.47276179,0.47836123,0.48255776,0.49055948,0.48983751,0.49107133,0.48333309,0.46533856,0.46470904,0.4615435,0.46110538,0.45731549,0.44540059,0.44504449,0.44176463,0.44008441,0.4475678,0.43422288,0.43089113,0.43527358,0.4375834,0.44023651,0.44582438,0.45093604,0.45428701,0.46433445,0.45966266,0.46351399],"distant":[0.70536791,0.69900254,0.70356975,0.70707749,0.70974363,0.71404716,0.72321754,0.73010751,0.72864434,0.73184167,0.72361837,0.70223893,0.69937338,0.6952541,0.69558432,0.6907661,0.6785491,0.67609156,0.6718759,0.6704215,0.67942454,0.66835772,0.65950856,0.66723109,0.67157093,0.67421828,0.67976347,0.68437452,0.68537543,0.70016744,0.69415851,0.69639383],"fringe":[0.97145526,0.96929526,0.96830715,0.97477999,0.9765296,0.98104267,0.99128119,0.99846456,0.9987208,1.0,0.99270912,0.97117974,0.96818662,0.96380249,0.96332473,0.95986802,0.94434698,0.94676791,0.94162804,0.94015809,0.9486748,0.94086955,0.93260418,0.93598377,0.93749768,0.9410043,0.94579557,0.95261141,0.95525242,0.96824076,0.96385757,0.96379758]}
@@ -12287,7 +12403,7 @@ var stations = {/*
             url: "https://ice25.securenetsystems.net/KZRD",
             callsign: "KZRD",
             frequency: "93.9",
-            format: ["pop", "chr"],
+            format: ["latin", "spanish_chr"],
             tower: "-19164.781;0;5543.34",
             radius: 1.20644153,
             coverage: {"local":[0.54996608,0.55219148,0.55650481,0.5605932,0.56668003,0.57027274,0.57607881,0.57704955,0.57430164,0.5743215,0.57192419,0.57095323,0.56903057,0.56315745,0.55883795,0.55536372,0.55450849,0.55116206,0.55102834,0.54219006,0.53772281,0.53821783,0.53698911,0.53402388,0.52985647,0.52788543,0.53088952,0.53093062,0.53299724,0.53442496,0.53957832,0.54275115],"distant":[0.73845356,0.74127047,0.74281789,0.74753684,0.7534246,0.75597396,0.76325538,0.76736727,0.76801237,0.76628884,0.76476468,0.76427059,0.75971658,0.75127847,0.74722767,0.74652238,0.74306426,0.74034083,0.73741745,0.73261717,0.72815205,0.7281623,0.72445994,0.72155444,0.71766995,0.71822033,0.71944219,0.71775528,0.71947842,0.72167621,0.72618588,0.73325961],"fringe":[0.96880449,0.96990781,0.97293271,0.97772127,0.98342633,0.98859287,0.99512213,0.9978967,1.0,0.99882012,0.99555945,0.99191735,0.99162387,0.98297419,0.97662615,0.97279674,0.9719026,0.96857957,0.96515326,0.96041751,0.95350134,0.95023811,0.95250174,0.95015093,0.94233421,0.94177806,0.94294199,0.94287673,0.94418554,0.9468709,0.95241381,0.9588585]}
@@ -12678,12 +12794,14 @@ var stations = {/*
         {
             name: "CSN Radio 90.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "afr Talk 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Katy Country 93.1",
@@ -12698,7 +12816,8 @@ var stations = {/*
         {
             name: "Fuzión 94.5",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionDallas-website"
+            url: "https://emg.streamguys1.com/fuzionDallas-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Mix 96.1",
@@ -12783,7 +12902,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1440",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
     ],
     "eagle_nest": [
@@ -12961,12 +13081,14 @@ var stations = {/*
         {
             name: "BBN 88.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "afr Talk 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Covenant Network 91.3",
@@ -13100,12 +13222,14 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "SonLife Radio 89.7",
@@ -13165,7 +13289,8 @@ var stations = {/*
         {
             name: "BBN 105.1",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Rock 106",
@@ -13202,17 +13327,20 @@ var stations = {/*
         {
             name: "K-LOVE 89.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 89.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Radio Nueva Vida 89.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Manantial 91.1",
@@ -13418,7 +13546,8 @@ var stations = {/*
         {
             name: "TUDN Radio 1650",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
     ],
     "elko": [
@@ -13618,7 +13747,8 @@ var stations = {/*
         {
             name: "CSN Radio 91.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Pilgrim Radio 91.9",
@@ -13842,7 +13972,8 @@ var stations = {/*
         {
             name: "Air1 91.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "The Gospel Station 93.1",
@@ -13872,7 +14003,8 @@ var stations = {/*
         {
             name: "K-LOVE 105.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "106.3 The Wolf",
@@ -14024,17 +14156,20 @@ var stations = {/*
         {
             name: "K-LOVE 107.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 107.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 90s 107.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "Hope 107.9",
@@ -14121,7 +14256,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Power 96.3",
@@ -14156,7 +14292,8 @@ var stations = {/*
         {
             name: "CSN Radio 102.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "JPR Classics & News 102.5",
@@ -14171,22 +14308,26 @@ var stations = {/*
         {
             name: "Radio Bilingüe 103.3",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "K-LOVE 103.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 103.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 103.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "KHUM 104.7",
@@ -14236,7 +14377,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1400",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "The Jukebox 1480",
@@ -14325,7 +14467,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KSUT 89.7",
@@ -14442,12 +14585,14 @@ var stations = {/*
         {
             name: "afr Hybrid 90.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "CSN Radio 90.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "90.9 KLRC",
@@ -14472,7 +14617,8 @@ var stations = {/*
         {
             name: "BBN 91.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "The Ticket 92.1",
@@ -14668,12 +14814,14 @@ var stations = {/*
         {
             name: "Family Life Radio 89.9",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KNAU 91.7",
@@ -14861,7 +15009,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K220DE",
 			frequency: "91.9",
-			format: ["public_radio","ccm"],
+			format: ["religious","worship"],
 			tower: "-39786.437;0.000;-10555.334",
 			radius: 0.46414704,
 			coverage: [0.2397058,0.32155667,0.36238876,0.45908836,0.61840201,0.78218756,0.90049299,0.97217011,1.0,0.97641915,0.9068303,0.79872341,0.64661889,0.48415903,0.38074291,0.3574336,0.37513103,0.38507138,0.36459489,0.301556,0.22577508,0.17819985,0.15783024,0.1237498,0.10355094,0.10533559,0.13250128,0.17945108,0.12110286,0.12379772,0.19961176,0.19572515],
@@ -15017,7 +15165,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KRKA",
 			frequency: "103.9",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-39799.544;0;-11123.479",
 			radius: 1.46569779,
 			coverage: {"local":[0.48856793,0.49770923,0.51394133,0.54030503,0.55403097,0.56947323,0.58552584,0.59242683,0.58889903,0.58334419,0.56996824,0.5582481,0.54751079,0.54395344,0.5465641,0.51055632,0.46392936,0.40177529,0.33114239,0.23817378,0.17433646,0.16653575,0.19949037,0.18749276,0.15548947,0.17146813,0.2392728,0.35896375,0.42919398,0.45250196,0.45679463,0.47150698],"distant":[0.68798009,0.70010618,0.70862046,0.72622175,0.74041819,0.75906044,0.77696826,0.78280433,0.78129557,0.77539073,0.75922813,0.74841533,0.73715204,0.73140029,0.7317448,0.70162404,0.65389009,0.57530968,0.4905853,0.37482882,0.28919649,0.27885485,0.33490199,0.32223874,0.26701208,0.2846619,0.37126318,0.52444225,0.6083332,0.6377976,0.64407625,0.66402585],"fringe":[0.86732588,0.88050777,0.90086022,0.93490532,0.95163233,0.97166815,0.99350655,1.0,0.99689754,0.99241939,0.97530492,0.96158841,0.94713593,0.93897416,0.94045908,0.89621508,0.83922357,0.76179345,0.67370691,0.55526401,0.46063042,0.44792419,0.50971427,0.50114202,0.43755638,0.45646578,0.5533152,0.70993543,0.79533033,0.82256041,0.82987353,0.84686943]},
@@ -15289,7 +15437,8 @@ var stations = {/*
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Bott Radio 88.9",
@@ -15299,7 +15448,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KUAF 91.3",
@@ -15629,7 +15779,8 @@ var stations = {/*
         {
             name: "Air1 88.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KVPR 89.3",
@@ -15875,7 +16026,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "VCY America 89.3",
@@ -15891,7 +16043,8 @@ var stations = {/*
         {
             name: "CSN Radio 90.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KGLP 91.7",
@@ -15926,7 +16079,8 @@ var stations = {/*
         {
             name: "Relevant Radio 100.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "KTNN 101.5",
@@ -16458,7 +16612,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KNDH",
 			frequency: "96.7",
-			format: ["rock","aaa"],
+			format: ["public_radio","aaa"],
 			tower: "-49290.730;0.000;-5331.181",
 			radius: 0.91332646,
 			coverage: {"local":[0.33870306,0.35548012,0.39580447,0.42277599,0.43022914,0.42937568,0.43270285,0.43434088,0.43436948,0.43166433,0.41879953,0.39213493,0.36070613,0.3348422,0.30796464,0.26856902,0.22725758,0.20773964,0.21469343,0.23040344,0.2401463,0.25549817,0.27043396,0.28608706,0.29628587,0.31102479,0.31766316,0.3282996,0.35060367,0.3578627,0.34637727,0.33970428],"distant":[0.58975977,0.61631616,0.66909584,0.68900472,0.69536123,0.69976938,0.6994087,0.70308259,0.70389639,0.70028346,0.68957384,0.66564994,0.61984616,0.5786929,0.53641172,0.47388616,0.41118781,0.37148091,0.38453275,0.41640785,0.43739069,0.45358898,0.47467769,0.49990921,0.51709925,0.5437625,0.5551685,0.57593656,0.61322953,0.62115635,0.60312341,0.59099943],"fringe":[0.87805462,0.90742167,0.96070165,0.98433698,0.99341401,0.99516984,0.99499013,0.99940137,1.0,0.99733112,0.98338435,0.95896327,0.91320737,0.8672286,0.81730107,0.7444063,0.66627245,0.60858535,0.62558016,0.67808858,0.70761892,0.73048929,0.74710645,0.77233481,0.79691346,0.83004088,0.83992442,0.86320965,0.90306182,0.91226297,0.89217921,0.87877645]},
@@ -16613,7 +16767,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "560 KPQ",
@@ -16928,7 +17083,7 @@ var stations = {/*
 			url: "https://ais-sa1.streamon.fm/7729_48k.aac",
 			callsign: "K284DC",
 			frequency: "104.7",
-			format: ["religious", "ccm"],
+			format: ["religious","spanish_religious"],
 			tower: "-10526.530;0.000;-9356.588",
 			radius: 0.744224658991298,
 			coverage: {"local":[0.33275987,0.33931463,0.34032839,0.34043771,0.33264899,0.32956457,0.32540155,0.32881797,0.33344807,0.33603818,0.33427302,0.33386726,0.32973025,0.32701736,0.32061259,0.31367636,0.30878341,0.30224235,0.29345852,0.30019399,0.30358493,0.29808531,0.29923962,0.30556454,0.30853402,0.31081823,0.31105903,0.31494916,0.31941003,0.3218682,0.32602872,0.32853331],"distant":[0.5907729,0.59599228,0.59870903,0.60118686,0.58787584,0.5800014,0.57728144,0.58106747,0.58770228,0.58660046,0.58816862,0.58627143,0.58174121,0.57892045,0.56842889,0.55685959,0.54737235,0.54421909,0.53212869,0.53440743,0.53920282,0.53214602,0.53899266,0.54832372,0.55163351,0.55589956,0.55639675,0.56021495,0.56458192,0.57490396,0.58415152,0.58321568],"fringe":[0.98249998,0.9913745,0.99873891,1.0,0.97860502,0.96369224,0.96608843,0.96694695,0.97497025,0.9781289,0.97621919,0.9715931,0.96860978,0.95991929,0.94442528,0.92818982,0.91807298,0.90700157,0.87387523,0.8929121,0.8991431,0.89786366,0.89788394,0.91395471,0.92453353,0.92772476,0.92585518,0.93923991,0.94895018,0.95773281,0.97052302,0.97605594]},
@@ -16985,7 +17140,7 @@ var stations = {/*
             band: "AM",
             callsign: "KMMJ",
             frequency: "750",
-            format: ["religious", "ccm"],
+            format: ["religious","spanish_religious"],
             tower: "-8458.823;0;-12085.325",
             radius: 4.69603867,
             coverage: {"local":[0.24468636,0.23112258,0.20062136,0.14217486,0.10572892,0.08708275,0.10510334,0.13791847,0.15311365,0.13895201,0.11095408,0.10837535,0.14759601,0.20828148,0.24761415,0.27705514,0.29821733,0.31076692,0.36438467,0.41269827,0.4364785,0.44673303,0.45303266,0.45385318,0.45138934,0.41214474,0.37144699,0.32040548,0.27104833,0.22993918,0.22360483,0.21553421],"distant":[0.47789296,0.43679489,0.3735417,0.29961464,0.22178148,0.19429721,0.22900638,0.29651732,0.32982064,0.32784588,0.27223057,0.25887379,0.31279623,0.38104045,0.4351645,0.48922456,0.54121193,0.58040175,0.66981795,0.72825881,0.74510493,0.72635233,0.71132709,0.70231862,0.64712026,0.53622421,0.48696017,0.44361645,0.38972084,0.35857556,0.34791038,0.37734657],"fringe":[0.77013648,0.70226183,0.62037675,0.48953048,0.38304415,0.34241241,0.39087659,0.46869573,0.52259302,0.53123095,0.4426267,0.41020335,0.50676051,0.63428573,0.72678938,0.79280492,0.84581426,0.88995959,0.99300735,1.0,0.9892137,0.96789785,0.95552596,0.94437,0.83389149,0.69935831,0.64830366,0.59447237,0.56317941,0.54985134,0.56904419,0.64478814]}
@@ -17059,7 +17214,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KPRN",
 			frequency: "89.5",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-55519.222;0;-4262.79",
 			radius: 1.30813871,
 			coverage: {"local":[0.56798608,0.57864407,0.58437106,0.58724404,0.58789122,0.58992726,0.58774509,0.58905581,0.5871689,0.57555569,0.53537542,0.47977584,0.43300539,0.37831216,0.31616287,0.22548701,0.1727483,0.19060491,0.22452778,0.24286691,0.26915057,0.30456134,0.33375571,0.33807776,0.35076265,0.35985081,0.37910035,0.39836926,0.42980724,0.4900079,0.53858372,0.55644526],"distant":[0.75144287,0.76639763,0.77249045,0.77333529,0.77570181,0.77690751,0.77597009,0.77540009,0.77058086,0.7590222,0.72414132,0.67441823,0.61320673,0.54296471,0.47452537,0.36561699,0.28207486,0.30754781,0.3650914,0.38890333,0.41688359,0.452328,0.48827375,0.49350737,0.50928612,0.5209226,0.5431244,0.56776831,0.60410655,0.68010368,0.72068178,0.73847895],"fringe":[0.96890516,0.98353789,0.99351073,0.99722236,1.0,0.99861522,0.9979021,0.99707275,0.99372001,0.9779061,0.92630837,0.84711261,0.79242572,0.72304717,0.65189635,0.54045588,0.45103209,0.4781471,0.53517309,0.5616965,0.59563433,0.63229549,0.66735639,0.67403657,0.68726145,0.69788926,0.71904345,0.74485838,0.78342488,0.85812667,0.92509739,0.9480114]},
@@ -17167,7 +17322,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KAAI",
 			frequency: "98.5",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-55525.57;0;-4262.109",
 			radius: 0.97983577,
 			coverage: {"local":[0.49698176,0.51001434,0.51814355,0.52160266,0.5247903,0.52595799,0.52362731,0.52013227,0.51481767,0.49939115,0.44920619,0.38172876,0.33540191,0.28218829,0.21949954,0.14665472,0.11460306,0.12339747,0.14672307,0.16150065,0.18407357,0.21727647,0.24561322,0.25004978,0.26176214,0.27236816,0.28979261,0.30512544,0.33288816,0.39378043,0.45976273,0.48440779],"distant":[0.72468806,0.7394303,0.7493584,0.75009688,0.75114069,0.75383556,0.7510795,0.75203494,0.74690899,0.73190278,0.67927424,0.60696951,0.5405382,0.46643854,0.38607889,0.2707318,0.20236485,0.21745785,0.26141415,0.28854195,0.32388744,0.37039795,0.41487521,0.4227451,0.43984685,0.45328064,0.47680824,0.50006269,0.53519224,0.61897088,0.68702428,0.71103096],"fringe":[0.96800638,0.9837339,0.99336172,0.99763726,0.99864922,1.0,0.99875114,0.99739707,0.99228378,0.97602343,0.92321466,0.85298394,0.7707514,0.67480493,0.58405066,0.43935807,0.34105228,0.35958829,0.4267586,0.46763008,0.5149539,0.56490066,0.6157642,0.62274992,0.64384701,0.66335206,0.6872427,0.7169037,0.76510137,0.85850214,0.92260002,0.95139229]},
@@ -17358,7 +17513,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Salt & Light Radio 89.5",
@@ -17383,7 +17539,8 @@ var stations = {/*
         {
             name: "Effect Radio 91.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Big Country 92.7",
@@ -17444,7 +17601,8 @@ var stations = {/*
         {
             name: "Air1 94.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "WRUL 97.3",
@@ -17725,7 +17883,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Q-Lite 99.5",
@@ -17920,7 +18079,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KHOZ 94.9",
@@ -18592,7 +18752,8 @@ var stations = {/*
         {
             name: "afr Talk 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "News 88.7",
@@ -18727,7 +18888,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "ESPN 97.5",
@@ -18817,7 +18979,8 @@ var stations = {/*
         {
             name: "TUDN Radio 102.9-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "103.5 HUM FM",
@@ -18827,7 +18990,8 @@ var stations = {/*
         {
             name: "Air1 103.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "104.1 KRBE",
@@ -18934,7 +19098,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1110",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "BIN 1320",
@@ -18951,7 +19116,8 @@ var stations = {/*
         {
             name: "afr Talk 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Radio Aleluya 89.7",
@@ -18977,7 +19143,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Radio Amistad 98.7",
@@ -19271,7 +19438,8 @@ var stations = {/*
         {
             name: "afr Talk 90.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KDQN 92.1",
@@ -19308,7 +19476,8 @@ var stations = {/*
         {
             name: "Air1 90.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KISU FM 91",
@@ -19490,7 +19659,8 @@ var stations = {/*
         {
             name: "CSN Radio 88.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KCRW 89.3",
@@ -19515,7 +19685,8 @@ var stations = {/*
         {
             name: "Air1 91.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KGAY 92.1",
@@ -19632,17 +19803,20 @@ var stations = {/*
         {
             name: "K-LOVE 105.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 105.1-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 105.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "BIG 106",
@@ -20035,7 +20209,8 @@ var stations = {/*
         {
             name: "CSN Radio 91.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "94.5 KJDY",
@@ -20062,7 +20237,8 @@ var stations = {/*
         {
             name: "afr Talk 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Radio 74 89.7",
@@ -20077,12 +20253,14 @@ var stations = {/*
         {
             name: "afr Hybrid 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "CSN Radio 91.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "91.9 KASU",
@@ -20102,7 +20280,8 @@ var stations = {/*
         {
             name: "Air1 93.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "94.1 BOB FM",
@@ -20112,7 +20291,8 @@ var stations = {/*
         {
             name: "K-LOVE 2000s 94.7",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "95.3 The Ticket",
@@ -20132,7 +20312,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "98.5 The Outlaw",
@@ -21129,7 +21310,8 @@ var stations = {/*
         {
             name: "CSN Radio 90.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "91.1 WBEK",
@@ -21159,7 +21341,8 @@ var stations = {/*
         {
             name: "BBN 99.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WKAN 101.3",
@@ -21242,7 +21425,7 @@ var stations = {/*
 			band: "HD",
 			callsign: "KJNW",
 			frequency: "88.5",
-			format: ["religious","christian_chr"],
+			format: ["religious","christian_talk"],
 			tower: "6618.831;0;-466.944",
 			radius: 0.92180329,
 			coverage: {"local":[0.5662013,0.57431696,0.56890479,0.53985223,0.50152153,0.45489075,0.42007534,0.4006356,0.38092514,0.37038266,0.36974918,0.37470892,0.37620465,0.40828779,0.44419762,0.47565889,0.50411826,0.53301133,0.55180047,0.54916394,0.5409265,0.54009076,0.53960464,0.53350278,0.54628971,0.54870965,0.55323649,0.55904308,0.56627692,0.55819454,0.56226141,0.56338481],"distant":[0.75734912,0.76595803,0.76533956,0.73078376,0.68800834,0.63706789,0.5997884,0.57612403,0.5550605,0.54177186,0.54515938,0.5490154,0.55078298,0.58612855,0.62414502,0.65724065,0.69319898,0.72419159,0.74338534,0.74481446,0.73391535,0.72609507,0.72890999,0.72398527,0.73782258,0.7402218,0.74460112,0.74920332,0.75542918,0.74840725,0.75385366,0.7586918],"fringe":[0.99382999,1.0,0.99479687,0.95463989,0.90555252,0.84131154,0.79481291,0.77172212,0.74556194,0.73338251,0.73735971,0.73720095,0.74148293,0.78198195,0.82103947,0.8660847,0.89762142,0.95119677,0.97635356,0.97368147,0.96296082,0.95645088,0.96105725,0.9521803,0.96831129,0.97237536,0.97313747,0.98399994,0.9910675,0.98292493,0.98810003,0.99121792]},
@@ -21506,7 +21689,7 @@ var stations = {/*
 			band: "HD",
 			callsign: "KZPT",
 			frequency: "99.7",
-			format: ["pop","hot_ac"],
+			format: ["dance_electronic","dance"],
 			tower: "6498.53;0;-177.844",
 			radius: 0.99893408,
 			coverage: {"local":[0.59755768,0.59867864,0.58746425,0.56806254,0.56474868,0.56909652,0.57260372,0.57790235,0.58161989,0.57944689,0.57756182,0.57880524,0.57388077,0.57452022,0.57347253,0.57340187,0.5644857,0.5733462,0.58588706,0.58399658,0.58162951,0.57318488,0.56272407,0.56300571,0.56513943,0.56789055,0.57801257,0.58415288,0.58027426,0.58233134,0.58606779,0.58779634],"distant":[0.77386246,0.77439334,0.76708423,0.74789692,0.7461793,0.74599355,0.75221648,0.75464312,0.75836833,0.75626698,0.75520827,0.75562038,0.75272641,0.75502572,0.75200998,0.75227703,0.74666328,0.75009706,0.76646421,0.7635862,0.76023927,0.75089613,0.74056841,0.74168039,0.74188823,0.74462274,0.75469891,0.76115143,0.76084484,0.76091983,0.76487503,0.76900717],"fringe":[0.99769225,1.0,0.99056489,0.96846761,0.96611196,0.96875212,0.97335148,0.97881046,0.98342355,0.98051597,0.98105034,0.97851036,0.97553311,0.97784518,0.97592668,0.97914675,0.98250982,0.98602489,0.9894902,0.99022033,0.98317279,0.97471008,0.96259271,0.96488385,0.96668062,0.96588899,0.97967352,0.98471318,0.98077279,0.98359297,0.98695788,0.99074894]},
@@ -21722,7 +21905,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KMJK",
 			frequency: "107.3",
-			format: ["pop","chr"],
+			format: ["pop","adult_hits"],
 			tower: "8314.158;0;-617.361",
 			radius: 0.96381725,
 			coverage: {"local":[0.5832912,0.57713265,0.58281993,0.58844268,0.58410126,0.57813005,0.57593966,0.58048477,0.57673031,0.5764288,0.56683862,0.56905974,0.57330701,0.57779418,0.57541528,0.56553132,0.56465179,0.56591359,0.56800483,0.56864857,0.5718945,0.56328541,0.55422241,0.55133039,0.55998133,0.56674091,0.56683893,0.56869676,0.57052017,0.5796111,0.58450157,0.5860819],"distant":[0.76640166,0.76305761,0.76759385,0.77154866,0.76912113,0.76246521,0.76172884,0.76233481,0.76580545,0.7609899,0.75437386,0.75713567,0.75828621,0.76173463,0.75955077,0.75143568,0.74969532,0.75183535,0.75366703,0.75979535,0.75931854,0.75152956,0.74068387,0.73835532,0.74344773,0.75323086,0.75389162,0.75326461,0.75828735,0.76282565,0.77020074,0.76884386],"fringe":[0.99873938,0.99153915,0.99590662,0.99842812,1.0,0.99297897,0.98862389,0.99122735,0.99494264,0.99156358,0.9808971,0.98285736,0.98622124,0.99260894,0.99199546,0.98908777,0.98632821,0.98372164,0.98209028,0.98742819,0.9879058,0.97888428,0.96517478,0.96311451,0.9699434,0.97798588,0.98089769,0.98285847,0.98646468,0.99509311,0.9974996,0.99972498]},
@@ -22019,7 +22202,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Amistad 91.1",
@@ -22054,7 +22238,8 @@ var stations = {/*
         {
             name: "K-LOVE 99.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         /*
                 {
@@ -22189,7 +22374,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         /*
                 {
@@ -22226,7 +22412,8 @@ var stations = {/*
         {
             name: "Air1 101.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "SOS Radio 103.1",
@@ -22522,7 +22709,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K269BP",
 			frequency: "101.7",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-70396.091;0;-3655.591",
 			radius: 0.8073246,
 			coverage: {"local":[0.19424712,0.19211949,0.18409932,0.16655312,0.15458838,0.15733486,0.16816579,0.18178233,0.20666948,0.23294145,0.24510109,0.25686349,0.26084478,0.26540204,0.2515803,0.23183178,0.22360441,0.22133545,0.25141389,0.2757753,0.29028213,0.30743199,0.31134913,0.30452141,0.29419996,0.27734457,0.26133671,0.24039023,0.22173864,0.20889551,0.2007046,0.19633847],"distant":[0.51976265,0.47739998,0.42435734,0.34899926,0.29749601,0.29689571,0.32610482,0.35470137,0.40610188,0.45596237,0.47194352,0.48989182,0.49124881,0.4973116,0.46653189,0.43143451,0.41422701,0.40449156,0.46579435,0.51895608,0.56543381,0.61565709,0.63265721,0.62861754,0.62179469,0.60559784,0.60441435,0.59299075,0.57315275,0.55580512,0.54318243,0.533963],"fringe":[0.87032259,0.83362757,0.76337185,0.62075628,0.52626195,0.52410205,0.57504874,0.623228,0.71010638,0.79581977,0.81831232,0.84291721,0.84337921,0.85092076,0.80282884,0.74322675,0.71324568,0.69802693,0.80025786,0.87803394,0.92974938,0.98207891,1.0,0.99572449,0.98817378,0.97052747,0.9661329,0.95072411,0.92655717,0.90635706,0.8917713,0.8821587]},
@@ -22679,7 +22866,8 @@ var stations = {/*
         {
             name: "afr Talk 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Christ Our King Radio 90.5",
@@ -22689,7 +22877,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WHFG 91.3",
@@ -22714,7 +22903,8 @@ var stations = {/*
         {
             name: "BBN 93.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "94.5 KSMB",
@@ -22881,12 +23071,14 @@ var stations = {/*
         {
             name: "K-LOVE 89.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "afr Talk 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Radio Maria 91.1",
@@ -22921,7 +23113,8 @@ var stations = {/*
         {
             name: "Air1 97.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "97.9 Nash Icon",
@@ -23060,7 +23253,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "OPB 91.1",
@@ -23070,7 +23264,8 @@ var stations = {/*
         {
             name: "CSN Radio 91.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "92.5 KLAD",
@@ -23192,7 +23387,7 @@ var stations = {/*
             url: "https://stream.ktlf.radio/radio/8000/theLight",
             callsign: "KTDX",
             frequency: "89.3",
-            format: ["religious", "ccm"],
+            format: ["religious","worship"],
             tower: "-40903.827;0.000;-17610.403",
             radius: 0.88689158,
             coverage: {"local":[0.30878148,0.29736873,0.30954537,0.33199948,0.34524724,0.3475802,0.35167582,0.35425268,0.35058818,0.34731855,0.34256893,0.33399852,0.32013062,0.29264526,0.25475246,0.23361153,0.22937501,0.24099179,0.28625013,0.3400998,0.36946108,0.38883386,0.40500313,0.42336753,0.4314951,0.42889569,0.41144351,0.39271168,0.38466671,0.37187787,0.36057207,0.33925919],"distant":[0.52564943,0.50875236,0.52487327,0.55814299,0.58147809,0.58626492,0.58987895,0.59298697,0.58889043,0.58245973,0.57391274,0.56259553,0.54023203,0.50342778,0.45242065,0.41499746,0.4057546,0.42649955,0.49355768,0.57190629,0.61950919,0.64884705,0.66911902,0.68760811,0.69463366,0.69147048,0.67523452,0.65472923,0.64181315,0.61894401,0.60101452,0.57137853],"fringe":[0.7917154,0.77139282,0.79111109,0.83406205,0.86406456,0.86730669,0.87092482,0.87414784,0.87199205,0.86427392,0.85224363,0.83885574,0.81008638,0.76689682,0.71200996,0.66922729,0.65360766,0.67887626,0.75944437,0.84957496,0.9124601,0.95116633,0.97647658,0.99430071,1.0,0.99901796,0.98077421,0.9579338,0.94187277,0.91205356,0.88919772,0.84964954]}
@@ -23569,7 +23764,8 @@ var stations = {/*
         {
             name: "K-LOVE 87.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Power 88",
@@ -23594,7 +23790,8 @@ var stations = {/*
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Classical 89.7",
@@ -23609,7 +23806,8 @@ var stations = {/*
         {
             name: "Fuzión 90.9",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionLAS-website"
+            url: "https://emg.streamguys1.com/fuzionLAS-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "91.5 Jazz & More",
@@ -23880,7 +24078,8 @@ var stations = {/*
         {
             name: "TUDN Radio 870",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "Raider Nation Radio 920",
@@ -23890,7 +24089,8 @@ var stations = {/*
         {
             name: "Relevant Radio 970",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "KKVV 1060",
@@ -23915,7 +24115,8 @@ var stations = {/*
         {
             name: "1460 Deportes Vegas",
             logo: "stations/images-america/las_vegas/1460 Deportes Vegas.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/KENOAMAAC_SC",
+            format: ["talk","spanish_sports"]
         },
     ],
     "lawton": [
@@ -23932,12 +24133,14 @@ var stations = {/*
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "afr Talk 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KJRF 91.1",
@@ -24007,7 +24210,8 @@ var stations = {/*
         {
             name: "Air1 100.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KLAW 101",
@@ -24147,7 +24351,8 @@ var stations = {/*
         {
             name: "Effect Radio 99.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Moody Radio 100.9",
@@ -24574,7 +24779,8 @@ var stations = {/*
         {
             name: "afr Talk 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Power 92 Jams",
@@ -24614,7 +24820,8 @@ var stations = {/*
         {
             name: "Air1 96.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "96.5 The Box",
@@ -24624,17 +24831,20 @@ var stations = {/*
         {
             name: "K-LOVE 96.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 96.9-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 96.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "La Raza 97.7",
@@ -24735,7 +24945,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUEU",
 			frequency: "90.5",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-68840.593;0;-15463.141",
 			radius: 1.12997624,
 			coverage: {"local":[0.40946767,0.43425534,0.44438932,0.43563521,0.43692942,0.42760403,0.4000555,0.34801486,0.34344845,0.30219389,0.2901951,0.33978471,0.34761888,0.25261369,0.16972083,0.14076725,0.15347887,0.17250417,0.16746061,0.27042462,0.36893287,0.36248538,0.36937491,0.36228573,0.3394124,0.27406088,0.18934862,0.14240962,0.1298618,0.12981085,0.13544033,0.23942945],"distant":[0.66789739,0.70145985,0.70855741,0.70499199,0.7032739,0.69726449,0.64463169,0.56185381,0.55348529,0.49653565,0.50686821,0.56166695,0.56787329,0.44484505,0.29987719,0.24542033,0.26911056,0.30797727,0.28815096,0.48421838,0.60015371,0.5890261,0.60312774,0.59352088,0.56050984,0.4678952,0.34981829,0.24595946,0.22995193,0.23146906,0.24030795,0.44213411],"fringe":[0.94849304,0.99300757,1.0,0.99488672,0.99422624,0.97947887,0.92666822,0.82370859,0.81247489,0.74525948,0.76191939,0.80695093,0.82662829,0.68867777,0.50912962,0.40843946,0.42869432,0.51280609,0.45875423,0.72763625,0.85987336,0.84936753,0.86849209,0.85409521,0.82556904,0.71902378,0.56724025,0.41590234,0.39978035,0.40123314,0.4165267,0.71634702]},
@@ -24924,7 +25134,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "94.5 KLYK",
@@ -25041,7 +25252,8 @@ var stations = {/*
         {
             name: "The Current 89.3-HD2",
             logo: "stations/images-america/0_general_logos/The Current.png",
-            url: "https://current.stream.publicradio.org/current.aac"
+            url: "https://current.stream.publicradio.org/current.aac",
+            format: ["public_radio","aaa"]
         },
         {
             name: "KCRW 89.9",
@@ -25131,7 +25343,8 @@ var stations = {/*
         {
             name: "Air1 95.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Mega 96.3",
@@ -25191,17 +25404,20 @@ var stations = {/*
         {
             name: "K-LOVE 100.3",
             logo: "stations/images-america/los_angeles/K-LOVE 100.3.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 100.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Radio Nueva Vida 100.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "K-EARTH 101",
@@ -25231,7 +25447,8 @@ var stations = {/*
         {
             name: "TUDN Radio 101.9-HD3",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "102.3 KJLH",
@@ -25493,17 +25710,20 @@ var stations = {/*
         {
             name: "Family Life Radio 90.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 91.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "92.3 The Hub",
@@ -25675,7 +25895,8 @@ var stations = {/*
         {
             name: "TUDN Radio 1460",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
     ],
     "ludlow": [
@@ -25749,7 +25970,8 @@ var stations = {/*
         {
             name: "Fuzión 97.7",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzion"
+            url: "https://emg.streamguys1.com/fuzion",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "SonLife Radio 99.3",
@@ -25948,7 +26170,8 @@ var stations = {/*
         {
             name: "afr Hybrid 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KALP 92.7",
@@ -25992,7 +26215,8 @@ var stations = {/*
         {
             name: "afr Talk 90.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
 			name: "91.9 WSIU",
@@ -26516,7 +26740,8 @@ var stations = {/*
         {
             name: "Relevant Radio 88.1",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Manantial 88.3",
@@ -26708,7 +26933,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Oasis Radio 91.1",
@@ -26779,7 +27005,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "105.1 KTMC",
@@ -26882,14 +27109,16 @@ var stations = {/*
         {
             name: "Effect Radio 99.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
     ],
     "mccamey": [
         {
             name: "afr Hybrid 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Mix 97.9",
@@ -27076,7 +27305,8 @@ var stations = {/*
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "JPR Rhythm & News 89.1",
@@ -27166,17 +27396,20 @@ var stations = {/*
         {
             name: "K-LOVE 101.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 101.1-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 101.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Lite 102",
@@ -27248,17 +27481,20 @@ var stations = {/*
         {
             name: "Family Life Radio 88.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "afr Hybrid 89.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KTPR 89.9",
@@ -27268,7 +27504,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "GRN 90.9",
@@ -27283,7 +27520,8 @@ var stations = {/*
         {
             name: "CSN Radio 91.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "LoneStar 92.3",
@@ -27378,7 +27616,8 @@ var stations = {/*
         {
             name: "Family Life Radio 920",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "http://icecast.streammyflr.org/FLRstream"
+            url: "http://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "KWEL 1070",
@@ -28049,7 +28288,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K201CW",
 			frequency: "88.1",
-			format: ["religious","christian_talk"],
+			format: ["religious","christian_radio"],
 			tower: "-58905.208;0.000;-2118.369",
 			radius: 0.493450262136076,
 			coverage: {"local":[0.17260978,0.17169083,0.17141372,0.17086044,0.16992595,0.16838842,0.16579152,0.16208075,0.15720703,0.15147314,0.1449587,0.13884284,0.13368599,0.12992235,0.12736116,0.12594264,0.1253227,0.1252791,0.12557803,0.12659269,0.12853081,0.13340389,0.14639797,0.16708718,0.19313274,0.17785441,0.1596371,0.16396857,0.19036661,0.33307493,0.30165518,0.2239803],"distant":[0.30812087,0.30657002,0.30609841,0.30517748,0.30361819,0.30100037,0.2965394,0.29023962,0.28206333,0.2722071,0.26100291,0.25019782,0.24111214,0.23441454,0.22981952,0.22731607,0.22623258,0.22615794,0.22668098,0.22846401,0.23191138,0.24058491,0.26339405,0.29893758,0.3424665,0.3173514,0.28617911,0.29340449,0.34064768,0.59884772,0.54146255,0.39900329],"fringe":[0.5517507,0.54903296,0.54821206,0.54662138,0.54393064,0.53932971,0.53139867,0.52019697,0.50541323,0.48742395,0.46671213,0.44648283,0.4292786,0.41646059,0.40769999,0.40286306,0.40073928,0.4005761,0.40160816,0.40506549,0.41167735,0.42789348,0.46982973,0.53357023,0.60957752,0.56746056,0.51287348,0.52585661,0.60412254,1.0,0.91461127,0.69643365]},
@@ -28097,7 +28336,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K215EL",
 			frequency: "90.9",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-58461.993;0.000;-1985.353",
 			radius: 0.335015676281646,
 			coverage: {"local":[0.29007729,0.29189403,0.29097139,0.29637805,0.29608484,0.2952938,0.29753839,0.29940552,0.29845437,0.3019774,0.29796227,0.30092529,0.29820306,0.29808444,0.29883416,0.30009769,0.29782842,0.3014335,0.2970981,0.29901483,0.29608747,0.29529592,0.29671717,0.29507664,0.29069028,0.29243765,0.29060212,0.29522309,0.3020975,0.30740127,0.3131882,0.291868],"distant":[0.52479239,0.524845,0.52497383,0.52598052,0.52884123,0.53068844,0.53575262,0.53412797,0.53199658,0.5305877,0.53439703,0.5346384,0.53529486,0.53420957,0.53490934,0.5334936,0.53218992,0.52914982,0.53232736,0.53424615,0.53412067,0.52905977,0.52839944,0.52587336,0.52590386,0.52584998,0.52571987,0.52638909,0.53133178,0.54716984,0.56065794,0.52482395],"fringe":[0.94046408,0.94055827,0.94202753,0.9463214,0.94546594,0.94311709,0.94740165,0.94802185,0.94855296,0.94668431,0.94993109,0.95135078,0.94922088,0.95059059,0.94852927,0.95009125,0.94657869,0.94488645,0.9481644,0.94898974,0.94673396,0.94710935,0.94741935,0.94635687,0.94246282,0.94236487,0.94170173,0.93962996,0.94134807,0.9677227,1.0,0.94182795]},
@@ -28300,12 +28539,14 @@ var stations = {/*
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 90.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Air1 Música de Adoración 90.5-HD3",
@@ -28315,7 +28556,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 90.5-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "CapRadio News 91.3",
@@ -28390,7 +28632,8 @@ var stations = {/*
         {
             name: "Relevant Radio 97.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac",
+            format: ["religious","religious_talk"]
         },
         {
             name: "98.3 KWIN",
@@ -28400,7 +28643,8 @@ var stations = {/*
         {
             name: "Air1 99.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "La Tricolor 100.9",
@@ -28426,7 +28670,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 102.9",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Kat Country 103",
@@ -28506,7 +28751,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1230",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "FOX Sports 1280",
@@ -28533,12 +28779,14 @@ var stations = {/*
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Old School 93.5",
@@ -28553,7 +28801,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "100.1 The Quake",
@@ -28638,7 +28887,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WRAM 1330",
@@ -28660,7 +28910,8 @@ var stations = {/*
         {
             name: "BBN 89.5",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "90.3 KEDM",
@@ -28675,7 +28926,8 @@ var stations = {/*
         {
             name: "afr Talk 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "The Ranch 92.3",
@@ -28690,7 +28942,8 @@ var stations = {/*
         {
             name: "K-LOVE 93.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         /*
                 {
@@ -28828,7 +29081,8 @@ var stations = {/*
         {
             name: "K-LOVE 93.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "94.3 K232FZ",
@@ -28853,7 +29107,8 @@ var stations = {/*
         {
             name: "Air1 97.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "101.1 K266BD",
@@ -28868,7 +29123,8 @@ var stations = {/*
         {
             name: "Relevant Radio 102.1",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "103.9 KDFG",
@@ -28900,7 +29156,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUHU",
 			frequency: "88.1",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-59633.592;0;2098.975",
 			radius: 1.30737235468354,
 			coverage: {"local":[0.42861387,0.42329716,0.4473549,0.45932602,0.46600434,0.47224825,0.47549278,0.48186178,0.48765687,0.49050248,0.48960739,0.48891661,0.48690557,0.48408765,0.47824206,0.47684731,0.4752594,0.47530782,0.47312043,0.46546548,0.46526126,0.47001952,0.45266065,0.40456302,0.36602367,0.3728998,0.39501634,0.40115733,0.38882868,0.36311399,0.37525075,0.41193963],"distant":[0.67481582,0.67689451,0.68708801,0.70046839,0.70645649,0.71379057,0.72054336,0.72725877,0.73149365,0.7345802,0.73467797,0.73495453,0.73283969,0.72919182,0.7260845,0.71894259,0.71808976,0.72185803,0.71556724,0.70485267,0.70499231,0.71165003,0.69867388,0.65139352,0.60676301,0.61368367,0.64683321,0.65417373,0.63660071,0.60423056,0.6183377,0.66148111],"fringe":[0.93862075,0.94207856,0.94919541,0.96315112,0.97033778,0.97594632,0.98200157,0.98953697,0.99565415,0.99767219,0.99954688,1.0,0.99676541,0.9935274,0.98750345,0.98128341,0.97890111,0.97666746,0.97456568,0.97135863,0.96893873,0.97702567,0.9634792,0.91500908,0.86702033,0.87565925,0.90621622,0.91371383,0.89670544,0.86405619,0.87943406,0.91981919]},
@@ -29081,7 +29337,8 @@ var stations = {/*
         {
             name: "CSN Radio 88.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "88.9 WVSI",
@@ -29096,7 +29353,8 @@ var stations = {/*
         {
             name: "afr Talk 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "90.9 the vine",
@@ -29136,7 +29394,8 @@ var stations = {/*
         {
             name: "BBN 630",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WMIX 94",
@@ -29148,7 +29407,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KCMH 91.5",
@@ -29231,7 +29491,8 @@ var stations = {/*
         {
             name: "afr Talk 89.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Radio Maria 89.7",
@@ -29266,7 +29527,8 @@ var stations = {/*
         {
             name: "K-LOVE 106.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KWLV 107.1",
@@ -29303,7 +29565,8 @@ var stations = {/*
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KNLB 91.3",
@@ -29313,7 +29576,8 @@ var stations = {/*
         {
             name: "CSN Radio 91.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "3ABN 92.5",
@@ -29452,7 +29716,8 @@ var stations = {/*
         {
             name: "Radio By Grace 89.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "89.9 WWNO",
@@ -29482,7 +29747,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WTUL 91.5",
@@ -29657,7 +29923,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WVOG 600",
@@ -29744,7 +30011,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KLCC 90.5",
@@ -30297,7 +30565,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "SonLife Radio 89.3",
@@ -30307,7 +30576,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KUCO 90.1",
@@ -30327,12 +30597,14 @@ var stations = {/*
         {
             name: "Air1 90.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "afr Talk 91.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KOSU 91.7",
@@ -30442,7 +30714,8 @@ var stations = {/*
         {
             name: "CSN Radio 101.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            url: "http://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "The Gospel Station 101.5",
@@ -30631,7 +30904,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "100.3 Olympia's Classic Rock",
@@ -31212,7 +31486,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Sunny FM 101.9",
@@ -31678,7 +31953,7 @@ var stations = {/*
             url: "https://streaming.live365.com/a52879",
             callsign: "KIHC",
             frequency: "105.3",
-            format: ["latin", "regional_mexican"],
+            format: ["religious", "religious_talk"],
             tower: "12663.229;0;-10822.675",
             radius: 1.3760788,
             coverage: {"local":[0.51640221,0.51699415,0.52109112,0.52733002,0.52535056,0.5231819,0.51987472,0.51649015,0.518501,0.52500863,0.53234233,0.54101376,0.53325577,0.52218469,0.5173101,0.51592474,0.51334788,0.50995328,0.51205668,0.51701901,0.51250641,0.50723711,0.50759223,0.50862296,0.50993341,0.51515071,0.50922403,0.50667535,0.50358137,0.50360738,0.50944249,0.51279518],"distant":[0.73261961,0.73359087,0.73921749,0.74315509,0.73903785,0.73987131,0.7368161,0.73034125,0.73509758,0.74175032,0.749936,0.75813409,0.74944367,0.74181548,0.7329176,0.73420062,0.73161195,0.72769747,0.7269524,0.73125587,0.72793151,0.72366666,0.72374313,0.72336409,0.72598607,0.72882937,0.72467113,0.72167707,0.71708272,0.71884572,0.72480192,0.72902325],"fringe":[0.9677971,0.96515642,0.97153674,0.97903774,0.97408176,0.9742799,0.96815954,0.96480251,0.97138382,0.97762875,0.98536479,1.0,0.98644426,0.97388233,0.9666668,0.96337415,0.96113953,0.95978722,0.96221502,0.96422031,0.96318519,0.95995494,0.95591216,0.95778751,0.9622678,0.96472705,0.95834149,0.95405018,0.95227678,0.95449571,0.95857705,0.96312652]}
@@ -31972,7 +32247,8 @@ var stations = {/*
         {
             name: "Effect Radio 88.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "88.9 KETR",
@@ -31997,7 +32273,8 @@ var stations = {/*
         {
             name: "Fuzión 94.5",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzionDallas-website"
+            url: "https://emg.streamguys1.com/fuzionDallas-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "K95.5",
@@ -32110,7 +32387,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "American Cowboy Radio 97.3",
@@ -32282,17 +32560,20 @@ var stations = {/*
         {
             name: "Air1 107.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 107.9-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 107.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "NOAA Weather Radio Peoria",
@@ -32377,7 +32658,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-BACH 89.5",
@@ -32387,7 +32669,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 89.5-HD2",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Sounds of Arizona 89.5-HD3",
@@ -32397,7 +32680,8 @@ var stations = {/*
         {
             name: "Family Life Radio 90.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "KJZZ 91.5",
@@ -32467,7 +32751,8 @@ var stations = {/*
         {
             name: "Air1 96.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "MIX 96.9",
@@ -32599,7 +32884,8 @@ var stations = {/*
         {
             name: "TUDN Radio 105.1",
             logo: "stations/images-america/phoenix/TUDN Radio 105.1.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         /*
                 {
@@ -33123,7 +33409,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KLSC",
 			frequency: "92.9",
-			format: ["pop","chr"],
+			format: ["pop","adult_hits"],
 			tower: "28117.677;0;12099.234",
 			radius: 0.95172548,
 			coverage: {"local":[0.51140723,0.51038478,0.51124608,0.51220643,0.51351322,0.51299297,0.51317887,0.51408987,0.5171864,0.52009649,0.51958913,0.52028857,0.52300823,0.52360768,0.52449772,0.52366066,0.52441097,0.52514009,0.52340061,0.52283606,0.52108586,0.51563945,0.51171954,0.51185619,0.51216622,0.5099038,0.51056028,0.51143187,0.51088447,0.51059917,0.50936658,0.51076969],"distant":[0.73210745,0.73472143,0.73417155,0.7352176,0.73623317,0.73546622,0.73725994,0.73971271,0.74205837,0.74388931,0.74487644,0.74657702,0.74768345,0.74715417,0.74910519,0.74895217,0.74968911,0.74964977,0.74648908,0.74599116,0.74432343,0.73934125,0.73659947,0.73515735,0.73301359,0.73398983,0.73225664,0.73170825,0.73397686,0.73359475,0.7322806,0.73205014],"fringe":[0.98183311,0.98085782,0.98145087,0.98224531,0.98450225,0.98381043,0.98384297,0.98720161,0.99253797,0.99397514,0.9946003,0.99657138,0.99687073,0.99706021,1.0,0.99907328,0.99900956,0.99791557,0.99669947,0.99809992,0.99499618,0.98822208,0.98479436,0.98494746,0.98337881,0.97989744,0.9788787,0.97968373,0.98143733,0.9806162,0.97993692,0.98122975]},
@@ -33247,7 +33533,8 @@ var stations = {/*
         {
             name: "CSN Radio 88.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KNKX 89.3",
@@ -33262,7 +33549,8 @@ var stations = {/*
         {
             name: "Air1 90.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KSQM 91.5",
@@ -33379,7 +33667,8 @@ var stations = {/*
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KMHD 89.1",
@@ -33469,12 +33758,14 @@ var stations = {/*
         {
             name: "K-LOVE 97.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 97.9-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "BOOST 97.9-HD3",
@@ -33484,7 +33775,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 97.9-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "98.7 The Bull",
@@ -33549,7 +33841,8 @@ var stations = {/*
         {
             name: "Air1 104.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Positive Life Radio 104.5",
@@ -33707,7 +34000,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KBJF",
 			frequency: "90.5",
-			format: ["religious","christian_talk"],
+			format: ["religious","christian_radio"],
 			tower: "-67078.772;0;-10021.507",
 			radius: 1.50487886,
 			coverage: {"local":[0.54372188,0.57137055,0.58955177,0.60521542,0.60722028,0.60122457,0.61136182,0.61483197,0.61176516,0.60953851,0.60806656,0.61226978,0.61551508,0.60582989,0.59197049,0.58551385,0.57646867,0.59178691,0.59511229,0.6041961,0.59784635,0.57457877,0.55289365,0.58504535,0.58174948,0.56254016,0.5381691,0.51235202,0.47073472,0.47935471,0.51184645,0.53742768],"distant":[0.7070172,0.74002171,0.76383903,0.78564227,0.78342152,0.77424068,0.78793933,0.78982294,0.7887665,0.78758634,0.78699577,0.79113124,0.79430402,0.78426082,0.76762995,0.7554419,0.74572789,0.76266308,0.764678,0.7771855,0.76797445,0.74329202,0.71868649,0.75679128,0.75510774,0.73284628,0.69892889,0.6607882,0.62185351,0.63114935,0.6632443,0.70005709],"fringe":[0.90659432,0.94286075,0.9629638,0.985211,0.98641887,0.98079972,0.99239379,0.99242152,0.99176722,0.99308366,0.99028812,0.99304085,1.0,0.99007679,0.96933025,0.96081275,0.95016735,0.96201497,0.97400695,0.9836264,0.97411875,0.95285504,0.92542126,0.96256091,0.96033065,0.93436267,0.89872532,0.84920105,0.80324272,0.81597154,0.85389013,0.89908653]},
@@ -34193,7 +34486,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KRNX",
 			frequency: "104.9",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-39888.957;0;3956.687",
 			radius: 0.9893061,
 			coverage: {"local":[0.4388086,0.49823199,0.52887087,0.56005112,0.57532384,0.58238436,0.58527495,0.59155411,0.5891739,0.58548781,0.58420761,0.57550114,0.55614784,0.50218016,0.39794461,0.22899148,0.17063692,0.17065195,0.17060926,0.17066636,0.17081461,0.1708849,0.17086036,0.17089762,0.1709909,0.17097682,0.17085527,0.17079583,0.1708072,0.17073751,0.18387214,0.26534971],"distant":[0.61061206,0.67571617,0.70806202,0.74094622,0.75789867,0.76534895,0.76860819,0.77591871,0.77328352,0.76881992,0.76737552,0.75814397,0.73684824,0.67974497,0.56657551,0.36511346,0.284854,0.28487909,0.2848071,0.28490175,0.28514876,0.28526503,0.28522238,0.28528321,0.28543799,0.28541322,0.28520868,0.28510838,0.28512686,0.28500984,0.30439091,0.4135151],"fringe":[0.79734613,0.86982139,0.91107013,0.9519627,0.9741507,0.98502175,0.98976705,1.0,0.99611407,0.9901431,0.98805942,0.97440589,0.94745735,0.87666911,0.75212746,0.55616203,0.46616857,0.46620964,0.46609053,0.46624355,0.46664547,0.46683264,0.4667589,0.46685469,0.46710463,0.46706083,0.46672275,0.46655604,0.46658457,0.46639162,0.4861737,0.60402059]},
@@ -34268,7 +34561,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.5",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "KAWC 90.1",
@@ -34475,7 +34769,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K216BO",
 			frequency: "91.1",
-			format: ["public_radio"],
+			format: ["public_radio","news_talk"],
 			tower: "-55354.562;0.000;-10721.404",
 			radius: 0.552472593813291,
 			coverage: {"local":[0.19838762,0.16181665,0.13683207,0.14823206,0.18331299,0.22683529,0.24464669,0.2545174,0.26874297,0.29691877,0.31410766,0.31868636,0.31464808,0.29717202,0.28163569,0.27086497,0.2810145,0.28891467,0.30989326,0.30848376,0.30453105,0.30870084,0.31983489,0.31547319,0.30208617,0.2764137,0.2471975,0.23197219,0.23207812,0.25468896,0.24772203,0.23096671],"distant":[0.35425135,0.28666043,0.24761178,0.2655778,0.33175407,0.4072698,0.43179684,0.44401874,0.47382465,0.53355885,0.56150409,0.56905139,0.56128818,0.52915339,0.50416607,0.48318197,0.49694429,0.51429067,0.55585864,0.55751891,0.54695606,0.55521022,0.57514887,0.57377507,0.54796733,0.49614527,0.43476306,0.4116877,0.41476104,0.4499059,0.43968465,0.41288833],"fringe":[0.63120224,0.51873237,0.439611,0.48090459,0.59955827,0.71743088,0.74821196,0.77277822,0.81781391,0.91850856,0.97070635,0.98728889,0.96887024,0.91073265,0.86556903,0.82733772,0.85347615,0.88467533,0.96142586,0.96180493,0.94387211,0.96081752,1.0,0.99347824,0.94995402,0.85846775,0.76033344,0.72627923,0.73091897,0.77862258,0.76592666,0.72432525]},
@@ -34818,12 +35112,14 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.9",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "afr Talk 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KRCC 91.7",
@@ -34948,7 +35244,8 @@ var stations = {/*
         {
             name: "Air1 90.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Power 94.7",
@@ -35075,7 +35372,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KUNR 88.7",
@@ -35095,7 +35393,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Pilgrim Radio 91.3",
@@ -35269,7 +35568,8 @@ var stations = {/*
         {
             name: "Relevant Radio 920",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Radio for America 1060",
@@ -35312,7 +35612,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "3ABN 100.5",
@@ -35334,7 +35635,8 @@ var stations = {/*
         {
             name: "Air1 88.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Radio 74 89.3",
@@ -35344,7 +35646,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac",
+            format: ["religious","christian_ac"]
         },
         /*
                 {
@@ -35434,7 +35737,8 @@ var stations = {/*
         {
             name: "Air1 92.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Radio 94.5",
@@ -35888,7 +36192,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WHJG 93.3",
@@ -35943,7 +36248,8 @@ var stations = {/*
         {
             name: "Air1 100.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "B103",
@@ -35953,7 +36259,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "104.9 The X",
@@ -36244,22 +36551,26 @@ var stations = {/*
         {
             name: "Relevant Radio 88.5",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Air1 89.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Effect Radio 89.5",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 90.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KENW 91.1",
@@ -36274,7 +36585,8 @@ var stations = {/*
         {
             name: "Family Life Radio 99.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         /*
                 {
@@ -36383,7 +36695,8 @@ var stations = {/*
         {
             name: "afr Talk 88.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "89.1 KLPI",
@@ -36408,7 +36721,8 @@ var stations = {/*
         {
             name: "K-LOVE 93.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Q94.1",
@@ -36468,7 +36782,7 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KFHC",
             callsign: "KOIA",
             frequency: "88.1",
-            format: ["religious", "christian_radio"],
+            format: ["religious","religious_talk"],
             tower: "4174.462;0;-20640.383",
             radius: 0.97729892,
             coverage: {"local":[0.38893039,0.39449868,0.39593301,0.40075358,0.40567848,0.3902883,0.34905659,0.31433787,0.28157356,0.26335361,0.27008828,0.29537117,0.34003729,0.3768632,0.41163752,0.42924901,0.4334515,0.43112952,0.42752681,0.41959605,0.41167504,0.40302164,0.3834576,0.3836074,0.38580935,0.40446356,0.40567161,0.40922579,0.41507118,0.40689316,0.39946753,0.38753361],"distant":[0.63990523,0.6444714,0.64718018,0.65416342,0.65687351,0.63865481,0.5833319,0.53114411,0.47962312,0.44230363,0.45897249,0.50680487,0.56357649,0.62405528,0.67214458,0.69486473,0.69469636,0.6926599,0.69298931,0.67635819,0.6673343,0.65635701,0.63231707,0.62918141,0.63090662,0.65966621,0.66511773,0.6675845,0.67434945,0.66470322,0.65250947,0.63531111],"fringe":[0.93979338,0.94748306,0.94703629,0.95526977,0.95895525,0.93593677,0.8701615,0.80668036,0.74857739,0.71098363,0.72580038,0.78054125,0.84540231,0.91594191,0.97082363,1.0,0.99981243,0.99768475,0.99610903,0.98275211,0.97149593,0.95705777,0.92773607,0.92585026,0.92875414,0.95768552,0.96657615,0.97201666,0.97542544,0.96568712,0.95312551,0.93174205]}
@@ -36557,7 +36871,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KDVS 90.3",
@@ -36673,17 +36988,20 @@ var stations = {/*
         {
             name: "Air1 99.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 90s 99.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 99.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "NOW 100.5",
@@ -36728,7 +37046,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "La Suavecita 104.3",
@@ -36836,7 +37155,8 @@ var stations = {/*
         {
             name: "Air1 99.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "La Tricolor 99.9",
@@ -37251,17 +37571,20 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 88.9-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 88.9-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "89.7 KSQD",
@@ -37271,7 +37594,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 90.9",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "KWAV 96.9",
@@ -37400,7 +37724,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUUB",
 			frequency: "88.3",
-			format: ["public_radio","native"],
+			format: ["public_radio"],
 			tower: "-68571.156;0;-15253.362",
 			radius: 0.66490709,
 			coverage: {"local":[0.44171143,0.48570118,0.53583751,0.54716025,0.5446102,0.52380461,0.48904589,0.44536662,0.39241908,0.35272228,0.31025402,0.26899942,0.23872625,0.22845014,0.21016819,0.18699663,0.147683,0.06593956,0.0580874,0.05435128,0.0663884,0.08999242,0.12502141,0.12176862,0.15000944,0.15810434,0.1754356,0.18968585,0.19421406,0.21816169,0.30296393,0.38723137],"distant":[0.65507174,0.7041605,0.75855678,0.77519755,0.76920844,0.74998235,0.71044155,0.65641532,0.5996116,0.55097965,0.50217587,0.45370716,0.41662728,0.39646253,0.37176233,0.33912133,0.27360218,0.13465239,0.10426686,0.0988306,0.10324962,0.16170973,0.21935084,0.21440262,0.26835294,0.28658659,0.3110085,0.32243257,0.33745817,0.37703902,0.50250462,0.59271004],"fringe":[0.88135753,0.93092736,0.98937333,1.0,0.99858552,0.97720115,0.93446778,0.8840975,0.82677564,0.78135419,0.7275476,0.66844928,0.62698315,0.60249373,0.58029839,0.54456417,0.45568709,0.24019879,0.18465626,0.1717593,0.17828332,0.29173419,0.37710685,0.3673185,0.45059476,0.46882104,0.50312271,0.51905437,0.52574413,0.57718846,0.72628651,0.81906873]},
@@ -37424,7 +37748,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUER-FM",
 			frequency: "90.1",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-68840.593;0;-15463.141",
 			radius: 0.95199413,
 			coverage: {"local":[0.60014288,0.60217127,0.60232361,0.60224981,0.59934307,0.59777809,0.59954087,0.59579741,0.59658633,0.59412853,0.58900004,0.57903023,0.57694544,0.55726532,0.52661915,0.48640465,0.4646499,0.47449441,0.52220544,0.57099479,0.59476713,0.60406904,0.60653354,0.60981743,0.61182874,0.61178334,0.61144176,0.60930178,0.60886482,0.6057391,0.59704117,0.59898632],"distant":[0.78018273,0.78350478,0.78645426,0.78438056,0.78045862,0.77805632,0.78056275,0.77359462,0.77201404,0.77479292,0.7642718,0.75846038,0.75025024,0.72801702,0.69183805,0.64533658,0.61996704,0.63318826,0.68581456,0.74571626,0.77179823,0.78459999,0.7920524,0.79528472,0.79623524,0.79531037,0.7959147,0.79362174,0.79183389,0.78563607,0.77613427,0.7799015],"fringe":[0.98161652,0.98389244,0.98610082,0.98567758,0.97825319,0.97947933,0.97827246,0.9733776,0.97256601,0.97334126,0.96253713,0.9545829,0.94585789,0.92807429,0.88805023,0.83300233,0.80111284,0.81804843,0.87875014,0.94008634,0.97154553,0.98818418,0.99374014,0.99702432,0.99830461,1.0,0.99775799,0.99671413,0.99756929,0.98916206,0.97747474,0.97947928]},
@@ -38152,7 +38476,8 @@ var stations = {/*
         {
             name: "Air1 106.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "La Z 107.5",
@@ -38209,7 +38534,8 @@ var stations = {/*
         {
             name: "Air1 97.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KULM 98.3",
@@ -38806,7 +39132,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KVNE 89.1",
@@ -38846,12 +39173,14 @@ var stations = {/*
         {
             name: "afr Talk 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Fuzión 92.1",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzion"
+            url: "https://emg.streamguys1.com/fuzion",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "92.5 K223BI",
@@ -38956,7 +39285,8 @@ var stations = {/*
         {
             name: "CSN Radio 105.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KYKX 105.7",
@@ -38966,7 +39296,8 @@ var stations = {/*
         {
             name: "Air1 106.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "NOAA Weather Radio Shreveport",
@@ -39216,7 +39547,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KHCO",
 			frequency: "90.1",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-45956.535;0;-10868.547",
 			radius: 1.09004974,
 			coverage: {"local":[0.33927243,0.27487623,0.21760836,0.19553485,0.21319267,0.24799631,0.26597086,0.27727304,0.26947233,0.22806046,0.21936769,0.26394491,0.27791692,0.28375154,0.28228138,0.29840013,0.32476303,0.37938721,0.46693717,0.52280828,0.53614204,0.54010915,0.53606881,0.52805807,0.52844624,0.52902441,0.53585787,0.54468938,0.5384544,0.51879094,0.47740013,0.4100102],"distant":[0.52116462,0.44129462,0.36452915,0.3302865,0.35832154,0.41087599,0.43222283,0.4445682,0.43619854,0.38032449,0.3662981,0.42979676,0.44530288,0.45160096,0.44993324,0.46863891,0.50148708,0.57188461,0.67805224,0.73750991,0.75177341,0.7560779,0.75177984,0.74330341,0.74381475,0.7444538,0.75160553,0.76086107,0.75428951,0.73342045,0.68901397,0.61064292],"fringe":[0.72617103,0.6346684,0.54538543,0.50535332,0.5381409,0.59716225,0.62170049,0.63607502,0.62646773,0.56363577,0.5478542,0.61877113,0.63691135,0.64420847,0.64221496,0.66482443,0.70342726,0.78120803,0.89974108,0.97396274,0.990466,0.99512455,0.99047339,0.98147321,0.98214176,0.98283972,0.99026602,1.0,0.99318657,0.96798175,0.91117974,0.82275355]},
@@ -39460,7 +39791,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KSRI",
 			frequency: "90.7",
-			format: ["religious","ccm"],
+			format: ["religious","worship"],
 			tower: "-30036.09;0;-10235.837",
 			radius: 0.67746788,
 			coverage: {"local":[0.41447612,0.40177158,0.3863437,0.36646274,0.34672841,0.33081593,0.33241771,0.33804485,0.33997768,0.33652833,0.33584873,0.33495225,0.32459522,0.31394839,0.29422733,0.27038336,0.25539334,0.24842514,0.25362158,0.29059578,0.33197903,0.35216024,0.37049655,0.38457134,0.3941336,0.40504716,0.41186762,0.41673635,0.41962815,0.41919926,0.42003826,0.42230848],"distant":[0.68537442,0.66646779,0.64540676,0.6140967,0.57963245,0.5573579,0.55809295,0.56372804,0.56710607,0.56459439,0.56095914,0.5581209,0.54476163,0.53147145,0.50916819,0.47640603,0.45546878,0.44394715,0.45040837,0.50057945,0.55542743,0.58773691,0.61580765,0.64056109,0.65406141,0.66686542,0.67982472,0.68671209,0.69047582,0.69159533,0.69208677,0.69167223],"fringe":[0.98938921,0.96936912,0.94425422,0.91162368,0.86807856,0.84212968,0.84220143,0.84928564,0.85457613,0.85058599,0.84811305,0.84656565,0.83092274,0.81319915,0.79059343,0.75498296,0.73092348,0.71459598,0.72189226,0.78143751,0.84448866,0.88330373,0.91603132,0.94089364,0.9562657,0.96955695,0.98221388,0.98947301,0.99457451,0.99795758,1.0,0.99781656]},
@@ -39612,7 +39943,8 @@ var stations = {/*
         {
             name: "Relevant Radio 92.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac",
+            format: ["religious","religious_talk"]
         },
         {
             name: "93.5 KWDC",
@@ -39632,7 +39964,8 @@ var stations = {/*
         {
             name: "CSN Radio 99.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Mega 100",
@@ -39642,17 +39975,20 @@ var stations = {/*
         {
             name: "Air1 102.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 102.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Relevant Radio 1230",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "FOX Sports 1280",
@@ -39674,12 +40010,14 @@ var stations = {/*
         {
             name: "K-LOVE 88.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 89.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KNCH 90.1",
@@ -39689,7 +40027,8 @@ var stations = {/*
         {
             name: "Radio By Grace 90.5",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KLTP 90.9",
@@ -39704,7 +40043,8 @@ var stations = {/*
         {
             name: "afr Talk 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Lonestar 92.9",
@@ -39831,22 +40171,26 @@ var stations = {/*
         {
             name: "BBN 90.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "K-LOVE 91.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 91.3-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 91.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "KRTU 91.7",
@@ -39967,7 +40311,8 @@ var stations = {/*
         {
             name: "Air1 103.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Norteño 104.1",
@@ -40067,7 +40412,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1160",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "1200 WOAI",
@@ -40150,7 +40496,8 @@ var stations = {/*
         {
             name: "Air1 92.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Air1 Música de Adoración 92.1-HD2",
@@ -40160,7 +40507,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 92.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Magic 92.5",
@@ -40180,7 +40528,8 @@ var stations = {/*
         {
             name: "Relevant Radio 93.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Star 94.1",
@@ -40280,17 +40629,20 @@ var stations = {/*
         {
             name: "K-LOVE 102.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 102.1-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 102.1-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Fusión 102.5",
@@ -40386,7 +40738,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1000",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac",
+            format: ["religious","religious_talk"]
         },
         /*
                 {
@@ -40565,7 +40918,8 @@ var stations = {/*
         {
             name: "Family Life Radio 90.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "RadioU 91.5",
@@ -40600,7 +40954,8 @@ var stations = {/*
         {
             name: "K-LOVE 96.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KCLU 96.7",
@@ -40665,7 +41020,8 @@ var stations = {/*
         {
             name: "Relevant Radio 890",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "920 KVEC",
@@ -40931,7 +41287,8 @@ var stations = {/*
         {
             name: "Air1 103.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Greatest Hits 103.7",
@@ -40976,7 +41333,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "107.3 KLVS-HD2",
@@ -41096,7 +41454,8 @@ var stations = {/*
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KNKX 88.5",
@@ -41317,7 +41676,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Worship 24-7 104.9",
@@ -41472,7 +41832,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1590",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "1620 KYIZ",
@@ -41582,7 +41943,8 @@ var stations = {/*
         {
             name: "afr Talk 90.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KNAU 90.7",
@@ -41648,7 +42010,8 @@ var stations = {/*
         {
             name: "TUDN Radio 710",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "970 KVWM",
@@ -41690,7 +42053,7 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KFHC",
             callsign: "KFHC",
             frequency: "88.1",
-            format: ["religious", "christian_radio"],
+            format: ["religious","religious_talk"],
             tower: "-2568.546;0;-19472.573",
             radius: 0.79875223,
             coverage: {"local":[0.45314965,0.4556122,0.46260703,0.4596159,0.46872677,0.45449728,0.45176359,0.46772328,0.4729828,0.46853204,0.47170826,0.4705084,0.46912563,0.42860003,0.40202295,0.38740283,0.36172656,0.34720117,0.3456327,0.34911305,0.34598562,0.34143928,0.3527758,0.34533573,0.34165425,0.34267601,0.35872867,0.38899659,0.40476885,0.40737054,0.42678317,0.44790578],"distant":[0.68985482,0.69240701,0.70057806,0.70338138,0.70372735,0.69374545,0.692392,0.70729993,0.71251677,0.71033024,0.71351512,0.71451852,0.70735495,0.66544291,0.63067532,0.61574306,0.59578241,0.57002398,0.56581582,0.57155882,0.56976021,0.56194523,0.57780522,0.57290283,0.56475957,0.56333561,0.58963191,0.61332192,0.63911156,0.63964148,0.66121903,0.68236602],"fringe":[0.97406916,0.97320503,0.98355829,0.98311617,0.98794088,0.9736957,0.97448489,0.9929336,0.99714985,0.99373022,0.99792865,1.0,0.99159413,0.94724909,0.90885153,0.88685165,0.85405672,0.83017858,0.82724092,0.83540089,0.83381512,0.82384917,0.8408929,0.83840456,0.82581262,0.82885091,0.85874743,0.89168769,0.91423274,0.91454562,0.93949816,0.96641817]}
@@ -42398,7 +42761,8 @@ var stations = {/*
         {
             name: "Relevant Radio 99.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Mine Country 102.1",
@@ -42408,12 +42772,14 @@ var stations = {/*
         {
             name: "Fuzión 104.7",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzion-website"
+            url: "https://emg.streamguys1.com/fuzion-website",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Air1 105.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Exitos 106.3",
@@ -42470,7 +42836,7 @@ var stations = {/*
             url: "https://streaming.live365.com/a52879",
             callsign: "KCSL",
             frequency: "89.9",
-            format: ["latin", "regional_mexican"],
+            format: ["religious", "religious_talk"],
             tower: "3568.069;0;-23794.206",
             radius: 1.41114826,
             coverage: {"local":[0.37843033,0.3478467,0.33564678,0.33644582,0.35306042,0.37118528,0.39769197,0.40835345,0.4189561,0.42926312,0.43490063,0.43925337,0.46159892,0.46615571,0.47124055,0.46534727,0.46098777,0.46332754,0.46435343,0.45883607,0.43426754,0.43081922,0.42509019,0.41924536,0.41184328,0.39780747,0.38601419,0.37550443,0.3688361,0.37117168,0.37580904,0.38124018],"distant":[0.61268069,0.57261582,0.54960774,0.55740997,0.5786144,0.59727674,0.63532358,0.65077033,0.66714185,0.68064436,0.68419295,0.69249392,0.70677084,0.70892899,0.71256362,0.70241299,0.70237409,0.70256629,0.70483009,0.70120961,0.69016182,0.68661524,0.67617182,0.66368753,0.65582138,0.63294462,0.62202626,0.60812458,0.60125153,0.60167006,0.61272978,0.6148455],"fringe":[0.89747537,0.8489177,0.83340386,0.83357727,0.85834893,0.87931473,0.91642447,0.93526723,0.95176718,0.96867592,0.97428286,0.981382,0.99655914,0.99740056,1.0,0.99274828,0.98612969,0.98852995,0.98991926,0.98966443,0.97630785,0.96863929,0.96280086,0.95029794,0.94038016,0.91967392,0.9074131,0.88998982,0.88101919,0.88463026,0.89457044,0.89787904]}
@@ -42746,7 +43112,8 @@ var stations = {/*
         {
             name: "Air1 101.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "103.1 KCDA",
@@ -42904,7 +43271,8 @@ var stations = {/*
         {
             name: "K-LOVE 96.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "97.7 WMAY",
@@ -43478,7 +43846,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K201DP",
 			frequency: "88.1",
-			format: ["religious","christian_talk"],
+			format: ["religious","christian_radio"],
 			tower: "-78600.339;0.000;3010.522",
 			radius: 0.482745977068829,
 			coverage: {"local":[0.15358582,0.15370952,0.15380595,0.16985992,0.19560522,0.29712734,0.32575283,0.27309999,0.16638835,0.15444205,0.18516215,0.22585009,0.27326058,0.26810435,0.2485967,0.22186559,0.23520617,0.2424356,0.19976218,0.25276955,0.26951607,0.30474551,0.31242646,0.178333,0.15391239,0.15399902,0.15385072,0.15442132,0.19693334,0.29192367,0.22546178,0.16487916],"distant":[0.27704806,0.27727286,0.2774386,0.30567305,0.35046367,0.53832414,0.58958073,0.48948312,0.2992355,0.27857819,0.33214401,0.4000828,0.48931541,0.47851059,0.43971303,0.39347035,0.41515087,0.42726546,0.35728249,0.44688493,0.4816426,0.55313643,0.5667816,0.32006842,0.27764127,0.27779868,0.27752867,0.27851511,0.35229893,0.52814662,0.39952811,0.29702033],"fringe":[0.49329466,0.4936934,0.49401275,0.54663734,0.62646686,0.91919969,1.0,0.84393409,0.53288477,0.49607151,0.59431221,0.71158928,0.84375991,0.82779619,0.77208384,0.70090268,0.73571846,0.75453131,0.63869637,0.78303331,0.83363403,0.94240817,0.96398363,0.57060639,0.49436356,0.49464073,0.49415907,0.49592853,0.62875203,0.90352381,0.70924983,0.53035126]},
@@ -43592,7 +43960,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUQU",
 			frequency: "93.9",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-75757.327;0;1073.31",
 			radius: 1.30209208,
 			coverage: {"local":[0.6092024,0.59465251,0.55368431,0.51633783,0.5017601,0.44244531,0.44017278,0.42841418,0.41884923,0.47572872,0.49277896,0.49334314,0.51107496,0.51139313,0.4566854,0.5132135,0.49946727,0.51160098,0.56237522,0.58250584,0.55879407,0.56525003,0.59023349,0.60691101,0.61345708,0.61515542,0.61463013,0.61829052,0.61996155,0.61857642,0.61883219,0.61700554],"distant":[0.78653059,0.77210543,0.72697812,0.67536062,0.65921655,0.59435228,0.59186969,0.57915577,0.56955211,0.62854951,0.64850962,0.64911002,0.66939221,0.66979097,0.6092715,0.67173864,0.65651789,0.67038942,0.73792185,0.76071864,0.73382523,0.74241435,0.76850351,0.78460221,0.7912629,0.793076,0.79236843,0.79606435,0.79777494,0.79635609,0.79646503,0.79450038],"fringe":[0.98423896,0.96518027,0.91889188,0.86807614,0.84540631,0.76596253,0.76270984,0.74627237,0.73484168,0.809962,0.8319872,0.83289276,0.85968445,0.86090679,0.78519904,0.86308218,0.84145252,0.85991019,0.92923373,0.95016145,0.92558248,0.93247555,0.95978536,0.98144346,0.9905526,0.99300537,0.99212374,0.99748182,1.0,0.99787255,0.99820475,0.99542434]},
@@ -45045,12 +45413,14 @@ var stations = {/*
         {
             name: "Effect Radio 88.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Relevant Radio 89.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Pilgrim Radio 89.9",
@@ -45075,7 +45445,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "The Outlaw 100.7",
@@ -45085,7 +45456,8 @@ var stations = {/*
         {
             name: "CSN Radio 103.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "FOX Sports 630",
@@ -45134,12 +45506,14 @@ var stations = {/*
         {
             name: "K-LOVE 89.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "afr Talk 90.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KTXK 91.5",
@@ -45257,7 +45631,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "92.7 KMSW",
@@ -45382,7 +45757,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 91.7",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Jam'n 94.7",
@@ -45421,7 +45797,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.5",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Nevada.FM 90.1",
@@ -45530,7 +45907,7 @@ var stations = {/*
 			url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
 			callsign: "K221DW",
 			frequency: "92.1",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "1501.932;0.000;-1882.288",
 			radius: 0.457163667136076,
 			coverage: {"local":[0.29639794,0.29976879,0.30103963,0.3067019,0.30685849,0.30928437,0.31505066,0.3218234,0.32409967,0.32625223,0.32523954,0.33289627,0.33493342,0.33370143,0.33362052,0.33479682,0.34135922,0.33918924,0.33927755,0.33928628,0.33159677,0.32830823,0.32279802,0.31944841,0.31498015,0.31245439,0.30025737,0.30130495,0.30318419,0.29520467,0.28864213,0.2941402],"distant":[0.53312143,0.54206808,0.54454431,0.55254737,0.55516489,0.56769396,0.57244665,0.58047561,0.58829191,0.5892329,0.58488991,0.5949481,0.60902015,0.60869751,0.60530662,0.60968755,0.61407408,0.61408856,0.61090766,0.60990585,0.60226317,0.59456571,0.58474297,0.58472089,0.57675828,0.56522526,0.54736287,0.54498715,0.54583683,0.54410104,0.52757096,0.53297392],"fringe":[0.89368617,0.90273163,0.90859224,0.91461519,0.92507678,0.93121071,0.94613205,0.95647651,0.96552449,0.97186145,0.96315306,0.97966769,0.99256027,0.99535868,0.99079624,0.99720931,0.9971676,0.99730457,0.99868912,1.0,0.98908645,0.97486633,0.96512949,0.96286065,0.94939045,0.93877353,0.91416212,0.91057915,0.91218447,0.9026142,0.88601686,0.89355239]},
@@ -45804,7 +46181,8 @@ var stations = {/*
         {
             name: "K-LOVE 91.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KNLB 91.5",
@@ -45863,17 +46241,20 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 88.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 88.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "NPR 89.1",
@@ -46009,7 +46390,8 @@ var stations = {/*
         {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "The Drive 101.7",
@@ -46030,7 +46412,8 @@ var stations = {/*
         {
             name: "Family Life Radio 104.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "ESPN 104.9",
@@ -46112,7 +46495,8 @@ var stations = {/*
         {
             name: "Air1 88.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Classical 88.7",
@@ -46187,7 +46571,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Mix 96.5",
@@ -46312,7 +46697,8 @@ var stations = {/*
         {
             name: "Air1 106.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "106.9 KHITS",
@@ -46412,7 +46798,8 @@ var stations = {/*
         {
             name: "Effect Radio 88.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Rejoice Radio 89.3",
@@ -46422,7 +46809,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.9",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "SOS Radio 90.7",
@@ -46589,12 +46977,14 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "K-LOVE 88.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "89.5 KVNE",
@@ -46694,7 +47084,8 @@ var stations = {/*
         {
             name: "Fuzión 102.3",
             logo: "stations/images-america/0_general_logos/Fuzión.png",
-            url: "https://emg.streamguys1.com/fuzion"
+            url: "https://emg.streamguys1.com/fuzion",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "The Blaze 102.7",
@@ -46844,7 +47235,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 90.7",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Radio Amistad 93.1",
@@ -46984,7 +47376,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Marfa Public Radio 93.5",
@@ -47039,7 +47432,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KUOU",
 			frequency: "89.3",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "-58399.91;0;-13038.935",
 			radius: 1.07817235,
 			coverage: {"local":[0.17506086,0.17648335,0.22120379,0.29747095,0.34186577,0.39263087,0.45876864,0.4992231,0.53477809,0.54486507,0.54870902,0.5515507,0.54988466,0.54125514,0.52712218,0.52048747,0.51706095,0.51103236,0.50742289,0.49677481,0.50295026,0.50686707,0.50305287,0.49632355,0.47532765,0.43769251,0.39040631,0.32278923,0.2647368,0.26995144,0.27669906,0.22445639],"distant":[0.2983863,0.30425394,0.37572922,0.49329141,0.5317415,0.58741836,0.67020732,0.72401665,0.75090528,0.7640344,0.7673456,0.76951487,0.77079632,0.76012994,0.74133437,0.73918563,0.73575049,0.72973674,0.72667893,0.71579902,0.71591455,0.72308124,0.72636835,0.70942883,0.69313911,0.6485051,0.58796411,0.50254395,0.43545338,0.44052847,0.45499236,0.39009573],"fringe":[0.47944842,0.48290078,0.57190903,0.70228422,0.73782668,0.81071431,0.88319322,0.93873998,0.97809436,0.99024426,0.99228811,1.0,0.99870203,0.98347086,0.96240895,0.96545579,0.95536078,0.95055925,0.94146034,0.93155636,0.93617882,0.94536106,0.94231551,0.93124495,0.90544386,0.86693397,0.81004924,0.70654293,0.62807484,0.6325595,0.64907353,0.58167716]},
@@ -47174,7 +47567,8 @@ var stations = {/*
         {
             name: "afr Talk 88.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KEDT 90.7",
@@ -47194,7 +47588,8 @@ var stations = {/*
         {
             name: "Air1 92.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Majic 95.9",
@@ -47246,12 +47641,14 @@ var stations = {/*
         {
             name: "K-LOVE 89.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Effect Radio 89.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         /*
                 {
@@ -47304,17 +47701,20 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "afr Talk 89.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "KNCT 91.3",
@@ -47492,7 +47892,7 @@ var stations = {/*
 			url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
 			callsign: "K217FT",
 			frequency: "91.3",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "15078.907;0.000;-19665.555",
 			radius: 0.509921881503164,
 			coverage: {"local":[0.31944619,0.31759829,0.32207733,0.31715676,0.32066268,0.32181817,0.32615016,0.32642581,0.32791881,0.32996544,0.32799182,0.32501962,0.31722261,0.31470072,0.30633569,0.29631548,0.2896191,0.27551362,0.26719257,0.26562232,0.29085518,0.3045257,0.31033807,0.30535315,0.30115561,0.29885663,0.30362713,0.30624622,0.30888988,0.31673092,0.31829334,0.3186585],"distant":[0.58601474,0.58274209,0.58389786,0.57632933,0.58247061,0.58413863,0.59065688,0.5920292,0.59164204,0.59617585,0.59368854,0.58738313,0.57257299,0.56513912,0.55309764,0.53665746,0.51921442,0.49561602,0.48326409,0.47772881,0.52756325,0.54863044,0.56257995,0.55198701,0.5455208,0.54468218,0.55191215,0.55531982,0.5624999,0.57590769,0.57966934,0.58043146],"fringe":[0.98765606,0.97817421,0.98047598,0.97071832,0.97805547,0.98214258,0.99386276,0.99234968,0.99406583,1.0,0.99611814,0.98621144,0.96481404,0.95670729,0.93664751,0.90807413,0.88549561,0.86231778,0.85445907,0.84578856,0.8942097,0.93351254,0.95029727,0.93330034,0.92371347,0.9214292,0.93450278,0.94382264,0.95094516,0.97326318,0.97348659,0.9771271]},
@@ -47514,7 +47914,7 @@ var stations = {/*
 			url: "https://nwm.streamguys1.com/faith-aac",
 			callsign: "K226CK",
 			frequency: "93.1",
-			format: ["religious", "christian_radio"],
+			format: ["religious", "christian_talk"],
 			tower: "14850.533;0.000;-19603.271",
 			radius: 0.52228891471519,
 			coverage: {"local":[0.33001135,0.32609064,0.32642784,0.32491036,0.3301314,0.32725326,0.33703475,0.33601374,0.33285625,0.33788989,0.34014818,0.33487846,0.325417,0.31538913,0.30273353,0.29008718,0.28391572,0.27658498,0.27501979,0.27057402,0.28025146,0.29343951,0.30970228,0.29547002,0.28832102,0.28620442,0.29331087,0.30656592,0.31496626,0.32359512,0.32481956,0.32688905],"distant":[0.58645302,0.58704697,0.58715814,0.58043843,0.58682275,0.58754597,0.59494522,0.5977227,0.59722289,0.60270934,0.59826435,0.59013525,0.57430258,0.56447193,0.54986264,0.52449249,0.50910522,0.49781969,0.49369218,0.49396707,0.51704648,0.54149322,0.55856911,0.5427471,0.53322199,0.53164137,0.54459773,0.55560173,0.56525994,0.57963384,0.58233456,0.58225202],"fringe":[0.98512649,0.97573433,0.9801609,0.96561084,0.97532699,0.98124487,0.99143876,0.99213999,0.99217241,1.0,0.99593653,0.98385551,0.96098876,0.94224296,0.89953643,0.8584026,0.83796466,0.82408322,0.82135153,0.81913967,0.84652427,0.8885258,0.93512328,0.88327775,0.87166922,0.86982648,0.8885029,0.92799133,0.94392999,0.97144485,0.9753017,0.97441344]},
@@ -47718,7 +48118,7 @@ var stations = {/*
             band: "AM",
             callsign: "KNWS",
             frequency: "1090",
-            format: ["religious", "christian_radio"],
+            format: ["religious", "christian_talk"],
             tower: "15393.117;0;-19667.25",
             radius: 1.29168757,
             coverage: {"local":[0.23813526,0.2422324,0.23819616,0.23958627,0.24186257,0.24369993,0.24421393,0.24555037,0.24427039,0.24597354,0.24567311,0.24945178,0.27776773,0.31832025,0.32237736,0.32881188,0.33006113,0.32837109,0.32867888,0.3292232,0.32785119,0.32818923,0.32456845,0.31917388,0.31325503,0.30385095,0.28819764,0.27116882,0.25273576,0.23888566,0.23909079,0.24195758],"distant":[0.44444031,0.44512403,0.44435843,0.44450183,0.4453203,0.44853655,0.45018332,0.44892905,0.44786074,0.45062059,0.45088627,0.45385922,0.48475733,0.54306305,0.58614324,0.62760062,0.62928376,0.62957688,0.63105707,0.63236622,0.62982756,0.62879843,0.62663427,0.6232999,0.61712533,0.60372717,0.5889048,0.5715885,0.54970655,0.51163751,0.45736475,0.44509727],"fringe":[0.71723613,0.71707825,0.71274443,0.69457737,0.6759156,0.6713333,0.67956805,0.69767392,0.72445503,0.72279839,0.72341875,0.72760246,0.75693878,0.81527917,0.87136801,0.96508737,0.97554074,0.98616958,0.99593508,1.0,0.99742552,0.99617497,0.99501174,0.98744352,0.9779253,0.96481355,0.95035958,0.93178854,0.91182079,0.87557244,0.80102921,0.72071257]}
@@ -48211,7 +48611,7 @@ var stations = {/*
 			url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
 			callsign: "K218DR",
 			frequency: "91.5",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "-5875.869;0.000;6386.619",
 			radius: 0.34253935,
 			coverage: {"local":[0.26492455,0.26677248,0.27458683,0.29044354,0.29949202,0.30461623,0.30618714,0.31179926,0.31010006,0.30333656,0.30388264,0.29837184,0.30334239,0.30252713,0.30562103,0.31233484,0.31825387,0.32305144,0.32564422,0.32918217,0.32633349,0.32075585,0.31824196,0.31487071,0.31245657,0.31336391,0.3111904,0.30873083,0.30405382,0.29261958,0.28076203,0.27004624],"distant":[0.4791935,0.48188489,0.4887563,0.52611564,0.53834669,0.55124146,0.55138795,0.55688838,0.55521615,0.54405747,0.543134,0.54076585,0.54258991,0.54143267,0.54663032,0.5643423,0.56565661,0.57870975,0.58316509,0.58579258,0.58620625,0.57774786,0.57505115,0.56519445,0.56665325,0.56460698,0.56322715,0.55966739,0.55041424,0.53637749,0.51107755,0.48841101],"fringe":[0.83019226,0.83774366,0.85055728,0.9036495,0.92384979,0.93964612,0.94555353,0.95488388,0.95134386,0.92683143,0.93035188,0.92168077,0.92508105,0.92612513,0.93353763,0.95678018,0.96935913,0.98981785,0.99706142,1.0,0.99948674,0.98892877,0.98509908,0.9697974,0.96976271,0.9708875,0.96418741,0.96008711,0.94627861,0.92187493,0.88146126,0.84782802]},
@@ -48463,7 +48863,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K277CU",
 			frequency: "103.3",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "-6272.657;0.000;8121.471",
 			radius: 0.453969666487342,
 			coverage: {"local":[0.29532878,0.29305031,0.28338485,0.27420814,0.27887763,0.27946517,0.27426048,0.28130236,0.28410222,0.28426452,0.29592532,0.30104477,0.30872704,0.32196076,0.33455712,0.33221085,0.32979801,0.32858118,0.32855755,0.3223106,0.31341989,0.30221554,0.3035477,0.30062024,0.2961271,0.29363581,0.29447642,0.295532,0.29656429,0.2954542,0.29633308,0.2974034],"distant":[0.54074724,0.52607697,0.51331466,0.49128961,0.50026936,0.50036524,0.49621528,0.50235089,0.5050797,0.5094979,0.53210441,0.54548056,0.5621842,0.593,0.61326263,0.60921624,0.60554275,0.60000914,0.59756977,0.58381137,0.57334102,0.5525925,0.54791188,0.54459007,0.54225294,0.53350918,0.53486933,0.53806496,0.53702415,0.53885772,0.53989091,0.53876938],"fringe":[0.90788142,0.88934038,0.87206346,0.83813785,0.84734264,0.84978736,0.84064797,0.851736,0.85708912,0.86593589,0.8920445,0.90874823,0.92877026,0.97247782,1.0,0.99208899,0.99122771,0.98703042,0.9805166,0.96122672,0.9504464,0.92136702,0.92137873,0.91541443,0.90432511,0.89487574,0.89935352,0.89946958,0.90124334,0.90423372,0.90521399,0.90186812]},
@@ -48609,17 +49009,20 @@ var stations = {/*
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 90.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 90.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "The Gospel Station 91.5",
@@ -48649,7 +49052,8 @@ var stations = {/*
         {
             name: "Air1 100.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "100.9 BOB FM",
@@ -48823,7 +49227,8 @@ var stations = {/*
         {
             name: "CSN Radio 88.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Moody Radio 88.9",
@@ -48833,7 +49238,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "Pilgrim Radio 90.7",
@@ -48945,12 +49351,14 @@ var stations = {/*
         {
             name: "CSN Radio 88.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Effect Radio 89.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "KHYM 89.9",
@@ -49147,7 +49555,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "104.1 KXDD",
@@ -49376,7 +49785,8 @@ var stations = {/*
         {
             name: "Radio Nueva Vida 95.1",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "KYMZ 99.9",
@@ -49386,7 +49796,8 @@ var stations = {/*
         {
             name: "K-LOVE 100.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "La Campesina 104.5",
@@ -49404,7 +49815,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 89.3",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "digital 94.9",
@@ -49555,7 +49967,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.1",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Manantial 91.7",
@@ -50822,7 +51235,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Trión 89.1",
@@ -52350,7 +52764,8 @@ var stations = {/*
         {
             name: "BBN 101.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KISS 102.7",
@@ -52503,17 +52918,20 @@ var stations = {/*
         {
             name: "K-LOVE 97.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 97.3-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE POP! 97.3-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "97.9 W262AR",
@@ -52695,7 +53113,8 @@ var stations = {/*
         {
             name: "BBN 91.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "ALT 92.9",
@@ -52710,7 +53129,8 @@ var stations = {/*
         {
             name: "afr Hybrid 93.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "94.1 WHRP",
@@ -52863,7 +53283,8 @@ var stations = {/*
         {
             name: "afr Talk 89.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "APR News & Classics 91.3",
@@ -52918,7 +53339,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "99.5 KISS FM",
@@ -53022,7 +53444,8 @@ var stations = {/*
         {
             name: "afr Talk 92.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "News Talk 93.1",
@@ -53157,7 +53580,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "107.9 WMRK-HD2",
@@ -53431,7 +53855,8 @@ var stations = {/*
         {
             name: "K-LOVE 106.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Viva! 107.3",
@@ -53615,7 +54040,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "105.1 W286BS",
@@ -53718,7 +54144,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
     ],
     "port_saint_lucie": [
@@ -54045,7 +54472,8 @@ var stations = {/*
         {
             name: "Air1 89.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "WJCT News 89.9",
@@ -54070,17 +54498,20 @@ var stations = {/*
         {
             name: "BBN 90.5",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "K-LOVE 90.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "CSN Radio 91.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "91.7 The Truth",
@@ -54120,7 +54551,8 @@ var stations = {/*
         {
             name: "Relevant Radio 93.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "The Victory 94.7",
@@ -54220,7 +54652,8 @@ var stations = {/*
         {
             name: "K-LOVE 101.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WYNR 102.5",
@@ -54352,7 +54785,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "SonLife Radio 90.5",
@@ -54651,7 +55085,8 @@ var stations = {/*
         {
             name: "TUDN Radio 98.3-HD2",
             logo: "stations/images-america/0_general_logos/TUDN Radio.png",
-            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6"
+            url: "http://84.32.44.251/index.php?u=https://tu.streamguys1.com/tudnradio-icy?key=f3a360365ce0850372f1bd51f0c7d6e4298dc7fe803633499ba8a5370dd5c7d6",
+            format: ["talk","spanish_sports"]
         },
         {
             name: "Uforia Rock 98.3-HD4",
@@ -54869,17 +55304,20 @@ var stations = {/*
         {
             name: "K-LOVE 88.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 88.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 90s 88.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "WGCU 90.1",
@@ -55045,7 +55483,8 @@ var stations = {/*
         {
             name: "Relevant Radio 106.7",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Cat Country 107.1",
@@ -55066,7 +55505,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1410",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC.aac",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Radio Visión Cristiana 1440",
@@ -55520,7 +55960,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1080",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Viva 1140",
@@ -55953,17 +56394,20 @@ var stations = {/*
         {
             name: "K-LOVE 98.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 98.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 98.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "99.5 QYK",
@@ -56397,12 +56841,14 @@ var stations = {/*
         {
             name: "Air1 104.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE POP! 104.7-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "Air1 Música de Adoración 104.7-HD3",
@@ -56437,17 +56883,20 @@ var stations = {/*
         {
             name: "K-LOVE 106.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 90s 106.7-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE POP! 106.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "Majic 107.5",
@@ -56566,7 +57015,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Sunny 102.7",
@@ -57047,7 +57497,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "The LifeFM 102.9",
@@ -57068,7 +57519,8 @@ var stations = {/*
         {
             name: "Air1 107.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "FOX News 107.7",
@@ -57152,7 +57604,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "93.5 Vibe FM",
@@ -57261,12 +57714,14 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 88.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "HPR News 89.1",
@@ -57276,7 +57731,8 @@ var stations = {/*
         {
             name: "Effect Radio 90.3",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "HPR Classical 91.3",
@@ -57316,7 +57772,8 @@ var stations = {/*
         {
             name: "CSN Radio 99.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KAPA 100.3",
@@ -57351,7 +57808,8 @@ var stations = {/*
         {
             name: "CSN Radio 1060",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "http://ice7.securenetsystems.net/CSNAAC"
+            url: "http://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
     ],
     "honolulu": [
@@ -57373,7 +57831,8 @@ var stations = {/*
         {
             name: "CSN Radio 90.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KLHT 91.5",
@@ -57383,7 +57842,8 @@ var stations = {/*
         {
             name: "Effect Radio 91.9",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "92.3 KSSK",
@@ -57433,7 +57893,8 @@ var stations = {/*
         {
             name: "Air1 95.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "My 95.9",
@@ -57508,17 +57969,20 @@ var stations = {/*
         {
             name: "K-LOVE 103.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 103.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 103.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "103.9 The X",
@@ -57590,7 +58054,8 @@ var stations = {/*
         {
             name: "Effect Radio 89.1",
             logo: "stations/images-america/0_general_logos/Effect Radio.png",
-            url: "https://ice6.securenetsystems.net/EFXAAC"
+            url: "https://ice6.securenetsystems.net/EFXAAC",
+            format: ["religious","ccm"]
         },
         {
             name: "K-Mozart 90.1",
@@ -57600,22 +58065,26 @@ var stations = {/*
         {
             name: "K-LOVE 91.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 91.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 91.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "CSN Radio 91.3",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "The Wave@92FM",
@@ -57635,7 +58104,8 @@ var stations = {/*
         {
             name: "Air1 94.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "HPR Classical 95.7",
@@ -57977,7 +58447,8 @@ var stations = {/*
         {
             name: "Relevant Radio 106.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "107.5 W298BJ",
@@ -58104,7 +58575,8 @@ var stations = {/*
         {
             name: "Business News 97.5",
             logo: "stations/images-america/c2c/indianapolis_in/Business News 97.5.png",
-            url: "https://stream.revma.ihrhls.com/zc8376/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc8376/hls.m3u8",
+            format: ["talk","business_news"]
         },
         {
             name: "Real 98.3",
@@ -58400,7 +58872,8 @@ var stations = {/*
         {
             name: "CSN Radio 90.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WZIS 90.7",
@@ -58430,7 +58903,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Bott Radio 96.3",
@@ -58556,7 +59030,7 @@ var stations = {/*
             url: "https://ice42.securenetsystems.net/KSMMKZRD",
             callsign: "KSMM",
             frequency: "101.5",
-            format: ["pop", "chr"],
+            format: ["latin", "regional_mexican"],
             tower: "-21616.431;0;10352.518",
             radius: 0.75810566,
             coverage: {"local":[0.53659837,0.5462901,0.54849344,0.55129805,0.56398265,0.56536258,0.56920687,0.56631571,0.5580388,0.55564661,0.55061526,0.55196281,0.54965627,0.54499013,0.54689942,0.54305625,0.53797144,0.53680632,0.53204721,0.52878027,0.52024997,0.51255228,0.50764481,0.50653454,0.50003045,0.49759687,0.49747723,0.49730016,0.49872654,0.50723999,0.51494445,0.53112367],"distant":[0.74585624,0.74914035,0.75375369,0.75524024,0.76520818,0.77088259,0.7685465,0.77403668,0.76840071,0.75885502,0.75636628,0.75614932,0.75094178,0.7456239,0.74747406,0.74686175,0.74619728,0.73973436,0.73747274,0.73446477,0.72703345,0.72324053,0.71472805,0.70695905,0.70028931,0.69678131,0.69926986,0.70184784,0.70050437,0.70937651,0.71271799,0.73666408],"fringe":[0.96400069,0.97052927,0.97802986,0.98826499,0.99015365,0.99159848,0.99422502,1.0,0.99871007,0.99095145,0.98679637,0.98100229,0.97726389,0.9713946,0.97423057,0.97416781,0.96696229,0.9646238,0.96157098,0.96063671,0.95450853,0.94754245,0.94274269,0.93519194,0.92791747,0.91946431,0.92009748,0.92584877,0.92723727,0.93498345,0.94088495,0.95801919]}
@@ -58711,7 +59185,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WUKY 91.3",
@@ -58762,7 +59237,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "96.1 The Hound",
@@ -58832,12 +59308,14 @@ var stations = {/*
         {
             name: "Air1 107.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 90s 107.1-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "107.9 The Beat",
@@ -58926,7 +59404,8 @@ var stations = {/*
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "89.3 WFPL",
@@ -58971,7 +59450,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "95.7 QMF",
@@ -59124,12 +59604,14 @@ var stations = {/*
         {
             name: "afr Talk 89.3",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "K-LOVE 90.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WKMS 91.3",
@@ -59280,7 +59762,8 @@ var stations = {/*
         {
             name: "Relevant Radio 90.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Maine Public Radio 90.9",
@@ -59356,7 +59839,8 @@ var stations = {/*
         {
             name: "K-LOVE 101.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/tunein/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "HOT 102.9",
@@ -59452,7 +59936,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Maine Public Radio 90.1",
@@ -59482,7 +59967,8 @@ var stations = {/*
         {
             name: "Air1 93.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "94.3 WCYY",
@@ -59670,7 +60156,8 @@ var stations = {/*
         {
             name: "Bloomberg 99.1",
             logo: "stations/images-america/c2c/washington_dc/Bloomberg 99.1.png",
-            url: "https://stream.revma.ihrhls.com/zc7094/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc7094/hls.m3u8",
+            format: ["talk","business_news"]
         },
         {
             name: "100.7 The Bay",
@@ -59762,7 +60249,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.1",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WSCL 89.5",
@@ -59892,17 +60380,20 @@ var stations = {/*
         {
             name: "K-LOVE 105.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 105.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 105.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Delmarva Gold B106.1",
@@ -60056,7 +60547,8 @@ var stations = {/*
         {
             name: "Air1 97.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "The Breeze 97.1-HD3",
@@ -60076,7 +60568,8 @@ var stations = {/*
         {
             name: "Bloomberg 99.1",
             logo: "stations/images-america/c2c/washington_dc/Bloomberg 99.1.png",
-            url: "https://stream.revma.ihrhls.com/zc7094/hls.m3u8"
+            url: "https://stream.revma.ihrhls.com/zc7094/hls.m3u8",
+            format: ["talk","business_news"]
         },
         {
             name: "HOT 99.5",
@@ -60146,17 +60639,20 @@ var stations = {/*
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 107.3-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 107.3-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "El Zol 107.9",
@@ -60438,7 +60934,8 @@ var stations = {/*
         {
             name: "Bloomberg 92.9",
             logo: "stations/images-america/c2c/boston_ma/Bloomberg 92.9.png",
-            url: "https://tunein.cdnstream1.com/3689_96.aac"
+            url: "https://tunein.cdnstream1.com/3689_96.aac",
+            format: ["talk","business_news"]
         },
         {
             name: "ROCK 92.9-HD2",
@@ -60603,17 +61100,20 @@ var stations = {/*
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 107.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 107.3-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Kiss 108",
@@ -60773,7 +61273,8 @@ var stations = {/*
         {
             name: "Family Life Radio 93.1",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "93.5 W228CJ",
@@ -60914,17 +61415,20 @@ var stations = {/*
         {
             name: "K-LOVE 102.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 102.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 102.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "ICI Musique 103.9",
@@ -61011,7 +61515,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Strong Tower Radio 90.9",
@@ -61226,7 +61731,8 @@ var stations = {/*
         {
             name: "MPR News 91.1",
             logo: "stations/images-america/0_general_logos/MPR News.png",
-            url: "https://nis.stream.publicradio.org/nis.aac"
+            url: "https://nis.stream.publicradio.org/nis.aac",
+            format: ["public_radio","news_talk"]
         },
         {
             name: "WMTU 91.9",
@@ -61299,7 +61805,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WHWL 89.3",
@@ -61443,7 +61950,8 @@ var stations = {/*
         {
             name: "K-LOVE 89.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Public Radio 90",
@@ -61651,7 +62159,8 @@ var stations = {/*
         {
             name: "IPR News 91.5",
             logo: "stations/images-america/c2c/traversecity_mi/IPR.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WICAFM_SC",
+            format: ["public_radio","news_talk"]
         },
         {
             name: "Z93",
@@ -62225,7 +62734,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KZIO",
 			frequency: "104.3",
-			format: ["rock","aaa"],
+			format: ["public_radio","aaa"],
 			tower: "15584.442;0;-45089.735",
 			radius: 0.78254535,
 			coverage: {"local":[0.25324525,0.25995002,0.28873052,0.33754093,0.37835298,0.41562827,0.45290611,0.4875274,0.51334007,0.54190526,0.55190492,0.55408609,0.56174972,0.55778189,0.54987386,0.5402253,0.51925297,0.50380253,0.44462246,0.3756957,0.34084067,0.30564049,0.29381137,0.29850555,0.29102662,0.27333754,0.27343107,0.26626885,0.25901681,0.25410053,0.24834889,0.26110095],"distant":[0.41724539,0.42840669,0.4680396,0.5179443,0.56487822,0.60525417,0.64078002,0.67799557,0.71510557,0.74556971,0.75276947,0.76035391,0.75874582,0.75853647,0.7506881,0.7360334,0.71498788,0.7019837,0.64337353,0.55763924,0.52182955,0.47459079,0.46615441,0.47139519,0.46521581,0.44629248,0.44753928,0.43709695,0.42483093,0.4209626,0.41567109,0.41964663],"fringe":[0.64847409,0.65802349,0.69042706,0.73771423,0.78112945,0.82193711,0.85832081,0.89465589,0.94303667,0.9787154,0.99258096,1.0,0.99623183,0.99064524,0.98721252,0.96878194,0.9410565,0.92283966,0.85274734,0.77804386,0.74649877,0.70308127,0.68692574,0.69445299,0.69008715,0.67166788,0.67407303,0.66301702,0.65502458,0.65497315,0.65030718,0.65088229]},
@@ -62311,7 +62820,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K214FP",
 			frequency: "90.7",
-			format: ["religious"],
+			format: ["religious","christian_radio"],
 			tower: "22.885;0.000;-41332.464",
 			radius: 0.346858192464399,
 			coverage: {"local":[0.20652593,0.20638795,0.20637709,0.20648967,0.20671605,0.20665383,0.2066759,0.20677566,0.20694514,0.20678719,0.20669435,0.20667514,0.21369367,0.21652668,0.22626449,0.25567773,0.27912438,0.29927644,0.31269268,0.3176926,0.31963571,0.3250436,0.32531191,0.32683545,0.3216718,0.30821057,0.28860655,0.27105107,0.25912439,0.2065501,0.20640768,0.20640335],"distant":[0.36970271,0.36945772,0.36943565,0.36963598,0.37003551,0.36992363,0.36995826,0.37013387,0.37043029,0.37014655,0.3699755,0.36993882,0.38211973,0.3869837,0.40362438,0.45165036,0.49190494,0.53061642,0.5567193,0.56644208,0.57021098,0.58096618,0.58149347,0.5844523,0.57421702,0.54788026,0.5100359,0.47747338,0.45720536,0.36973317,0.3694919,0.36948609],"fringe":[0.66276867,0.66232498,0.66228024,0.66263199,0.66334068,0.66312753,0.6631772,0.66347898,0.66399899,0.66347614,0.66315737,0.66308085,0.68478913,0.69340047,0.72220602,0.80126526,0.86131119,0.91601047,0.95548266,0.97061143,0.97677385,0.99421133,0.99509357,1.0,0.98336073,0.94218188,0.88680152,0.84080625,0.81034952,0.66277689,0.66238599,0.66237832]},
@@ -63012,7 +63521,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KNOW-FM",
 			frequency: "91.1",
-			format: ["public_radio","talk"],
+			format: ["public_radio","news_talk"],
 			tower: "11435.093;0;-34291.951",
 			radius: 0.92154546,
 			coverage: {"local":[0.59097372,0.59103138,0.59083575,0.58926868,0.58945777,0.58994355,0.59149458,0.59011331,0.59180767,0.59199281,0.59350112,0.59454753,0.60081065,0.59980609,0.60371982,0.59775097,0.59326904,0.5888247,0.5924499,0.59301719,0.59405387,0.58948055,0.59114138,0.58994045,0.59143833,0.59007573,0.59137908,0.58952812,0.58935403,0.58917571,0.58936741,0.59099376],"distant":[0.76064733,0.76418288,0.76497329,0.76771509,0.76363974,0.7681436,0.76302874,0.76273614,0.76154189,0.76513603,0.76721157,0.77094748,0.77465146,0.77804044,0.77877058,0.77513503,0.77374198,0.76727648,0.76922629,0.76922665,0.76821003,0.76934832,0.76452389,0.76613776,0.77184521,0.76502852,0.76566405,0.76789138,0.76186045,0.75892236,0.76252181,0.76345373],"fringe":[0.98617017,0.98312246,0.98536116,0.98703212,0.98459517,0.97986377,0.98266568,0.98790586,0.98773364,0.98773175,0.98966805,0.99325142,0.9958014,0.9948823,1.0,0.99219433,0.988676,0.98944759,0.99319674,0.99297898,0.99037549,0.99198687,0.98870147,0.98738165,0.98765212,0.98672231,0.98260835,0.98619069,0.97914849,0.97926847,0.98113093,0.98340336]},
@@ -63724,7 +64233,7 @@ var stations = {/*
 			band: "FM",
 			callsign: "KZPK",
 			frequency: "98.9",
-			format: ["talk","news_talk"],
+			format: ["country","new_country"],
 			tower: "7268.238;0;-36880.67",
 			radius: 0.6862618,
 			coverage: {"local":[0.5270099,0.51795814,0.5257858,0.53303634,0.53411381,0.53253545,0.52600076,0.52926927,0.5312355,0.5315743,0.53417719,0.52443228,0.52725414,0.52811366,0.5294798,0.53451331,0.53599397,0.53154412,0.52641488,0.52430275,0.53072835,0.53318356,0.5342431,0.52333769,0.51399794,0.5175857,0.51430601,0.51183344,0.50908264,0.51149796,0.50935049,0.51829718],"distant":[0.7474771,0.73657295,0.74565173,0.75463884,0.75278014,0.75104184,0.74294046,0.74999026,0.75014204,0.75227909,0.75392116,0.74478954,0.74597311,0.750422,0.7494924,0.75272083,0.75615674,0.75150649,0.74469334,0.744991,0.75429028,0.75466264,0.75396172,0.74389892,0.73266063,0.73614527,0.73187766,0.72912553,0.7246152,0.72918699,0.7288519,0.73701801],"fringe":[0.98571407,0.97295487,0.98338768,0.99500593,0.98940598,0.98971377,0.98159798,0.98862891,0.98914378,0.99471892,0.99238674,0.98419387,0.98597722,0.98831431,0.98683763,0.98575805,0.98486023,0.98415132,0.98369752,0.9851077,0.99508764,1.0,0.99448427,0.9842995,0.97119435,0.97471841,0.9699718,0.96365454,0.96218303,0.96720141,0.96314955,0.97350396]},
@@ -64232,7 +64741,7 @@ var stations = {/*
 			band: "FX",
 			callsign: "K277CC",
 			frequency: "103.3",
-			format: ["religious"],
+			format: ["religious","christian_talk"],
 			tower: "3816.361;0;-34719.237",
 			radius: 0.375010549133703,
 			coverage: {"local":[0.30858604,0.30111241,0.30583162,0.30003717,0.30912625,0.30935921,0.30431677,0.30408986,0.29556267,0.28596284,0.29339554,0.30328489,0.31469577,0.32398638,0.32985756,0.32970203,0.32993694,0.33006075,0.32969855,0.32871452,0.32748432,0.32721436,0.32535004,0.32502114,0.32134455,0.32143438,0.31471662,0.30923089,0.29896335,0.30303398,0.30455033,0.31003041],"distant":[0.55976897,0.54602605,0.55475659,0.5438735,0.56075123,0.56116187,0.55199009,0.55153865,0.53529088,0.51651614,0.53113694,0.5499653,0.57060635,0.58607457,0.59534172,0.59510571,0.59551601,0.595658,0.5951078,0.59365717,0.59184829,0.59139705,0.58840007,0.58790102,0.58191152,0.58201456,0.57073575,0.56087269,0.54188962,0.54967588,0.55243541,0.56238114],"fringe":[0.94546062,0.924649,0.93786,0.92142306,0.94701812,0.94759908,0.93375063,0.933102,0.90843569,0.87933501,0.90187106,0.93051606,0.96166187,0.98509665,0.99951938,0.99913412,0.99981233,1.0,0.99914058,0.99690542,0.99416527,0.9934607,0.98881297,0.98810092,0.97900888,0.97911409,0.96197316,0.94711159,0.91848876,0.93018789,0.93433575,0.94933985]},
@@ -64414,12 +64923,14 @@ var stations = {/*
         {
             name: "afr Talk 91.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "afr Hybrid 91.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "KIX 92.7",
@@ -64479,7 +64990,8 @@ var stations = {/*
         {
             name: "K-LOVE 101.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "g103.3",
@@ -64521,7 +65033,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Rock 92.5",
@@ -64601,7 +65114,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KICKER 108",
@@ -64730,7 +65244,8 @@ var stations = {/*
         {
             name: "afr Hybrid 88.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "MPB Think Radio 90.9",
@@ -64801,7 +65316,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Delta Country 105.7",
@@ -64853,17 +65369,20 @@ var stations = {/*
         {
             name: "afr Talk 90.9",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Radio By Grace 91.3",
             logo: "stations/images-america/0_general_logos/Radio By Grace.png",
-            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac"
+            url: "https://stream-radiobygrace.streamguys1.com/rbga.aac",
+            format: ["religious","christian_radio"]
         },
         {
             name: "afr Hybrid 92.5",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WMER 93.1",
@@ -64873,7 +65392,8 @@ var stations = {/*
         {
             name: "K-LOVE 93.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "95.1 The Beat",
@@ -65084,7 +65604,8 @@ var stations = {/*
         {
             name: "K-LOVE 94.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "US 96",
@@ -65130,7 +65651,8 @@ var stations = {/*
         {
             name: "Air1 100.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Y101",
@@ -65274,7 +65796,8 @@ var stations = {/*
         {
             name: "K-LOVE 99.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "103.7 WPKQ",
@@ -65515,7 +66038,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Reach Gospel Radio 103.1",
@@ -65570,7 +66094,8 @@ var stations = {/*
         {
             name: "Relevant Radio 640",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "1020 WWAC",
@@ -65707,7 +66232,8 @@ var stations = {/*
         {
             name: "Relevant Radio 640",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "The Breeze 1410",
@@ -65804,7 +66330,8 @@ var stations = {/*
         {
             name: "Relevant Radio 640",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "920 WNJE",
@@ -65876,7 +66403,8 @@ var stations = {/*
         {
             name: "Air1 93.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "93.9 WABY",
@@ -65896,7 +66424,8 @@ var stations = {/*
         {
             name: "K-LOVE 94.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "The Sound of Life 94.9",
@@ -66195,7 +66724,8 @@ var stations = {/*
         {
             name: "Radio Bilingüe 88.7-HD3",
             logo: "stations/images-america/0_general_logos/Radio Bilingüe.png",
-            url: "https://radio.radiobilingue.org/"
+            url: "https://radio.radiobilingue.org/",
+            format: ["public_radio"]
         },
         {
             name: "Niagara's New Country 89.1",
@@ -66271,7 +66801,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "BIG WECK 102.9",
@@ -66374,7 +66905,8 @@ var stations = {/*
         {
             name: "Family Life Radio 97.7",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "Cool 98.7",
@@ -66547,7 +67079,8 @@ var stations = {/*
         {
             name: "BBN 920",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "ESPN 1160",
@@ -66695,12 +67228,14 @@ var stations = {/*
         {
             name: "K-LOVE 95.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 95.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "The Bridge 95.5-HD3",
@@ -66730,17 +67265,20 @@ var stations = {/*
         {
             name: "Air1 96.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 96.7-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 96.7-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "HOT 97",
@@ -66993,7 +67531,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Big Oly 107.1",
@@ -67042,7 +67581,8 @@ var stations = {/*
         {
             name: "Family Life Radio 97.5",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
         {
             name: "WCDO 100.9",
@@ -67249,7 +67789,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "LI News Radio 103.9",
@@ -67451,7 +67992,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "105.5 The Beat",
@@ -67688,7 +68230,8 @@ var stations = {/*
         {
             name: "K-LOVE 105.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "The Voice 106.3",
@@ -67756,7 +68299,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WHCL 88.7",
@@ -67811,7 +68355,8 @@ var stations = {/*
         {
             name: "Air1 93.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "94.9 KROCK",
@@ -68050,17 +68595,20 @@ var stations = {/*
         {
             name: "K-LOVE 91.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 91.9-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 90s 91.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "WFNZ 92.7",
@@ -68263,17 +68811,20 @@ var stations = {/*
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 107.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 107.3-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "107.7 The Bounce",
@@ -68340,22 +68891,26 @@ var stations = {/*
         {
             name: "K-LOVE 94.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 94.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 94.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Radio Nueva Vida 94.1-HD4",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "94.5 WPTI",
@@ -68453,7 +69008,8 @@ var stations = {/*
         {
             name: "afr Hybrid 91.7",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net/talk.mp4"
+            url: "https://mediaserver3.afa.net/talk.mp4",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Pirate Radio 92.7",
@@ -68488,7 +69044,8 @@ var stations = {/*
         {
             name: "K-LOVE 98.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "99.5 The Wave",
@@ -68529,7 +69086,8 @@ var stations = {/*
         {
             name: "BBN 105.3",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         /*
                 {
@@ -68763,7 +69321,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "ESPN 95.9",
@@ -68849,7 +69408,7 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
             callsign: "KNRI",
             frequency: "89.7",
-            format: ["religious", "ccm"],
+            format: ["religious", "worship"],
             tower: "-18555.878;0;-44587.101",
             radius: 0.41286248,
             coverage: {"local":[0.27725431,0.27916898,0.25753005,0.25617645,0.2709414,0.28764709,0.30888994,0.33947784,0.35772262,0.36511723,0.36317247,0.35580936,0.35097912,0.35920575,0.37179945,0.37854936,0.39230587,0.39375304,0.37979674,0.37536755,0.35663719,0.33649029,0.3266652,0.34479731,0.36622404,0.34780319,0.34082547,0.35035698,0.3562275,0.32888462,0.28340517,0.27222731],"distant":[0.48887139,0.48472918,0.451839,0.45079759,0.47438323,0.49832749,0.53278195,0.58131636,0.60744663,0.61827638,0.61805663,0.60487233,0.59524784,0.61168392,0.6352337,0.64391441,0.66816519,0.66873261,0.65135021,0.64468073,0.61169119,0.5792068,0.55560711,0.58482497,0.62564741,0.59311601,0.58500126,0.60060239,0.61134331,0.57118845,0.49805318,0.47965127],"fringe":[0.8162264,0.81201308,0.7586713,0.75614424,0.79416975,0.82740763,0.86864461,0.91117356,0.93440291,0.94966567,0.95175845,0.93789675,0.92433423,0.94110128,0.96763753,0.97712543,0.98722152,1.0,0.98758868,0.97873476,0.9428875,0.90444739,0.89031341,0.91816716,0.95909862,0.92060504,0.91000271,0.92899457,0.94001239,0.89886532,0.82042766,0.79703726]}
@@ -69336,7 +69895,7 @@ var stations = {/*
             url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
             callsign: "KFAA",
             frequency: "89.5",
-            format: ["religious", "ccm"],
+            format: ["religious", "worship"],
             tower: "-3272.603;0;-44084.152",
             radius: 0.34665243,
             coverage: {"local":[0.36026021,0.36454012,0.36274787,0.36274362,0.35976202,0.36283625,0.36313079,0.36112571,0.3589536,0.35881753,0.35558762,0.35636486,0.36255087,0.36582403,0.36582852,0.36468585,0.36042031,0.36231433,0.36042061,0.35523635,0.35302854,0.35618937,0.35129003,0.35842342,0.3609522,0.35895495,0.3609015,0.36089214,0.35655223,0.360435,0.36049623,0.35831324],"distant":[0.61227799,0.61656536,0.61689108,0.61498939,0.61404824,0.61524291,0.61548511,0.61351951,0.60717248,0.60782915,0.60562731,0.60739525,0.61665005,0.61575945,0.61651887,0.61431022,0.61413859,0.61417312,0.61223065,0.59985994,0.60673163,0.60949511,0.6025651,0.6076064,0.61321801,0.61138582,0.61226076,0.61004137,0.61079354,0.60956132,0.61141085,0.61030968],"fringe":[0.99164809,1.0,0.99955826,0.99456966,0.99562478,0.99496165,0.99515681,0.9911425,0.98466227,0.98626968,0.98189505,0.98652063,0.99781231,0.99892568,0.99856992,0.99646264,0.99443407,0.99258556,0.99090812,0.97246554,0.98129076,0.98645026,0.97982112,0.98608335,0.99290748,0.99326948,0.99317878,0.99506327,0.99273334,0.99440944,0.99313571,0.99180989]}
@@ -69986,7 +70545,7 @@ var stations = {/*
             url: "https://ice64.securenetsystems.net/KQLXFM",
             callsign: "KXGT",
             frequency: "98.3",
-            format: ["pop", "classic_hits"],
+            format: ["country", "country_mix"],
             tower: "-11753.997;0;-45809.178",
             radius: 0.87412967,
             coverage: {"local":[0.55375849,0.56352823,0.57391568,0.57510865,0.579549,0.57979415,0.58329629,0.58592474,0.58447161,0.5839591,0.58103037,0.5792943,0.57699578,0.56998559,0.56485186,0.55398637,0.54287884,0.53205282,0.52854419,0.52657923,0.53005971,0.52748727,0.52880691,0.52211592,0.5244301,0.52339067,0.5202574,0.5177957,0.51546761,0.51769076,0.52716106,0.53613329],"distant":[0.73937805,0.75002749,0.75794117,0.76125354,0.76451272,0.76437879,0.76876572,0.76977477,0.76968047,0.76946678,0.76824408,0.76856411,0.76470066,0.7581234,0.74853903,0.73853348,0.7259517,0.71659384,0.712603,0.71054235,0.71234259,0.71402586,0.71187878,0.70527491,0.70786779,0.71053057,0.70538395,0.69688655,0.69716008,0.69823616,0.70914754,0.72117618],"fringe":[0.96546949,0.97726763,0.9860849,0.98960523,0.99376208,0.99114016,0.99756745,0.99912426,0.99713883,1.0,0.99849339,0.99664552,0.99314881,0.98388897,0.97545099,0.96120259,0.95040698,0.93890856,0.93444363,0.93520598,0.93411713,0.9334121,0.93559239,0.92823179,0.93243882,0.93005825,0.92297987,0.91709291,0.91422217,0.91823983,0.93076944,0.94205382]}
@@ -70159,7 +70718,7 @@ var stations = {/*
 			url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
 			callsign: "K220GC",
 			frequency: "91.9",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "-20313.098;0;-52950.255",
 			radius: 0.2421166,
 			coverage: {"local":[0.30090808,0.31499051,0.31990877,0.32443586,0.33125607,0.331943,0.33378227,0.33246761,0.33142362,0.33139194,0.32965082,0.33459673,0.33694083,0.31639775,0.30510102,0.2893299,0.26931496,0.24761739,0.2330039,0.22962608,0.22559822,0.21133779,0.21200017,0.21708966,0.23341466,0.27556627,0.29361372,0.30173797,0.29933156,0.2806975,0.27601022,0.28561072],"distant":[0.55043711,0.57422785,0.58626235,0.59467856,0.60395033,0.60872824,0.60470581,0.60102959,0.60198263,0.60427312,0.60316268,0.60718481,0.60985866,0.56730573,0.54755374,0.51992823,0.47825421,0.4399446,0.41381444,0.40985822,0.40535224,0.38466132,0.37644399,0.38917054,0.41924952,0.49273566,0.52724025,0.54940537,0.54344946,0.50742306,0.49577609,0.51835594],"fringe":[0.9237535,0.95606556,0.97115102,0.98409098,0.99207039,0.99467341,0.99366563,0.9922743,0.99191744,0.99340853,0.99216295,0.99764807,1.0,0.94277152,0.916184,0.87815052,0.82497438,0.77182157,0.73012573,0.72098899,0.71297027,0.68695392,0.67125837,0.68816676,0.73895365,0.84676852,0.89286114,0.92163232,0.91159667,0.86698837,0.8518998,0.88070668]},
@@ -70318,7 +70877,7 @@ var stations = {/*
 			url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
 			callsign: "K211FS",
 			frequency: "90.1",
-			format: ["religious", "ccm"],
+			format: ["religious", "worship"],
 			tower: "-28508.248;0;-52819.64",
 			radius: 0.26935398,
 			coverage: {"local":[0.2671072,0.26109953,0.25559421,0.24616653,0.23357028,0.21491651,0.20888061,0.20577509,0.2004359,0.22219614,0.23097141,0.20977744,0.21397691,0.24494103,0.26399156,0.27366084,0.27879898,0.28156029,0.28914748,0.29531308,0.29480505,0.30779605,0.3257352,0.3303919,0.32293654,0.31018448,0.29675083,0.2892204,0.29269758,0.29429029,0.2916468,0.28190864],"distant":[0.48537527,0.4762102,0.46661496,0.44435537,0.41675428,0.38354972,0.36892602,0.36299464,0.35470952,0.39521504,0.40702699,0.36561517,0.37645794,0.43712463,0.47341304,0.49168109,0.5015338,0.50823735,0.52372421,0.53678091,0.53972897,0.553538,0.57850271,0.58814109,0.57655506,0.5593406,0.54015089,0.52891115,0.53555649,0.53660978,0.53419598,0.51668335],"fringe":[0.81892281,0.80255627,0.79103807,0.76181042,0.72292297,0.67605805,0.65970098,0.64748704,0.62849897,0.69204975,0.71640196,0.65361137,0.66778578,0.7524302,0.80006248,0.82637668,0.84038044,0.84985995,0.8705706,0.88976692,0.8942254,0.93091076,0.98384336,1.0,0.97973655,0.94515753,0.90035486,0.87601111,0.88418583,0.88937607,0.88550787,0.85952131]},
@@ -70485,7 +71044,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "96.5 KISS FM",
@@ -70699,7 +71259,8 @@ var stations = {/*
         {
             name: "Relevant Radio 106.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "KISS 107.1",
@@ -70776,7 +71337,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WOVU 95.9",
@@ -70861,7 +71423,8 @@ var stations = {/*
         {
             name: "K-LOVE Eras 105.7-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Real 106.1",
@@ -70914,7 +71477,8 @@ var stations = {/*
         {
             name: "afr Talk 88.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "RadioU 88.7",
@@ -71029,7 +71593,8 @@ var stations = {/*
         {
             name: "Air1 99.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "99.7 The Blitz",
@@ -71059,17 +71624,20 @@ var stations = {/*
         {
             name: "K-LOVE 102.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 102.5-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE POP! 102.5-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "Rewind 103.5",
@@ -71202,7 +71770,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "91.3 WYSO",
@@ -71353,7 +71922,8 @@ var stations = {/*
         {
             name: "Relevant Radio 105.9",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "WWSU 106.9",
@@ -71467,7 +72037,8 @@ var stations = {/*
         {
             name: "K-LOVE 90s 92.1",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "92.5 KISS FM",
@@ -71507,7 +72078,8 @@ var stations = {/*
         {
             name: "K-LOVE 96.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "HOT 97.3",
@@ -71873,7 +72445,8 @@ var stations = {/*
         {
             name: "Family Life Radio 107.3",
             logo: "stations/images-america/0_general_logos/Family Life Radio.png",
-            url: "https://icecast.streammyflr.org/FLRstream"
+            url: "https://icecast.streammyflr.org/FLRstream",
+            format: ["religious","ccm"]
         },
     ],
     "erie_pa": [
@@ -71900,7 +72473,8 @@ var stations = {/*
         {
             name: "CSN Radio 89.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Family Life 89.9",
@@ -72128,7 +72702,8 @@ var stations = {/*
         {
             name: "afr Talk 90.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "WMSS 91.1",
@@ -72198,12 +72773,14 @@ var stations = {/*
         {
             name: "K-LOVE 101.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 101.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "RED 102.3",
@@ -72275,12 +72852,14 @@ var stations = {/*
         {
             name: "Air1 90.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "BBN 91.7",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WJHT 92.1",
@@ -72305,7 +72884,8 @@ var stations = {/*
         {
             name: "K-LOVE 97.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Froggy 98.1",
@@ -72345,7 +72925,8 @@ var stations = {/*
         {
             name: "K-LOVE 105.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "107.1 WHJB",
@@ -72453,7 +73034,8 @@ var stations = {/*
         {
             name: "K-LOVE 101.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Y102",
@@ -72545,17 +73127,20 @@ var stations = {/*
         {
             name: "Air1 89.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE POP! 89.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE POP!.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love-pop/web/aac",
+            format: ["religious","christian_chr"]
         },
         {
             name: "Radio Nueva Vida 89.5-HD3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "89.7 WGLS",
@@ -72795,17 +73380,20 @@ var stations = {/*
         {
             name: "K-LOVE 106.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 106.9-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 106.9-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "WRDV 107.3",
@@ -72835,7 +73423,8 @@ var stations = {/*
         {
             name: "Relevant Radio 640",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "WTMR 800",
@@ -72877,7 +73466,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WXPI 88.5",
@@ -73065,12 +73655,14 @@ var stations = {/*
         {
             name: "K-LOVE 98.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 98.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "WISH 99.7",
@@ -73131,7 +73723,8 @@ var stations = {/*
         {
             name: "Relevant Radio 106.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "WAMO 107.3",
@@ -73400,7 +73993,8 @@ var stations = {/*
         {
             name: "K-LOVE 95.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Radio Renacer 96.5",
@@ -73485,7 +74079,8 @@ var stations = {/*
         {
             name: "Relevant Radio 107.5",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "630 WPRO",
@@ -73547,7 +74142,8 @@ var stations = {/*
         {
             name: "SCPR Classical 89.3",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC_SC",
+            format: ["public_radio","classical"]
         },
         {
             name: "SCPR 89.9",
@@ -73679,22 +74275,26 @@ var stations = {/*
         {
             name: "SCPR Classical 88.1",
             logo: "stations/images-america/0_general_logos/South Carolina Public Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/WLTRFMAAC_SC",
+            format: ["public_radio","classical"]
         },
         {
             name: "K-LOVE 89.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 89.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 89.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "WUSC 90.5",
@@ -73913,12 +74513,14 @@ var stations = {/*
         {
             name: "K-LOVE 94.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE Eras 94.5-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "La Jefa 94.9",
@@ -73928,7 +74530,8 @@ var stations = {/*
         {
             name: "Air1 95.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "96.3 The Block",
@@ -73988,7 +74591,8 @@ var stations = {/*
         {
             name: "Air1 103.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "FOX Sports 104.9",
@@ -74025,7 +74629,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "SCPR 90.1",
@@ -74575,12 +75180,14 @@ var stations = {/*
         {
             name: "K-LOVE 88.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 89.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "90.3 The Rock",
@@ -74778,17 +75385,20 @@ var stations = {/*
         {
             name: "K-LOVE 94.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "K-LOVE 2000s 94.1-HD2",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "K-LOVE 90s 94.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 90s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-90s/tunein",
+            format: ["religious","ccm"]
         },
         {
             name: "95.3 The Rebel",
@@ -74808,7 +75418,8 @@ var stations = {/*
         {
             name: "Air1 96.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Bumpin' 96.3",
@@ -74975,7 +75586,8 @@ var stations = {/*
         {
             name: "CSN Radio 90.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "91.One",
@@ -75040,17 +75652,20 @@ var stations = {/*
         {
             name: "K-LOVE 97.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 97.1-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 97.1-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "BIN 97.5",
@@ -75141,7 +75756,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Activa 105.1",
@@ -75216,7 +75832,8 @@ var stations = {/*
         {
             name: "BBN 980",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "WHIN 1010",
@@ -75284,7 +75901,8 @@ var stations = {/*
         {
             name: "Air1 94.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "95 Triple X",
@@ -75354,7 +75972,8 @@ var stations = {/*
         {
             name: "Air1 103.3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "JUMP 103.7",
@@ -75594,7 +76213,8 @@ var stations = {/*
         {
             name: "Air1 107.7",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
     ],
     "charlottesville_va": [
@@ -75646,7 +76266,8 @@ var stations = {/*
         {
             name: "BBN 95.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Joy FM 96.3",
@@ -75830,7 +76451,8 @@ var stations = {/*
         {
             name: "K-LOVE 102.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Spirit FM 103.3",
@@ -75840,7 +76462,8 @@ var stations = {/*
         {
             name: "BBN 103.9",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "104.3 KCY",
@@ -76222,7 +76845,8 @@ var stations = {/*
         {
             name: "CSN Radio 88.7",
             logo: "stations/images-america/0_general_logos/CSN.png",
-            url: "https://ice7.securenetsystems.net/CSNAAC"
+            url: "https://ice7.securenetsystems.net/CSNAAC",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Radio IQ 89.1",
@@ -76380,12 +77004,14 @@ var stations = {/*
         {
             name: "afr Talk 91.1",
             logo: "stations/images-america/0_general_logos/AFR.png",
-            url: "https://mediaserver3.afa.net:8443/talk.mp4"
+            url: "https://mediaserver3.afa.net:8443/talk.mp4",
+            format: ["religious","christian_talk"]
         },
         {
             name: "Air1 92.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "93.5 W233AA",
@@ -76425,7 +77051,8 @@ var stations = {/*
         {
             name: "BBN 101.3",
             logo: "stations/images-america/0_general_logos/BBN.png",
-            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f"
+            url: "https://streams.radiomast.io/844b0a81-f4b9-485e-adaa-aab8d3ea9f7f",
+            format: ["religious","christian_radio"]
         },
         {
             name: "Joy FM 102.1",
@@ -76440,7 +77067,8 @@ var stations = {/*
         {
             name: "K-LOVE 103.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "103.3 WTCF-HD2",
@@ -76539,7 +77167,8 @@ var stations = {/*
         {
             name: "Air1 88.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Walk FM 89.3",
@@ -76554,17 +77183,20 @@ var stations = {/*
         {
             name: "K-LOVE 93.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 93.3-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE Eras 93.3-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE Eras.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-eras/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "93.7 The Dawg",
@@ -76776,7 +77408,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.1",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "WVPR 88.9",
@@ -76928,7 +77561,8 @@ var stations = {/*
         {
             name: "Relevant Radio 94.3",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "Real Rock J96",
@@ -77077,7 +77711,8 @@ var stations = {/*
         {
             name: "K-LOVE 90.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "91.1 The Avenue",
@@ -77197,7 +77832,8 @@ var stations = {/*
         {
             name: "K-LOVE 104.9",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "http://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "105.7 WAPL",
@@ -77232,7 +77868,8 @@ var stations = {/*
         {
             name: "Relevant Radio 1050",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "WHBY 1150",
@@ -77447,7 +78084,8 @@ var stations = {/*
         {
             name: "Air1 104.1-HD3",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "Mix 105.1",
@@ -77505,7 +78143,8 @@ var stations = {/*
         {
             name: "Relevant Radio 89.1",
             logo: "stations/images-america/0_general_logos/Relevant Radio.png",
-            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC"
+            url: "https://playerservices.streamtheworld.com/api/livestream-redirect/RR_MAINAAC_SC",
+            format: ["religious","religious_talk"]
         },
         {
             name: "WPR Music 89.9",
@@ -77602,7 +78241,8 @@ var stations = {/*
         {
             name: "K-LOVE 93.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "La Zeta 93.7",
@@ -77668,7 +78308,8 @@ var stations = {/*
         {
             name: "Air1 102.1",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "103.7 KISS FM",
@@ -78353,7 +78994,8 @@ var stations = {/*
         {
             name: "K-LOVE 94.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "CBC Radio One 95.5",
@@ -78368,7 +79010,8 @@ var stations = {/*
         {
             name: "Air1 96.5",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "CKON 97.3",
@@ -78673,12 +79316,14 @@ var stations = {/*
         {
             name: "MPR News 88.3",
             logo: "stations/images-america/0_general_logos/MPR News.png",
-            url: "https://nis.stream.publicradio.org/nis.aac"
+            url: "https://nis.stream.publicradio.org/nis.aac",
+            format: ["public_radio","news_talk"]
         },
         {
             name: "The Current 88.3-HD2",
             logo: "stations/images-america/0_general_logos/The Current.png",
-            url: "https://current.stream.publicradio.org/current.aac"
+            url: "https://current.stream.publicradio.org/current.aac",
+            format: ["public_radio","aaa"]
         },
         {
             name: "ICI Première 89.1",
@@ -83129,7 +83774,8 @@ var stations = {/*
         {
             name: "K-LOVE 107.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Radio One 1000",
@@ -83824,7 +84470,8 @@ var stations = {/*
         {
             name: "BBN 102.3",
             logo: "stations/images-america/caribbean/nassau/BBN 102.3.png",
-            url: "https://radiostreams.streamcomedia.com:8026/tprb1023fm"
+            url: "https://radiostreams.streamcomedia.com:8026/tprb1023fm",
+            format: ["religious","christian_radio"]
         },
         /*
                 {
@@ -84363,17 +85010,20 @@ var stations = {/*
         {
             name: "K-LOVE 105.7",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Air1 105.7-HD2",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "K-LOVE 2000s 105.7-HD3",
             logo: "stations/images-america/0_general_logos/K-LOVE 2000s.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love-2000s/web/aac",
+            format: ["religious","ccm"]
         },
         {
             name: "Mega 106.9",
@@ -84494,7 +85144,8 @@ var stations = {/*
         {
             name: "K-LOVE 88.5",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "KATB 89.3",
@@ -84600,7 +85251,8 @@ var stations = {/*
         {
             name: "Air1 104.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KKNI 105.3",
@@ -84750,12 +85402,14 @@ var stations = {/*
         {
             name: "K-LOVE 88.3",
             logo: "stations/images-america/0_general_logos/K-LOVE.png",
-            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/k-love/web/aac",
+            format: ["religious","christian_ac"]
         },
         {
             name: "Radio Nueva Vida 88.3",
             logo: "stations/images-america/0_general_logos/Radio Nueva Vida.png",
-            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/radio-nueva-vida/web/aac",
+            format: ["religious","spanish_religious"]
         },
         {
             name: "Voice of Denali 89.1",
@@ -84780,7 +85434,8 @@ var stations = {/*
         {
             name: "Air1 91.9",
             logo: "stations/images-america/0_general_logos/Air1.png",
-            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac"
+            url: "https://maestro.emfcdn.com/stream_for/air1/web/aac",
+            format: ["religious","worship"]
         },
         {
             name: "KQHE 92.7",
