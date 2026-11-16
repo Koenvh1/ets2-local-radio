@@ -11,12 +11,6 @@ var country_properties = {
         code: "us",
         relative_radius: 2.0
     },
-    "1043_theparty": {
-        name: "Casey",
-        name_english: "Casey",
-        code: "us-il",
-        relative_radius: 0.6
-    },
     "aberdeen": {
         name: "Aberdeen",
         name_english: "Aberdeen",
@@ -2552,9 +2546,6 @@ var city_properties = {
     "halloween": {
         relative_whitenoise: 0.75
     },
-    "1043_theparty": {
-        relative_whitenoise: 0.95
-    },
     "aberdeen": {
         relative_whitenoise: 0.85
     },
@@ -3950,14 +3941,6 @@ var cities = [
         "x": "-137800",
         "y": "182.305",
         "z": "98283.6"
-    },
-    {
-        "gameName": "1043_theparty",
-        "realName": "Effingham/Terre Haute",
-        "country": "1043_theparty",
-        "x": "35177.3",
-        "y": "45.3442",
-        "z": "-1713.47"
     },
     {
         "gameName": "aberdeen",
