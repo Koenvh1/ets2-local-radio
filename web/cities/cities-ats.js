@@ -491,6 +491,12 @@ var country_properties = {
         code: "us-tx",
         relative_radius: 1.1
     },
+    "dallas": {
+        name: "Dallas",
+        name_english: "Dallas",
+        code: "us-tx",
+        relative_radius: 1
+    },
     "dallas_fort_worth": {
         name: "Dallas/Fort Worth",
         name_english: "Dallas/Fort Worth",
@@ -2569,6 +2575,9 @@ var city_properties = {
         relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
+    "dallas": {
+        relative_whitenoise: 1
+    },
     "dallas_fort_worth": {
         relative_whitenoise: 0.95
     },
@@ -4152,14 +4161,6 @@ var cities = [
         "z": "19340"
     },
     {
-        "gameName": "clinton",
-        "realName": "Clinton",
-        "country": "granite",
-        "x": "-15042.5",
-        "y": "184.33",
-        "z": "19340"
-    },
-    {
         "gameName": "clovis",
         "realName": "Clovis",
         "country": "clovis",
@@ -4280,14 +4281,6 @@ var cities = [
         "z": "16010.5"
     },
     {
-        "gameName": "cushing",
-        "realName": "Cushing",
-        "country": "oklahoma_city",
-        "x": "-3995.68",
-        "y": "54.5565",
-        "z": "16010.5"
-    },
-    {
         "gameName": "dalhart",
         "realName": "Dalhart",
         "country": "dalhart",
@@ -4302,6 +4295,14 @@ var cities = [
         "x": "-30010.5",
         "y": "101.156",
         "z": "15794.6"
+    },
+    {
+        "gameName": "dallas",
+        "realName": "Dallas",
+        "country": "dallas",
+        "x": "-3002.5586",
+        "y": "59.035156",
+        "z": "34006.793"
     },
     {
         "gameName": "dallas_fort_worth",
@@ -4864,14 +4865,6 @@ var cities = [
         "z": "12150.3"
     },
     {
-        "gameName": "guymon",
-        "realName": "Guymon",
-        "country": "liberal_ks",
-        "x": "-24243",
-        "y": "106.262",
-        "z": "12150.3"
-    },
-    {
         "gameName": "hamburg_ar",
         "realName": "Hamburg",
         "country": "hamburg_ar",
@@ -5067,14 +5060,6 @@ var cities = [
         "gameName": "idabel",
         "realName": "Idabel",
         "country": "idabel",
-        "x": "5238.44",
-        "y": "58",
-        "z": "27563.8"
-    },
-    {
-        "gameName": "idabel",
-        "realName": "Idabel",
-        "country": "paris",
         "x": "5238.44",
         "y": "58",
         "z": "27563.8"
