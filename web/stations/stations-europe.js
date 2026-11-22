@@ -2276,6 +2276,11 @@ var stations = {/*
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac"
         },
         {
+            name: "Duo Christmas",
+            logo: "stations/images-europe/estonia/Duo Christmas.png",
+            url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/christmas.aac"
+        },
+        {
             name: "Duo Country",
             logo: "stations/images-europe/estonia/Duo Country.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
@@ -2294,12 +2299,12 @@ var stations = {/*
             name: "Duo Party",
             logo: "stations/images-europe/estonia/Duo Party.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
-        },
+        },/*
         {
             name: "Duo Softmix",
             logo: "stations/images-europe/estonia/Duo Softmix.png",
             url: "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DS_softmix.aac"
-        },
+        },*/
         {
             name: "Радио Эхо",
             logo: "stations/images-europe/estonia/Радио Эхо.png",
@@ -2331,8 +2336,13 @@ var stations = {/*
             url: "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
         },
         {
-            name: "Raadio Nostalgia",
-            logo: "stations/images-europe/estonia/Raadio Nostalgia.png",
+            name: "Radio Maximum",
+            logo: "stations/images-europe/estonia/Radio Maximum.png",
+            url: "https://stream.radiomaximum.ee/stream"
+        },
+        {
+            name: "Radio Nostalgia",
+            logo: "stations/images-europe/estonia/Radio Nostalgia.png",
             url: "https://c16.radioboss.fm:8327/stream"
         },
         {
@@ -2388,6 +2398,11 @@ var stations = {/*
     ],
     "faroe": [
         {
+            name: "Aldan",
+            logo: "stations/images-europe/faroe/Aldan.png",
+            url: "https://streaming.radio.co/s4d14b9fcc/listen"
+        },
+        {
             name: "FM1",
             logo: "stations/images-europe/faroe/FM1.png",
             url: "http://stream.midlar.fo/ras2"
@@ -2401,11 +2416,6 @@ var stations = {/*
             name: "Lindin",
             logo: "stations/images-europe/faroe/Lindin.png",
             url: "https://high.lindin.fo/"
-        },
-        {
-            name: "Rás 2",
-            logo: "stations/images-europe/faroe/Rás 2.png",
-            url: "https://streaming.radio.co/s4d14b9fcc/listen"
         },
         {
             name: "Sjey",
@@ -5756,6 +5766,11 @@ var stations = {/*
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-90s"
         },
         {
+            name: "Onic Christmas",
+            logo: "stations/images-europe/ireland/Onic Christmas.png",
+            url: "https://onic.dublin.live.stream.broadcasting.news/stream-innovation"
+        },
+        {
             name: "Onic Country",
             logo: "stations/images-europe/ireland/Onic Country.png",
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-country"
@@ -5764,12 +5779,12 @@ var stations = {/*
             name: "Onic Hits",
             logo: "stations/images-europe/ireland/Onic Hits.png",
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-hits"
-        },
+        },/*
         {
             name: "Onic Irish",
             logo: "stations/images-europe/ireland/Onic Irish.png",
             url: "https://onic.dublin.live.stream.broadcasting.news/stream-innovation"
-        },
+        },*/
         {
             name: "Radio Maria",
             logo: "stations/images-europe/ireland/Radio Maria.png",
@@ -7083,6 +7098,11 @@ var stations = {/*
             name: "L'essentiel Radio",
             logo: "stations/images-europe/luxembourg/L'essentiel Radio.png",
             url: "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+        },
+        {
+            name: "L'essentiel 2",
+            logo: "stations/images-europe/luxembourg/L'essentiel 2.png",
+            url: "https://stream.rcs.revma.com/rfwscbz9tepwv"
         },
         {
             name: "Lor'FM",
@@ -9549,6 +9569,11 @@ var stations = {/*
             url: "https://wr15-ice.stream.khz.se/wr15_mp3"
         },
         {
+            name: "Julkanalen",
+            logo: "stations/images-europe/sweden/Julkanalen.png",
+            url: "http://fm05-ice.stream.khz.se/fm05_mp3"
+        },
+        {
             name: "Gamla Favoriter",
             logo: "stations/images-europe/sweden/Gamla Favoriter.png",
             url: "https://wr09-ice.stream.khz.se/wr09_mp3"
@@ -9622,12 +9647,12 @@ var stations = {/*
             name: "Sonic Radio",
             logo: "stations/images-europe/sweden/Sonic Radio.png",
             url: "https://wr10-ice.stream.khz.se/wr10_mp3"
-        },
+        },/*
         {
             name: "Star FM",
             logo: "stations/images-europe/sweden/Star FM.png",
             url: "http://fm05-ice.stream.khz.se/fm05_mp3"
-        },
+        },*/
     ],
     "switzerland-de": [
         {
