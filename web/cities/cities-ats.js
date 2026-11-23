@@ -53,12 +53,6 @@ var country_properties = {
         code: "us-la",
         relative_radius: 0.6
     },
-    "alexandria_q93": {
-        name: "Alexandria",
-        name_english: "Alexandria",
-        code: "us-la",
-        relative_radius: 0.9
-    },
     "algona": {
         name: "Algona",
         name_english: "Algona",
@@ -887,12 +881,6 @@ var country_properties = {
         code: "us-ar",
         relative_radius: 0.6
     },
-    "harrison_khbz": {
-        name: "Harrison",
-        name_english: "Harrison",
-        code: "us-ar",
-        relative_radius: 0.7
-    },
     "havre": {
         name: "Havre",
         name_english: "Havre",
@@ -922,6 +910,12 @@ var country_properties = {
         name_english: "Hot Springs",
         code: "us-ar",
         relative_radius: 0.8
+    },
+    "houma": {
+        name: "Houma",
+        name_english: "Houma",
+        code: "us-la",
+        relative_radius: 1
     },
     "houston": {
         name: "Houston",
@@ -1198,6 +1192,12 @@ var country_properties = {
         name_english: "Longview",
         code: "us-wa",
         relative_radius: 0.8
+    },
+    "longview_tx": {
+        name: "Longview",
+        name_english: "Longview",
+        code: "us-tx",
+        relative_radius: 1
     },
     "los_angeles": {
         name: "Los Angeles",
@@ -1588,6 +1588,12 @@ var country_properties = {
         name_english: "Pierre",
         code: "us-sd",
         relative_radius: 0.8
+    },
+    "pine_bluff": {
+        name: "Pine Bluff",
+        name_english: "Pine Bluff",
+        code: "us-ar",
+        relative_radius: 0.7
     },
     "pioche": {
         name: "Pioche",
@@ -2027,6 +2033,12 @@ var country_properties = {
         code: "us-wa",
         relative_radius: 0.8
     },
+    "springdale": {
+        name: "Springdale",
+        name_english: "Springdale",
+        code: "us-ar",
+        relative_radius: 1
+    },
     "springfield_il": {
         name: "Springfield",
         name_english: "Springfield",
@@ -2340,14 +2352,10 @@ var city_properties = {
         relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
-    "alexandria_q93": {
-        relative_whitenoise: 0.85
-    },
     "algona": {
         relative_whitenoise: 0.95
     },
     "alliance": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "amarillo": {
@@ -2379,14 +2387,12 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "bassett": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "baton_rouge": {
         relative_whitenoise: 0.95
     },
     "beatrice": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "beatty": {
@@ -2430,7 +2436,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "bozeman": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "brawley": {
@@ -2438,7 +2443,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "broadus": {
-		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
     "brookings": {
@@ -2460,7 +2464,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "burlington_ia": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "burns": {
@@ -2485,15 +2488,12 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cda": {	
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "cedar_city": {
-        relative_radius: 0.8,
         relative_whitenoise: 0.85
     },
     "cedar_rapids": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "chadron": {
@@ -2525,7 +2525,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "clinton": {
-        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "clovis": {
@@ -2568,7 +2567,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "cushing": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "dalhart": {
@@ -2585,7 +2583,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "davenport": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "dayville": {
@@ -2625,11 +2622,9 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "dubuque": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "durango": {
-        relative_radius: 1.0,
         relative_whitenoise: 0.85
     },
     "durant": {
@@ -2654,7 +2649,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "elm_creek": {
-		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "ely": {
@@ -2744,7 +2738,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "grand_junction_west": {
-		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "grand_lake": {
@@ -2766,24 +2759,18 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "guymon": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "hamburg_ar": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "hanksville": {
         relative_whitenoise: 0.9
     },
     "hannibal": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "harrison": {
-        relative_whitenoise: 0.95
-    },
-    "harrison_khbz": {
         relative_whitenoise: 0.95
     },
     "havre": {
@@ -2793,15 +2780,16 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "helena": {
-		relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "hobbs": {
         relative_whitenoise: 0.95
     },
     "hot_springs": {
-		relative_radius: 0.7,
         relative_whitenoise: 0.85
+    },
+    "houma": {
+        relative_whitenoise: 1
     },
     "houston": {
         relative_whitenoise: 0.95
@@ -2813,14 +2801,12 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "hutchinson": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "hyannis": {
         relative_whitenoise: 0.95
     },
     "idabel": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "idaho_falls": {
@@ -2836,7 +2822,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "jefferson_city": {
-        relative_radius: 1.0,
         relative_whitenoise: 0.95
     },
     "john_day": {
@@ -2946,6 +2931,9 @@ var city_properties = {
     "longview": {
         relative_radius: 0.5,
         relative_whitenoise: 0.85
+    },
+    "longview_tx": {
+        relative_whitenoise: 1
     },
     "los_angeles": {
         relative_whitenoise: 0.9
@@ -3112,7 +3100,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "oskaloosa": {
-		relative_radius: 0.4,
         relative_whitenoise: 0.95
     },
     "ottumwa": {
@@ -3152,11 +3139,9 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "pittsburg": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.95
     },
     "pocatello": {
-		relative_radius: 0.5,
         relative_whitenoise: 0.85
     },
     "poplar_bluff": {
@@ -3169,7 +3154,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "postville": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.95
     },
     "prescott": {
@@ -3202,7 +3186,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "quincy_il": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "rachel": {
@@ -3303,7 +3286,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "sandpoint": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "santa_fe": {
@@ -3323,7 +3305,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "scottsbluff": {
-        relative_radius: 0.8,
         relative_whitenoise: 0.95
     },
     "seattle": {
@@ -3375,18 +3356,19 @@ var city_properties = {
     "spokane": {
         relative_whitenoise: 0.85
     },
+    "springdale": {
+        relative_whitenoise: 1
+    },
     "springfield_il": {
         relative_whitenoise: 0.95
     },
     "springfield_mo": {
-		relative_radius: 0.9,
         relative_whitenoise: 0.85
     },
     "st_george": {
         relative_whitenoise: 0.85
     },
     "st_joseph": {
-        relative_radius: 0.4,
         relative_whitenoise: 0.85
     },
     "st_louis": {
@@ -3424,7 +3406,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "topeka": {
-		relative_radius: 0.9,
         relative_whitenoise: 0.95
     },
     "truckee": {
@@ -3475,7 +3456,6 @@ var city_properties = {
         relative_whitenoise: 0.95
     },
     "waterloo": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "watertown": {
@@ -3488,7 +3468,6 @@ var city_properties = {
         relative_whitenoise: 0.85
     },
     "wheatland": {
-        relative_radius: 0.6,
         relative_whitenoise: 0.85
     },
     "wichita": {
@@ -3611,18 +3590,10 @@ var cities = [
     {
         "gameName": "alexandria_la",
         "realName": "Alexandria",
-        "country": "alexandria_q93",
+        "country": "alexandria_la",
         "x": "16370.2",
         "y": "60",
         "z": "42174.1"
-    },
-    {
-        "gameName": "alexandria_q93",
-        "realName": "Alexandria",
-        "country": "alexandria_q93",
-        "x": "18475.9",
-        "y": "39.8889",
-        "z": "40750.6"
     },
     {
         "gameName": "algona",
@@ -4113,14 +4084,6 @@ var cities = [
         "z": "24984"
     },
     {
-        "gameName": "childress",
-        "realName": "Childress",
-        "country": "granite",
-        "x": "-19420.1",
-        "y": "122.629",
-        "z": "24984"
-    },
-    {
         "gameName": "chillicothe",
         "realName": "Chillicothe",
         "country": "chillicothe",
@@ -4260,9 +4223,9 @@ var cities = [
 		"gameName": "council_bluf", 
 		"realName": "Council Bluffs", 
 		"country": "council_bluf", 
-		"x": "-6432.1367", 
+		"x": "1484.286", 
 		"y": "25", 
-		"z": "-17512.852"
+		"z": "-12795.906"
 	},
     {
         "gameName": "crescent_city",
@@ -4441,14 +4404,6 @@ var cities = [
         "z": "5510.96"
     },
     {
-        "gameName": "durango",
-        "realName": "Durango",
-        "country": "farmington",
-        "x": "-52062.4",
-        "y": "245.111",
-        "z": "5510.96"
-    },
-    {
         "gameName": "durant",
         "realName": "Durant",
         "country": "durant",
@@ -4609,20 +4564,12 @@ var cities = [
         "z": "8813.18"
     },
     {
-        "gameName": "farmington",
-        "realName": "Farmington",
-        "country": "durango",
-        "x": "-54704.5",
-        "y": "135",
-        "z": "8813.18"
-    },
-    {
         "gameName": "fayetteville_ar",
         "realName": "Fayetteville",
         "country": "fayetteville_ar",
         "x": "9899.16",
         "y": "70.7656",
-        "z": "14301.6"
+        "z": "15775.7"
     },
     {
         "gameName": "flagstaff",
@@ -4841,14 +4788,6 @@ var cities = [
         "z": "-54597.5"
     },
     {
-        "gameName": "greybull",
-        "realName": "Greybull",
-        "country": "cody",
-        "x": "-48448.5",
-        "y": "125.816",
-        "z": "-33764.9"
-    },
-    {
         "gameName": "guthrie",
         "realName": "Guthrie",
         "country": "guthrie",
@@ -4871,14 +4810,6 @@ var cities = [
         "x": "19855.1",
         "y": "29.9327",
         "z": "32363.9"
-    },
-    {
-        "gameName": "hamburg_ar",
-        "realName": "Hamburg",
-        "country": "monroe",
-        "x": "19055.1",
-        "y": "29.9327",
-        "z": "33363.9"
     },
     {
         "gameName": "hanksville",
@@ -4905,14 +4836,6 @@ var cities = [
         "z": "15740.4"
     },
     {
-        "gameName": "harrison_khbz",
-        "realName": "Harrison",
-        "country": "harrison_khbz",
-        "x": "13116.1",
-        "y": "65.9961",
-        "z": "13940.4"
-    },
-    {
         "gameName": "havre",
         "realName": "Havre",
         "country": "havre",
@@ -4927,22 +4850,6 @@ var cities = [
         "x": "-14594.3",
         "y": "81.1016",
         "z": "1119.61"
-    },
-    {
-        "gameName": "hebron",
-        "realName": "Hebron",
-        "country": "lincoln_ne",
-        "x": "-7040.66",
-        "y": "39.3623",
-        "z": "-7196.19"
-    },
-    {
-        "gameName": "hebron",
-        "realName": "Hebron",
-        "country": "mankato",
-        "x": "-7040.66",
-        "y": "39.3623",
-        "z": "-6596.19"
     },
     {
         "gameName": "helena",
@@ -4993,12 +4900,12 @@ var cities = [
         "z": "24247.1"
     },
     {
-        "gameName": "hot_springs",
-        "realName": "Hot Springs",
-        "country": "little_rock",
-        "x": "16276.4",
-        "y": "59.0039",
-        "z": "24247.1"
+        "gameName": "houma",
+        "realName": "Houma",
+        "country": "houma",
+        "x": "25581.336",
+        "y": "7.2929688",
+        "z": "52888.176"
     },
     {
         "gameName": "houston",
@@ -5036,14 +4943,6 @@ var cities = [
         "gameName": "hutchinson",
         "realName": "Hutchinson",
         "country": "hutchinson",
-        "x": "-9413.49",
-        "y": "80",
-        "z": "4985.48"
-    },
-    {
-        "gameName": "hutchinson",
-        "realName": "Hutchinson",
-        "country": "wichita",
         "x": "-9413.49",
         "y": "80",
         "z": "4985.48"
@@ -5433,6 +5332,14 @@ var cities = [
         "z": "-57231.5"
     },
     {
+        "gameName": "longview_tx",
+        "realName": "Longview",
+        "country": "longview_tx",
+        "x": "5415.793",
+        "y": "9",
+        "z": "35065.72"
+    },
+    {
         "gameName": "los_angeles",
         "realName": "Los Angeles",
         "country": "los_angeles",
@@ -5779,7 +5686,7 @@ var cities = [
     {
         "gameName": "natchitoches",
         "realName": "Natchitoches",
-        "country": "alexandria_q93",
+        "country": "natchitoches",
         "x": "15110.3",
         "y": "55.5",
         "z": "40093.5"
@@ -5839,14 +5746,6 @@ var cities = [
         "x": "-20265.6",
         "y": "79.8008",
         "z": "-12950.8"
-    },
-    {
-        "gameName": "oberlin_la",
-        "realName": "Oberlin",
-        "country": "lafayette_la",
-        "x": "15993",
-        "y": "10.3678",
-        "z": "46324.7"
     },
     {
         "gameName": "odessa",
@@ -6027,7 +5926,7 @@ var cities = [
     {
         "gameName": "pine_bluff",
         "realName": "Pine Bluff",
-        "country": "little_rock",
+        "country": "pine_bluff",
         "x": "20436.1",
         "y": "59",
         "z": "26065.1"
@@ -6113,22 +6012,6 @@ var cities = [
         "z": "18355.9"
     },
     {
-        "gameName": "prescott_ar",
-        "realName": "Prescott",
-        "country": "hot_springs",
-        "x": "13246.9",
-        "y": "28.3963",
-        "z": "27396"
-    },
-    {
-        "gameName": "prescott_ar",
-        "realName": "Prescott",
-        "country": "little_rock",
-        "x": "13946.9",
-        "y": "28.3963",
-        "z": "26896"
-    },
-    {
         "gameName": "prescott_flagstaff",
         "realName": "North Arizona",
         "country": "prescott_flagstaff",
@@ -6159,14 +6042,6 @@ var cities = [
         "x": "-62580.7",
         "y": "124.434",
         "z": "-9222.07"
-    },
-    {
-        "gameName": "princeton",
-        "realName": "Princeton",
-        "country": "bethany",
-        "x": "12466.2",
-        "y": "16.5166",
-        "z": "-8722.28"
     },
     {
         "gameName": "provo",
@@ -6354,7 +6229,7 @@ var cities = [
     },
     {
         "gameName": "russelville",
-        "realName": "Russelville",
+        "realName": "Russellville",
         "country": "russelville",
         "x": "14084.8",
         "y": "34.1505",
@@ -6609,14 +6484,6 @@ var cities = [
         "z": "20673.4"
     },
     {
-        "gameName": "shamrock",
-        "realName": "Shamrock",
-        "country": "granite",
-        "x": "-20004.5",
-        "y": "55.0555",
-        "z": "20673.4"
-    },
-    {
         "gameName": "shelby",
         "realName": "Shelby",
         "country": "shelby",
@@ -6727,6 +6594,14 @@ var cities = [
         "x": "-81652.4",
         "y": "64.3417",
         "z": "-58561.8"
+    },
+    {
+        "gameName": "springdale",
+        "realName": "Springdale",
+        "country": "springdale",
+        "x": "9989.836",
+        "y": "27.351562",
+        "z": "14827.152"
     },
     {
         "gameName": "springfield_il",
@@ -7007,14 +6882,6 @@ var cities = [
         "x": "-76900.3",
         "y": "85.5161",
         "z": "-55897.9"
-    },
-    {
-        "gameName": "wallace",
-        "realName": "Wallace",
-        "country": "missoula",
-        "x": "-73500.3",
-        "y": "85.5161",
-        "z": "-53897.9"
     },
     {
         "gameName": "waterloo",
@@ -10069,7 +9936,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "albert_lea": {
-        relative_radius: 0.5,
         relative_whitenoise: 0.95
     },
     "allentown": {
@@ -10512,7 +10378,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.95
     },
     "rochester_mn": {
-        relative_radius: 0.7,
         relative_whitenoise: 0.85
     },
     "rochester_ny": {
@@ -10556,7 +10421,6 @@ var city_properties_c2c = {
         relative_whitenoise: 0.85
     },
     "thief_river": {
-        relative_radius: 0.85,
         relative_whitenoise: 0.85
     },
     "toledo": {
@@ -11145,14 +11009,6 @@ var cities_c2c = [
         "gameName": "grand_forks",
         "realName": "Grand Forks",
         "country": "grand_forks",
-        "x": "-3210.07",
-        "y": "201.867",
-        "z": "-51147.3"
-    },
-    {
-        "gameName": "grand_forks",
-        "realName": "Grand Forks",
-        "country": "thief_river",
         "x": "-3210.07",
         "y": "201.867",
         "z": "-51147.3"
@@ -12009,14 +11865,6 @@ var cities_c2c = [
         "gameName": "thief_river",
         "realName": "Thief River Falls",
         "country": "thief_river",
-        "x": "-11.85938",
-        "y": "140",
-        "z": "-52463.34"
-    },
-    {
-        "gameName": "thief_river",
-        "realName": "Thief River Falls",
-        "country": "grand_forks",
         "x": "-11.85938",
         "y": "140",
         "z": "-52463.34"
