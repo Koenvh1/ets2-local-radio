@@ -39585,7 +39585,7 @@ var stations = {/*
         },
         {
             name: "Shuffle 92.9",
-            logo: "stations/images-america/poplar_bluff/Shuffle 92.9.png",
+            logo: "stations/images-america/poplar_bluff/Shuffle 92.9_christmas.png",
             url: "https://ice23.securenetsystems.net/KLSC",
             band: "FM",
             callsign: "KLSC",
